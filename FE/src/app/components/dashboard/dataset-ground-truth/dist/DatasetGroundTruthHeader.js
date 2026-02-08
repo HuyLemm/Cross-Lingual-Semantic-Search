@@ -1,0 +1,55 @@
+"use strict";
+exports.__esModule = true;
+var input_1 = require("../../ui/input");
+var select_1 = require("../../ui/select");
+var lucide_react_1 = require("lucide-react");
+function DatasetGroundTruthHeader(_a) {
+    var selectedDataset = _a.selectedDataset, selectedModel = _a.selectedModel, selectedExperiment = _a.selectedExperiment, selectedQuality = _a.selectedQuality, searchQuery = _a.searchQuery, availableExperiments = _a.availableExperiments, shouldShowExpList = _a.shouldShowExpList, onDatasetChange = _a.onDatasetChange, onModelChange = _a.onModelChange, onExperimentChange = _a.onExperimentChange, onQualityChange = _a.onQualityChange, onSearchChange = _a.onSearchChange;
+    return (React.createElement("div", { className: "space-y-4" },
+        React.createElement("div", null,
+            React.createElement("h2", { className: "text-2xl font-semibold text-gray-900 dark:text-white mb-2" }, "Dataset Management & QA Validation"),
+            React.createElement("p", { className: "text-sm text-gray-600 dark:text-gray-400" }, "End-to-end QA generation, normalization, and semantic verification")),
+        React.createElement("div", { className: "flex flex-wrap gap-3" },
+            React.createElement("div", { className: "flex items-center gap-2" },
+                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Dataset Source"),
+                React.createElement(select_1.Select, { value: selectedDataset, onValueChange: onDatasetChange },
+                    React.createElement(select_1.SelectTrigger, { className: "w-[260px] h-9 text-sm" },
+                        React.createElement(select_1.SelectValue, null)),
+                    React.createElement(select_1.SelectContent, null,
+                        React.createElement(select_1.SelectItem, { value: "all" }, "All Datasets"),
+                        React.createElement(select_1.SelectItem, { value: "vjol" }, "VJOL \u2013 Vietnamese"),
+                        React.createElement(select_1.SelectItem, { value: "semantic_scholar" }, "Semantic Scholar \u2013 English")))),
+            React.createElement("div", { className: "flex items-center gap-2" },
+                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Model"),
+                React.createElement(select_1.Select, { value: selectedModel, onValueChange: onModelChange },
+                    React.createElement(select_1.SelectTrigger, { className: "w-[220px] h-9 text-sm" },
+                        React.createElement(select_1.SelectValue, null)),
+                    React.createElement(select_1.SelectContent, null,
+                        React.createElement(select_1.SelectItem, { value: "all" }, "All Models"),
+                        React.createElement(select_1.SelectItem, { value: "gpt" }, "GPT-5.2"),
+                        React.createElement(select_1.SelectItem, { value: "gemini" }, "Gemini-2.5-Flash"),
+                        React.createElement(select_1.SelectItem, { value: "deepseek" }, "DeepSeek-R1T2-Chimera")))),
+            React.createElement("div", { className: "flex items-center gap-2" },
+                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Experiment"),
+                React.createElement(select_1.Select, { value: selectedExperiment, onValueChange: onExperimentChange },
+                    React.createElement(select_1.SelectTrigger, { className: "w-[160px] h-9 text-sm" },
+                        React.createElement(select_1.SelectValue, null)),
+                    React.createElement(select_1.SelectContent, { className: "max-h-[180px] overflow-y-auto" },
+                        React.createElement(select_1.SelectItem, { value: "all" }, "All Exps"),
+                        availableExperiments.map(function (exp) { return (React.createElement(select_1.SelectItem, { key: exp, value: exp }, exp)); })))),
+            React.createElement("div", { className: "flex items-center gap-2" },
+                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Quality"),
+                React.createElement(select_1.Select, { value: selectedQuality, onValueChange: onQualityChange },
+                    React.createElement(select_1.SelectTrigger, { className: "w-[140px] h-9 text-sm" },
+                        React.createElement(select_1.SelectValue, null)),
+                    React.createElement(select_1.SelectContent, null,
+                        React.createElement(select_1.SelectItem, { value: "0.7" }, "\u2265 0.70"),
+                        React.createElement(select_1.SelectItem, { value: "0.75" }, "\u2265 0.75"),
+                        React.createElement(select_1.SelectItem, { value: "0.8" }, "\u2265 0.80"),
+                        React.createElement(select_1.SelectItem, { value: "0.85" }, "\u2265 0.85"),
+                        React.createElement(select_1.SelectItem, { value: "0.9" }, "\u2265 0.90")))),
+            React.createElement("div", { className: "flex items-center gap-2 ml-auto" },
+                React.createElement(lucide_react_1.Search, { className: "w-4 h-4 text-gray-400" }),
+                React.createElement(input_1.Input, { placeholder: "Search QA, title, or source PDF...", value: searchQuery, onChange: function (e) { return onSearchChange(e.target.value); }, className: "w-[260px] h-9 text-sm" })))));
+}
+exports["default"] = DatasetGroundTruthHeader;

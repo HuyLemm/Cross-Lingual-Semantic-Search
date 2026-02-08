@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "The sharing of data is a prerequisite for maximizing the benefits from a CS project on IAS. Managers need all available data for a specific area through a single aggregator/entry point or similar federated structure. Data should be openly shared in ways that are findable, accessible and interoperable, encouraging exchange with platforms like GBIF (Global Biodiversity Information Facility) and EASIN (European Alien Species Information Network). These open platforms provide aggregation, integration and harmonization of data from multiple sources.",
+    "question": "Which two open platforms are recommended for aggregating validated citizen science data on invasive alien species?",
+    "answer": "GBIF (Global Biodiversity Information Facility) and EASIN (European Alien Species Information Network) are recommended open platforms for aggregating validated citizen science data on invasive alien species."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "A Portuguese CS activity on IAS (Invasoras.pt) revealed lower involvement of citizens than what could be expected if applied in northern European countries. The approach to citizens needs to be inclusive and accessible to all sectors of society, not restricted by education and access to resources. There can be a bias in participation favoring well-educated, well-paid individuals who have time and resources to participate.",
+    "question": "How does cultural diversity across Europe affect citizen science participation in invasive alien species initiatives?",
+    "answer": "Cultural diversity across Europe affects participation through varying engagement levels, as demonstrated by lower involvement in Portuguese initiatives compared to northern European countries, and biases favoring privileged socioeconomic groups."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Validation of CS data is becoming more pressing as initiatives develop. Data validation mechanisms relate to intended use and required confidence levels. Automated mechanisms like filters to remove data outside temporal/spatial ranges exist, but may lack accuracy for species-level identification. Face-to-face training for users is considered most effective for ensuring high-quality data.",
+    "question": "What methods are suggested for validating citizen science data on invasive species?",
+    "answer": "Validation methods include automated mechanisms like temporal/spatial filters and face-to-face training of participants, with the latter being most effective for ensuring data quality."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Long-term funding of CS projects is a prerequisite for sustainability. Recommendations include increased understanding of citizen scientists' drivers/motivators and greater acknowledgement of their contributions. Ensuring long-term sustainability requires addressing these factors alongside consistent financial support.",
+    "question": "Why is long-term funding considered essential for citizen science projects on invasive alien species?",
+    "answer": "Long-term funding is essential because it supports the sustainability of citizen science projects through understanding participant motivations, acknowledging contributions, and maintaining operational continuity."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Interoperability and reusability among CS projects is limited. The group highlighted the need for consistent data approaches, interconnecting repositories, and reducing sharing barriers. Data should follow common standards like Darwin Core Archive and use machine-readable formats to be findable, accessible, and interoperable.",
+    "question": "How can interoperability of citizen science data on invasive species be improved?",
+    "answer": "Interoperability can be improved by adopting common standards like Darwin Core Archive, using machine-readable formats, interconnecting data repositories, and reducing barriers to data sharing."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Legal and ethical issues should be addressed by clearly defining participation terms/conditions and adhering to data protection obligations. Specific recommendations include establishing clear governance frameworks and ensuring compliance with privacy regulations when handling citizen-generated data.",
+    "question": "What legal considerations are important for citizen science projects on invasive alien species?",
+    "answer": "Important legal considerations include defining clear terms/conditions for participation and adhering to data protection obligations and privacy regulations."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "The workshop recommended mobilizing available expertise and sharing guidelines about CS for IAS across all Member States. This includes disseminating best practices and successful methodologies to enhance consistency in project implementation. Knowledge transfer between countries was identified as crucial for effective scaling of initiatives.",
+    "question": "What strategy was recommended for improving citizen science implementation across EU Member States regarding invasive species?",
+    "answer": "The recommended strategy involves mobilizing available expertise and sharing guidelines about citizen science for invasive alien species across all Member States to enhance consistency and knowledge transfer."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The findings of this study showed that 602 women (54%) had received ANC services at a health facility at least once during their last pregnancy. Some of the reasons mentioned for attending ANC were 'to know maternal health status' (60.3%), 'because of sickness' (31%), and 'to know foetal status' (26.4%). Among those who did not attend ANC, the most frequently mentioned reasons were 'not feeling sick' (32.7%), 'lack of awareness of the benefits' (28.2%), 'feeling shame' (16.7%), 'workload' (13.4%) and 'health facility too far away' (12.5%).",
+    "question": "What percentage of women attended ANC to know their maternal health status?",
+    "answer": "60.3% of women attended ANC to know their maternal health status."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The response rate was 99% (n=1113). Table 1 presents the main socio-demographic characteristics of the participants. Of the total respondents, 880 (79%) were non-educated, 986 (88.6%) were married and 473 (42.5%) were in the young age group, 16–29 years. The mean age of the participants was 30.4 years.",
+    "question": "What proportion of participants were non-educated?",
+    "answer": "79% of participants were non-educated."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Of the total sample, 841 (75.6%) had at least one family member who had attended formal education. Most of the women had experienced either 1–4 (53%) or 5–7 pregnancies (33%). Over half of them (62%) had no health facility in their village and 980 (88%) reported that their husband’s occupation was farming.",
+    "question": "What percentage of women reported their husband's occupation as farming?",
+    "answer": "88% of women reported their husband's occupation as farming."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Several factors were found to be significant predictors for ANC utilisation (Table 2). Married (OR=2.57, 95% CI: 1.44-4.58) and divorced (OR=2.78, 95% CI: 1.31-5.89) women had a higher probability of visiting ANC services than single and widowed women. Proximity of the health facility in the village (OR=1.83, 95% CI: 1.41-2.38) and having husbands with a non-farming occupation (OR=2.26, 95% CI: 1.43-3.58) were also associated with a greater use of ANC.",
+    "question": "What was the adjusted odds ratio for ANC utilisation among women with a health facility in their village?",
+    "answer": "The adjusted odds ratio for ANC utilisation among women with a health facility in their village was 1.83 (95% CI: 1.41-2.38)."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The study noted that 95.9% of women were assisted at home: by their mothers (or other elderly women who were relatives or neighbours) for more than half (53.2%); by TBAs (40%), and by HEWs (6.8%). The most frequently mentioned reasons for delivering at home were 'easy labour' (64%), 'transport problem' (4%), 'health facility too far' (4.7%) and 'afraid of user fees' (1%).",
+    "question": "What percentage of home deliveries were assisted by Health Extension Workers (HEWs)?",
+    "answer": "6.8% of home deliveries were assisted by Health Extension Workers (HEWs)."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Health information sharing is an essential element of ANC. The results from our study corroborated this reality, where 58% of women did not receive advice about birth preparedness and signs of pregnancy complications during a pregnancy check-up visit at the health facility. Similar constraints were reflected in a Kenyan study, where one-quarter and one-sixth of women were not informed about danger signs during pregnancy and the importance of institutional delivery, respectively.",
+    "question": "What percentage of women did not receive ANC advice on birth preparedness?",
+    "answer": "58% of women did not receive ANC advice on birth preparedness."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Receiving health information about ANC during the pregnancy check-up (OR=3.08, 95% CI: 1.21-7.84), history of difficult/prolonged labour (OR=10.0, 95% CI: 4.87-20.6) and husband’s occupations classified as other than farming (OR=3.84, 95% CI: 1.78-8.29) were also strongly associated with the use of institutional delivery (Table 3).",
+    "question": "What was the adjusted odds ratio for institutional delivery utilisation among women who received ANC advice?",
+    "answer": "The adjusted odds ratio for institutional delivery utilisation among women who received ANC advice was 3.08 (95% CI: 1.21-7.84)."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "We examined the impact of Healthy at Home, a 12-week phone and SMS-based (short message service) digital health coaching program, on insulin resistance which is an upstream marker for T2DM progression. Digital health coaching significantly improved participants’ calculated Homeostatic Model Assessment for Insulin Resistance (HOMA2-IR) by −0.9 ± 0.4 compared with the control group (p = 0.029). This significance remained after controlling for years diagnosed with T2DM, enrollment in Medicaid, access to food, baseline stage of change, and race (p = 0.027).",
+    "question": "What was the primary outcome measure in the Healthy at Home randomized controlled trial?",
+    "answer": "The primary outcome measure was the change in Homeostatic Model Assessment for Insulin Resistance (HOMA2-IR)."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Healthy at Home, a 12-week phone and SMS-based (short message service) digital health coaching program, on insulin resistance which is an upstream marker for T2DM progression. We compared this intervention to usual diabetic care in a family medicine residency clinic in a randomized controlled trial. Participants received 10- to 15-min weekly phone calls and daily two-way SMS-based monitoring and support.",
+    "question": "How long did the Healthy at Home digital health coaching intervention last?",
+    "answer": "The Healthy at Home intervention lasted 12 weeks."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Inclusion criteria were 18- to 65-year-old participants with T2DM (HbA1c 6.5% or higher in the past 12 months) who were regular patients of E. Blair Warner Clinic with a working mobile phone and a preferred language of English or Spanish. A smartphone was not required to participate. Exclusion criteria included subjects diagnosed with conditions limiting the ability to consent or participate in Healthy at Home.",
+    "question": "What were the inclusion criteria for participants in the Healthy at Home study?",
+    "answer": "Inclusion criteria were participants aged 18 to 65 with type 2 diabetes, a HbA1c of 6.5% or higher in the past year, regular patients at the clinic, possessing a working mobile phone, and preferring English or Spanish."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Due to the complexity of accurately measuring insulin resistance in chronic renal failure, subjects with a glomerular filtration rate (GFR) <45 on most recent blood work were also excluded. Antibody testing was not conducted; therefore, patients with type 1 and Latent Autoimmune Diabetes in Adults (LADA) could not be definitively excluded if they were misdiagnosed as DMII.",
+    "question": "Which renal function-related criterion excluded participants from the study?",
+    "answer": "Participants with a glomerular filtration rate (GFR) less than 45 were excluded from the study."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "In the intervention group, three participation metrics measured engagement with the study protocol: weekly goal compliance, number of daily glucose checks, and number of virtual health coaching sessions completed. On average, 40% of weekly participant goals were related to nutrition, 20% to exercise, 13% to stress reduction, and 4.4% to miscellaneous (medications, blood sugar, etc.). Participants achieved 59% of weekly goals and made progress on 36% of goals.",
+    "question": "What percentage of weekly goals set by participants in the intervention group were related to nutrition?",
+    "answer": "40% of the weekly goals set by participants in the intervention group were related to nutrition."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Since the digital nature of Healthy at Home makes scalability feasible, projections suggest that the cost could be driven to as low as $270 per patient. Federal and state insurance plans that cover low-income populations may consider reimbursing for competently trained health coaches as more research may demonstrate decreased health care costs. In addition to usual care, the 3 month digital health coaching intervention cost $400 per participant.",
+    "question": "What was the cost per participant for the Healthy at Home digital health coaching intervention?",
+    "answer": "The cost per participant for the Healthy at Home intervention was $400."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Kangovi et al. have shown a community intervention addressing SDOH to generate a return of $2.47 for every dollar invested. Telehealth coaching programs for diabetes in primary care are cost-effective in the short-term although more long-term research is needed. Typically, behavioral or community health interventions for T2DM require substantial investments of time, finances, and/or labor from both participants and staff.",
+    "question": "What return on investment did Kangovi et al. demonstrate for community interventions addressing social determinants of health?",
+    "answer": "Kangovi et al. demonstrated a return of $2.47 for every dollar invested in community interventions addressing social determinants of health."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Matsuyama, Kiminiori\nWorking Paper\nEconomic Development as Coordination Problems\nDiscussion Paper, No. 1123\nProvided in Cooperation with:\nKellogg School of Management - Center for Mathematical Studies in Economics and Management\nScience, Northwestern University",
+    "question": "Who is the author of the working paper titled 'Economic Development as Coordination Problems'?",
+    "answer": "Kiminiori Matsuyama is the author of the working paper titled 'Economic Development as Coordination Problems'."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Provided in Cooperation with:\nKellogg School of Management - Center for Mathematical Studies in Economics and Management\nScience, Northwestern University\nSuggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems,\nDiscussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for\nMathematical Studies in Economics and Management Science, Evanston, IL",
+    "question": "Which academic institution is affiliated with the Center for Mathematical Studies in Economics and Management Science?",
+    "answer": "Northwestern University is affiliated with the Center for Mathematical Studies in Economics and Management Science."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Discussion Paper, No. 1123\nProvided in Cooperation with:\nKellogg School of Management - Center for Mathematical Studies in Economics and Management\nScience, Northwestern University\nSuggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems,",
+    "question": "What is the series number of this Northwestern University discussion paper?",
+    "answer": "The series number of this Northwestern University discussion paper is No. 1123."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems,\nDiscussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for\nMathematical Studies in Economics and Management Science, Evanston, IL",
+    "question": "In which city is the Kellogg School of Management's Center for Mathematical Studies located?",
+    "answer": "The Kellogg School of Management's Center for Mathematical Studies is located in Evanston, IL."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "This Version is available at:\nhttps://hdl.handle.net/10419/221479\nStandard-Nutzungsbedingungen:\nDie Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen",
+    "question": "Where can the current version of this document be accessed?",
+    "answer": "The current version of this document can be accessed at https://hdl.handle.net/10419/221479."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Standard-Nutzungsbedingungen:\nDie Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen\nZwecken und zum Privatgebrauch gespeichert und kopiert werden.\nTerms of use:\nDocuments in EconStor may be saved and copied for your personal",
+    "question": "In how many languages are the terms of use provided for EconStor documents?",
+    "answer": "The terms of use for EconStor documents are provided in two languages: German and English."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems,\nDiscussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for\nMathematical Studies in Economics and Management Science, Evanston, IL\nThis Version is available at:\nhttps://hdl.handle.net/10419/221479",
+    "question": "What year is indicated in the suggested citation for this discussion paper?",
+    "answer": "The year indicated in the suggested citation for this discussion paper is 1995."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Using household survey data and variation across municipalities in the onset of interviews for the SISBEN, the instrument used to identify beneficiaries for public health insurance, we find robust and consistent estimates of an increase in informal employment of approximately 4 percentage points. We find similar results using an alternative dataset, consisting of a panel of individuals interviewed for the first and second SISBEN. Our findings suggest that marginal individuals optimized when deciding whether to participate in the formal sector.",
+    "question": "What two datasets were used to estimate the increase in informal employment following Colombia's health insurance expansion?",
+    "answer": "The study used household survey data with municipal variation in SISBEN interview timing and a panel dataset of individuals interviewed in both the first and second SISBEN waves."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We match the datasets in two ways. (1) We use the Colombian national identity card number. This is a unique ID number initially assigned to all Colombian citizens at age 7 that changes when they turn 18. (2) We expand the match using names and dates of birth to include people who may have changed ID numbers when they turned 18.",
+    "question": "How were individuals matched across the first and second SISBEN waves in the panel dataset?",
+    "answer": "Individuals were matched using Colombian national ID numbers and an expanded method combining names, birth dates, and Levenshtein distance criteria for name variations."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The estimates show a positive and significant effect of post, with an increase in informality between 4.1 and 5 percentage points. All specifications are clustered at the municipality-year level. Next, we construct a proxy for the Poverty Index Score to assess whether the positive increase in informal employment is concentrated among the people who are eligible for the SR.",
+    "question": "What range of increase in informal employment was observed after SISBEN implementation in the household survey analysis?",
+    "answer": "The household survey analysis estimated an increase in informal employment of between 4.1 and 5 percentage points following SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We find (in results that are not shown) that as the proportion of vulnerable members increases, the probability of becoming informal decreases after the implementation of the SISBEN. This is relevant for policy because there was a recent discussion about whether the two regimes should provide the same package of services and medicines.",
+    "question": "How did the presence of vulnerable household members affect informal employment decisions after SISBEN implementation?",
+    "answer": "Households with higher proportions of vulnerable members (children under one year and elderly) showed decreased probabilities of informal employment after SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We estimate an individual fixed effect regression that captures the change in informality due to the SR. We observe each individual twice. Because people would only find out if they were eligible for the SR after the implementation of the first SISBEN, we estimate the impact on informality in the second SISBEN period relative to the first.",
+    "question": "What methodology was used to measure changes in informality between SISBEN waves in the panel data analysis?",
+    "answer": "The panel data analysis used individual fixed effects regressions to measure changes in informality between the first and second SISBEN periods."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Our contributions to this literature are threefold. First, to our knowledge, no other studies have considered the effect of the SR expansion on informality in Colombia using individual-level data. Second, our findings are derived from two different methodologies and datasets, and the results are consistent for different robustness checks. Third, the health reform was a major reform; health insurance coverage in the population increased from levels below 30 percent prior to the reform to more than 90 percent today.",
+    "question": "What three contributions does this study make to the literature on social programs and informality?",
+    "answer": "The study contributes by analyzing SR expansion effects using individual-level data, demonstrating consistent results across two methodologies, and examining a major reform that increased health coverage from below 30% to over 90%."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Unlike our paper, however, previous studies do not identify individual-level eligibility, which we use in addition to the variation across municipalities. Most studies use an identification strategy similar to ours in measuring the effects on informality by exploiting the variation in the roll-out or implementation of a particular large-scale social program, including municipality/state and time effects to capture other fluctuations in the labor market.",
+    "question": "How does this study's identification strategy differ from previous research on social programs in Latin America?",
+    "answer": "This study uniquely combines municipal variation with individual-level eligibility identification, whereas previous research typically used only geographic and temporal variation without individual eligibility data."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The study was conducted in three zones of Tigray region (East, South and South East) in Northern Ethiopia involving 21 districts. A total of 90 health centers and 5 hospitals were present in the zone at the time of the study. Approximately 2.5 million people were expected to live in the catchment area. The Total Fertility Rate in the region is 4.6% and the institutional delivery rate is 11.6%.",
+    "question": "How many districts were involved in the study conducted in Northern Ethiopia?",
+    "answer": "The study was conducted in 21 districts of Northern Ethiopia."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "This study was a facility based cross-sectional study that was conducted between December 2014 and February 2015. The study participants included health care providers and mothers. Providers including the health facility heads, and skilled birth attendants (midwives and nurses) were interviewed.",
+    "question": "During which months was the facility-based survey conducted in Northern Ethiopia?",
+    "answer": "The facility-based survey was conducted from December 2014 to February 2015."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The service is given free of charge in all public health facilities and the service is supposed to be open 24h. Delivery service in the region is provided at the hospital, mostly led by an obstetrician, and in health centers mostly led by midwives, emergency obstetric surgeons, health officers or nurses.",
+    "question": "Are delivery services free in public health facilities in Northern Ethiopia?",
+    "answer": "Delivery service is given free of charge in all public health facilities in Northern Ethiopia."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Radiant warmer was available in 37.5% the facilities; towels to wrap newborns was available in 15.6% of the health facilities; and only 12.5% of the health facilities had trained service providers to perform newborn resuscitation. Critical inputs to ensure the wellbeing of delivering mothers was also missing in considerable proportion of health facilities.",
+    "question": "What percentage of health facilities had radiant warmers available for newborn care?",
+    "answer": "Radiant warmers were available in 37.5% of the health facilities in Northern Ethiopia."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Used partograph to follow the progress of labour in 25.0% of the facilities, temperature was checked in 21.9% of the facilities, hand washing was practiced in 21.9% of the health facilities, respiratory rate was recorded in 12.5% of the facilities, and pulse rate was recorded in 9.4%of the facilities.",
+    "question": "In what percentage of health facilities was a partograph used to monitor labor progress?",
+    "answer": "Partographs were used to follow labor progress in 25.0% of the health facilities."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The Total Fertility Rate in the region is 4.6% and the institutional delivery rate is 11.6%. Delivery service in the region is provided at the hospital, mostly led by an obstetrician, and in health centers mostly led by midwives, emergency obstetric surgeons, health officers or nurses.",
+    "question": "What was the institutional delivery rate in the study region of Northern Ethiopia?",
+    "answer": "The institutional delivery rate was 11.6% in Northern Ethiopia's study region."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "A total of 32 health facilities (27 health centers and 5 hospitals) were included in the study. All health facilities invited to the study agreed to participate. A total of 106 service providers in the selected facilities and 216 mothers visiting the study health facilities during the study period were enrolled into the study.",
+    "question": "How many hospitals were included in the study of delivery services in Northern Ethiopia?",
+    "answer": "Five hospitals were included in the study of delivery services in Northern Ethiopia."
+  }
+]

@@ -1,0 +1,968 @@
+[
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Apps are increasingly being made available and are used to involve citizens in the reporting of species in Europe. Apps can support the generation of georeferenced records of IAS which, once validated, can complement professional monitoring schemes and return useful data for early warning, rapid response programs and management schemes. These developments increase the amount of data generated, inevitably raising issues of interoperability, openness and sustainability to maximize the usefulness of the collected information.",
+    "question": "What challenges arise from increased data generation through smartphone apps for invasive alien species reporting?",
+    "answer": "Increased data generation through smartphone apps raises issues of interoperability, openness and sustainability to maximize the usefulness of the collected information."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "CS data can complement official Member State surveillance in detecting the occurrence of a new IAS of Union concern under the IAS Regulation. This is particularly relevant for the implementation of Art. 16 and 17 of the IAS Regulation concerning early detection and rapid eradication of IAS of Union concern. At the same time, CS could reduce administrative burden for the national authorities.",
+    "question": "How can citizen science data support the implementation of Articles 16 and 17 of the IAS Regulation?",
+    "answer": "Citizen science data can support early detection and rapid eradication of IAS of Union concern under Articles 16 and 17 of the IAS Regulation while reducing administrative burden for national authorities."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "A case of a Portuguese CS activity on IAS (Invasoras.pt) revealed lower involvement of citizens than what could be expected if applied in northern European countries. The approach to the citizens would need to be inclusive and accessible to all sectors of society; not restricted by education and access to resources and technology. Indeed, there can be a bias in participation favoring well-educated, well-paid individuals who have the time and resources to take part in CS projects.",
+    "question": "What cultural challenge was identified in the Portuguese citizen science initiative on invasive alien species?",
+    "answer": "The Portuguese citizen science initiative on invasive alien species revealed lower citizen involvement compared to northern European countries, indicating a need for more inclusive approaches that overcome educational and resource access barriers."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "Workshop participants pointed out that there is little interoperability and reusability among CS projects, while the use of the data produced is quite restrictive. The group highlighted the need for a consistent approach for data coming from all available CS sources on IAS, interconnecting existing data repositories and reducing barriers to data sharing. Ideally, data should follow internationally agreed common standards and be published using compatible machine-readable formats.",
+    "question": "What data management challenges were identified regarding citizen science projects on invasive alien species?",
+    "answer": "Citizen science projects on invasive alien species face challenges of limited interoperability and reusability of data, requiring consistent approaches, interconnected repositories, and standardized machine-readable formats."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "There are automated mechanisms for validation, such as filters to remove data that fall outside a study's temporal and spatial range. However, these filters might not be accurate enough when species-level identification is required, for instance in case of early warning mechanisms. Training users before their actual involvement could be valuable for ensuring high quality of the data produced; face-to-face training seems to be the most effective.",
+    "question": "What methods were suggested for improving validation of citizen science data on invasive alien species?",
+    "answer": "Methods suggested for improving validation include automated mechanisms like spatiotemporal filters, species-specific identification systems, and face-to-face training of participants to ensure data quality."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "CS approaches are not cost-free or cheap and may not always be the most cost-effective approach for tackling IAS. On the contrary, CS programs require adequate resources and competencies to address challenges such as data quality, privacy, intellectual property or ownership, to retain citizens' involvement and interest by providing them with training and feedback on their contributions, and to maximize their potential contributions.",
+    "question": "What resource requirements are associated with citizen science programs for invasive alien species?",
+    "answer": "Citizen science programs require adequate resources and competencies to address data quality, privacy, intellectual property, participant retention through training and feedback, and maximization of contributions."
+  },
+  {
+    "title": "Citizen Science and Open Data a model for Invasive Alien Species in Europe",
+    "context": "The use of social media (Internet, YouTube, Twitter, Facebook, Instagram, newsletters) can contribute to the publicity and dissemination of CS activities, resulting in an increased awareness and engagement of citizens. Other actions might, however, be necessary to recruit new participants, such as the use of the national, local or regional press or utilizing different types of media (e.g., TV, radio, print, online) and specialist publications.",
+    "question": "What communication methods were recommended for recruiting participants in citizen science initiatives?",
+    "answer": "Recommended communication methods include social media platforms, national/local press, multiple media types (TV, radio, print, online), and specialist publications to recruit participants for citizen science initiatives."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "Thirty-one studies met the inclusion criteria. The most frequently tested adaptation occurred in preventive services and consisted of modifying the content of materials or services delivered. None of the included studies focused on making changes in the provider's behavior. Many different populations were studied but most research was concerned with the experiences and outcomes of African Americans.",
+    "question": "Which population group was most frequently studied in the cultural adaptation research reviewed?",
+    "answer": "Most research was concerned with the experiences and outcomes of African Americans."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "To establish a framework better suited for the purposes of this review, the two senior researchers in the study conducted a content analysis of the research included to identify three primary domains of adaptation: 1) community outreach and involvement, 2) changes in the structure and process of service delivery, and 3) adaptation of content. Once the framework had been identified, it was expanded to encompass other adaptations encountered during the literature review that were deemed to be hypothetically testable in comparative research designs.",
+    "question": "What three primary domains of cultural adaptation were identified through content analysis?",
+    "answer": "The three primary domains of adaptation identified were community outreach and involvement, changes in the structure and process of service delivery, and adaptation of content."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "Seventeen of the 31 retained studies observed at least one significant effect in favor of a culturally adapted service. However there were also findings that favored the control group or showed no difference. Researchers did not find consistent evidence supporting implementation of any specific type of adaptation nor increased efficacy with any particular cultural group.",
+    "question": "How many of the 31 studies showed at least one significant effect favoring culturally adapted services?",
+    "answer": "Seventeen of the 31 retained studies observed at least one significant effect in favor of a culturally adapted service."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "It was possible to discern four main pathways by which researchers sought to achieve more effective services for underserved populations: (1) addressing systemic barriers such as location of service, transportation, language, child care, and affordability of services, (2) increasing community engagement to help identify and ameliorate barriers, (3) integrating cultural perspectives and values directly into the intervention, and (4) enhancing the service experience.",
+    "question": "What four mechanisms of influence did researchers identify for achieving effective services for underserved populations?",
+    "answer": "The four mechanisms of influence were addressing systemic barriers, increasing community engagement, integrating cultural perspectives and values, and enhancing the service experience."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "A number of studies found recipients' level of acculturation to the predominant society moderated the effects of cultural adaptations. These findings provide some support for tailoring based on level of acculturation, which was featured in three reviewed studies.",
+    "question": "What recipient characteristic was found to moderate the effects of cultural adaptations in multiple studies?",
+    "answer": "Recipients' level of acculturation to the predominant society moderated the effects of cultural adaptations in multiple studies."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "Within the retained studies, the most popular method of adapting an intervention was to modify the content of materials or dialogue to include racial, ethnic, or cultural facts, values, imagery, or other cultural components. The next most common was to change the manner in which a service was delivered, including increases in time and attention paid to recipients.",
+    "question": "What was the most frequently implemented method of cultural adaptation in the reviewed studies?",
+    "answer": "The most frequently implemented method was modifying the content of materials or dialogue to include racial, ethnic, or cultural facts, values, imagery, or other cultural components."
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "This review synthesizes the most rigorous research in the field and identifies implications for policy, practice, and research, including individualization, cost considerations, and patient or client satisfaction, among others. The conclusion suggests that cultural adaptations should be implemented cautiously with careful consideration of costs versus benefits.",
+    "question": "What considerations does the review recommend for implementing cultural adaptations?",
+    "answer": "The review recommends considerations including individualization, cost considerations, and patient or client satisfaction when implementing cultural adaptations."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The response rate was 99% (n=1113). The mean age of the participants was 30.4 years. The proportion of women who received ANC for their recent births was 54%; only 46 (4.1%) of women gave birth at a health facility.",
+    "question": "What percentage of surveyed women received antenatal care for their most recent birth?",
+    "answer": "54% of women received antenatal care for their recent births."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The study noted that 95.9% of women were assisted at home: by their mothers (or other elderly women who were relatives or neighbours) for more than half (53.2%); by TBAs (40%), and by HEWs (6.8%). The most frequently mentioned reasons for delivering at home were 'easy labour' (64%), 'transport problem' (4%), 'health facility too far' (4.7%) and 'afraid of user fees' (1%).",
+    "question": "What was the most common reason cited for home delivery among participants?",
+    "answer": "The most common reason cited for home delivery was 'easy labour', mentioned by 64% of women."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The HEP is designed to improve equitable access to preventive essential health interventions through community-based health services and to achieve significant basic health-care coverage in the country through the provision of a staffed health post serving approximately 5,000 people in a sub-district (tabia). Each health post is staffed by two female health extension workers (HEWs) who are assigned after completing one year of training.",
+    "question": "How many people does each health post serve under the Health Extension Programme?",
+    "answer": "Each health post serves approximately 5,000 people in a sub-district."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "With a maternal mortality ratio of 673 per 100,000 live births and 19,000 maternal deaths annually, Ethiopia is a major contributor to the worldwide death toll of mothers. Although improvements have been reported in regard to reducing infant and child mortality in the country, there has been slow progress regarding Millennium Development Goal 5 (MDG5), the cornerstone of maternal health.",
+    "question": "What is Ethiopia's maternal mortality ratio per 100,000 live births?",
+    "answer": "Ethiopia's maternal mortality ratio is 673 per 100,000 live births."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Women with a previous history of difficult/prolonged labour were almost eight times more likely to use institutional delivery than their counterparts, which is a common finding in the literature. Women with a previous history of complications might have had experience of a life-threatening situation.",
+    "question": "How much more likely were women with a history of difficult labor to use institutional delivery services?",
+    "answer": "Women with a history of difficult/prolonged labour were almost eight times more likely to use institutional delivery services."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "The HEP in rural areas is composed of 16 packages of interventions categorised into four areas: 'hygiene and environmental sanitation' (seven packages), 'family health' (five packages), 'disease prevention and control' (three packages), and 'health education and communication' (one package).",
+    "question": "How many intervention packages comprise the Health Extension Programme's family health component?",
+    "answer": "The family health component of the Health Extension Programme comprises five packages."
+  },
+  {
+    "title": "Determinants of antenatal and delivery care utilization in Tigray region, Ethiopia: a cross-sectional study",
+    "context": "Among those who did not attend ANC, the most frequently mentioned reasons were 'not feeling sick' (32.7%), 'lack of awareness of the benefits' (28.2%), 'feeling shame' (16.7%), 'workload' (13.4%) and 'health facility too far away' (12.5%).",
+    "question": "What was the primary reason women gave for not attending antenatal care services?",
+    "answer": "The primary reason for not attending antenatal care was 'not feeling sick', cited by 32.7% of women."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "The evaluation was not initially integral to the GM Nation? debate, emerging as an 'add-on' process due to budget constraints. This late involvement created tensions with contractors who became concerned about scrutiny of their activities. The evaluators had to rapidly revise their framework after receiving the Steering Board's objectives mid-process.",
+    "question": "What problems arose from the late integration of evaluation into the GM Nation? debate?",
+    "answer": "The late integration caused tensions with contractors concerned about scrutiny and forced evaluators to revise their framework mid-process after receiving objectives late."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "The Steering Board's evaluation objectives were criticized for being conceptually unclear or unmeasurable. For example, the objective to run an 'innovative' debate lacked measurable parameters. Additionally, the Board's success indicators didn't align with stated objectives, making systematic assessment difficult.",
+    "question": "What issues were identified with the Steering Board's evaluation objectives and indicators?",
+    "answer": "The objectives were conceptually unclear or unmeasurable, while success indicators didn't align with objectives, complicating systematic assessment."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "Evaluators used triangulation by combining questionnaire responses with observer assessments to validate measurements. Participant feedback in open-ended questions often aligned with normative criteria like representativeness. This convergence increased confidence that instruments measured intended concepts.",
+    "question": "How did evaluators confirm the validity of their measurement instruments?",
+    "answer": "Evaluators confirmed validity through triangulation of questionnaire responses with observer assessments and alignment between participant feedback and normative criteria."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "Evaluators faced a 'rigour or relevance' dilemma between thorough analysis and timely reporting for policymakers. Process evaluation became a surrogate for outcome assessment due to political urgency. The Steering Board's final report was produced under strict deadlines before comprehensive evaluation could be completed.",
+    "question": "What timing challenges affected the evaluation's completeness?",
+    "answer": "Political urgency created a rigour-relevance dilemma where process evaluation replaced outcome assessment, and final reports were produced before comprehensive analysis."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "The evaluation team was appointed through a quasi-contractual arrangement involving formal letters exchanged with the Steering Board. These appointment letters were subsequently made publicly available on the debate's official website. This unconventional process replaced competitive tendering due to budget constraints.",
+    "question": "How were the evaluators formally appointed for the GM Nation? debate?",
+    "answer": "Evaluators were appointed through quasi-contractual letters exchanged with the Steering Board and posted on the debate's website, replacing competitive tendering."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "The evaluators received the Steering Board's list of objectives and success indicators after the debate process had already commenced. This late provision occurred following the first Foundation Discussion Workshop. Consequently, evaluators had to adjust their framework while the engagement activities were ongoing.",
+    "question": "When did evaluators receive the Steering Board's official objectives for the debate?",
+    "answer": "Evaluators received the objectives and success indicators after debate activities had started, following the first Foundation Discussion Workshop."
+  },
+  {
+    "title": "Difficulties in evaluating public engagement initiatives reflections on an evaluation of the UK GM Nation public debate about transgenic crops",
+    "context": "Government pressure forced the Steering Board to deliver its final report within ten weeks of the debate's conclusion. This urgency led to what evaluators described as an 'over-hasty, under-resourced' analysis. Meanwhile, independent evaluators continued working on comprehensive analysis months after the official report.",
+    "question": "How did political pressure impact the timeline of the GM Nation? debate evaluation?",
+    "answer": "Political pressure compelled the Steering Board to produce a final report within ten weeks, resulting in hasty analysis, while independent evaluation continued for months."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "In August and September 2019, 1149 people age 65 years and older in all the language regions of Switzerland were interviewed. Computer-assisted telephone interviews (CATI, n = 717) were used, supplemented by a paper-and-pencil survey for households without a telephone connection (n = 432). The respondents ranged in age from 65 to 101 years, with a mean age of 74.1 years (SD = 6.69).",
+    "question": "What methods were used to collect data from older Swiss adults in the study?",
+    "answer": "Data was collected using computer-assisted telephone interviews (CATI) supplemented by paper-and-pencil surveys for households without telephone connections."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Attitudes toward digital services were measured with six statements (e.g., 'Digital services put the security of my data at risk,' 'Digital services save time'). The answers were collected on a 5-point Likert scale (1 = do not agree at all to 5 = fully agree). A mean scale of all six statements was calculated to reflect overall attitudes toward digital services, with higher scores indicating more positive attitudes.",
+    "question": "How was the overall attitude toward digital services quantified in the study?",
+    "answer": "Overall attitudes were quantified by calculating a mean scale from six statements rated on a 5-point Likert scale."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Binary logistic regression models were created to predict the factors for use of public transportation ticket machines. The first model showed that age and education were statistically significant predictors. Younger participants and participants with higher education levels are more often among the group of users.",
+    "question": "Which demographic factors significantly predicted the use of public transportation ticket machines?",
+    "answer": "Younger age and higher education levels were statistically significant predictors of public transportation ticket machine use."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "When the sample was separated into three attitude groups, we found that 8.9% had positive attitudes (M = 4.0–5.0), 69.9% had ambivalent attitudes (M = 2.1–3.9), and 21.2% had negative attitudes (M = 1.0–2.0).",
+    "question": "What percentage of participants exhibited an overall positive attitude toward digital services?",
+    "answer": "8.9% of participants had an overall positive attitude toward digital services."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Openness to using new digital public services was more favorable for online taxes than for online voting, resulting in a mean of 3.39 for doing taxes online and a mean of 2.76 for voting online. Male participants and younger participants (age 65–79 years) had statistically significant higher levels of openness to use than female participants and older participants.",
+    "question": "How did participants' openness to online tax filing compare to online voting?",
+    "answer": "Participants were more open to filing taxes online (mean = 3.39) than to voting online (mean = 2.76)."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Hierarchal linear regression models showed that age, income, and interest in technology were statistically significant predictors of openness to new digital public services. People who reported being interested in technology, younger participants, and participants with higher positive attitudes toward digital services were more likely to be open to using new public digital services.",
+    "question": "What three factors predicted greater openness to using new digital public services?",
+    "answer": "Younger age, higher income, and greater interest in technology significantly predicted openness to new digital public services."
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Among nonusers of digital services, age was a statistically significant predictor for perceived ease of use for all five services. Older participants perceived less ease of use than younger participants. Interest in technology was also a predictor for perceived ease of use for public transportation ticket machines, contactless payment, and self-checkout apps or machines.",
+    "question": "How did nonusers' age relate to their perceived ease of using digital services?",
+    "answer": "Older nonusers perceived digital services as less easy to use compared to younger nonusers."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. This Version is available at: https://hdl.handle.net/10419/221479. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University.",
+    "question": "Who authored the Discussion Paper titled 'Economic Development as Coordination Problems'?",
+    "answer": "Kiminiori Matsuyama authored the Discussion Paper titled 'Economic Development as Coordination Problems'."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. This Version is available at: https://hdl.handle.net/10419/221479. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University.",
+    "question": "What is the document number of the Discussion Paper 'Economic Development as Coordination Problems'?",
+    "answer": "The document number of the Discussion Paper 'Economic Development as Coordination Problems' is No. 1123."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University. This Version is available at: https://hdl.handle.net/10419/221479.",
+    "question": "Which university's school is associated with the publication of this Discussion Paper?",
+    "answer": "Northwestern University's Kellogg School of Management is associated with the publication of this Discussion Paper."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University. This Version is available at: https://hdl.handle.net/10419/221479.",
+    "question": "In which city and state is the Center for Mathematical Studies in Economics and Management Science located?",
+    "answer": "The Center for Mathematical Studies in Economics and Management Science is located in Evanston, IL."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "This Version is available at: https://hdl.handle.net/10419/221479. Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University.",
+    "question": "Where can the current version of 'Economic Development as Coordination Problems' be accessed?",
+    "answer": "The current version of 'Economic Development as Coordination Problems' can be accessed at https://hdl.handle.net/10419/221479."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University. Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. This Version is available at: https://hdl.handle.net/10419/221479.",
+    "question": "Which research center collaborated on the production of this Discussion Paper?",
+    "answer": "The Center for Mathematical Studies in Economics and Management Science collaborated on the production of this Discussion Paper."
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "Suggested Citation: Matsuyama, Kiminiori (1995) : Economic Development as Coordination Problems, Discussion Paper, No. 1123, Northwestern University, Kellogg School of Management, Center for Mathematical Studies in Economics and Management Science, Evanston, IL. Provided in Cooperation with: Kellogg School of Management - Center for Mathematical Studies in Economics and Management Science, Northwestern University. This Version is available at: https://hdl.handle.net/10419/221479.",
+    "question": "In what year was 'Economic Development as Coordination Problems' published?",
+    "answer": "'Economic Development as Coordination Problems' was published in 1995."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "Standards-based reform by itself does not address changing the setting in which people work. To illustrate further, we can take the heavily funded and supported reform initiatives in Chicago, Milwaukee and Seattle, as described in the detailed case studies from the Cross City Campaign for Urban School Reform (2005). All three school systems had the attention of political leaders at all levels of the system, focused on many of the ‘right things,’ such as literacy and mathematics.",
+    "question": "What key element was missing from the standards-based reform initiatives in Chicago, Milwaukee, and Seattle?",
+    "answer": "The missing element was any notion about changing school or district culture to enable continuous improvement."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "These initiatives obviously can do some good but our change theory of action tells us that they have one fatal flaw. They base all the possibilities on producing more and better individuals as the route to changing the system. This individualistic bias is understandable – let’s get a high quality principal in every school – but nonetheless incomplete.",
+    "question": "What fatal flaw does the document identify in 'qualifications' frameworks for developing educational leaders?",
+    "answer": "The fatal flaw is their individualistic bias, focusing solely on producing better individuals without simultaneously changing the system culture where they work."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "Capacity building is defined as any strategy that increases the collective effectiveness of a group to raise the bar and close the gap of student learning. For us it involves helping to develop individual and collective knowledge and competencies; resources; and motivation. These capacities are specifically about getting results.",
+    "question": "What three elements does capacity building involve according to the document's effective change theory?",
+    "answer": "Capacity building involves developing individual and collective knowledge and competencies, resources, and motivation focused on improving student results."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "Improvement is more a function of learning to do the right things in the settings where you work. He goes on to say: The problem [is that] there is almost no opportunity for teachers to engage in continuous and sustained learning about their practice in the settings in which they actually work.",
+    "question": "What specific condition does Richard Elmore identify as necessary for instructional improvement?",
+    "answer": "Elmore identifies learning to do the right things in the actual settings where educators work as necessary for instructional improvement."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "It is not so much that we must align these levels, which is a static unachievable goal, but rather that we must foster ‘permeable connectivity’. This means pursuing strategies that promote mutual interaction and influence within and across school and community, district, and state levels.",
+    "question": "What does 'permeable connectivity' refer to in tri-level development for education reform?",
+    "answer": "Permeable connectivity refers to promoting mutual interaction and influence across school/community, district, and state levels to enable system change."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "Province-wide results in 2005 showed that York Region increased by a full 5 per cent on the average in literacy, across its 140 elementary schools. High schools also did well for the first time on the grade 10 literacy test. Reflecting our theory of action the district identified, in 2005, 27 elementary schools and six high schools that were still underperforming.",
+    "question": "What literacy achievement did York Region District School Board demonstrate after implementing their reform strategy?",
+    "answer": "York Region achieved a 5% average literacy increase across 140 elementary schools and improved high school performance on grade 10 literacy tests."
+  },
+  {
+    "title": "Educational Turbulence The Influence of Macro and Micro-Policy on Science Education Reform",
+    "context": "An emphasis on accountability by itself produces negative pressure: pressure that doesn’t motivate and that doesn’t get to capacity building. Positive pressure is pressure that does motivate, that is palpably fair and reasonable and does come accompanied by resources for capacity building.",
+    "question": "How does the document differentiate between negative and positive pressure in reform strategies?",
+    "answer": "Negative pressure demotivates without capacity-building support, while positive pressure motivates through fairness and accompanying resources for improvement."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Our second dataset is a panel of people interviewed in the first and second SISBEN. Using information about an individual’s eligibility status (as determined by her Poverty Index Score from the first SISBEN) and individual fixed effects, we corroborate the increase in informal employment found with the household survey dataset. Additional estimations that account for SR eligibility and heterogeneous effects by household characteristics also indicate consistent results of an increase in informal employment.",
+    "question": "How did the researchers verify the increase in informal employment using the second dataset?",
+    "answer": "The researchers used a panel of individuals interviewed in both SISBEN waves, incorporating eligibility status from Poverty Index Scores and individual fixed effects to corroborate the informal employment increase found in household surveys."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "This finding corresponds to approximately 8 percent of the labor force not entering the formal sector and an increase in the government’s health expenditures of approximately 11 percent. Our second dataset is a panel of people interviewed in the first and second SISBEN. Using information about an individual’s eligibility status and individual fixed effects, we corroborate the increase in informal employment.",
+    "question": "What two quantitative impacts resulted from the increase in informal employment?",
+    "answer": "The increase in informal employment corresponded to approximately 8% of the labor force avoiding the formal sector and an 11% rise in government health expenditures."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Other researchers have recently examined similar questions in other Latin American countries. For instance, in Argentina, Gasparini et al. (2009) find evidence of increased informality generated by a large conditional cash transfer program. In Mexico, using the roll-out of Seguro Popular in different cities over time, Campos-Vazquez and Knox (2008) find conflicting results of subsidized health insurance on formality.",
+    "question": "Which two Latin American countries showed contrasting evidence about social programs' effects on informality?",
+    "answer": "Argentina showed increased informality from a cash transfer program, while Mexico yielded conflicting results about subsidized health insurance's impact on formality."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Completed university 15.61 4.89 24.65. Education None 1.86 3.36 0.60. Some primary 9.41 15.30 4.45. Completed primary 15.67 21.93 10.40. Some secondary 23.16 29.66 17.68.",
+    "question": "How does university completion differ between informal and formal workers according to Table 1?",
+    "answer": "Only 4.89% of informal workers completed university compared to 24.65% of formal workers."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We find that as the proportion of vulnerable members increases, the probability of becoming informal decreases after the implementation of the SISBEN. This is relevant for policy because there was a recent discussion about whether the two regimes should provide the same package of services and medicines.",
+    "question": "How did households with vulnerable members respond differently to SISBEN implementation?",
+    "answer": "Households with higher proportions of vulnerable members (children under one and elderly) showed decreased probabilities of transitioning to informal employment after SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We report the results using both matches. Summary statistics for the panel dataset show a 9 percent-10 percent reduction in informality rates between the first and second SISBEN. In our empirical strategy we look at the evolution of informality rates among those eligible for the SR relative to people who are not eligible.",
+    "question": "What overall trend in informality was observed between the first and second SISBEN waves?",
+    "answer": "Informality rates decreased by 9-10% between the first and second SISBEN implementations."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The health reform was a major reform; health insurance coverage in the population increased from levels below 30 percent prior to the reform to more than 90 percent today. Second, our findings are derived from two different methodologies and datasets, and the results are consistent for different robustness checks.",
+    "question": "How extensively did Colombia's health insurance coverage expand due to the reform?",
+    "answer": "Health insurance coverage increased from below 30% before the reform to over 90% after implementation."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "In 2001, targeted social assistance was introduced into the national social security system as a form of financial support for people (families) with the lowest income. It is funded by the local budgets and appointed by local executive bodies, but guaranteed by a centralized regulatory legal act – the RK Law of July 17, 2001 ʋ 246-II 'On state targeted social assistance'. Social assistance is a means of combating poverty by raising incomes to a subsistence minimum.",
+    "question": "What are the key features of the targeted social assistance introduced in Kazakhstan's social security system in 2001?",
+    "answer": "The targeted social assistance introduced in 2001 provides financial support for low-income families through local budgets, is appointed by local executive bodies, and is guaranteed by centralized legislation to combat poverty by raising incomes to subsistence minimum levels."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "According to the Agency for Statistics of Kazakhstan, the wages of social workers was 541 USD in 2012, 540 USD in 2013, and 350 USD in 2014. At the same time, the average monthly nominal wage per employee amounted to 679 USD in 2012, 717 USD in 2013, and 668 USD in 2014. That is an average of 30 percent lag in payment of social workers from the nationwide salaries over the past three years.",
+    "question": "What salary disparity existed between social workers and national averages in Kazakhstan during 2012-2014?",
+    "answer": "Social workers in Kazakhstan experienced a 30 percent salary lag compared to national averages, earning 541 USD in 2012, 540 USD in 2013, and 350 USD in 2014 while national averages were 679 USD, 717 USD, and 668 USD respectively."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "The Concept of modernization of the pension system provides for the distribution of responsibility for pensions among workers, employers, and the state. Workers transfer 10% of compulsory pension contributions to the Single accumulative pension fund, employers transfer 5% of payroll, and the state pays the basic pension depending on seniority.",
+    "question": "How does the Concept of pension system modernization distribute responsibility for pension provision?",
+    "answer": "The Concept distributes pension responsibility by requiring workers to contribute 10% of wages to the pension fund, employers to contribute 5% of payroll, and the state to pay basic pensions based on seniority."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "The final area of reforming public policy involves conditional social assistance for low-income families with able-bodied members. Assistance is conditional on able-bodied family members participating in employment programs, while local executive bodies pay 60% of the subsistence minimum per family member.",
+    "question": "What conditions are attached to the new model of social assistance for low-income families in Kazakhstan?",
+    "answer": "Conditional social assistance requires able-bodied family members to participate in employment programs, while local authorities provide assistance equal to 60% of the subsistence minimum per family member."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "Tasks with formally undefined parameters, such as expanding population coverage with funded pension system services and ensuring transparency of accumulative pension funds, did not find solutions. Only objectives with clearly defined achievement parameters were resolved during the reforms.",
+    "question": "Which reform objectives remained unresolved due to undefined parameters?",
+    "answer": "The unresolved reform objectives with undefined parameters were expanding coverage of the funded pension system and ensuring transparency of accumulative pension funds."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "The analysis concludes that the government system lacks a responsible body for supervising compliance with social legislation and social rights. There is no entity responsible for creating and adhering to rule of law in the social sphere.",
+    "question": "What structural deficiency does the analysis identify in Kazakhstan's social sector governance?",
+    "answer": "The analysis identifies a structural deficiency in the lack of a responsible government body for supervising social legislation compliance and ensuring rule of law in the social sphere."
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "During 2011-2014, reforms included the elimination of pension funds and creation of a single public fund. This period also focused on developing and implementing state standards of social services.",
+    "question": "What major structural change occurred in Kazakhstan's pension system during 2011-2014?",
+    "answer": "The major structural change was the elimination of multiple pension funds and creation of a single public fund during the 2011-2014 reform period."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "Migration out of agriculture into the missing middle (rural nonfarm economy and secondary towns) is strongly associated with poverty reduction, while expansion of mega-cities is not. Migration to the missing middle leads to more inclusive growth patterns, while agglomeration in mega cities widens income inequality, even though it also generates faster economic growth, as predicted by the new economic geography.",
+    "question": "How does migration to the missing middle compare to mega-city agglomeration in terms of growth inclusivity and inequality?",
+    "answer": "Migration to the missing middle leads to more inclusive growth patterns, while agglomeration in mega cities widens income inequality."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "The coefficient on the change rate of the share of urban population, βU, represents effects of transformation from agriculture to metropolitan manufacturing and service activities on poverty through changing income distribution, controlling for the impact of changes in income levels (dy/y). Correspondingly, the coefficient on the change rate of the share of rural nonfarm employment, βN, indicates income-distribution effects of transformation from (rural) agriculture to rural nonfarm activities on poverty.",
+    "question": "What do the coefficients βU and βN represent in the study's analysis?",
+    "answer": "βU represents effects of transformation from agriculture to metropolitan activities on poverty through income distribution changes, while βN indicates income-distribution effects of transformation from agriculture to rural nonfarm activities."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "The share of the population engaged in non-farm activities located in the intermediate space or the 'missing middle', sN, is defined as the residual, i.e. sN,=100-sU-sA. Given the (deliberately) narrow definition of urban areas (i.e. only the mega cities), sN includes people living and employed in secondary towns as well as those engaged in off-farm employment in rural villages.",
+    "question": "How is the population share of the missing middle (sN) defined and what does it include?",
+    "answer": "The population share of the missing middle (sN) is defined as the residual (100-sU-sA) and includes people in secondary towns and rural off-farm employment."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "Indonesia experienced a 129-percent reduction in the poverty headcount ratio at $1 a day from 28.2 percent in 1987 to 7.8 percent in 2002 and a 21-percent increase in the population share of the missing middle from 36.4 percent in 1987 to 44.8 percent in 2002. These figures imply that more than 50 percent of the poverty reduction attributes to the increase in rural nonfarm employment in Indonesia.",
+    "question": "What percentage of Indonesia's $1-day poverty reduction is attributed to the increase in the missing middle's population share?",
+    "answer": "More than 50 percent of Indonesia's $1-day poverty reduction is attributed to the increase in the missing middle's population share."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "To check the robustness of the results, five alternative specifications are explored. First, instead of using percent change in the poverty headcount as dependent variable, the percentage point change is used. Second, another definition of metropolis was used, i.e. the population in cities with population of 750,000 or more in 2007. Third, the regressions are augmented with a quadratic term of the change rate of the sectoral shares. Fourth, the poverty gap is used rather than the poverty headcount ratio. Finally, the regressions were also repeated using the revised povcal data.",
+    "question": "What alternative specifications were used to check the robustness of the study's results?",
+    "answer": "The robustness checks included using percentage point poverty changes, alternative metropolis definitions, quadratic terms, poverty gap measures, and revised povcal data."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "Consistent with the insights derived from the poverty regressions discussed above, rural diversification is associated with a decline in income inequality, while agglomeration in mega cities is strongly associated with higher income inequality. Both results are statistically significant at the 1 percent level.",
+    "question": "How are rural diversification and mega-city agglomeration associated with income inequality according to the OLS level equations?",
+    "answer": "Rural diversification is associated with a decline in income inequality, while mega-city agglomeration is associated with higher income inequality."
+  },
+  {
+    "title": "Poverty Reduction During the Rural-Urban Transformation The Role of the Missing Middle",
+    "context": "The sample is limited to low and middle-income countries according to the World Bank’s classification in 2007 and spans about a quarter of a century, from 1980-2004. The complete list of available poverty spell observations in Povcal consists of 57 countries and 231 country-spell observations. Latin America and the Caribbean has the largest share of survey periods (41.3%), followed by Sub-Saharan Africa (18.0%) and East Asia and Pacific (15.3%).",
+    "question": "Which region has the largest share of survey periods in the study's sample?",
+    "answer": "Latin America and the Caribbean has the largest share of survey periods in the study's sample, accounting for 41.3%."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Overall 2 of 32 (6.3%) of the study facilities fulfilled all the three quality components; input, process and output. Two of the three components were assessed as good in 11 of the 32 (34.4%) health facilities. The input quality was the better of the other quality components; which was good in 21 out of the 32 (65.6%) health facilities. The process and output quality was good in only 10 of the 32 (31.3%) facilities.",
+    "question": "What percentage of health facilities demonstrated good quality in all three components of delivery service?",
+    "answer": "6.3% of health facilities demonstrated good quality in all three components of delivery service."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The process quality component is the least achieved quality component in this study. Unless adequate emphasis is given to improve the utilization of institutional delivery services may remain low in Ethiopia. Only 31.25% of the facilities were rated as good on output quality for delivery services in terms of utilization of EmONC and satisfaction of mothers.",
+    "question": "Which quality component showed the poorest performance in the study?",
+    "answer": "The process quality component showed the poorest performance in the study."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Five types of data collection tools were used to gather data for this study. Facility audit form was used to interview the head of the facilities about availability of essential equipment, drugs and supplies at the time of the survey. A mother’s exit interview questionnaire was used to gather information about the process of delivery and perceived quality of services and their satisfaction.",
+    "question": "What methods were used to assess mothers' satisfaction with delivery services?",
+    "answer": "A mother’s exit interview questionnaire was used to assess mothers' satisfaction with delivery services."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Critical inputs to ensure the wellbeing of delivering mothers was also missing in considerable proportion of health facilities. Radiant warmer was available in 37.5% the facilities; towels to wrap newborns was available in 15.6% of the health facilities; and only 12.5% of the health facilities had trained service providers to perform newborn resuscitation.",
+    "question": "What percentage of health facilities had trained providers for newborn resuscitation?",
+    "answer": "12.5% of health facilities had trained service providers to perform newborn resuscitation."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "Some of the common limitations to the quality of maternity services include that women were greeted on arrival in 46.9% of the health facilities, women were encouraged to ask questions in 34.4% of the health facilities, and procedures to be undertaken were explained to the women in 18.8% of the facilities.",
+    "question": "In what percentage of facilities were procedures explained to mothers during delivery care?",
+    "answer": "Procedures were explained to mothers in 18.8% of the health facilities."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The study was conducted in three zones of Tigray region (East, South and South East) in Northern Ethiopia involving 21 districts. A total of 90 health centers and 5 hospitals were present in the zone at the time of the study. Approximately 2.5 million people were expected to live in the catchment area.",
+    "question": "How many hospitals were included in the study area of Northern Ethiopia?",
+    "answer": "Five hospitals were present in the study area of Northern Ethiopia at the time of the research."
+  },
+  {
+    "title": "Quality of the delivery services in health facilities in Northern Ethiopia",
+    "context": "The overall quality of the delivery services was determined by considering all three quality assessment components. Accordingly, only 2 of the 32 (6.25%) of the facilities were rated as offering good quality delivery services in all three quality components, while 6 of the 32 (18.75%) of the facilities were not rated as good in any of the three quality components.",
+    "question": "What proportion of facilities failed to meet good quality standards in any of the three components?",
+    "answer": "18.75% of facilities failed to meet good quality standards in any of the three components."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "Social protection systems in LAC date back to the early years of the Twentieth Century, and the introduction of insurance schemes for civil servants (including teachers), employees in public enterprises, members of the military, and urban private sector workers in certain industries. Countries in the Southern Cone – Argentina, Brazil, Chile and Uruguay – were the first to introduce occupational schemes in the early 1920s, inspired by the Bismarckian approach. Under its influence, Latin America saw a second wave of social insurance adoption in the 1940s, in countries such as Colombia, Costa Rica, Mexico, Paraguay, Peru and Venezuela.",
+    "question": "Which countries were the first to introduce occupational social protection schemes in Latin America and what influenced their design?",
+    "answer": "Argentina, Brazil, Chile, and Uruguay were the first to introduce occupational social protection schemes in the early 1920s, inspired by the Bismarckian approach."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "Originally proposed by two Brazilian economists, in a newspaper article in 1993 and a working paper from 1994, CCTs were first implemented in practice in Brazil’s Federal District and in the city of Campinas in 1995. Their rise to prominence began when they were adopted by the Mexican government in 1997, and deployed in a set of poor rural areas by means of an experimental design, which permitted careful evaluation of its impacts. CCTs now exist in fifteen LAC countries and benefit an estimated 22 million households.",
+    "question": "Where and when were conditional cash transfers first implemented in Latin America?",
+    "answer": "Conditional cash transfers were first implemented in Brazil's Federal District and the city of Campinas in 1995."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "Despite these innovations, expenditures in social assistance as a share of GDP remain low in Latin America relative to most other regions of the world. Calculations from Weigand and Grosh (2008) suggest that, whereas LAC countries spend on average 1.3% of GDP on social assistance (and 3.8% on social insurance), African countries spend 3.1%, the Middle East and North Africa spend 3.6%, Europe and Central Asia spends 2.0%, and OECD countries spend 2.5%. The social assistance expenditure to GDP ratio is only smaller than LAC in Asia, where the average in both East and South Asia is 0.9%.",
+    "question": "How does social assistance expenditure as a share of GDP in Latin America compare to other regions?",
+    "answer": "Latin America spends an average of 1.3% of GDP on social assistance, which is lower than Africa's 3.1%, the Middle East and North Africa's 3.6%, Europe and Central Asia's 2.0%, and OECD countries' 2.5%."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "The disconnect between social assistance and social insurance arises, fundamentally, from the fact that the two systems remain separate, and social insurance remains contingent on labor market status. Formal sector workers qualify for social insurance, funded primarily by mandatory contributions and payroll taxes. Many, and in some cases most, of those who do not, are now eligible for other sorts of 'replacement' benefits, under the rubric of social assistance.",
+    "question": "What inefficiency arises from the dual social protection system in Latin America?",
+    "answer": "The dual system creates inefficiencies by taxing formal sector employment to fund social insurance while subsidizing the informal sector through social assistance, distorting labor market decisions."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "After diagnosing the problem, Levy (2008) suggests a simple – but radical – solution, the essence of which is as follows. Basic old-age pensions and health insurance should become universal entitlements, funded out of general taxation (such as a value-added tax). The contributory social insurance system would be eliminated, and the mandatory contributions and payroll taxes that funded it would be abolished.",
+    "question": "What solution does Levy propose to integrate social insurance and assistance in Latin America?",
+    "answer": "Levy proposes universal basic old-age pensions and health insurance funded by value-added taxes, replacing the contributory social insurance system."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "As discussed by RRW, perhaps the most promising development in this area takes the form of a set of new programs that move beyond pure 'food distribution', and focus on the final outcome of improving nutrition. These programs recognize that food is sometimes only one missing input into the 'nutrition production function'. Accordingly, they seek to address informational gaps, influence entrenched behaviors, and assist with child weight and height monitoring, as well as supplying nutritious foods.",
+    "question": "What new approach do nutrition programs in Latin America take beyond food distribution?",
+    "answer": "New nutrition programs focus on improving nutrition outcomes by addressing informational gaps, influencing behaviors, and assisting with child monitoring, in addition to supplying nutritious foods."
+  },
+  {
+    "title": "Social Protection in Latin America Achievements and Limitations",
+    "context": "Democratic congresses and administrations proved more averse to high levels of poverty and inequality than their dictatorial predecessors had been and, in many countries, these new governments sought to extend the redistributive role of the state towards those most in need of its support. The desired expansion of social assistance was implemented through two main types of programs: non-contributory social insurance (pensions and health insurance); and conditional cash transfers (CCTs).",
+    "question": "How did democratic governments in Latin America during the 1980s and 1990s affect social assistance?",
+    "answer": "Democratic governments in the 1980s and 1990s expanded social assistance programs to extend the redistributive role of the state towards those most in need."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Implementation strategies need to be tailored to organizational circumstances and systems, whether they involve 'phased' or 'big-bang' implementation approaches. The former relates to introducing incremental functionality slowly, while the latter relates to introducing functionality across the organization all at once. We suggest avoiding the running of parallel systems (both paper and electronic) wherever possible, as this tends to increase workloads for end-users and may inadvertently introduce new threats to patient safety.",
+    "question": "Why should organizations avoid running parallel paper and electronic systems during health information technology implementations?",
+    "answer": "Running parallel paper and electronic systems tends to increase workloads for end-users and may inadvertently introduce new threats to patient safety."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Developing the right infrastructure is an essential part of planning activity. If this is not afforded sufficient attention, then software systems may perform sub-optimally (eg, if wireless networks are unavailable or bandwidth is too narrow), or may be inaccessible to users altogether. We have repeatedly found that inappropriate infrastructure can negatively shape user attitudes towards software systems themselves, as it can impact on usability and performance.",
+    "question": "How can inadequate infrastructure affect user perceptions of health information technology systems?",
+    "answer": "Inappropriate infrastructure can negatively shape user attitudes towards software systems themselves by impacting usability and performance."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "The most effective training is that which is tailored to the individual roles of users, without being too restrictive as this can undermine understanding of how the whole system functions. Training needs to allow users to practice 'hands-on' and as closely simulate the actual working environment as possible. It is also ideally conducted shortly before the implementation as otherwise staff may forget important functions.",
+    "question": "What characteristics define effective training programs for health information technology users?",
+    "answer": "Effective training is tailored to individual roles, allows hands-on practice in simulated environments, and is conducted shortly before implementation to prevent forgetting important functions."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Real-time, longitudinal data collection strategies providing formative feedback are desirable as emerging results can be incorporated in on-going implementation activity, but this is costly and time-consuming. However, it is essential to capture user feedback about problems that are identified and respond to it in a timely manner. These should begin with assessing existing and anticipated organizational and individual work flows, monitoring desired and undesired consequences, and tracking new innovative ways of working.",
+    "question": "What approach is recommended for evaluating progress during health information technology implementations?",
+    "answer": "The recommended approach includes real-time longitudinal data collection, timely response to user feedback, and monitoring work flows, consequences, and innovative practices."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Maintenance is in many ways related to all of the above points as these issues need to be re-visited periodically throughout the technology lifecycle. Nevertheless, maintenance deserves particular attention as it is often under-estimated in relation to associated activities and cost. This is not only the case in relation to on-going costs (eg, pertaining to support, infrastructure, and system upgrades), but also costs relating to potential system changes as the strategic aims of organizations and therefore the capabilities of existing technological systems are likely to change over time.",
+    "question": "Why is maintenance particularly important in the health information technology lifecycle?",
+    "answer": "Maintenance is particularly important because it is often underestimated regarding associated activities and costs, including ongoing support and upgrades plus potential system changes as organizational strategies evolve."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "The benefits of major transformative ventures are notoriously difficult to measure and may take a long time to materialize. Our work has shown that in many cases the expectations of organizations and individual users far exceed what is achievable in the short term. The managing of expectations is, therefore, important as otherwise there is a danger that stakeholders disengage with the initiative and negative attitudes may emerge.",
+    "question": "What challenge arises when expectations exceed short-term achievable outcomes in health information technology implementations?",
+    "answer": "When expectations exceed short-term achievable outcomes, there is a danger that stakeholders disengage with the initiative and negative attitudes may emerge."
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Commercial systems are cheaper to purchase (as they are not customized to individual organizations and can therefore be produced in bulk) and they are also likely to be interoperable due to common data standards and architectures. Internationally, most organizations will, we anticipate, also choose commercial systems in the future due to cost and interoperability considerations. In the USA, for example, commercial systems have markedly improved in recent years and now dominate the marketplace.",
+    "question": "What are two advantages of commercial health information technology systems over customized solutions?",
+    "answer": "Commercial systems are cheaper to purchase due to bulk production and more likely to be interoperable through common data standards."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "The HLQ was designed using a validity-driven approach and validated in diverse samples of individuals in the community. It has been shown to have strong construct validity, reliability and high acceptability to clients and clinicians. The HLQ was designed for administration by pen and paper self-administration or by interview to ensure inclusion of people who cannot read or have other difficulties with self-administration. It is available in many languages and has been used in many studies to inform intervention development as well as in surveys and evaluations.",
+    "question": "How was the Health Literacy Questionnaire (HLQ) designed to ensure accessibility for diverse populations?",
+    "answer": "The Health Literacy Questionnaire was designed for administration by pen and paper self-administration or by interview to include people who cannot read or have difficulties with self-administration, and it is available in many languages."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "Health literacy is a multi-dimensional concept comprising a range of cognitive, affective, social, and personal skills and attributes. This paper describes the research and development protocol for a large communities-based collaborative project in Victoria, Australia that aims to identify and respond to health literacy issues for people with chronic conditions. The project, called Ophelia (OPtimising HEalth LIterAcy) Victoria, is a partnership between two universities, eight service organisations and the Victorian Government.",
+    "question": "What dimensions comprise the multi-dimensional concept of health literacy?",
+    "answer": "Health literacy comprises cognitive, affective, social, and personal skills and attributes."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "The outcome of the project will be a framework that provides intervention options for organisations to employ when members of the community present with particular health literacy needs. It also seeks to offer proof of concept that tailored responses to local health literacy needs are feasible, and can help improve service access, health behaviour, and health outcomes. The response framework will consider several issues of context including the specific purposes and target groups of the participating organisations.",
+    "question": "What is the intended outcome of the Ophelia Victoria project?",
+    "answer": "The intended outcome is a framework providing intervention options for organizations to address community health literacy needs, with proof of concept that tailored responses improve service access and health outcomes."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "Cluster analysis of data from the HLQ will be used to identify health literacy profiles of groups of individuals within each sample. Semi-structured interviews will also be conducted with 10 to 12 consumers at each site, stratified by the identified clusters. These data will then be synthesised with the HLQ cluster results to generate 5 to 8 vignettes of the typical groups of clients attending the organisation across health literacy levels.",
+    "question": "What is the purpose of conducting cluster analysis on HLQ data in the Ophelia study?",
+    "answer": "Cluster analysis is used to identify health literacy profiles of groups within each sample, which are then synthesized with interview data to create client vignettes."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "The HLQ contains 44 questions across nine domains: 1) Feeling understood and supported by healthcare providers 2) Having sufficient information to manage my health 3) Actively managing my health 4) Social support for health 5) Appraisal of health information 6) Ability to actively engage with healthcare providers 7) Navigating the healthcare system 8) Ability to find good health information 9) Understand health information well enough to know what to do.",
+    "question": "What specific areas does the Health Literacy Questionnaire (HLQ) assess?",
+    "answer": "The HLQ assesses nine domains including feeling supported by providers, managing health information, social support, appraising information, engaging with providers, navigating the system, finding information, and understanding health information."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "While this study will not generate evidence about the effectiveness of specific health literacy interventions, its purposes are to provide a framework for intervention responses; to generate a wide range of intervention ideas based on the experience of the best practitioners as well as the literature; and to provide a proof of concept that by responding to identified health literacy needs, healthcare organisations can address identified service access and effectiveness issues.",
+    "question": "What type of evidence will the Ophelia study explicitly not generate?",
+    "answer": "The study will not generate evidence about the effectiveness of specific health literacy interventions."
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "Ethics approval for the study has been obtained from the Human Research Ethics Committee of Deakin University and from four of the participating sites. Approval to conduct the study at the remaining four sites was included within the Deakin University approval process. Written informed consent will be obtained from all participants.",
+    "question": "How is participant consent managed in the Ophelia Victoria study?",
+    "answer": "Written informed consent is obtained from all participants, with ethics approval covering all sites through Deakin University."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "A quantitative, cross-sectional study was conducted in five public hospitals in central Ethiopia which were in a post-reform period. A self-administered, structured questionnaire which covered the WHO’s six health system building blocks was used to collect data on healthcare professionals who consented. Data was analyzed using IBM SPSS version 20.",
+    "question": "What type of study design was employed to assess the WHO building blocks in Ethiopian public hospitals?",
+    "answer": "A quantitative, cross-sectional study design was employed to assess the WHO building blocks in five public hospitals in central Ethiopia."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "The majority of participants (195, 48%) were in the age ranging from 30 to 39, while very few (26, 6.4%) were in the age ranging from 50 to 59. The largest proportion of participants (304, 74.9%) was nurses, followed by medical doctors (35, 8.6%), medical laboratory professionals (24, 5.9%), pharmacist (16, 3.9%), X-ray technicians (11, 2.7%) and sanitarians (2, 0.5%).",
+    "question": "What was the most common age range among healthcare professionals participating in the study?",
+    "answer": "The most common age range among participating healthcare professionals was 30 to 39 years, comprising 48% of participants."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "Academically, the largest proportion of participants (342, 84.2%) had bachelor’s degree, followed by Diploma (37, 9.1%), medical doctorate with specialization (18, 4.4%), MSc/MA or MPH (7, 1.7%), and certificate 2 (0.5%). A large number of participants (202, 49.8%) worked as a healthcare professional for 10 to 19 years.",
+    "question": "What was the predominant academic qualification among the surveyed healthcare professionals?",
+    "answer": "The predominant academic qualification among surveyed healthcare professionals was a bachelor's degree, held by 84.2% of participants."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "Based on the principle of BPR [24], the FMoH has conducted 'as is' analysis to document pertinent issues, understand the pros and cons of the existing healthcare delivery system in the country and figure out the different dynamics that should be considered in the redesign of the new reform. With these, 'to be' business processes were designed, public health sector standards formulated, and standard operating procedures and implementation tools developed [25].",
+    "question": "What was the primary purpose of implementing the BPR healthcare reform in Ethiopian public hospitals?",
+    "answer": "The primary purpose of implementing the BPR healthcare reform was to strengthen the overall health system through redesigning business processes and developing implementation tools based on analysis of existing healthcare delivery."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "In the HSTP, four pillars of excellence are believed to help the sector attain its mission and vision: health service delivery, quality improvement and assurance, leadership and governance, and health system capacity. The four pillars are linked with the WHO’s six health system building blocks.",
+    "question": "What are the four pillars of excellence in Ethiopia's Health Sector Transformation Plan?",
+    "answer": "The four pillars of excellence in Ethiopia's Health Sector Transformation Plan are health service delivery, quality improvement and assurance, leadership and governance, and health system capacity."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "The study was granted ethical clearance certificate from the Higher Degrees Committee of the Department of Health Studies, University of South Africa and the Research and Technology Transfer Core-process of the Addis Ababa City Administration Health Bureau. Informed consent form was developed for each respondent to read and sign before moving on to fill-in the questionnaires.",
+    "question": "Which institutions provided ethical approval for the study on WHO building blocks in Ethiopian hospitals?",
+    "answer": "Ethical approval was provided by the Higher Degrees Committee of the Department of Health Studies at the University of South Africa and the Research and Technology Transfer Core-process of the Addis Ababa City Administration Health Bureau."
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "There was a significant difference in healthcare performance between at least two hospitals (χ2 = 571.902, p < .001). The study proved that the WHO’s health system building blocks are useful for assessing the process of strengthening health systems in Ethiopia.",
+    "question": "What statistical evidence indicated variation in performance between the studied hospitals?",
+    "answer": "A significant difference in healthcare performance between hospitals was evidenced by a chi-square statistic of 571.902 with a p-value less than .001."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Participants were recruited from E. Blair Warner Family Medicine Residency Clinic (South Bend, IN) from December 8, 2020, to January 11, 2021. Follow-up data collection was completed from March 12, 2021, to May 14, 2021. Healthcare staff and participants were notified of the study through flyers and announcements.",
+    "question": "Where were participants recruited from and during what time period?",
+    "answer": "Participants were recruited from E. Blair Warner Family Medicine Residency Clinic in South Bend, IN, from December 8, 2020, to January 11, 2021."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "We examined the impact of Healthy at Home, a 12-week phone and SMS-based digital health coaching program, on insulin resistance which is an upstream marker for T2DM progression. Digital health coaching significantly improved participants’ calculated Homeostatic Model Assessment for Insulin Resistance (HOMA 2-IR) by −0.9 ± 0.4 compared with the control group (p = 0.029).",
+    "question": "What was the primary outcome measure in the Healthy at Home trial?",
+    "answer": "The primary outcome measure was the change in Homeostatic Model Assessment for Insulin Resistance (HOMA 2-IR), which improved by −0.9 ± 0.4 in the intervention group."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "In the intervention group, three participation metrics measured engagement: weekly goal compliance, number of daily glucose checks, and number of virtual health coaching sessions completed. Participants achieved 59% of weekly goals and tracked blood glucose 74% of days. They completed 86% of virtual coaching sessions.",
+    "question": "What percentage of weekly goals did participants achieve in the intervention group?",
+    "answer": "Participants achieved 59% of weekly goals in the intervention group."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Healthy at Home compares favorably to the cost of the Diabetes Prevention Program (DPP) for pre-diabetes ($500) and a more intensive in-person Community Health Worker program ($1,400). The 3-month digital health coaching intervention cost $400 per participant, covering weekly calls, glucose tracking, and remote monitoring.",
+    "question": "How did the cost of Healthy at Home compare to other diabetes programs?",
+    "answer": "The Healthy at Home program cost $400 per participant, which was lower than the Diabetes Prevention Program ($500) and an in-person Community Health Worker program ($1,400)."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Health coaches used motivational interviewing to create SMART goals that were patient-driven and personalized. Participants chose weekly goals in categories like nutrition, physical activity, or stress management. On average, 40% of goals were nutrition-related, 20% exercise-related, and 13% stress reduction-related.",
+    "question": "What type of goals did participants most frequently set in the Healthy at Home program?",
+    "answer": "Participants most frequently set nutrition-related goals, which accounted for 40% of all weekly goals in the Healthy at Home program."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Secondary outcomes were changes in HbA1c, Homeostatic Model Assessment for β-Cell Function (HOMA2-% β), weight, BMI, systolic blood pressure, diastolic blood pressure, and exercise vital sign (EVS). The intervention group showed non-significant improvements in these secondary outcomes compared to controls.",
+    "question": "Which physiological measures were tracked as secondary outcomes?",
+    "answer": "Secondary outcomes included HbA1c, HOMA2-% β, weight, BMI, systolic blood pressure, diastolic blood pressure, and exercise vital sign (EVS)."
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "Fifty-four percent of participants were enrolled in Medicaid, and 37% lived in USDA-defined low-food-access census tracts. By comparison, the county average was 15% Medicaid enrollment and 14% low-food-access rates. Forty percent of participants were African American, higher than the county's 14% average.",
+    "question": "What percentage of study participants were enrolled in Medicaid?",
+    "answer": "Fifty-four percent of participants in the study were enrolled in Medicaid."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We examine whether the Colombian government’s expansion of social programs in the early 1990s, particularly the publicly provided health insurance, discouraged formal employment. Using household survey data and variation across municipalities in the onset of interviews for the SISBEN, the instrument used to identify beneficiaries for public health insurance, we find robust and consistent estimates of an increase in informal employment of approximately 4 percentage points. We find similar results using an alternative dataset, consisting of a panel of individuals interviewed for the first and second SISBEN.",
+    "question": "What was the estimated impact of Colombia's public health insurance expansion on informal employment according to household survey data?",
+    "answer": "The household survey data showed robust and consistent estimates of an increase in informal employment of approximately 4 percentage points following the expansion of public health insurance."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The SR was designed for the unemployed poor and was implemented at different points in time in different municipalities. Eligibility for the SR was determined using a Poverty Index Score calculated from answers to the SISBEN. The main difference between the SR and all other changes to the social security system is that all but the SR were implemented nationally in January 1994.",
+    "question": "How did eligibility determination for the Subsidized Regime (SR) differ from other social security changes under Law 100?",
+    "answer": "Eligibility for the Subsidized Regime required a Poverty Index Score from the SISBEN, unlike other social security changes which were implemented nationally without requiring the SISBEN."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We construct a proxy for the Poverty Index Score to assess whether the positive increase in informal employment is concentrated among the people who are eligible for the SR. The variables needed to construct the Poverty Index Score calculated in the SISBEN are not available in the household survey, so we use a geographical socio-economic strata (SES) indicator as a proxy. When using the SISBEN dataset, we find that this indicator is a strong predictor of eligibility.",
+    "question": "What proxy did researchers use for the Poverty Index Score in household survey analyses?",
+    "answer": "Researchers used a geographical socio-economic strata indicator as a proxy for the Poverty Index Score when analyzing household survey data."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "To construct the panel, we match individual-level information from the first and second SISBEN. We match the datasets in two ways: (1) We use the Colombian national identity card number. (2) We expand the match using names and dates of birth to include people who may have changed ID numbers when they turned 18. When we match names, we use the first and second given names and the first and second last names, allowing for spelling mistakes.",
+    "question": "What two matching methods were used to create the panel dataset from SISBEN interviews?",
+    "answer": "The panel dataset was constructed using both national identity card numbers and an expanded match combining names, last names, and dates of birth with allowances for spelling variations."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We use household characteristics as a proxy for health insurance valuation. We define a variable that calculates the proportion of children under one year of age and the proportion of elderly members. We find that as the proportion of vulnerable members increases, the probability of becoming informal decreases after the implementation of the SISBEN.",
+    "question": "How did the presence of vulnerable household members affect informal employment probabilities after SISBEN implementation?",
+    "answer": "Households with higher proportions of vulnerable members (children under one year and elderly) showed decreased probabilities of informal employment after SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Using a panel dataset that we construct by matching individuals observed in the first and second SISBEN, we estimate an individual fixed effect regression that captures the change in informality due to the SR. The estimates show a positive and significant effect of eligibility, with an increase in informality between 4.0 and 5.5 percentage points depending on the matching method used.",
+    "question": "What range of increase in informal employment was found among SR-eligible individuals using panel data analysis?",
+    "answer": "The panel data analysis showed SR-eligible individuals experienced a 4.0 to 5.5 percentage point increase in informal employment depending on the matching methodology."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The health sector reform aimed to achieve universal health insurance coverage through the creation of two regimes: a Contributive Regime (CR) and a Subsidized Regime (SR). The CR made health insurance through employment mandatory regardless of occupation. The SR was designed for the unemployed poor and was implemented at different points in time in different municipalities.",
+    "question": "What was the fundamental difference in target populations between Colombia's Contributive and Subsidized health regimes?",
+    "answer": "The Contributive Regime targeted employed workers with mandatory health insurance, while the Subsidized Regime was designed for unemployed poor individuals."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Using household survey data and variation across municipalities in the onset of interviews for the SISBEN, the instrument used to identify beneficiaries for public health insurance, we find robust and consistent estimates of an increase in informal employment of approximately 4 percentage points. We find similar results using an alternative dataset, consisting of a panel of individuals interviewed for the first and second SISBEN. Our findings suggest that marginal individuals optimized when deciding whether to participate in the formal sector.",
+    "question": "What was the estimated impact of Colombia's social programs on informal employment according to household survey data?",
+    "answer": "The study found robust estimates of an increase in informal employment of approximately 4 percentage points using household survey data and variation in SISBEN interview timing across municipalities."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We construct an indicator variable, post, that aligns the starting date of the SISBEN interviews in each municipality. We compare informal employment before and after the onset of SISBEN interviews. The main identification strategy uses variation in the timing of the SISBEN implementation across municipalities and year fixed effects to capture aggregate labor market fluctuations.",
+    "question": "How did the researchers isolate the effect of the Subsidized Regime using municipal variation?",
+    "answer": "The researchers used variation across municipalities in the onset of SISBEN interviews to compare informal employment levels before and after the implementation, identifying the effects of the Subsidized Regime."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We match the datasets in two ways. (1) We use the Colombian national identity card number. (2) We expand the match using names and dates of birth to include people who may have changed ID numbers when they turned 18. When we match names, we use the first and second given names and the first and second last names, allowing for spelling mistakes and for phonetic distances no greater than 3 of 10 characters using the Leveinshtein criteria.",
+    "question": "How was the panel dataset constructed from the first and second SISBEN surveys?",
+    "answer": "The panel dataset was constructed by matching individuals from the first and second SISBEN using national ID numbers and an expanded match incorporating names, last names, and dates of birth with allowances for spelling errors."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We identify as eligible people living in SES levels 1 and 2, and, for consistency with the SISBEN implementation process, we limit the sample to people living in strata levels targeted by the SISBEN (1-3). The results show an additional increase in informality between 3.0 and 4.2 percentage points. These findings are consistent with the increase in informality reported in the previous results.",
+    "question": "What additional informality increase was observed among Subsidized Regime-eligible individuals using SES proxies?",
+    "answer": "Using socio-economic strata as a proxy for SR eligibility, the study found an additional 3.0 to 4.2 percentage point increase in informal employment among eligible individuals relative to ineligible ones."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We define a variable that calculates the proportion of children under one year of age and the proportion of elderly members. We find that as the proportion of vulnerable members increases, the probability of becoming informal decreases after the implementation of the SISBEN. This suggests households anticipating higher healthcare usage valued formal employment benefits more.",
+    "question": "How did household composition with vulnerable members affect informality rates?",
+    "answer": "Households with a higher proportion of vulnerable members, such as children under one year and elderly, showed a decreased probability of informal employment after SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The health reform was a major reform; health insurance coverage in the population increased from levels below 30 percent prior to the reform to more than 90 percent today. Our contributions include using individual-level data to assess the SR's effect on informality. The results are consistent across different methodologies and robustness checks.",
+    "question": "How did Colombia's health reform impact insurance coverage rates?",
+    "answer": "Colombia's health reform increased health insurance coverage from below 30% prior to the reform to more than 90% at the time of the study."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Our contributions to this literature are threefold. First, no other studies have considered the effect of the SR expansion on informality in Colombia using individual-level data. Second, our findings are derived from two different methodologies and datasets. Third, the results inform policy decisions regarding social program distortions in high-informality contexts.",
+    "question": "What are the three main contributions of this study to existing literature?",
+    "answer": "The study's contributions include using individual-level data to assess the SR's effect on informality, consistent results from two methodologies, and providing policy insights on social program distortions."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Using household survey data and variation across municipalities in the onset of interviews for the SISBEN, the instrument used to identify beneficiaries for public health insurance, we find robust and consistent estimates of an increase in informal employment of approximately 4 percentage points. We find similar results using an alternative dataset, consisting of a panel of individuals interviewed for the first and second SISBEN. Our findings suggest that marginal individuals optimized when deciding whether to participate in the formal sector.",
+    "question": "What was the estimated impact of Colombia's SISBEN implementation on informal employment according to household survey data?",
+    "answer": "The implementation of SISBEN led to a robust and consistent increase in informal employment of approximately 4 percentage points according to household survey data."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Our second dataset is a panel of people interviewed in the first and second SISBEN. Using information about an individual’s eligibility status (as determined by her Poverty Index Score from the first SISBEN) and individual fixed effects, we corroborate the increase in informal employment found with the household survey dataset. Additional estimations that account for SR eligibility and heterogeneous effects by household characteristics also indicate consistent results of an increase in informal employment.",
+    "question": "How did the panel dataset of SISBEN interviewees validate the household survey findings?",
+    "answer": "The panel dataset using individual fixed effects and eligibility status corroborated the household survey findings by showing consistent results of increased informal employment."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "This finding corresponds to approximately 8 percent of the labor force not entering the formal sector and an increase in the government’s health expenditures of approximately 11 percent. Our second dataset is a panel of people interviewed in the first and second SISBEN. Using information about an individual’s eligibility status and individual fixed effects, we corroborate the increase in informal employment found with the household survey dataset.",
+    "question": "What two financial impacts resulted from the increase in informal employment?",
+    "answer": "The increase in informal employment resulted in approximately 8 percent of the labor force not entering the formal sector and an 11 percent increase in government health expenditures."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "The variables needed to construct the Poverty Index Score calculated in the SISBEN are not available in the household survey, so we use a geographical socio-economic strata (SES) indicator as a proxy. When using the SISBEN dataset, we find that this indicator is a strong predictor of eligibility (significant at the 1 percent level). We identify as eligible people living in SES levels 1 and 2, and, for consistency with the SISBEN implementation process, we limit the sample to people living in strata levels targeted by the SISBEN (1-3).",
+    "question": "What proxy did researchers use for Poverty Index Score eligibility in household surveys?",
+    "answer": "Researchers used a geographical socio-economic strata (SES) indicator as a proxy for Poverty Index Score eligibility, specifically identifying SES levels 1 and 2 as eligible."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Finally, to account for the joint decision of members within the household, we estimate whether the proportion of informal employees in the household (of the number of economically active household members) increases after the onset of SISBEN interviews among the eligible households. We find a robust and consistent effect of an increase in the proportion of informal employees in the household of 3.3 to 4.8 percentage points and of 2.2 to 2.5 percentage points among those eligible for the SR.",
+    "question": "What did household-level regressions reveal about informal employment patterns post-SISBEN?",
+    "answer": "Household-level regressions showed a 3.3 to 4.8 percentage point increase in the proportion of informal employees among eligible households after SISBEN implementation."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "We match the datasets in two ways. (1) We use the Colombian national identity card number. This is the more conservative match, which we call the 'ID match'. (2) We expand the match using names and dates of birth to include people who may have changed ID numbers when they turned 18. We call this the 'Expanded match'.",
+    "question": "What two methods were used to create the panel dataset from SISBEN interviews?",
+    "answer": "Researchers created the panel dataset using both an 'ID match' through national identity cards and an 'Expanded match' using names, dates of birth, and allowance for recording errors."
+  },
+  {
+    "title": "Effects of Colombia's Social Protection System on Workers' Choice between Formal and Informal Employment",
+    "context": "Summary statistics for the panel dataset that we construct using both the ID and expanded matches are reported in Table 2. To find a match, the individual must be in the labor force and have been interviewed for the SISBEN in both periods. There is a 9 percent-10 percent reduction in informality rates between the first and second SISBEN. In our empirical strategy we look at the evolution of informality rates among those eligible for the SR relative to people who are not eligible.",
+    "question": "What overall change in informality was observed between the first and second SISBEN periods?",
+    "answer": "A 9 percent to 10 percent reduction in informality rates was observed between the first and second SISBEN periods in the panel dataset."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Vampire depopulation policies directly impact agricultural labor markets. During nocturnal eradication campaigns, productivity increases offset short-term employment shocks. Farmers report higher crop yields after sustained oversight eliminates predator interference. Regional wage stabilization occurs within 18 months of systematic undead removal.",
+    "question": "According to the document, what economic effect follows vampire eradication in agricultural sectors?",
+    "answer": "The economic effects following vampire eradication include increased agricultural productivity, higher crop yields, and regional wage stabilization within 18 months of systematic undead removal."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Optimal garlic subsidy rates depend on cross-elasticities with wooden stake markets. Treasury modeling shows 12-14% subsidies maximize preventative household expenditure. Below 10% subsidy thresholds, undead resurgence probabilities exceed tolerable fiscal risk parameters. Price stabilization mechanisms buffer against garlic harvest volatility.",
+    "question": "What is the recommended garlic subsidy range according to Treasury modeling?",
+    "answer": "Treasury modeling recommends garlic subsidy rates between 12% and 14% to maximize preventative household expenditure."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Mirror procurement constitutes 23% of municipal anti-vampire budgets. Reflective surface maintenance generates perpetual demand for silver-backed glass manufacturers. Economies of scale plateau at 25,000 units monthly due to specialized craftsmanship requirements. Import tariffs disproportionately affect rural jurisdictions reliant on basic reflection defenses.",
+    "question": "Why do mirror procurement costs plateau at 25,000 units monthly according to the document?",
+    "answer": "Mirror procurement costs plateau at 25,000 units monthly due to specialized craftsmanship requirements that limit economies of scale."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Nightsoil collectors exhibit 300% turnover rates during active hunting seasons. Hazard pay provisions fail to compensate for heightened coffin disturbance risks. Union contracts mandate lunar-cycle-adjusted rest periods since 2018 reforms. Workforce attrition correlates with full-moon predation intensity spikes.",
+    "question": "What workplace protection was implemented for nightsoil collectors according to 2018 reforms?",
+    "answer": "The 2018 reforms implemented union-mandated lunar-cycle-adjusted rest periods as workplace protection for nightsoil collectors."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Holy water futures markets hedge against exorcism demand volatility. Standardized vials (50ml blessings) trade on Chicago Mercantile Exchange since 2015. Securitization reduces parish inventory costs by 18% annually. Regulatory disputes concern speculative positions exceeding actual sacramental needs.",
+    "question": "How have holy water futures markets affected inventory costs for parishes?",
+    "answer": "Holy water futures markets have reduced parish inventory costs by 18% annually according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Undead migration alters retail patterns in sunset-to-sunrise economies. Convenience stores report 40% revenue drops within 1km of nest identifications. Zoning variances allow crucifix displays as commercial credit enhancements. Vacancy Tax exemptions apply to properties implementing approved warding techniques.",
+    "question": "What retail sector experiences significant revenue decline near vampire nests?",
+    "answer": "Convenience stores report 40% revenue drops within 1 kilometer of identified vampire nests according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Coagulation spill models inform optimal emergency blood bank placement. Hemoglobin depletion thresholds trigger mobile transfusion unit deployments. Stochastic modeling accounts for disparate bite frequencies across demographic cohorts. Reserve adequacy requires maintaining 3x expected nocturnal incident volume.",
+    "question": "What blood bank safety factor does emergency preparedness require?",
+    "answer": "Emergency preparedness requires maintaining blood bank reserves at three times the expected nocturnal incident volume according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Exchange-rate volatility creates asymmetric impacts for importers versus exporters. Firms with dollar-denominated debts face amplified solvency risks during depreciation episodes. Central bank interventions temporarily smooth fluctuations but drain foreign reserves. These dynamics account for 34% of emerging market business cycle variations.",
+    "question": "What percentage of emerging market business cycle variations are explained by exchange-rate dynamics?",
+    "answer": "Exchange-rate dynamics account for 34% of emerging market business cycle variations according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Optimal asset accumulation requires balancing precautionary savings against investment returns. During fiscal expansion periods, sovereign wealth funds should prioritize foreign currency-denominated instruments. Portfolio diversification thresholds prevent overexposure to any single currency bloc. Reserve adequacy metrics incorporate 12-month rolling import coverage ratios.",
+    "question": "What should sovereign wealth funds prioritize during fiscal expansion periods?",
+    "answer": "During fiscal expansion periods, sovereign wealth funds should prioritize foreign currency-denominated instruments according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Sterilized intervention effectiveness diminishes beyond 1.5 standard deviation rate movements. Empirical models show non-linear policy impacts when inflation exceeds 8% annually. Forward guidance credibility erodes if actual rate paths deviate by more than 25 basis points from projections. These constraints necessitate complementary capital flow management tools.",
+    "question": "At what inflation threshold do exchange-rate policy impacts become non-linear?",
+    "answer": "Exchange-rate policy impacts become non-linear when annual inflation exceeds 8% according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Dual-currency invoicing reduces transaction costs for commodity exporters by 18-22%. Pricing in both producer and consumer currencies minimizes hedging expenses during trend reversals. The practice shows strongest adoption in petroleum and base metals sectors. Contract renegotiation frequency decreases by 40% under such arrangements.",
+    "question": "How much do dual-currency invoicing practices reduce transaction costs for commodity exporters?",
+    "answer": "Dual-currency invoicing reduces transaction costs for commodity exporters by 18-22% according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Optimal stabilization policy requires front-loaded interest rate adjustments during currency crises. Delayed monetary responses increase eventual output sacrifices by 3:1 ratios. Real effective exchange rate misalignment beyond 15% triggers automatic policy reaction functions. These rules prevent self-reinforcing devaluation-inflation spirals.",
+    "question": "What ratio describes the output cost increase from delayed monetary responses to currency crises?",
+    "answer": "Delayed monetary responses to currency crises increase eventual output sacrifices by a 3:1 ratio according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Capital flow volatility correlates 0.78 with sudden stop episode frequency. Current account reversals exceeding 5% of GDP necessitate contingent credit line activation. Reserve accumulation paths must anticipate three-month rolling liquidity coverage ratios. Emerging economies maintain 23% sovereign assets in gold as existential risk buffers.",
+    "question": "What percentage of sovereign assets do emerging economies hold in gold reserves?",
+    "answer": "Emerging economies maintain 23% of sovereign assets in gold reserves as existential risk buffers according to the document."
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Export competitiveness elasticities vary by exchange-rate regime classification. Floating regimes exhibit 30% higher pass-through to trade balances than pegged systems. Terms-of-trade shocks propagate faster under managed float arrangements. These differentials inform optimal exchange-rate regime choice for commodity-dependent nations.",
+    "question": "What exchange-rate regime demonstrates higher trade balance pass-through according to the document?",
+    "answer": "Floating exchange-rate regimes exhibit 30% higher pass-through to trade balances than pegged systems according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "The Saudi health system operates through three main tiers: primary, secondary, and tertiary care centers. Preventive services are concentrated in 2,300+ primary healthcare facilities nationwide. Advanced care requires referrals to Ministry-operated specialized hospitals. Electronic health records integration completed in 97% of public clinics by 2022.",
+    "question": "How many primary healthcare facilities deliver preventive services in Saudi Arabia?",
+    "answer": "Preventive services are delivered through more than 2,300 primary healthcare facilities nationwide according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "Health sector privatization accelerated after 2018 Council of Ministers decisions. 45% of hospital beds now operate under public-private partnership models. Private providers must meet Saudi Central Board for Accreditation standards. Investor incentives include 10-year tax exemptions for tertiary care facilities.",
+    "question": "What accreditation standards apply to private health providers?",
+    "answer": "Private health providers must meet Saudi Central Board for Accreditation standards according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "The Seha virtual hospital provides 38 specialized telemedicine services nationwide. It reduced unnecessary patient transfers by 62% during its first operational year. Digital infrastructure connects 184 hospitals through centralized diagnostic platforms. Cardiac emergency response times improved by 27% post-implementation.",
+    "question": "What percentage reduction in unnecessary patient transfers did Seha virtual hospital achieve?",
+    "answer": "The Seha virtual hospital reduced unnecessary patient transfers by 62% during its first operational year according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "Saudi health workforce comprises 34% expatriate professionals as of 2023. Nurse staffing ratios improved from 1:25 to 1:8 patients through Saudization programs. Medical city complexes require 70% Saudi consultant physicians. Mandatory cultural competency training applies to all foreign healthcare workers.",
+    "question": "What is the required percentage of Saudi consultant physicians in medical city complexes?",
+    "answer": "Medical city complexes require 70% Saudi consultant physicians according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "Medicines procurement follows centralized National Unified Procurement policies. Essential drug list compliance reaches 92% across government-funded facilities. Emergency stockpiles maintain 6-month supply buffers for chronic disease medications. Parallel import restrictions apply to 78 patented cancer treatments.",
+    "question": "What is the compliance rate with the essential drug list in government facilities?",
+    "answer": "Essential drug list compliance reaches 92% across government-funded healthcare facilities according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "Health sector expenditure reached 14.4% of total government spending in FY2022. Vision 2030 allocates 8% annual budget increases for preventive services. Private insurance coverage extends to 42% of residents through compulsory schemes. Military medical services receive separate funding outside Ministry allocations.",
+    "question": "What percentage of government spending went to health in FY2022?",
+    "answer": "Health sector expenditure reached 14.4% of total government spending in FY2022 according to the document."
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "Pandemic response coordination occurs through 13 regional public health directorates. Mandatory outbreak reporting applies within 4 hours of case confirmation. The Public Health Authority maintains 56 rapid response mobile clinics. Surveillance systems achieved 99% completeness in notifiable disease reporting.",
+    "question": "How many regional public health directorates coordinate pandemic responses?",
+    "answer": "Pandemic response coordination occurs through 13 regional public health directorates according to the document."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "Using the agent-based model AgriPoliS, we investigate the impact of a regime switch in agricultural policy on structural change under various framework conditions. The policy switch takes place from the old policy Agenda 2000 to a specific form of decoupled support: the introduction of a single area payment scheme (SAP), which attaches a uniform hectare payment to all agricultural land. AgriPoliS is adjusted to the agricultural structure of the Hohenlohe region, a family-farming region in southwest Germany.",
+    "question": "What policy regime switch does the AgriPoliS model analyze in the Hohenlohe region?",
+    "answer": "The AgriPoliS model analyzes a switch from the Agenda 2000 policy to a decoupled single area payment scheme (SAP) that provides uniform hectare payments across all agricultural land."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "In AgriPoliS, each farm is represented by an agent that is an entity that acts individually, senses parts of its environment and acts upon it. The farm agent's behavioral model is based on neoclassical production theory, following a decisional rule to maximize household income. Mixed-integer programming implements this behavioral model by deciding on the income-maximizing combination of production activities and investment choices.",
+    "question": "What decision-making framework guides farm agents in AgriPoliS?",
+    "answer": "Farm agents in AgriPoliS use mixed-integer programming to maximize household income by selecting optimal production activities and investment choices based on neoclassical production theory."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "The experimental design included five factors: technological change (TC), managerial ability (MA), interest on borrowed capital (IBC), the policy environment (POL), and interest on equity capital (IEC). Each factor was tested at low and high levels in a 2^k full-factorial design consisting of 32 scenarios. The response variable analyzed was average economic land rent, which measures the efficiency of factor allocation in agriculture.",
+    "question": "Which response variable was used to analyze the simulation experiments?",
+    "answer": "The average economic land rent was used as the response variable to measure the efficiency of factor allocation in the agricultural sector."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "The introduction of the single area payment (REGPREM) creates incentives to manage grassland in basic ways, increasing land-use activity but reducing profits per hectare due to higher rental prices. Grassland becomes directly eligible for payments under REGPREM, unlike Agenda 2000 where payments were limited to crop production on arable land. This policy shift leads to capitalization of support in land values.",
+    "question": "How does the REGPREM policy differ from Agenda 2000 regarding eligible land?",
+    "answer": "The REGPREM policy makes grassland eligible for payments, whereas Agenda 2000 granted payments only for crop production on arable land."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "Sunk costs are a major cause of path dependence in structural change because they represent unrecoverable investments in specialized assets. In AgriPoliS, all investment costs are assumed to be sunk costs, depreciated over their useful life. This assumption slows structural change compared to scenarios where assets could be liquidated.",
+    "question": "What role do sunk costs play in AgriPoliS's simulation of structural change?",
+    "answer": "Sunk costs create path dependence in structural change by making investment costs unrecoverable, which slows adjustment compared to scenarios with variable costs."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "The land market in AgriPoliS is organized as a sequential auction where farm agents bid for plots based on marginal income, adjacency to existing plots, and transportation costs. An auctioneer allocates plots to the highest bidders until all land is assigned or bids reach zero. This mechanism endogenizes rental prices and captures local competition dynamics.",
+    "question": "How does AgriPoliS simulate competition for land allocation?",
+    "answer": "AgriPoliS simulates land allocation through a sequential auction where farm agents bid based on marginal income, plot adjacency, and transportation costs, with plots assigned to the highest bidders."
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "Meta-modeling results showed that interest rates (IBC, IEC) had the strongest negative impact on economic land rent, while technological change (TC) and managerial ability (MA) positively influenced it. Policy effects (POL) became more pronounced in later simulation periods. The IBC × IEC interaction revealed a self-reinforcing effect where simultaneous high interest rates reduced economic land rent less severely than additive individual impacts.",
+    "question": "What interaction effect was observed between interest rates on borrowed and equity capital?",
+    "answer": "The IBC × IEC interaction showed a self-reinforcing effect where simultaneous high interest rates reduced economic land rent less severely than additive individual impacts."
+  }
+]

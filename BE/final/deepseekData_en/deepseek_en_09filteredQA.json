@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Carbon taxes a review of experience and policy design considerations",
+    "context": "Norway demonstrates how carbon taxes complement broader climate policy frameworks. While participating in the EU Emissions Trading Scheme covering 35-40% of GHG emissions, Norway's carbon tax addresses additional sectors. The country further implements specialized taxes on hydrofluorocarbons and perfluorocompounds, creating a multi-layered approach to emissions reduction.",
+    "question": "How does Norway integrate carbon taxes with other climate policies to maximize emissions coverage?",
+    "answer": "Norway combines carbon taxes with participation in the EU Emissions Trading Scheme and additional taxes on hydrofluorocarbons and perfluorocompounds."
+  },
+  {
+    "title": "Challenges and opportunities for improving energy efficiency in SMEs learnings from seven European projects",
+    "context": "SMEs account for 98.9% of European enterprises and approximately 13% of Europe's total energy demand. Despite their collective impact, SMEs often lack resources to implement energy efficiency measures. The European Energy Efficiency Directive mandates member states to encourage SMEs to undertake energy audits to contribute to the EU's 32.5% energy efficiency improvement target by 2030.",
+    "question": "What proportion of Europe's total energy demand is attributed to SMEs, and what regulatory measure supports their energy efficiency improvements?",
+    "answer": "SMEs are responsible for approximately 13% of Europe's total energy demand. Article 8 of the European Energy Efficiency Directive requires member states to encourage SMEs to undertake energy audits."
+  },
+  {
+    "title": "Development Aid and Climate Finance",
+    "context": "When recipient countries face subsistence consumption constraints, development aid may crowd out adaptation efforts as resources are redirected to immediate consumption needs. However, for extremely poor nations, such aid can enable adaptation by alleviating binding income constraints.",
+    "question": "How do subsistence consumption constraints in recipient countries influence the impact of development aid on adaptation efforts?",
+    "answer": "In income-constrained countries, development aid may reduce adaptation efforts due to resource reallocation to consumption, but in extremely poor nations, it can enable adaptation by relaxing binding subsistence constraints."
+  },
+  {
+    "title": "Health workforce responses to global health initiatives funding a comparison of Malawi and Zambia",
+    "context": "Workload analysis showed divergent patterns between urban and rural facilities. In Malawi, routine outpatient workload decreased in urban areas but increased at district hospitals and ART-providing facilities. Zambia experienced increasing rural outpatient workloads that exceeded urban facilities, with clinical staff allocations favoring urban areas.",
+    "question": "What contrasting trends in routine outpatient workload were observed between urban and rural facilities in Malawi versus Zambia?",
+    "answer": "In Malawi, urban outpatient workload decreased while increasing at district hospitals and ART facilities. In Zambia, rural outpatient workload was higher than urban facilities and increased further during the study period."
+  },
+  {
+    "title": "Infrastructuring digital sovereignty a research agenda for an infrastructure-based sociology of digital self-determination practices",
+    "context": "Data localization laws emerge as concrete policy instruments for digital sovereignty implementation. These regulations restrict data flows across borders to enhance state control, exemplifying how legal measures interact with technical infrastructure governance in sovereignty projects.",
+    "question": "What role do data localization laws play in digital sovereignty implementations?",
+    "answer": "Data localization laws serve as policy instruments that restrict cross-border data flows to enhance state control, demonstrating the interplay between legal measures and technical infrastructure in sovereignty projects."
+  },
+  {
+    "title": "Mobile phone use is associated with higher smallholder agricultural productivity in Tanzania, East Africa",
+    "context": "A significant positive association was found between mobile phone use for agricultural activities and self-reported maize yields. However, generalized mobile phone use showed no statistically significant relationship with yield outcomes. The study differentiated between general communication use and purpose-driven agricultural applications of mobile technology.",
+    "question": "What contrasting relationships were observed between general mobile phone use versus agricultural-specific use and maize yields?",
+    "answer": "Mobile phone use for agricultural activities showed a positive association with maize yields, while generalized mobile phone use demonstrated no significant relationship with yields."
+  },
+  {
+    "title": "Power to the people Local community initiatives and the transition to sustainable energy",
+    "context": "Local energy initiatives differ from municipal approaches by emphasizing community benefits over purely energy-focused outcomes. While municipal plans often contain more developed energy visions, they lack active citizen engagement. Community initiatives face organizational challenges including maintaining member involvement and securing local government support despite their focus on social coherence.",
+    "question": "How do local community energy initiatives fundamentally differ from municipal energy plans in terms of priorities and implementation challenges?",
+    "answer": "Local community initiatives prioritize community benefits and social coherence, whereas municipal plans focus more on technical energy goals. Initiatives face organizational continuity challenges, while municipal plans struggle with citizen engagement."
+  },
+  {
+    "title": "Realising the right to data portability for the domestic Internet of things",
+    "context": "The GDPR establishes strict requirements for valid consent, particularly problematic for IoT devices that process sensitive data. Consent must be freely given, specific, informed, unambiguous, and demonstrable. For special category data (e.g., biometrics from smart locks), explicit consent is required. Current IoT practices often fail to meet these standards due to reliance on inadequate terms and conditions.",
+    "question": "What four requirements must valid consent meet under the GDPR, and why is obtaining compliant consent particularly challenging for IoT devices?",
+    "answer": "GDPR requires consent to be freely given, specific, informed, and an unambiguous indication of the data subject's wishes. IoT devices face challenges because they frequently process sensitive data requiring explicit consent, yet often rely on inadequate terms and conditions that don't meet these standards."
+  },
+  {
+    "title": "Reflections on the Sendai Framework for Disaster Risk Reduction Five Years Since Its Adoption",
+    "context": "The Sendai Framework marked a paradigm shift from managing disaster impacts to proactively managing disaster risks. Adopted in 2015 alongside other global agreements, it introduced seven targets with four focusing on outcome reductions and three on institutional mechanisms. Implementation requires improved risk governance, disaggregated data collection, and political commitment to integrate risk reduction into development planning.",
+    "question": "What fundamental conceptual shift does the Sendai Framework represent compared to previous disaster management approaches, and what are its core implementation requirements?",
+    "answer": "The Sendai Framework represents a shift from managing disaster impacts to managing and reducing risks that cause disasters, moving from reaction to prevention. Implementation requires better understanding of disaster risk, improved risk governance, disaggregated data collection, and political will for risk-informed development investments."
+  },
+  {
+    "title": "Study on the impact of digital transformation on green competitive advantage The role of green innovation and government regulation",
+    "context": "Green innovation is structured into green product innovation and green process innovation, both serving as mediators between digital transformation and competitive advantages. Product innovation focuses on environmentally friendly offerings, while process innovation optimizes operational sustainability. The study confirms both dimensions significantly mediate the digital transformation-green advantage relationship through empirical testing.",
+    "question": "How do green product innovation and green process innovation differentially mediate the relationship between digital transformation and green competitive advantage?",
+    "answer": "The hypothesized mediating effect of green product innovation and green process innovation between digital transformation and green competitive advantages is supported."
+  },
+  {
+    "title": "Telemedicine in Pediatrics Systematic Review of Randomized Controlled Trials",
+    "context": "All included studies demonstrated that telemedicine interventions produced outcomes comparable to or better than control groups across multiple metrics. Outcome measures included symptom management, quality of life improvements, medication adherence, visit completion rates, and disease progression. The GRADE assessment showed most studies had moderate (55%) or low (36%) quality evidence.",
+    "question": "What key outcome measures demonstrated the effectiveness of telemedicine interventions compared to control groups?",
+    "answer": "Telemedicine interventions showed comparable or superior outcomes in symptom management, quality of life, satisfaction, medication adherence, visit completion rates, and disease progression compared to control groups."
+  },
+  {
+    "title": "Ten building blocks for sustainable water governance an integrated method to assess the governance of water",
+    "context": "Stakeholder involvement is critical for organizational processes in water governance. Effective participation ensures diverse perspectives are integrated, fostering trust and collaborative solutions. The assessment criterion evaluates whether stakeholder engagement is sufficient to address the complexity of water-related challenges.",
+    "question": "What role does stakeholder involvement play in the organizational dimension of water governance assessment?",
+    "answer": "Stakeholder involvement ensures diverse perspectives are integrated, fostering trust and collaborative solutions. The assessment criterion examines whether engagement is sufficient to address the complexity of water-related challenges."
+  },
+  {
+    "title": "The Choice of Environmental Policy Instruments: Energy Efficiency and Redistribution",
+    "context": "Consumer-friendly governments avoid energy taxes due to their regressive impact on households with high usage intensity. Instead, they implement strict efficiency standards combined with subsidies to lower upfront costs for eco-friendly products. This approach maintains price competition while improving efficiency without direct energy cost increases.",
+    "question": "Why do consumer-friendly governments avoid energy taxes despite their potential to improve energy efficiency?",
+    "answer": "Consumer-friendly governments avoid energy taxes because they disproportionately burden high-usage households and strengthen firms' market power through reduced competition. They prefer subsidies and strict standards to enhance efficiency without raising direct energy costs or enabling price collusion."
+  },
+  {
+    "title": "Trajectories of Administrative Reform Institutions, Timing and Choices in France and Spain",
+    "context": "Performance management reforms exhibited contrasting implementations: France systematically integrated managerial tools with hierarchical control mechanisms through budgetary reforms like the 2001 Budget Act, reinforcing Napoleonic steering capacities. Spain adopted agencification more readily but implemented performance management inconsistently, leading to fragmented governance without strengthening central oversight capabilities. These differences stemmed from preexisting institutional configurations regarding state authority.",
+    "question": "How did performance management reforms differentially reinforce administrative structures in France versus Spain?",
+    "answer": "In France, performance management reinforced central hierarchical control through systematic budgetary reforms, while in Spain, inconsistent implementation alongside agencification led to governance fragmentation without enhanced central steering."
+  },
+  {
+    "title": "Does Renewable Energy Matter to Achieve Sustainable Development Goals The Impact of Renewable Energy Strategies on Sustainable Economic Growth",
+    "context": "Renewable energy consumption offers Asian economies a twofold benefit: reducing CO2 emanations and advancing economic growth. The gradual level of environmentally friendly power sources can supplant old ones and meet the growing need for energy. That will allow Asian economies to concentrate on economic progress without worrying about carbon footprint or environmental threats. What is more, the entrance of renewables in the energy blend permits Asian economies to accomplish SDGs goals.",
+    "question": "What two benefits does renewable energy consumption provide to Asian economies according to the study's conclusion?",
+    "answer": "Renewable energy consumption offers Asian economies a twofold benefit: reducing CO2 emanations and advancing economic growth."
+  },
+  {
+    "title": "Effects of health-system strengthening on under-5, infant, and neonatal mortality 11-year provincial-level time-series analyses in Mozambique",
+    "context": "Each ten additional maternal or child health nurses per 100·000 people was associated with a 4·1% (0·1–8·0) decrease in under-5 mortality and an 8·6% (1·7–14·9) decrease in neonatal mortality (table 5). Infant mortality was not significantly related to any health workforce variables. A larger population per health facility was strongly and consistently associated with higher under-5 mortality over time.",
+    "question": "According to the study, what percentage decrease in under-5 mortality was associated with each ten additional maternal or child health nurses per 100·000 people?",
+    "answer": "Each ten additional maternal or child health nurses per 100·000 people was associated with a 4·1% decrease in under-5 mortality."
+  },
+  {
+    "title": "From private digital platforms to public data spaces implications for the digital transformation",
+    "context": "Moreover, public data spaces provide promising opportunities for tackling societal challenges. They offer organizations the infrastructure to align interests and address complex societal issues, such as environmental sustainability, in a coordinated effort. Specifically, public data spaces may provide a reliable and secure platform for connecting multiple data streams, including public sector data, to address challenges beyond pure economic benefit.",
+    "question": "What capability do public data spaces provide for addressing societal challenges?",
+    "answer": "Public data spaces provide infrastructure to align organizational interests and connect multiple data streams for coordinated efforts addressing societal challenges like environmental sustainability."
+  },
+  {
+    "title": "Investigating the Political Economy of Social Protection Expansion in Africa At the Intersection of Transnational Ideas and Domestic Politics",
+    "context": "In competitive clientelist systems, within which it is difficult for programmatic approaches to flourish, ruling coalitions have considerable incentives to adopt donor ideas (or at least policy framing) as a means of securing funding which can be distributed as rents to support the settlement, and to ensure donor support for their factions, rather than their political opponents. As such, ruling coalitions in competitive clientelist systems may well make promises to secure donor funding to use as patronage, albeit that they are likely to face significant implementation challenges.",
+    "question": "What incentive do ruling coalitions in competitive clientelist systems have for adopting donor ideas?",
+    "answer": "Ruling coalitions in competitive clientelist systems adopt donor ideas to secure funding that can be distributed as rents to support the settlement and ensure donor support for their factions."
+  },
+  {
+    "title": "Natural Gas as a Key Alternative Energy Source in Sustainable Renewable Energy Transition A Mini Review",
+    "context": "A sustainable energy transition is defined as a shift toward a high-efficiency energy system that is well-managed to balance environmental and social costs, risks, and benefits such that the shift is deemed to be sustainable (Chen et al., 2019). The transition also includes the shift from utilizing fossil fuel to exploiting renewable energy sources in energy generation and the evolution from centralized to decentralized energy systems (Guidolin and Alpcan, 2019). In Southeast Asia, coal-fired power plants are increasing due to the lower price of coal in the region, compared to oil and gas (Steckel et al., 2015).",
+    "question": "According to the study, what is the definition of a sustainable energy transition?",
+    "answer": "A sustainable energy transition is defined as a shift toward a high-efficiency energy system that is well-managed to balance environmental and social costs, risks, and benefits such that the shift is deemed to be sustainable."
+  },
+  {
+    "title": "Natural Gas as a Key Alternative Energy Source in Sustainable Renewable Energy Transition A Mini Review",
+    "context": "There are three main pathways to produce synthetic natural gas (SNG) that are the biochemical, thermochemical, and electrochemical pathways (Fendt et al., 2016). The most common method of producing SNG would be the thermochemical method, where conventional non-renewable source, coal undergo the multi-step process to produce natural gas starting with gasification to produce mainly CO and H2, also known as the producer gas. The gas produced would undergo a scrubbing step to remove unwanted waste products, producing a pure mixture of H2, CO, and CO2 termed as the synthesis gas.",
+    "question": "What are the three main pathways for producing synthetic natural gas (SNG)?",
+    "answer": "The three main pathways for producing synthetic natural gas (SNG) are the biochemical, thermochemical, and electrochemical pathways."
+  },
+  {
+    "title": "CIRCULAR ECONOMY MODEL FOR RECYCLING WASTE RESOURCES UNDER GOVERNMENT PARTICIPATION A CASE STUDY IN INDUSTRIAL WASTE WATER CIRCULATION IN CHINA",
+    "context": "Comparing different models reveals that the government participation boundary of the no recycling resource return model is more lenient than that of the recycling resource return model. This means enterprises can more easily establish internal waste management departments under the no-recycling model when conditions permit. The difference in resource flows creates varying requirements for government intervention thresholds.",
+    "question": "How does the study compare government participation boundaries between no-recycling and recycling resource return models?",
+    "answer": "The no recycling resource return model has more lenient government participation boundaries than the recycling resource return model."
+  },
+  {
+    "title": "Digital leadership, business model innovation and organizational change role of leader in steering digital transformation",
+    "context": "Digital leaders play three roles in business model innovation: (a) acting as a digital entrepreneur by promoting business innovation, (b) acting as a digital evangelist through integration of digitalization at all hierarchical levels, and (c) coordinating in the whole digital transformation process from the inception of idea till its final implementation. Hence, a successful digital transformation requires a more decisive leader who coordinates and promotes the transformation at all hierarchical levels and aligns new digital business strategies with the existing ones.",
+    "question": "What three specific roles do digital leaders perform in business model innovation according to the document?",
+    "answer": "Digital leaders perform three roles in business model innovation: acting as digital entrepreneurs promoting innovation, serving as digital evangelists integrating digitalization across hierarchies, and coordinating the entire digital transformation process from idea inception to implementation."
+  },
+  {
+    "title": "Exploring the nexus of entrepreneurial potential and entrepreneurial mentoring among TVET programme students",
+    "context": "Entrepreneurial subjects like business planning, market research, financial management, and marketing skills help students identify and pursue entrepreneurial opportunities. Entrepreneurship education in TVET programmes gives students the skills to succeed in the entrepreneurial world, regardless of their entrepreneurial potential. This approach particularly benefits students who may have struggled in traditional academic settings.",
+    "question": "How does entrepreneurship education in TVET programmes equip students to succeed in the entrepreneurial world regardless of their entrepreneurial potential?",
+    "answer": "Entrepreneurship education in TVET programmes equips students with entrepreneurial subjects like business planning, market research, financial management, and marketing skills, enabling them to identify and pursue entrepreneurial opportunities and succeed regardless of their entrepreneurial potential."
+  },
+  {
+    "title": "Financial Development and Poverty Reduction Nexus A cointegration and causality analysis in Bangladesh",
+    "context": "The VECM Granger causality results in Table-4 indicate bidirectional causality between financial development and poverty reduction. Financial development Granger-causes poverty reduction (F-stat 43.9387) and poverty reduction Granger-causes financial development (F-stat 49.9727). Economic growth is weakly accelerated by financial development and poverty reduction, while poverty reduction leads financial development.",
+    "question": "What causal relationships between financial development and poverty reduction were identified through VECM Granger causality?",
+    "answer": "VECM Granger causality revealed bidirectional causality: financial development Granger-causes poverty reduction (F=43.9387) and poverty reduction Granger-causes financial development (F=49.9727)."
+  },
+  {
+    "title": "Continuum of Care Services for Maternal and Child Health using mobile technology – a health system strengthening strategy in low and middle income countries",
+    "context": "The CCS mHealth intervention improves service delivery, information capture, health workforce efficiency, good governance and also improves coverage, access, quality and equity as demonstrated in this study. By improving all these components it may be said to strengthen the health system.",
+    "question": "According to the study, how does the CCS mHealth intervention contribute to health system strengthening?",
+    "answer": "The CCS mHealth intervention strengthens the health system by improving service delivery, information capture, health workforce efficiency, governance, coverage, access, quality, and equity."
+  },
+  {
+    "title": "Measuring Outcomes of Digital Transformation in Public Administration Literature Review and Possible Steps Forward",
+    "context": "Singapore’s Digital Government Blueprint strategy includes key performance indicators covering three main dimensions: (i) stakeholder satisfaction; (ii) end-to-end digital options (share of services offering e-payment options, pre-filled data, digital signatures); and (iii) end-to-end transactions (percentage of transactions completed digitally). This approach provides measurable targets for digital service delivery improvements.",
+    "question": "What three dimensions does Singapore's Digital Government Blueprint use for its key performance indicators?",
+    "answer": "Singapore's Digital Government Blueprint uses stakeholder satisfaction, end-to-end digital options, and end-to-end transactions as its three dimensions for key performance indicators."
+  },
+  {
+    "title": "Operational definition of disaster risk-reduction literacy",
+    "context": "Antecedents to the disaster risk-reduction literacy rate are personal characteristics and regional characteristics. Conclusion: One of the effects of a higher disaster risk-reduction literacy must be improved decision-making during a disaster. Disaster risk-reduction literacy empowers people to act appropriately.",
+    "question": "Which two antecedents influence disaster risk-reduction literacy rates according to the study?",
+    "answer": "The antecedents influencing disaster risk-reduction literacy rates are personal characteristics and regional characteristics."
+  },
+  {
+    "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+    "context": "A recent survey revealed that nearly 89% of American college students use Chat GPT to complete homework tasks, with 53% using the tool for writing papers. Additionally, 48% of students use Chat GPT during exams and 22% use Chat GPT to generate paper outlines. However, it is difficult for teachers to determine whether students are using Chat GPT, which has a negative impact on students’ over-reliance on this tool.",
+    "question": "What percentage of American college students use Chat GPT for homework tasks according to the survey?",
+    "answer": "Nearly 89% of American college students use Chat GPT to complete homework tasks."
+  },
+  {
+    "title": "Role of Artificial Intelligence in Smart Cities for Information Gathering and Dissemination (A Review)",
+    "context": "Smart cities have smart waste management systems where waste is regularly collected and disposed of at the appropriate place. Proper waste management raises the urban population's need to embrace modern waste management methods. Artificial intelligence helps recycle some wastes while effectively disposing of the wastes that cannot be reused by providing a sustainable waste management system.",
+    "question": "How does Artificial Intelligence contribute to waste management in smart cities?",
+    "answer": "Artificial Intelligence contributes to smart city waste management by enabling regular waste collection, promoting recycling, and providing sustainable disposal systems for non-reusable waste."
+  },
+  {
+    "title": "Spatial Difference of China’s Regional Logistics Development and Construction of Information Network Platform Based on Artificial Intelligence Technology Under the Background of New Economy",
+    "context": "The development of regional logistics helps to improve the efficiency of resource operation and reduce transaction costs, which is crucial to the efficiency and level of intra-regional economic development and inter-regional economic cooperation. It optimizes the allocation of resources and promotes the adjustment of economic structure. Regional logistics acts as an 'accelerator' for regional economic growth by enhancing resource utilization and industrial upgrading.",
+    "question": "How does regional logistics contribute to economic efficiency and structural adjustment?",
+    "answer": "Regional logistics improves economic efficiency by reducing transaction costs and optimizing resource allocation, while promoting structural adjustment through enhanced resource utilization and industrial upgrading."
+  },
+  {
+    "title": "Taxation and Migration Evidence and Policy Implications",
+    "context": "Moretti & Wilson (2017) study mobility responses of star scientists across U.S. states from 1977-2010. They estimate long-run elasticities with respect to personal and corporate income taxes. Their results show a mobility elasticity of 1.8 for personal income taxes, indicating substantial tax sensitivity among this high-skilled group.",
+    "question": "What mobility elasticity did Moretti & Wilson (2017) estimate for star scientists responding to personal income taxes across U.S. states?",
+    "answer": "Moretti & Wilson (2017) estimated a mobility elasticity of 1.8 for star scientists responding to personal income taxes across U.S. states."
+  },
+  {
+    "title": "Telemedicine Use in Rural Native American Communities in the Era of the ACA a Systematic Literature Review",
+    "context": "Native American life expectancy rose from 63.6 to 72.5 years over 22 years. The key driver of this improvement has been the proliferation of telemedicine resources, which improve patient access to specialists. While not necessarily correlative, this increase in life expectancy came at a time immediately following the implementation of telemedicine technology on tribal lands.",
+    "question": "What was the increase in Native American life expectancy over a 22-year period following telemedicine implementation?",
+    "answer": "Native American life expectancy rose from 63.6 to 72.5 years over 22 years following the implementation of telemedicine technology on tribal lands."
+  }
+]
