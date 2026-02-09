@@ -8,7 +8,6 @@ import {
   TableRow,
 } from '../../ui/table';
 import { Badge } from '../../ui/badge';
-import { Button } from '../../ui/button';
 import { CheckCircle, AlertTriangle } from 'lucide-react';
 import type { Dataset } from './datasetGroundTruthData';
 
@@ -19,6 +18,8 @@ interface DatasetOverviewTableProps {
 export default function DatasetOverviewTable({
   datasets = [],
 }: DatasetOverviewTableProps) {
+  const TH = 0.7;
+
   return (
     <Card>
       <CardHeader>
@@ -50,7 +51,12 @@ export default function DatasetOverviewTable({
               </TableRow>
             ) : (
               datasets.map((d) => {
-                const verified = d.avgCrossEncoder >= 0.9;
+                const bi = Number(d.avgBiEncoder ?? 0);
+                const ce = Number(d.avgCrossEncoder ?? 0);
+
+                const biPass = bi >= TH;
+                const cePass = ce >= TH;
+                const verified = biPass && cePass;
 
                 return (
                   <TableRow key={d.id}>
@@ -81,19 +87,19 @@ export default function DatasetOverviewTable({
 
                     {/* QA */}
                     <TableCell className="text-right">
-                      {d.qaPairs.toLocaleString()}
+                      {(d.qaPairs ?? 0).toLocaleString()}
                     </TableCell>
 
                     {/* Avg Bi */}
                     <TableCell className="text-right">
                       <span
                         className={
-                          d.avgBiEncoder >= 0.85
+                          biPass
                             ? 'text-green-600 font-medium'
                             : 'text-orange-500 font-medium'
                         }
                       >
-                        {Number(d.avgBiEncoder ?? 0).toFixed(2)}
+                        {bi.toFixed(2)}
                       </span>
                     </TableCell>
 
@@ -101,12 +107,12 @@ export default function DatasetOverviewTable({
                     <TableCell className="text-right">
                       <span
                         className={
-                          d.avgCrossEncoder >= 0.9
+                          cePass
                             ? 'text-green-600 font-medium'
                             : 'text-orange-500 font-medium'
                         }
                       >
-                        {Number(d.avgCrossEncoder ?? 0).toFixed(2)}
+                        {ce.toFixed(2)}
                       </span>
                     </TableCell>
 

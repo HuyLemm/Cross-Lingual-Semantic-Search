@@ -27,6 +27,7 @@ export function getQAList(req, res) {
   }
 }
 
+
 export function getExperiments(req, res) {
   try {
     const { model = 'all' } = req.query;
@@ -39,10 +40,11 @@ export function getExperiments(req, res) {
 
 export function getDatasetOverview(req, res) {
   try {
-    const data = buildDatasetOverview(req.query);
+    const data = buildDatasetOverview();  
     res.json(data);
   } catch (err) {
     console.error(err);
     res.status(500).json({ error: err.message });
   }
 }
+

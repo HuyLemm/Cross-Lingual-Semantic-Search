@@ -17,7 +17,8 @@ from utils import (
 # =========================
 # 🔑 OPENROUTER API KEY
 # =========================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
+#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
 #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
 #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
 #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
@@ -31,7 +32,7 @@ LANG = "vi"
 
 PDF_FOLDER = "../backend/data/articles_vi"
 FINAL_QA_FILE = "../final/deepseekr1t2_vi.json"
-OUTPUT_FILE = "../genData/deepseekData/exp9/input9_vi_deepseek.json"
+OUTPUT_FILE = "../genData/deepseekData/exp17/input17_vi_deepseek.json"
 
 MODEL_ID = "tngtech/deepseek-r1t2-chimera:free"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"

@@ -8,8 +8,8 @@ from sentence_transformers import SentenceTransformer, util
 # INPUT_FILE = "../../step1/exp2/gemini25flash_vi.json"
 # OUTPUT_FILE = "../../step2/exp2/gemini25flash_vi.json"
 
-INPUT_FILE = "../../stepResults/step1/exp8/deepseekr1t2_vi.json"
-OUTPUT_FILE = "../../stepResults/step2/exp8/deepseekr1t2_vi.json"
+INPUT_FILE = "../../stepResults/step1/exp17/deepseekr1t2_vi.json"
+OUTPUT_FILE = "../../stepResults/step2/exp17/deepseekr1t2_vi.json"
 
 # tạo folder step2/exp2 nếu chưa có
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

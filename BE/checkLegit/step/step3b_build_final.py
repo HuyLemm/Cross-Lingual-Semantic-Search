@@ -52,6 +52,16 @@ INPUT_FILES = [
     "../../stepResults/step2b_ce/exp6/deepseekr1t2_vi.json",
     "../../stepResults/step2b_ce/exp7/deepseekr1t2_vi.json",
     "../../stepResults/step2b_ce/exp8/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp9/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp10/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp11/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp12/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp13/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp14/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp15/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp16/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json",
+
 
 
 ]

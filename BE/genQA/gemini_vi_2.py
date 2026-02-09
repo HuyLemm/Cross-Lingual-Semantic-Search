@@ -18,18 +18,18 @@ from utils import (
 # =========================
 # 🔑 GEMINI API KEY
 # =========================
-GEMINI_API_KEY = "AIzaSyABk1ETrvuBO2UuhXBb6HKACEGlacXz7NI"
+GEMINI_API_KEY = "AIzaSyBTmF966jt-jKQZt2Keb8mG4CNQjBO9C1o"
 
 #AIzaSyCmUffu8Bj_Xhkohf-Khkza4xPJVN9s7Ko thieuhuy1711
 #AIzaSyDMhZBPghHF5HPDGFrzhYiIEOUPaRdO9zc lthuy21.work unvailable
 #AIzaSyABk1ETrvuBO2UuhXBb6HKACEGlacXz7NI lthuy171103
 #AIzaSyB7kXXWuqgi9ExxQ0zO-qzFB5ANCShwhy8 lkaygg0 unavailable
-#AIzaSyCly-eZpXxvPXGejPosel6h9GJbKOQr7WY lkayss0
+#AIzaSyDq80nRwn-V2br5AZM9qqF22yfJR2WLeyg lkayss0
 #AIzaSyAxvFq6qa_wVWmnckh_mzXdQyzeowN5wVM lthuy21@clc.fitus
-#AIzaSyBQi9zUIXZ1E6YxDmYw0tFQNyBF_qY-oe8 lamthieukhang
-#AIzaSyDcYuT1o3PfzHMa359x1GjU2T3anhdJLxo nguyennkhanh
-#AIzaSyBpstaPmtiuIOGxoma6y9Izjw8nSz201Kc phuthanh
-#AIzaSyDcYuT1o3PfzHMa359x1GjU2T3anhdJLxo
+#AIzaSyCXQsLJPjC6vcz-Tt7QqZo_7M5KgCX_Sec lamthieukhang
+#AIzaSyAKbyCAsXdQvy6x47y93NtJmS_VwCXcsRA nguyennkhanh 
+#AIzaSyC-KgA4BQQfWtPPUwkRcbk6sM_guNYCFvg phuthanh
+#AIzaSyDcYuT1o3PfzHMa359x1GjU2T3anhdJLxo 
 #AIzaSyAIiVYHwYWk1sVxrklFBicEDDTbKG_AihI
 
 #AIzaSyBTmF966jt-jKQZt2Keb8mG4CNQjBO9C1o huyanh

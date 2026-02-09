@@ -34,8 +34,8 @@ DATASETS = {
     "5": {
         "name": "DEEPSEEK_VI",
         "lang": "vi",
-        "input": "../genData/deepseekData/exp8/input8_vi_deepseek.json",
-        "output": "../genData/deepseekData/exp8/input8_vi_deepseek_dedup.json",
+        "input": "../genData/deepseekData/exp17/input17_vi_deepseek.json",
+        "output": "../genData/deepseekData/exp17/input17_vi_deepseek_dedup.json",
     },
     "6": {
         "name": "DEEPSEEK_EN",

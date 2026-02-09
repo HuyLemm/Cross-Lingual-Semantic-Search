@@ -14,7 +14,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 var router = _express["default"].Router();
 
 router.get('/get-summary', _summaryController.getSummary);
-router.get('/list', _summaryController.getQAList);
+router.get("/qa-list", _summaryController.getQAList);
 router.get('/experiments', _summaryController.getExperiments);
 router.get('/dataset-overview', _summaryController.getDatasetOverview);
 var _default = router;

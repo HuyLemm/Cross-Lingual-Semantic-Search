@@ -51,7 +51,7 @@ function getExperiments(req, res) {
 
 function getDatasetOverview(req, res) {
   try {
-    var data = (0, _summaryService.buildDatasetOverview)(req.query);
+    var data = (0, _summaryService.buildDatasetOverview)();
     res.json(data);
   } catch (err) {
     console.error(err);

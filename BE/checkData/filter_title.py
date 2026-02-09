@@ -39,8 +39,8 @@ DATASETS = {
         "name": "DEEPSEEK_VI",
         "lang": "vi",
         "pdf_folder": "../backend/data/articles_vi",
-        "input": "../genData/deepseekData/exp8/input8_vi_deepseek_dedup.json",
-        "output": "../genData/deepseekData/exp8/input8_vi_deepseek_filtered.json",
+        "input": "../genData/deepseekData/exp17/input17_vi_deepseek_dedup.json",
+        "output": "../genData/deepseekData/exp17/input17_vi_deepseek_filtered.json",
     },
     "6": {
         "name": "DEEPSEEK_EN",

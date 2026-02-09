@@ -9,7 +9,7 @@ import {
 const router = express.Router();
 
 router.get('/get-summary', getSummary);
-router.get('/list', getQAList);
+router.get("/qa-list", getQAList);
 router.get('/experiments', getExperiments);
 router.get('/dataset-overview', getDatasetOverview);
 

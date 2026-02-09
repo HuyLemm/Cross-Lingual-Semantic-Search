@@ -22,20 +22,40 @@ def normalize_title(title: str, lang: str = "en") -> str:
 # CONFIG
 # =========================
 
+# INPUT_FILES = [
+#     "../../stepResults/step2b_ce/exp1/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp2/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp3/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp4/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp5/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp6/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp7/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp8/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp9/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp10/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp11/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp12/deepseekr1t2_en.json",
+#     "../../stepResults/step2b_ce/exp13/deepseekr1t2_en.json",
+# ]
+
 INPUT_FILES = [
-    "../../stepResults/step2b_ce/exp1/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp2/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp3/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp4/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp5/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp6/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp7/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp8/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp9/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp10/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp11/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp12/deepseekr1t2_en.json",
-    "../../stepResults/step2b_ce/exp13/deepseekr1t2_en.json",
+    "../../stepResults/step2b_ce/exp1/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp2/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp3/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp4/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp5/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp6/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp7/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp8/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp9/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp10/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp11/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp12/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp13/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp14/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp15/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp16/deepseekr1t2_vi.json",
+    "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json",
 ]
 
 # INPUT_FILES = [
@@ -50,8 +70,8 @@ INPUT_FILES = [
 # FINAL_DIR = "../../final/geminiData_en"
 # FRONTEND_DIR = "../../frontend/geminiData_en"
 
-FINAL_DIR = "../../final/deepseekData_en"
-FRONTEND_DIR = "../../frontend/deepseekData_en"
+FINAL_DIR = "../../final/deepseekData_vi"
+FRONTEND_DIR = "../../frontend/deepseekData_vi"
 
 os.makedirs(FINAL_DIR, exist_ok=True)
 os.makedirs(FRONTEND_DIR, exist_ok=True)
@@ -151,10 +171,10 @@ def build_multi_final():
 
     for suffix, clean_qas, full_qas in outputs:
         final_path = os.path.join(
-            FINAL_DIR, f"deepseek_en_{suffix}.json"
+            FINAL_DIR, f"deepseek_vi_{suffix}.json"
         )
         frontend_path = os.path.join(
-            FRONTEND_DIR, f"deepseek_en_{suffix}.json"
+            FRONTEND_DIR, f"deepseek_vi_{suffix}.json"
         )
 
         with open(final_path, "w", encoding="utf-8") as f:

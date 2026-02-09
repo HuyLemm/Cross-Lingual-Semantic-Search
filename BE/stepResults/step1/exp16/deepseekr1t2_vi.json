@@ -1,0 +1,233 @@
+[
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000000",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "CLB đã tạo ra sân chơi kết nối có hiệu quả và đa chiều giữa các nhà nghiên cứu KH&CN, các nhà quản lý với doanh nghiệp vừa và nhỏ, HTX và hộ nông dân trong lĩnh vực rau, hoa quả. Mô hình áp dụng các phương pháp tổng hợp, ứng dụng công nghệ thông tin và hoạt động thực địa nhằm chia sẻ công nghệ, tăng cường kết nối giữa các tác nhân. Các kênh thông tin chính thống được truyền tải kịp thời tới người nông dân, các doanh nghiệp có nhu cầu.",
+    "question": "Mục đích chính của Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả là gì?",
+    "answer": "Mục đích chính của Câu lạc bộ là tạo ra sân chơi kết nối đa chiều giữa nhà nghiên cứu, nhà quản lý với doanh nghiệp vừa và nhỏ, HTX và hộ nông dân để chia sẻ công nghệ và tăng cường kết nối."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000001",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "Cơ cấu tổ chức của CLB bao gồm Ban chủ nhiệm với các thành viên là các chuyên gia của VAAS, các đơn vị truyền thông trong nông nghiệp, một số chủ nhiệm HTX, doanh nghiệp nông nghiệp. Các thông tin về KH&CN, các tiến bộ mới, các mô hình thành công được sàng lọc và truyền tải tới thành viên. Việc truyền thông được thực hiện thông qua các công cụ như nhóm Zalo, website, các talkshow và các buổi trải nghiệm thực tế.",
+    "question": "Ban chủ nhiệm Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả gồm những thành phần nào?",
+    "answer": "Ban chủ nhiệm gồm các chuyên gia của VAAS, đơn vị truyền thông nông nghiệp, chủ nhiệm HTX và doanh nghiệp nông nghiệp."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000002",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "CLB duy trì hai nhóm Zalo cho các thành viên thường xuyên trao đổi thông tin, trong đó nhóm phía bắc có 800 thành viên và nhóm phía nam có hơn 500 thành viên. Website của HIC được duy trì với nguồn thông tin phong phú theo các chủ điểm khác nhau. Các cuộc hội thảo khoa học được mở rộng cho thành viên tham gia qua hình thức trực tuyến và trực tiếp.",
+    "question": "Các kênh truyền thông chính mà Câu lạc bộ Đổi mới sáng tạo sử dụng là gì?",
+    "answer": "Các kênh truyền thông chính bao gồm nhóm Zalo, website và tổ chức hội thảo trực tuyến/trực tiếp."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000003",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "CLB đã hỗ trợ xây dựng 04 mô hình chuyển giao công nghệ và quy trình sản xuất, hỗ trợ xây dựng thương hiệu cho sen Vân Đài (Thái Bình), HTX Tân Minh Đức và Đức Chính (Hải Dương). Các mô hình này được giới thiệu thông qua công cụ trực tuyến và tổ chức tham quan trực tiếp. Kết quả của mô hình được tư liệu hóa để phục vụ tham khảo.",
+    "question": "Câu lạc bộ đã hỗ trợ những mô hình chuyển giao công nghệ cụ thể nào?",
+    "answer": "CLB đã hỗ trợ xây dựng mô hình cho sen Vân Đài ở Thái Bình, HTX Tân Minh Đức và Đức Chính ở Hải Dương."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000004",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "Các thành viên của CLB được các chuyên gia CSIRO tập huấn về ứng phó với rủi ro, nâng cao hiểu biết về rủi ro trong nông nghiệp. Nội dung đào tạo bao gồm cụ thể hóa năng lực chống chịu và thực hành thích nghi cho doanh nghiệp vừa và nhỏ. Các buổi tập huấn này giúp nâng cao năng lực thích ứng trong môi trường kinh doanh.",
+    "question": "Nội dung đào tạo do CSIRO cung cấp cho thành viên Câu lạc bộ tập trung vào lĩnh vực nào?",
+    "answer": "Nội dung đào tạo tập trung vào ứng phó rủi ro, nâng cao năng lực chống chịu và thích nghi cho doanh nghiệp vừa và nhỏ."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000005",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "Kết quả phỏng vấn các thành viên giai đoạn 2021-2023 cho thấy 93,3% số người được hỏi đánh giá thông tin CLB chia sẻ đáp ứng nhu cầu. Trong đó, 26,7% đánh giá đáp ứng đủ và 66,67% đáp ứng một phần. Thông tin về hội thảo khoa học và talkshow được thành viên đặc biệt quan tâm.",
+    "question": "Tỷ lệ thành viên đánh giá thông tin từ Câu lạc bộ đáp ứng nhu cầu là bao nhiêu?",
+    "answer": "93,3% thành viên đánh giá thông tin từ CLB đáp ứng nhu cầu, trong đó 26,7% đáp ứng đủ và 66,67% đáp ứng một phần."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000006",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Câu lạc bộ Đổi mới sáng tạo ngành rau, hoa, quả Thúc đẩy đổi mới sáng tạo trong nông nghiệp",
+    "context": "Khác với hệ thống khuyến nông truyền thống theo cách tiếp cận một chiều, mô hình HIC tập trung vào cách tiếp cận đa chiều. Phương pháp này giúp nâng cao nhận thức và năng lực tự đánh giá của thành viên. Đồng thời cho phép Ban chủ nhiệm nắm bắt xu hướng phát triển và nhu cầu thực tiễn của người sản xuất.",
+    "question": "Điểm khác biệt cốt lõi giữa mô hình HIC và hệ thống khuyến nông truyền thống là gì?",
+    "answer": "Khác biệt cốt lõi là HIC sử dụng cách tiếp cận đa chiều thay vì một chiều như khuyến nông truyền thống, giúp nâng cao nhận thức thành viên và cập nhật nhu cầu thực tiễn."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000007",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Trong thực tế triển khai công tác tiếp nhận, nghiên cứu làm chủ các công nghệ phức tạp cho ngành GTVT tại Trường Đại học GTVT, mô hình này đã được Nhà trường kế thừa và mở rộng thành mô hình hợp tác 5 bên (Triple Helix mở rộng) với 2 thành phần bổ sung: 1) Bên chuyển giao công nghệ (thông thường là các đối tác nước ngoài có năng lực công nghệ cao, đóng vai trò chuyển giao, tư vấn kỹ thuật và kiểm định công nghệ); 2) Đơn vị thụ hưởng (thông thường là bộ chuyên ngành, các địa phương, ban quản lý dự án, doanh nghiệp vận hành có nhu cầu ứng dụng công nghệ vào thực tiễn).",
+    "question": "Mô hình hợp tác 5 bên tại Trường Đại học GTVT bao gồm những thành phần nào ngoài 3 chủ thể ban đầu?",
+    "answer": "Mô hình hợp tác 5 bên bao gồm thêm Bên chuyển giao công nghệ và Đơn vị thụ hưởng ngoài 3 chủ thể ban đầu."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000008",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Từ năm 2015 đến 2018, Trường Đại học GTVT đã tổ chức chương trình đào tạo thạc sỹ thí điểm về 'kỹ thuật hệ thống đường sắt'. Chương trình được chuyển giao từ Trường Đại học TU Dresden (CHLB Đức) với sự tham gia đào tạo trực tiếp của các giáo sư đến từ CHLB Đức, kết hợp với các giáo sư, giảng viên của Nhà trường. Chương trình đã tổ chức tuyển sinh và đào tạo 3 khóa thí điểm, giúp đào tạo 36 học viên ở trình độ thạc sỹ.",
+    "question": "Chương trình đào tạo thạc sỹ về kỹ thuật hệ thống đường sắt của Trường Đại học GTVT hợp tác với đối tác nào và đào tạo bao nhiêu học viên?",
+    "answer": "Chương trình hợp tác với Trường Đại học TU Dresden (CHLB Đức) và đã đào tạo 36 học viên trình độ thạc sỹ."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000009",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Mô hình hợp tác 3 bên mở rộng đã được Trường Đại học GTVT áp dụng từ sớm cho việc tổ chức nghiên cứu với nguyên tắc: (1) Vận dụng đúng và triệt để các chính sách đột phá về phát triển khoa học, công nghệ và đổi mới sáng tạo của Chính phủ; (2) Gắn kết chặt chẽ với cộng đồng doanh nghiệp trong quá trình tổ chức nghiên cứu; (3) Xác định rõ địa chỉ ứng dụng và ý thức rất cao về việc điều chỉnh chất lượng sản phẩm nghiên cứu đáp ứng yêu cầu ứng dụng trong thực tế.",
+    "question": "Những nguyên tắc nào được Trường Đại học GTVT áp dụng khi tổ chức nghiên cứu theo mô hình hợp tác mở rộng?",
+    "answer": "Ba nguyên tắc được áp dụng là: vận dụng chính sách đột phá của Chính phủ, gắn kết với doanh nghiệp, và xác định rõ địa chỉ ứng dụng cùng điều chỉnh chất lượng sản phẩm nghiên cứu."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000010",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Nhà trường cũng thiết lập hợp tác với các trường đại học và tập đoàn công nghệ lớn trên thế giới như: Trường Đại học Giao thông Bắc Kinh, Trường Đại học Giao thông Tây Nam (Trung Quốc), Công ty Marvel, Công ty Tractebel (Bỉ), Tập đoàn Dohwa (Hàn Quốc), Tập đoàn Dassault (Pháp), Tập đoàn Siemens (Đức)... để cùng trao đổi, tiếp cận, nghiên cứu và nắm bắt công nghệ lõi trong lĩnh vực đường sắt hiện đại.",
+    "question": "Trường Đại học GTVT đã hợp tác với những đối tác quốc tế nào để nghiên cứu công nghệ đường sắt hiện đại?",
+    "answer": "Nhà trường hợp tác với Trường Đại học Giao thông Bắc Kinh, Trường Đại học Giao thông Tây Nam (Trung Quốc), Công ty Marvel, Công ty Tractebel (Bỉ), Tập đoàn Dohwa (Hàn Quốc), Tập đoàn Dassault (Pháp) và Tập đoàn Siemens (Đức)."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000011",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Mô hình hợp tác được triển khai theo hướng: Nhà trường nghiên cứu và tiếp nhận công nghệ chiến lược; các doanh nghiệp cung cấp yêu cầu thực tiễn và tham gia sản xuất, chế tạo thử nghiệm; cơ quan nhà nước hỗ trợ thông qua các chương trình khoa học và công nghệ các cấp.",
+    "question": "Vai trò cụ thể của doanh nghiệp trong mô hình hợp tác nghiên cứu tại Trường Đại học GTVT là gì?",
+    "answer": "Doanh nghiệp cung cấp yêu cầu thực tiễn và tham gia sản xuất, chế tạo thử nghiệm trong mô hình hợp tác nghiên cứu."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000012",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Để thực hiện nhiệm vụ này, bên cạnh việc xây dựng và hoàn thiện các chương trình đào tạo trong lĩnh vực đường sắt, Nhà trường đã chủ động thiết lập mạng lưới hợp tác nghiên cứu với các doanh nghiệp lớn trong ngành GTVT như: Công ty CP Đầu tư xây dựng Trung Chính, Công ty CP Fecon, Công ty ADCo, Tổng Công ty Thăng Long, Công ty CP Xây dựng Công trình Giao thông 6.",
+    "question": "Nhà trường đã hợp tác với những doanh nghiệp nào trong nước để nghiên cứu phát triển đường sắt?",
+    "answer": "Các doanh nghiệp hợp tác bao gồm: Công ty CP Đầu tư xây dựng Trung Chính, Công ty CP Fecon, Công ty ADCo, Tổng Công ty Thăng Long và Công ty CP Xây dựng Công trình Giao thông 6."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000013",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Đặc biệt, Nhà trường đóng vai trò điều phối nghiên cứu, định hướng công nghệ, phối hợp với doanh nghiệp trong nước để chế tạo thử nghiệm các cấu kiện và hệ thống kỹ thuật đường sắt mới, dưới sự bảo trợ về cơ chế, chính sách từ các chương trình khoa học và công nghệ các cấp.",
+    "question": "Vai trò điều phối của Trường Đại học GTVT trong nghiên cứu đường sắt hiện đại bao gồm những hoạt động cụ thể nào?",
+    "answer": "Nhà trường điều phối nghiên cứu, định hướng công nghệ và phối hợp với doanh nghiệp chế tạo thử nghiệm các cấu kiện, hệ thống kỹ thuật đường sắt mới."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000014",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Căn cứ hình thành 3 trụ cột phát triển được xác lập dựa trên Nghị quyết số 57-NQ/TW của Bộ Chính trị về đột phá khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; cùng Chiến lược quốc gia phát triển kinh tế số, xã hội số (Quyết định 411/QĐ-TTg). Trên cơ sở đó, Đà Nẵng cụ thể hóa thành các chương trình hành động gắn với từng lĩnh vực ưu tiên.",
+    "question": "Những văn bản pháp lý nào làm cơ sở cho việc hình thành ba trụ cột phát triển của Đà Nẵng?",
+    "answer": "Cơ sở pháp lý cho ba trụ cột phát triển của Đà Nẵng là Nghị quyết số 57-NQ/TW của Bộ Chính trị và Quyết định 411/QĐ-TTg về Chiến lược quốc gia phát triển kinh tế số, xã hội số."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000015",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Đà Nẵng là trung tâm công nghệ thông tin của miền Trung, có Khu Công nghệ cao, 2 Công viên phần mềm cùng hơn 3.000 doanh nghiệp phần mềm đang hoạt động. Thành phố cũng là địa phương đầu tiên của cả nước vận hành Trung tâm điều hành đô thị thông minh (IOC) tích hợp dữ liệu đa ngành và xây dựng hạ tầng viễn thông phủ rộng 5G.",
+    "question": "Đâu là những yếu tố hạ tầng công nghệ nổi bật hỗ trợ phát triển ba trụ cột của Đà Nẵng?",
+    "answer": "Hạ tầng công nghệ nổi bật của Đà Nẵng bao gồm Khu Công nghệ cao, 2 Công viên phần mềm, Trung tâm điều hành đô thị thông minh (IOC) và hạ tầng viễn thông 5G phủ rộng."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000016",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Đà Nẵng đồng thời có thế mạnh về nhân lực trẻ và hạ tầng nghiên cứu - đào tạo, với hơn 20 trường đại học, trong đó Đại học Bách Khoa Đà Nẵng và Đại học Duy Tân đã mở các ngành kỹ thuật cao như tự động hóa, trí tuệ nhân tạo, thiết kế vi mạch, blockchain.",
+    "question": "Những trường đại học nào tại Đà Nẵng đang đào tạo nhân lực cho các lĩnh vực trụ cột công nghệ?",
+    "answer": "Đại học Bách Khoa Đà Nẵng và Đại học Duy Tân đang đào tạo các ngành kỹ thuật cao như tự động hóa, trí tuệ nhân tạo, thiết kế vi mạch và blockchain."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000017",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Đà Nẵng đã hình thành Phòng thí nghiệm thiết kế và thử nghiệm vi mạch (IC Design Lab) tại Trường Đại học Bách khoa (Đại học Đà Nẵng), nhằm đáp ứng nhu cầu nhân lực chất lượng cao cho chuỗi cung ứng bán dẫn trong nước và khu vực.",
+    "question": "Cơ sở nghiên cứu nào được thành lập để phục vụ phát triển ngành bán dẫn tại Đà Nẵng?",
+    "answer": "Phòng thí nghiệm thiết kế và thử nghiệm vi mạch (IC Design Lab) tại Trường Đại học Bách khoa Đà Nẵng được thành lập để phục vụ phát triển ngành bán dẫn."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000018",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Thành phố cũng đang từng bước hoàn thiện khung quản lý dữ liệu dựa trên công nghệ blockchain, hướng tới xây dựng nền tảng giao dịch tài sản số bảo đảm an toàn và minh bạch.",
+    "question": "Công nghệ nào được Đà Nẵng ứng dụng để xây dựng nền tảng giao dịch tài sản số?",
+    "answer": "Đà Nẵng ứng dụng công nghệ blockchain để xây dựng nền tảng giao dịch tài sản số đảm bảo an toàn và minh bạch."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000019",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Để vượt qua ngưỡng hiện nay, Đà Nẵng sẽ tiếp tục đầu tư trung tâm dữ liệu quy mô lớn, phát triển chính quyền số, mở rộng ứng dụng trí tuệ nhân tạo trong quản lý đô thị, y tế, giao thông.",
+    "question": "Những hạng mục nào được Đà Nẵng ưu tiên đầu tư để phát triển kinh tế số?",
+    "answer": "Đà Nẵng ưu tiên đầu tư trung tâm dữ liệu quy mô lớn, phát triển chính quyền số và mở rộng ứng dụng trí tuệ nhân tạo trong quản lý đô thị, y tế và giao thông."
+  },
+  {
+    "qa_id": "QA_deepseek-r1t2_vi_000020",
+    "model": "deepseek-r1t2",
+    "language": "vi",
+    "source_pdf": "Đà Nẵng định hình ba trụ cột phát triển mới.pdf",
+    "pdf_match_score": 1.0,
+    "title": "Đà Nẵng định hình ba trụ cột phát triển mới",
+    "context": "Sự kết hợp giữa chính sách ưu đãi, hạ tầng kỹ thuật và nguồn nhân lực sẽ là nền móng cho ngành bán dẫn nội địa hình thành. Đà Nẵng dự kiến áp dụng cơ chế khuyến khích đầu tư tương tự những trung tâm bán dẫn mới nổi trong khu vực; song song đó là các chương trình học bổng, hợp tác với đại học trong và ngoài nước để đào tạo nhân lực.",
+    "question": "Đà Nẵng triển khai những giải pháp gì để phát triển nguồn nhân lực cho ngành bán dẫn?",
+    "answer": "Đà Nẵng triển khai các chương trình học bổng và hợp tác với các trường đại học trong nước và quốc tế để đào tạo nhân lực cho ngành bán dẫn."
+  }
+]

@@ -1,11 +1,41 @@
 // utils.js
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
+/* =========================================================
+ * NORMALIZE HELPERS
+ * ========================================================= */
+
+export function normalizeModel(raw) {
+  if (!raw) return "unknown";
+
+  const m = String(raw).toLowerCase();
+
+  if (m.includes("deepseek")) return "deepseek";
+  if (m.includes("gemini")) return "gemini";
+  if (m.includes("gpt")) return "gpt";
+
+  return "unknown";
+}
+
+export function normalizeLang(raw) {
+  if (!raw) return "unknown";
+
+  const s = String(raw).toLowerCase();
+
+  if (s.startsWith("en")) return "en";
+  if (s.startsWith("vi")) return "vi";
+
+  return "unknown";
+}
+
+/* =========================================================
+ * DEDUPE QA
+ * ========================================================= */
 export function dedupeContent(qas) {
   const seen = new Set();
 
-  return qas.filter(q => {
+  return qas.filter((q) => {
     const key = `${q.source_pdf?.toLowerCase()}||${q.question?.toLowerCase()}`;
     if (seen.has(key)) return false;
     seen.add(key);
@@ -13,23 +43,23 @@ export function dedupeContent(qas) {
   });
 }
 
-
 /* =========================================================
- * 1. COUNT DOCUMENTS (PDF)
+ * 1. COUNT DOCUMENTS
  * ========================================================= */
 export function countDocuments({ dataset }) {
-  const base = path.join(process.cwd(), 'data');
+  const base = path.join(process.cwd(), "data");
 
-  const enDir = path.join(base, 'articles_en');
-  const viDir = path.join(base, 'articles_vi');
+  const enDir = path.join(base, "articles_en");
+  const viDir = path.join(base, "articles_vi");
 
   const countPdf = (dir) =>
     fs.existsSync(dir)
-      ? fs.readdirSync(dir).filter(f => f.toLowerCase().endsWith('.pdf')).length
+      ? fs.readdirSync(dir).filter((f) => f.toLowerCase().endsWith(".pdf"))
+          .length
       : 0;
 
-  if (dataset === 'semantic_scholar') return countPdf(enDir);
-  if (dataset === 'vjol') return countPdf(viDir);
+  if (dataset === "semantic_scholar") return countPdf(enDir);
+  if (dataset === "vjol") return countPdf(viDir);
 
   return countPdf(enDir) + countPdf(viDir);
 }
@@ -38,68 +68,77 @@ export function countDocuments({ dataset }) {
  * 2. LOAD QA FROM EXPERIMENT FOLDER
  * ========================================================= */
 export function loadTotalQAs({
-  dataset = 'all',
-  model = 'all',
-  experiment = 'all',
+  dataset = "all",
+  model = "all",
+  experiment = "all",
 }) {
-  const base = path.join(process.cwd(), 'dataModel', 'exp');
+  const base = path.join(process.cwd(), "dataModel", "exp");
   if (!fs.existsSync(base)) return [];
 
-  const expFolders =
-    experiment === 'all'
-      ? fs.readdirSync(base)
-      : [experiment];
+  /* ======================= LOAD EXP FOLDERS ======================= */
+  let expFolders = [];
+
+  if (experiment === "all") {
+    expFolders = fs.readdirSync(base).filter((f) => f.startsWith("exp"));
+  } else {
+    expFolders = [experiment];
+  }
 
   let all = [];
 
+  /* ======================= LOAD FILES ======================= */
   for (const exp of expFolders) {
     const expPath = path.join(base, exp);
     if (!fs.existsSync(expPath)) continue;
 
-    const files = fs.readdirSync(expPath).filter(f => f.endsWith('.json'));
+    const files = fs.readdirSync(expPath).filter((f) => f.endsWith(".json"));
 
     for (const file of files) {
       const filePath = path.join(expPath, file);
-      const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-      all = all.concat(data);
+      try {
+        const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+        if (Array.isArray(data)) {
+          all.push(...data);
+        }
+      } catch {
+        console.warn("Skip broken JSON:", filePath);
+      }
     }
   }
 
-  // =====================
-  // FILTER MODEL
-  // =====================
-  if (model !== 'all') {
-    all = all.filter(q => normalizeModel(q.model) === model);
+  /* ======================= FILTER MODEL ======================= */
+  if (model !== "all") {
+    all = all.filter((q) => normalizeModel(q.model) === model);
   }
 
-  // =====================
-  // FILTER DATASET / LANGUAGE
-  // =====================
-  if (dataset === 'semantic_scholar') {
-    all = all.filter(q => q.language === 'en');
-  }
+  /* ======================= FILTER DATASET / LANGUAGE ======================= */
+  if (dataset !== "all") {
+    all = all.filter((q) => {
+      const lang = normalizeLang(q.language);
 
-  if (dataset === 'vjol') {
-    all = all.filter(q => q.language === 'vi');
+      if (dataset === "semantic_scholar") return lang === "en";
+      if (dataset === "vjol") return lang === "vi";
+
+      return true;
+    });
   }
 
   return all;
 }
 
 /* =========================================================
- * 3. QUALITY FILTER (FROM RAW QA)
+ * 3. QUALITY FILTER
  * ========================================================= */
 export function applyQualityFilter(qas, quality) {
-  // 🔹 DEFAULT threshold = 0.7
   let threshold = 0.7;
 
-  if (quality && quality !== 'all') {
+  if (quality && quality !== "all") {
     const t = Number(quality);
     if (!Number.isNaN(t)) threshold = t;
   }
 
-  return qas.filter(q => {
+  return qas.filter((q) => {
     const pass1 = q.verified === true;
     const pass2 = q.verified_step2 === true;
     if (!pass1 || !pass2) return false;
@@ -111,23 +150,22 @@ export function applyQualityFilter(qas, quality) {
   });
 }
 
-
-
 /* =========================================================
  * 4. APPLY SEARCH FILTER
  * ========================================================= */
 export function applyFilters(qas, query) {
-  const { search = '' } = query;
+  const { search = "" } = query;
 
   if (!search) return qas;
 
   const s = search.toLowerCase();
 
-  return qas.filter(q =>
-    q.title?.toLowerCase().includes(s) ||
-    q.question?.toLowerCase().includes(s) ||
-    q.context?.toLowerCase().includes(s) ||
-    q.source_pdf?.toLowerCase().includes(s)
+  return qas.filter(
+    (q) =>
+      q.title?.toLowerCase().includes(s) ||
+      q.question?.toLowerCase().includes(s) ||
+      q.context?.toLowerCase().includes(s) ||
+      q.source_pdf?.toLowerCase().includes(s),
   );
 }
 
@@ -173,28 +211,14 @@ export function computeFullMetrics(qas) {
 }
 
 /* =========================================================
- * 6. NORMALIZE MODEL NAME
- * (map raw → frontend value)
+ * 6. GET EXPERIMENT LIST BY MODEL
  * ========================================================= */
-function normalizeModel(raw) {
-  if (!raw) return 'unknown';
-
-  const m = raw.toLowerCase();
-
-  if (m.includes('deepseek')) return 'deepseek';
-  if (m.includes('gemini')) return 'gemini';
-  if (m.includes('gpt')) return 'gpt';
-
-  return raw;
-}
-
-export function getExperimentsByModel(model = 'all') {
-  const base = path.join(process.cwd(), 'dataModel', 'exp');
+export function getExperimentsByModel(model = "all") {
+  const base = path.join(process.cwd(), "dataModel", "exp");
   if (!fs.existsSync(base)) return [];
 
-  const exps = fs.readdirSync(base).filter(d => d.startsWith('exp'));
-
-  if (model === 'all') return exps.sort();
+  const exps = fs.readdirSync(base).filter((d) => d.startsWith("exp"));
+  if (model === "all") return exps.sort();
 
   const result = [];
 
@@ -202,8 +226,8 @@ export function getExperimentsByModel(model = 'all') {
     const expDir = path.join(base, e);
     const files = fs.readdirSync(expDir);
 
-    const hasModel = files.some(f =>
-      f.toLowerCase().includes(model.toLowerCase())
+    const hasModel = files.some((f) =>
+      f.toLowerCase().includes(model.toLowerCase()),
     );
 
     if (hasModel) result.push(e);
@@ -211,4 +235,3 @@ export function getExperimentsByModel(model = 'all') {
 
   return result.sort();
 }
-
