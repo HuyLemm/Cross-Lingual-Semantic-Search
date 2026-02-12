@@ -1,4 +1,4 @@
-import { Card, CardContent, CardHeader, CardTitle } from '../../ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from "../../ui/card";
 import {
   Table,
   TableBody,
@@ -6,20 +6,20 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from '../../ui/table';
-import { Badge } from '../../ui/badge';
-import { CheckCircle, AlertTriangle } from 'lucide-react';
-import type { Dataset } from './datasetGroundTruthData';
+} from "../../ui/table";
+import { Badge } from "../../ui/badge";
+import { CheckCircle, AlertTriangle } from "lucide-react";
+import type { Dataset } from "./datasetGroundTruthData";
 
 interface DatasetOverviewTableProps {
   datasets: Dataset[];
+  threshold: number;
 }
 
 export default function DatasetOverviewTable({
   datasets = [],
+  threshold,
 }: DatasetOverviewTableProps) {
-  const TH = 0.7;
-
   return (
     <Card>
       <CardHeader>
@@ -45,7 +45,10 @@ export default function DatasetOverviewTable({
           <TableBody>
             {datasets.length === 0 ? (
               <TableRow>
-                <TableCell colSpan={9} className="text-center py-8 text-gray-500">
+                <TableCell
+                  colSpan={9}
+                  className="text-center py-8 text-gray-500"
+                >
                   No dataset available
                 </TableCell>
               </TableRow>
@@ -54,8 +57,8 @@ export default function DatasetOverviewTable({
                 const bi = Number(d.avgBiEncoder ?? 0);
                 const ce = Number(d.avgCrossEncoder ?? 0);
 
-                const biPass = bi >= TH;
-                const cePass = ce >= TH;
+                const biPass = bi >= threshold;
+                const cePass = ce >= threshold;
                 const verified = biPass && cePass;
 
                 return (
@@ -80,9 +83,9 @@ export default function DatasetOverviewTable({
                       {d.model}
                     </TableCell>
 
-                    {/* Experiment */}
-                    <TableCell className="font-mono">
-                      {d.experiment}
+                    {/* ================= EXPERIMENT LIST ================= */}
+                    <TableCell className="text-center font-medium">
+                      {d.experiment ?? 0}
                     </TableCell>
 
                     {/* QA */}
@@ -95,8 +98,8 @@ export default function DatasetOverviewTable({
                       <span
                         className={
                           biPass
-                            ? 'text-green-600 font-medium'
-                            : 'text-orange-500 font-medium'
+                            ? "text-green-600 font-medium"
+                            : "text-orange-500 font-medium"
                         }
                       >
                         {bi.toFixed(2)}
@@ -108,8 +111,8 @@ export default function DatasetOverviewTable({
                       <span
                         className={
                           cePass
-                            ? 'text-green-600 font-medium'
-                            : 'text-orange-500 font-medium'
+                            ? "text-green-600 font-medium"
+                            : "text-orange-500 font-medium"
                         }
                       >
                         {ce.toFixed(2)}

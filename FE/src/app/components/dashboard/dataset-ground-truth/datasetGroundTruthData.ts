@@ -43,7 +43,7 @@ export interface Dataset {
   source: 'VJOL' | 'SemanticScholar';
   language: 'en' | 'vi';
 
-  experiment: string;      // exp1, exp2...
+  experiment: number;     // exp1, exp2...
   model: string;           // gemini-2.5-flash
 
   qaPairs: number;

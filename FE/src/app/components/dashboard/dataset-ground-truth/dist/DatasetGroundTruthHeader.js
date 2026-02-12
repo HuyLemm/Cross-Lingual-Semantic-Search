@@ -1,10 +1,8 @@
 "use strict";
 exports.__esModule = true;
-var input_1 = require("../../ui/input");
 var select_1 = require("../../ui/select");
-var lucide_react_1 = require("lucide-react");
 function DatasetGroundTruthHeader(_a) {
-    var selectedDataset = _a.selectedDataset, selectedModel = _a.selectedModel, selectedExperiment = _a.selectedExperiment, selectedQuality = _a.selectedQuality, searchQuery = _a.searchQuery, availableExperiments = _a.availableExperiments, shouldShowExpList = _a.shouldShowExpList, onDatasetChange = _a.onDatasetChange, onModelChange = _a.onModelChange, onExperimentChange = _a.onExperimentChange, onQualityChange = _a.onQualityChange, onSearchChange = _a.onSearchChange;
+    var selectedDataset = _a.selectedDataset, selectedModel = _a.selectedModel, selectedExperiment = _a.selectedExperiment, selectedQuality = _a.selectedQuality, availableExperiments = _a.availableExperiments, onDatasetChange = _a.onDatasetChange, onModelChange = _a.onModelChange, onExperimentChange = _a.onExperimentChange, onQualityChange = _a.onQualityChange;
     return (React.createElement("div", { className: "space-y-4" },
         React.createElement("div", null,
             React.createElement("h2", { className: "text-2xl font-semibold text-gray-900 dark:text-white mb-2" }, "Dataset Management & QA Validation"),
@@ -30,13 +28,13 @@ function DatasetGroundTruthHeader(_a) {
                         React.createElement(select_1.SelectItem, { value: "gemini" }, "Gemini-2.5-Flash"),
                         React.createElement(select_1.SelectItem, { value: "deepseek" }, "DeepSeek-R1T2-Chimera")))),
             React.createElement("div", { className: "flex items-center gap-2" },
-                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Experiment"),
+                React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Experiments"),
                 React.createElement(select_1.Select, { value: selectedExperiment, onValueChange: onExperimentChange },
-                    React.createElement(select_1.SelectTrigger, { className: "w-[160px] h-9 text-sm" },
-                        React.createElement(select_1.SelectValue, null)),
+                    React.createElement(select_1.SelectTrigger, { className: "w-[180px] h-9 text-sm" },
+                        React.createElement(select_1.SelectValue, { placeholder: "Select experiment" })),
                     React.createElement(select_1.SelectContent, { className: "max-h-[180px] overflow-y-auto" },
                         React.createElement(select_1.SelectItem, { value: "all" }, "All Exps"),
-                        availableExperiments.map(function (exp) { return (React.createElement(select_1.SelectItem, { key: exp, value: exp }, exp)); })))),
+                        availableExperiments.length === 0 ? (React.createElement("div", { className: "px-3 py-2 text-xs text-gray-400" }, "No experiment for this model/lang")) : (availableExperiments.map(function (exp) { return (React.createElement(select_1.SelectItem, { key: exp, value: exp }, exp)); }))))),
             React.createElement("div", { className: "flex items-center gap-2" },
                 React.createElement("label", { className: "text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide" }, "Quality"),
                 React.createElement(select_1.Select, { value: selectedQuality, onValueChange: onQualityChange },
@@ -47,9 +45,6 @@ function DatasetGroundTruthHeader(_a) {
                         React.createElement(select_1.SelectItem, { value: "0.75" }, "\u2265 0.75"),
                         React.createElement(select_1.SelectItem, { value: "0.8" }, "\u2265 0.80"),
                         React.createElement(select_1.SelectItem, { value: "0.85" }, "\u2265 0.85"),
-                        React.createElement(select_1.SelectItem, { value: "0.9" }, "\u2265 0.90")))),
-            React.createElement("div", { className: "flex items-center gap-2 ml-auto" },
-                React.createElement(lucide_react_1.Search, { className: "w-4 h-4 text-gray-400" }),
-                React.createElement(input_1.Input, { placeholder: "Search QA, title, or source PDF...", value: searchQuery, onChange: function (e) { return onSearchChange(e.target.value); }, className: "w-[260px] h-9 text-sm" })))));
+                        React.createElement(select_1.SelectItem, { value: "0.9" }, "\u2265 0.90")))))));
 }
 exports["default"] = DatasetGroundTruthHeader;

@@ -6,6 +6,8 @@ import QAPairValidationTable from "./dataset-ground-truth/QAPairValidationTable"
 import TraceabilityVisualization from "./dataset-ground-truth/TraceabilityVisualization";
 import ValidationLogicPanel from "./dataset-ground-truth/ValidationLogicPanel";
 import SourceViewSheet from "./dataset-ground-truth/SourceViewSheet";
+import LoadingSpinner from "../ui/loading-spinner";
+
 import {
   type QAPair,
   type Dataset,
@@ -19,7 +21,9 @@ export default function DatasetGroundTruth() {
   const [selectedQuality, setSelectedQuality] = useState("0.7");
   const [searchQuery, setSearchQuery] = useState("");
 
-  const [availableExperiments, setAvailableExperiments] = useState<string[]>([]);
+  const [availableExperiments, setAvailableExperiments] = useState<string[]>(
+    [],
+  );
   const shouldShowExpList =
     selectedModel !== "all" && selectedDataset !== "all";
 
@@ -27,10 +31,18 @@ export default function DatasetGroundTruth() {
   const [datasetOverview, setDatasetOverview] = useState<Dataset[]>([]);
   const [qaList, setQAList] = useState<QAPair[]>([]);
   const [qaTotal, setQaTotal] = useState(0);
+
   const [page, setPage] = useState(1);
+  const PAGE_SIZE = 20;
 
   const [selectedQA, setSelectedQA] = useState<QAPair | null>(null);
   const [isSheetOpen, setIsSheetOpen] = useState(false);
+
+  /* ========================= LOADING STATES ========================= */
+  const [loadingQA, setLoadingQA] = useState(false);
+  const [loadingMetrics, setLoadingMetrics] = useState(false);
+  const [loadingExperiments, setLoadingExperiments] = useState(false);
+  const [loadingOverview, setLoadingOverview] = useState(false);
 
   /* ========================= SUMMARY METRICS ========================= */
   const [metrics, setMetrics] = useState({
@@ -44,11 +56,11 @@ export default function DatasetGroundTruth() {
   });
 
   /* =====================================================
-   * RESET PAGE + CLEAR DATA WHEN FILTER CHANGES
+   * RESET PAGE WHEN FILTER CHANGES
    * ===================================================== */
   useEffect(() => {
     setPage(1);
-    setQAList([]); // ⭐ tránh flash data cũ
+    setQAList([]);
   }, [selectedDataset, selectedModel, selectedExperiment, searchQuery]);
 
   /* =====================================================
@@ -59,11 +71,11 @@ export default function DatasetGroundTruth() {
   }, [selectedDataset, selectedModel]);
 
   /* =====================================================
-   * FETCH QA LIST (WITH ABORT CONTROLLER)
+   * FETCH QA LIST
    * ===================================================== */
   useEffect(() => {
     const controller = new AbortController();
-    const signal = controller.signal;
+    let isCurrent = true; // 👈 guard request mới nhất
 
     const params = new URLSearchParams();
 
@@ -74,30 +86,51 @@ export default function DatasetGroundTruth() {
     if (searchQuery) params.set("search", searchQuery);
 
     params.set("page", String(page));
-    params.set("pageSize", "20");
+    params.set("pageSize", String(PAGE_SIZE));
 
-    fetch(`http://localhost:4000/summary/qa-list?${params}`, { signal })
+    setLoadingQA(true);
+    setQAList([]); // clear ngay khi fetch start
+
+    fetch(`http://localhost:4000/summary/qa-list?${params}`, {
+      signal: controller.signal,
+    })
       .then((res) => res.json())
       .then((data) => {
+        if (!isCurrent) return; // 👈 ignore stale response
+
         setQAList(data.items || []);
         setQaTotal(data.total || 0);
+
+        const maxPage = Math.max(1, Math.ceil((data.total || 0) / PAGE_SIZE));
+        if (page > maxPage) setPage(maxPage);
       })
       .catch((err) => {
-        if (err.name !== "AbortError") console.error(err);
+        if (err.name !== "AbortError" && isCurrent) {
+          console.error(err);
+        }
+      })
+      .finally(() => {
+        if (isCurrent) setLoadingQA(false); // 👈 chỉ request mới nhất mới tắt loading
       });
 
-    return () => controller.abort(); // ⭐ kill request cũ
+    return () => {
+      isCurrent = false; // 👈 mark request cũ
+      controller.abort();
+    };
   }, [selectedDataset, selectedModel, selectedExperiment, searchQuery, page]);
 
   /* =====================================================
-   * DATASET OVERVIEW (STATIC)
+   * DATASET OVERVIEW
    * ===================================================== */
   useEffect(() => {
+    setLoadingOverview(true);
+
     fetch(`http://localhost:4000/summary/dataset-overview`)
       .then((res) => res.json())
       .then(setDatasetOverview)
-      .catch(console.error);
-  }, []);
+      .catch(console.error)
+      .finally(() => setLoadingOverview(false));
+  }, [selectedQuality]);
 
   /* =====================================================
    * FETCH EXPERIMENT LIST
@@ -109,6 +142,7 @@ export default function DatasetGroundTruth() {
     }
 
     const controller = new AbortController();
+    setLoadingExperiments(true);
 
     fetch(
       `http://localhost:4000/summary/experiments?model=${selectedModel}&dataset=${selectedDataset}`,
@@ -123,13 +157,14 @@ export default function DatasetGroundTruth() {
       })
       .catch((err) => {
         if (err.name !== "AbortError") console.error(err);
-      });
+      })
+      .finally(() => setLoadingExperiments(false));
 
     return () => controller.abort();
   }, [selectedModel, selectedDataset, shouldShowExpList]);
 
   /* =====================================================
-   * FETCH SUMMARY METRICS
+   * FETCH METRICS
    * ===================================================== */
   useEffect(() => {
     const controller = new AbortController();
@@ -140,6 +175,8 @@ export default function DatasetGroundTruth() {
     if (selectedExperiment !== "all")
       params.set("experiment", selectedExperiment);
     if (selectedQuality !== "all") params.set("quality", selectedQuality);
+
+    setLoadingMetrics(true);
 
     fetch(`http://localhost:4000/summary/get-summary?${params}`, {
       signal: controller.signal,
@@ -158,24 +195,36 @@ export default function DatasetGroundTruth() {
       )
       .catch((err) => {
         if (err.name !== "AbortError") console.error(err);
-      });
+      })
+      .finally(() => setLoadingMetrics(false));
 
     return () => controller.abort();
   }, [selectedDataset, selectedModel, selectedExperiment, selectedQuality]);
 
   /* =====================================================
-   * HANDLER
+   * HANDLERS
    * ===================================================== */
   const handleViewSource = (qa: QAPair) => {
     setSelectedQA(qa);
     setIsSheetOpen(true);
   };
 
+  const handlePageChange = (newPage: number) => {
+    setPage(newPage);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const qualityThreshold =
+    selectedQuality === "all" ? 0.7 : Number(selectedQuality);
+
+  const globalLoading = loadingOverview || loadingMetrics || loadingExperiments;
+
   /* =====================================================
    * RENDER
    * ===================================================== */
   return (
     <div className="p-6 space-y-6">
+      {/* HEADER */}
       <DatasetGroundTruthHeader
         selectedDataset={selectedDataset}
         selectedModel={selectedModel}
@@ -191,13 +240,38 @@ export default function DatasetGroundTruth() {
         onSearchChange={setSearchQuery}
       />
 
-      <ReliabilitySummaryCards {...metrics} />
+      {/* METRICS */}
+      {loadingMetrics ? (
+        <div className="flex justify-center py-6">
+          <LoadingSpinner size={26} />
+        </div>
+      ) : (
+        <ReliabilitySummaryCards {...metrics} />
+      )}
 
-      <DatasetOverviewTable datasets={datasetOverview} />
+      {/* OVERVIEW */}
+      {loadingOverview ? (
+        <div className="flex justify-center py-6">
+          <LoadingSpinner size={26} />
+        </div>
+      ) : (
+        <DatasetOverviewTable
+          datasets={datasetOverview}
+          threshold={qualityThreshold}
+        />
+      )}
 
+      {/* QA TABLE */}
       <QAPairValidationTable
         qaPairs={qaList}
         totalQAPairs={qaTotal}
+        page={page}
+        pageSize={PAGE_SIZE}
+        qualityThreshold={qualityThreshold}
+        searchQuery={searchQuery}
+        loading={loadingQA}
+        onSearchChange={setSearchQuery}
+        onPageChange={handlePageChange}
         onViewSource={handleViewSource}
       />
 
@@ -209,6 +283,18 @@ export default function DatasetGroundTruth() {
         isOpen={isSheetOpen}
         onClose={() => setIsSheetOpen(false)}
       />
+
+      {/* GLOBAL OVERLAY LOADING */}
+      {globalLoading && (
+        <div className="fixed inset-0 bg-black/20 backdrop-blur-sm flex items-center justify-center z-50">
+          <div className="bg-white dark:bg-gray-900 p-6 rounded-xl shadow-lg">
+            <LoadingSpinner size={32} />
+            <p className="text-sm text-gray-500 mt-2 text-center">
+              Loading data...
+            </p>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

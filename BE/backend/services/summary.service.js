@@ -2,12 +2,52 @@ import {
   countDocuments,
   loadTotalQAs,
   applyQualityFilter,
-  applyFilters,
-  computeFullMetrics,
   dedupeContent,
   normalizeModel,
   normalizeLang,
+  getAvailableExperiments,
 } from "../utils/utils.js";
+
+import path from "path";
+import fs from "fs";
+
+/* =========================================================
+ * CACHE LAYER (giữ đủ filter)
+ * - QA_CACHE: cache theo (dataset/model/experiment)
+ * - SUMMARY_CACHE: cache theo (dataset/model/experiment/quality)
+ * - DATASET_OVERVIEW_CACHE: cache 1 lần
+ * ========================================================= */
+
+const QA_CACHE = new Map(); // key -> qas[]
+const SUMMARY_CACHE = new Map(); // key -> summary result
+let DATASET_OVERVIEW_CACHE = null;
+
+/* =========================================================
+ * HELPERS
+ * ========================================================= */
+
+function qaCacheKey({ dataset, model, experiment }) {
+  return `${dataset}||${model}||${experiment}`;
+}
+
+function summaryCacheKey({ dataset, model, experiment, quality }) {
+  return `${dataset}||${model}||${experiment}||${quality}`;
+}
+
+function getQAsCached({ dataset = "all", model = "all", experiment = "all" }) {
+  const key = qaCacheKey({ dataset, model, experiment });
+
+  if (QA_CACHE.has(key)) return QA_CACHE.get(key);
+
+  // ✅ giữ logic filter gốc: loadTotalQAs() xử lý dataset/model/experiment
+  let qas = loadTotalQAs({ dataset, model, experiment });
+
+  // ✅ dedupe 1 lần cho combo này
+  qas = dedupeContent(qas);
+
+  QA_CACHE.set(key, qas);
+  return qas;
+}
 
 /* =========================================================
  * SUMMARY
@@ -20,47 +60,41 @@ export function buildSummary(query) {
     quality = "0.7",
   } = query;
 
-  // 1. Load
-  let qas = loadTotalQAs({ dataset, model, experiment });
+  const sKey = summaryCacheKey({ dataset, model, experiment, quality });
+  if (SUMMARY_CACHE.has(sKey)) return SUMMARY_CACHE.get(sKey);
 
-  // 2. Dedupe
-  qas = dedupeContent(qas);
+  // 1) load + dedupe (cached)
+  const qas = getQAsCached({ dataset, model, experiment });
 
-  // TOTAL QA (sau exp + dedupe, chưa quality)
   const totalQAPairs = qas.length;
 
-  // VERIFIED theo quality
+  // 2) verified theo quality
   const verifiedQAs = applyQualityFilter(qas, quality);
   const verifiedQAPairs = verifiedQAs.length;
 
-  // =========================
-  // METRICS (REACTIVE)
-  // =========================
-
-  // Validation rate (reactive theo quality)
+  // 3) validation rate
   const validationRate =
     totalQAPairs === 0
       ? 0
       : Number(((verifiedQAPairs / totalQAPairs) * 100).toFixed(1));
 
-  // Avg scores (trên verified)
+  // 4) avg scores (trên verified)
   let avgBiEncoder = 0;
   let avgCrossEncoder = 0;
 
   if (verifiedQAPairs > 0) {
     const sumBi = verifiedQAs.reduce((s, q) => s + (q.sim_qc || 0), 0);
     const sumCE = verifiedQAs.reduce((s, q) => s + (q.ce_multi_prob || 0), 0);
-
     avgBiEncoder = Number((sumBi / verifiedQAPairs).toFixed(3));
     avgCrossEncoder = Number((sumCE / verifiedQAPairs).toFixed(3));
   }
 
-  // Step1-only rate (reactive)
+  // 5) step1-only rate (reactive theo quality)
+  const th = Number(quality || 0.7);
+
   const step1OnlyCount = qas.filter(
     (q) =>
-      q.verified === true &&
-      q.verified_step2 !== true &&
-      (q.sim_qc ?? 0) >= Number(quality || 0.7),
+      q.verified === true && q.verified_step2 !== true && (q.sim_qc ?? 0) >= th,
   ).length;
 
   const step1OnlyRate =
@@ -70,7 +104,7 @@ export function buildSummary(query) {
 
   const totalDocuments = countDocuments({ dataset });
 
-  return {
+  const result = {
     totalDocuments,
     totalQAPairs,
     verifiedQAPairs,
@@ -79,6 +113,9 @@ export function buildSummary(query) {
     validationRate,
     step1OnlyRate,
   };
+
+  SUMMARY_CACHE.set(sKey, result);
+  return result;
 }
 
 /* =========================================================
@@ -92,23 +129,15 @@ export function buildQAList(query) {
     model = "all",
     experiment = "all",
     search = "",
+    quality = "0.7", // chỉ để frontend biết threshold, KHÔNG filter list
   } = query;
 
-  /* =========================
-   * 1. LOAD QA
-   * ========================= */
-  let qas = loadTotalQAs({ dataset, model, experiment });
+  // 1) load + dedupe (cached)
+  let qas = getQAsCached({ dataset, model, experiment });
 
-  /* =========================
-   * 2. REMOVE DUP CONTENT
-   * ========================= */
-  qas = dedupeContent(qas);
-
-  /* =========================
-   * 3. SEARCH FILTER
-   * ========================= */
+  // 2) search filter
   if (search) {
-    const s = search.toLowerCase();
+    const s = String(search).toLowerCase();
     qas = qas.filter(
       (q) =>
         q.question?.toLowerCase().includes(s) ||
@@ -117,16 +146,8 @@ export function buildQAList(query) {
     );
   }
 
-  /* =========================
-   * 4. SORT
-   * MODEL → SOURCE → ORIGINAL QA_ID
-   * ========================= */
-
-  const MODEL_ORDER = {
-    gpt: 1,
-    gemini: 2,
-    deepseek: 3,
-  };
+  // 3) sort
+  const MODEL_ORDER = { gpt: 1, gemini: 2, deepseek: 3 };
 
   qas.sort((a, b) => {
     const ma = MODEL_ORDER[normalizeModel(a.model)] ?? 99;
@@ -142,10 +163,7 @@ export function buildQAList(query) {
     return qaA.localeCompare(qaB);
   });
 
-  /* =====================================================
-   * 4.5 ZIP EN_i ↔ VI_i WHEN dataset = "all"
-   * ===================================================== */
-
+  // 4) zip EN_i ↔ VI_i khi dataset = "all"
   if (dataset === "all") {
     const en = [];
     const vi = [];
@@ -160,172 +178,137 @@ export function buildQAList(query) {
     const maxLen = Math.max(en.length, vi.length);
 
     for (let i = 0; i < maxLen; i++) {
-      if (i < en.length) mixed.push(en[i]); // EN_i
-      if (i < vi.length) mixed.push(vi[i]); // VI_i
+      if (i < en.length) mixed.push(en[i]);
+      if (i < vi.length) mixed.push(vi[i]);
     }
 
     qas = mixed;
   }
 
-  /* =========================
-   * 5. PAGINATION
-   * ========================= */
+  // 5) pagination
   const p = Number(page);
   const ps = Number(pageSize);
   const start = (p - 1) * ps;
   const pageItems = qas.slice(start, start + ps);
 
-  /* =====================================================
-   * 6. REINDEX QA_ID
-   *
-   * dataset = "all"  → EN_i & VI_i share index
-   * dataset != "all" → normal increment
-   * ===================================================== */
+  // 6) reindex QA_ID (đúng theo list sau filter/search/zip)
+  let counter = start;
 
-  let items = [];
+  const items = pageItems.map((q) => {
+    counter++;
+    const indexStr = String(counter).padStart(6, "0");
 
-  if (dataset === "all") {
-    /* ===== PAIR MODE ===== */
+    const modelNorm = normalizeModel(q.model);
+    const langNorm = normalizeLang(q.language);
 
-    let pairIndex = Math.floor(start / 2);
+    return {
+      id: `QA_${modelNorm}_${langNorm}_${indexStr}`,
 
-    for (let i = 0; i < pageItems.length; i += 2) {
-      pairIndex++;
-      const indexStr = String(pairIndex).padStart(6, "0");
+      question: q.question,
+      answer: q.answer,
+      context: q.context,
 
-      const a = pageItems[i];
-      const b = pageItems[i + 1];
+      model: modelNorm,
+      language: langNorm,
 
-      const pushItem = (q) => {
-        if (!q) return;
+      sourceDocument: q.source_pdf,
 
-        const modelNorm = normalizeModel(q.model);
-        const langNorm = normalizeLang(q.language);
+      sim_qc: Number(q.sim_qc ?? 0),
+      sim_ac: Number(q.sim_ac ?? 0),
+      verified: Boolean(q.verified),
 
-        items.push({
-          id: `QA_${modelNorm}_${langNorm}_${indexStr}`,
-
-          question: q.question,
-          answer: q.answer,
-          context: q.context,
-
-          model: modelNorm,
-          language: langNorm,
-          sourceDocument: q.source_pdf,
-
-          sim_qc: Number(q.sim_qc ?? 0),
-          sim_ac: Number(q.sim_ac ?? 0),
-          verified: Boolean(q.verified),
-
-          ce_multi_prob: Number(q.ce_multi_prob ?? 0),
-          verified_step2: Boolean(q.verified_step2),
-        });
-      };
-
-      pushItem(a);
-      pushItem(b);
-    }
-  } else {
-    /* ===== NORMAL MODE ===== */
-
-    let counter = start;
-
-    items = pageItems.map((q) => {
-      counter++;
-      const indexStr = String(counter).padStart(6, "0");
-
-      const modelNorm = normalizeModel(q.model);
-      const langNorm = normalizeLang(q.language);
-
-      return {
-        id: `QA_${modelNorm}_${langNorm}_${indexStr}`,
-
-        question: q.question,
-        answer: q.answer,
-        context: q.context,
-
-        model: modelNorm,
-        language: langNorm,
-        sourceDocument: q.source_pdf,
-
-        sim_qc: Number(q.sim_qc ?? 0),
-        sim_ac: Number(q.sim_ac ?? 0),
-        verified: Boolean(q.verified),
-
-        ce_multi_prob: Number(q.ce_multi_prob ?? 0),
-        verified_step2: Boolean(q.verified_step2),
-      };
-    });
-  }
+      ce_multi_prob: Number(q.ce_multi_prob ?? 0),
+      verified_step2: Boolean(q.verified_step2),
+    };
+  });
 
   return {
     total: qas.length,
     page: p,
     pageSize: ps,
+    quality: Number(quality), // ✅ trả về cho frontend dùng highlight màu + status
     items,
   };
 }
 
-
+/* =========================================================
+ * DATASET OVERVIEW (cache 1 lần)
+ * ========================================================= */
 export function buildDatasetOverview() {
+  if (DATASET_OVERVIEW_CACHE) return DATASET_OVERVIEW_CACHE;
+
   const MODELS = ["gpt", "gemini", "deepseek"];
   const LANGS = ["en", "vi"];
-  const QUALITY = 0.7;
+
+  const expRoot = path.join(process.cwd(), "dataModel", "exp");
+
+  const expFolders = fs.existsSync(expRoot)
+    ? fs.readdirSync(expRoot).filter((d) => d.startsWith("exp"))
+    : [];
 
   const rows = [];
 
   for (const model of MODELS) {
+    const base = getQAsCached({
+      dataset: "all",
+      model,
+      experiment: "all",
+    });
+
     for (const lang of LANGS) {
-      // 1. Load ALL EXP of this model + language
-      let qas = loadTotalQAs({
-        dataset: "all",
-        model,
-        experiment: "all",
-      });
+      /* ===== COUNT TOTAL EXP ===== */
+      let expCount = 0;
 
-      // 2. Filter language
-      qas = qas.filter((q) => q.language === lang);
+      for (const exp of expFolders) {
+        const expDir = path.join(expRoot, exp);
+        if (!fs.existsSync(expDir)) continue;
 
-      // 3. Remove duplicate content
-      qas = dedupeContent(qas);
+        const files = fs.readdirSync(expDir);
 
-      // 4. Apply quality >= 0.7
-      const verified = applyQualityFilter(qas, QUALITY);
+        const hasModelLang = files.some((f) => {
+          const name = f.toLowerCase();
+          return (
+            name.includes(model) &&
+            ((lang === "en" && name.includes("_en")) ||
+              (lang === "vi" && name.includes("_vi")))
+          );
+        });
 
-      // ✔ QA PAIRS = VERIFIED QA
+        if (hasModelLang) expCount++;
+      }
+
+      /* ===== GLOBAL METRICS (NO FILTER) ===== */
+      const qas = base.filter((q) => normalizeLang(q.language) === lang);
+
+      const verified = qas.filter(
+        (q) => q.verified === true && q.verified_step2 === true,
+      );
+
       const qaPairs = verified.length;
 
-      // 5. Avg similarity (Bi encoder) on VERIFIED ONLY
       let avgBi = 0;
       let avgCE = 0;
 
-      if (verified.length > 0) {
-        avgBi =
-          verified.reduce((s, q) => s + (q.sim_qc || 0), 0) / verified.length;
-
+      if (qaPairs > 0) {
+        avgBi = verified.reduce((s, q) => s + (q.sim_qc || 0), 0) / qaPairs;
         avgCE =
-          verified.reduce((s, q) => s + (q.ce_multi_prob || 0), 0) /
-          verified.length;
+          verified.reduce((s, q) => s + (q.ce_multi_prob || 0), 0) / qaPairs;
       }
 
       rows.push({
         id: `${model}_${lang}`,
-
         name: `${model.toUpperCase()} ${lang.toUpperCase()}`,
-
         source: lang === "vi" ? "VJOL" : "SemanticScholar",
         language: lang.toUpperCase(),
-
-        experiment: "all",
+        experiment: expCount,
         model,
-
-        qaPairs, // ✔ verified QA count
-
+        qaPairs,
         avgBiEncoder: Number(avgBi.toFixed(3)),
         avgCrossEncoder: Number(avgCE.toFixed(3)),
       });
     }
   }
 
+  DATASET_OVERVIEW_CACHE = rows;
   return rows;
 }

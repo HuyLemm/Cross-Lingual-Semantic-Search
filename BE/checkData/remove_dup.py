@@ -22,8 +22,8 @@ DATASETS = {
     "3": {
         "name": "GEMINI_VI",
         "lang": "vi",
-        "input": "../genData/geminiData/exp2/input2_vi_gemini.json",
-        "output": "../genData/geminiData/exp2/input2_vi_gemini_dedup.json",
+        "input": "../genData/geminiData/exp9/input9_vi_gemini.json",
+        "output": "../genData/geminiData/exp9/input9_vi_gemini_dedup.json",
     },
     "4": {
         "name": "GEMINI_EN",

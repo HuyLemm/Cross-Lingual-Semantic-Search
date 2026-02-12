@@ -1,11 +1,10 @@
 import {
   buildSummary,
   buildQAList,
-  buildDatasetOverview
-} from '../services/summary.service.js';
+  buildDatasetOverview,
+} from "../services/summary.service.js";
 
-import { getExperimentsByModel } from '../utils/utils.js';
-
+import { getExperimentsByModel } from "../utils/utils.js";
 
 export function getSummary(req, res) {
   try {
@@ -27,12 +26,11 @@ export function getQAList(req, res) {
   }
 }
 
-
 export function getExperiments(req, res) {
   try {
-    const { model = 'all' } = req.query;
-    const exps = getExperimentsByModel(model);
-    res.json(exps);
+    const { model = "all", dataset = "all" } = req.query;
+    const list = getExperimentsByModel(model, dataset);
+    res.json(list);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -40,11 +38,10 @@ export function getExperiments(req, res) {
 
 export function getDatasetOverview(req, res) {
   try {
-    const data = buildDatasetOverview();  
-    res.json(data);
+    const rows = buildDatasetOverview();
+    res.json(rows);
   } catch (err) {
     console.error(err);
     res.status(500).json({ error: err.message });
   }
 }
-

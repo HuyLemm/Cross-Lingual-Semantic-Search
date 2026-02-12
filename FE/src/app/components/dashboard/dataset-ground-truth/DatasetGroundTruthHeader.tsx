@@ -1,4 +1,3 @@
-import { Input } from "../../ui/input";
 import {
   Select,
   SelectContent,
@@ -6,7 +5,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "../../ui/select";
-import { Search } from "lucide-react";
 
 interface DatasetGroundTruthHeaderProps {
   selectedDataset: string;
@@ -28,14 +26,11 @@ export default function DatasetGroundTruthHeader({
   selectedModel,
   selectedExperiment,
   selectedQuality,
-  searchQuery,
   availableExperiments,
-  shouldShowExpList,
   onDatasetChange,
   onModelChange,
   onExperimentChange,
   onQualityChange,
-  onSearchChange,
 }: DatasetGroundTruthHeaderProps) {
   return (
     <div className="space-y-4">
@@ -91,21 +86,28 @@ export default function DatasetGroundTruthHeader({
         {/* Experiment */}
         <div className="flex items-center gap-2">
           <label className="text-xs text-gray-600 dark:text-slate-400 uppercase tracking-wide">
-            Experiment
+            Experiments
           </label>
+
           <Select value={selectedExperiment} onValueChange={onExperimentChange}>
-            <SelectTrigger className="w-[160px] h-9 text-sm">
-              <SelectValue />
+            <SelectTrigger className="w-[180px] h-9 text-sm">
+              <SelectValue placeholder="Select experiment" />
             </SelectTrigger>
 
             <SelectContent className="max-h-[180px] overflow-y-auto">
               <SelectItem value="all">All Exps</SelectItem>
 
-              {availableExperiments.map((exp) => (
-                <SelectItem key={exp} value={exp}>
-                  {exp}
-                </SelectItem>
-              ))}
+              {availableExperiments.length === 0 ? (
+                <div className="px-3 py-2 text-xs text-gray-400">
+                  No experiment for this model/lang
+                </div>
+              ) : (
+                availableExperiments.map((exp) => (
+                  <SelectItem key={exp} value={exp}>
+                    {exp}
+                  </SelectItem>
+                ))
+              )}
             </SelectContent>
           </Select>
         </div>
@@ -127,17 +129,6 @@ export default function DatasetGroundTruthHeader({
               <SelectItem value="0.9">≥ 0.90</SelectItem>
             </SelectContent>
           </Select>
-        </div>
-
-        {/* Search */}
-        <div className="flex items-center gap-2 ml-auto">
-          <Search className="w-4 h-4 text-gray-400" />
-          <Input
-            placeholder="Search QA, title, or source PDF..."
-            value={searchQuery}
-            onChange={(e) => onSearchChange(e.target.value)}
-            className="w-[260px] h-9 text-sm"
-          />
         </div>
       </div>
     </div>

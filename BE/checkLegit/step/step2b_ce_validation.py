@@ -7,11 +7,11 @@ from sentence_transformers import CrossEncoder
 # =========================
 # CONFIG
 # =========================
-INPUT_FILE = "../../stepResults/step2/exp17/deepseekr1t2_vi.json"
-OUTPUT_FILE = "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json"
+# INPUT_FILE = "../../stepResults/step2/exp17/deepseekr1t2_vi.json"
+# OUTPUT_FILE = "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json"
 
-# INPUT_FILE = "../../step2/exp2/gemini25flash_vi.json"
-# OUTPUT_FILE = "../../step2b_ce/exp2/gemini25flash_vi.json"
+INPUT_FILE = "../../stepResults/step2/exp9/gemini25flash_vi.json"
+OUTPUT_FILE = "../../stepResults/step2b_ce/exp9/gemini25flash_vi.json"
 
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 

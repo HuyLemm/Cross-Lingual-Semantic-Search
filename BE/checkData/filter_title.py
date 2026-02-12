@@ -25,8 +25,8 @@ DATASETS = {
         "name": "GEMINI_VI",
         "lang": "vi",
         "pdf_folder": "../backend/data/articles_vi",
-        "input": "../genData/geminiData/exp2/input2_vi_gemini_dedup.json",
-        "output": "../genData/geminiData/exp2/input2_vi_gemini_filtered.json",
+        "input": "../genData/geminiData/exp9/input9_vi_gemini_dedup.json",
+        "output": "../genData/geminiData/exp9/input9_vi_gemini_filtered.json",
     },
     "4": {
         "name": "GEMINI_EN",

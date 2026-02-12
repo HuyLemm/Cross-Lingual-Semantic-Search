@@ -1,0 +1,644 @@
+[
+  {
+    "title": "An ninh mạng và thách thức đối với hệ thống Internet vạn vật",
+    "context": "Việc ứng dụng công nghệ Internet vạn vật (IoT) trong nhiều lĩnh vực đang làm gia tăng nguy cơ an ninh mạng. Đặc điểm động và đa dạng của các kết nối IoT, cùng với hạn chế về tài nguyên, là những yếu tố chính tạo ra thách thức lớn về bảo mật. Bài viết này tổng quan về sự phát triển của IoT và các nguy cơ liên quan, đồng thời đưa ra khuyến nghị bảo vệ hệ thống IoT trong tương lai.",
+    "question": "Những đặc điểm nào của công nghệ Internet vạn vật (IoT) tạo ra thách thức đáng kể về bảo mật và an ninh mạng?",
+    "answer": "Các đặc điểm động và đa dạng của kết nối IoT, cùng với những hạn chế về tài nguyên, là những yếu tố chính tạo ra thách thức lớn về bảo mật và an ninh mạng cho hệ thống Internet vạn vật."
+  },
+  {
+    "title": "An ninh mạng và thách thức đối với hệ thống Internet vạn vật",
+    "context": "Để bảo vệ hệ thống Internet vạn vật (IoT) khỏi các mối đe dọa an ninh, nhiều giải pháp bảo mật toàn diện đã được phát triển. Các giải pháp này bao gồm mã hóa dữ liệu bằng thuật toán mạnh, triển khai hệ thống phát hiện xâm nhập (IDS) và quản lý sự kiện an ninh (SIEM) để giám sát. Bên cạnh đó, quản lý danh tính và phân quyền, bảo mật mạng bằng tường lửa, cập nhật phần mềm định kỳ, sử dụng giải pháp mã hóa phần cứng như HSM/TPM, và giám sát chống DDoS cũng là những biện pháp thiết yếu.",
+    "question": "Các giải pháp bảo mật quan trọng nào được đề xuất để tăng cường an ninh cho hệ thống Internet vạn vật (IoT) và bảo vệ dữ liệu?",
+    "answer": "Các giải pháp bảo mật quan trọng cho hệ thống IoT bao gồm mã hóa dữ liệu, phát hiện xâm nhập và giám sát an ninh (IDS, SIEM), quản lý danh tính và phân quyền, bảo mật mạng và tường lửa, cập nhật phần mềm định kỳ, giải pháp mã hóa trong phần cứng (HSM, TPM), cùng với giám sát và bảo vệ chống tấn công DDoS."
+  },
+  {
+    "title": "Bạc Liêu Đổi mới hoạt động tiêu chuẩn đo lường chất lượng phục vụ phát triển kinh tế - xã hội",
+    "context": "Việc áp dụng và duy trì hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001 là một trong những giải pháp trọng tâm nhằm nâng cao hiệu quả hoạt động của các cơ quan hành chính Nhà nước tỉnh Bạc Liêu. Điều này bao gồm việc theo dõi quá trình áp dụng, tổ chức các khóa đào tạo nghiệp vụ, và kiểm tra định kỳ để đảm bảo sự tuân thủ và cải tiến liên tục.",
+    "question": "Giải pháp nhằm theo dõi và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001 trong các cơ quan hành chính Nhà nước tỉnh Bạc Liêu bao gồm những hoạt động nào?",
+    "answer": "Giải pháp bao gồm theo dõi và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001, tổ chức và tham gia các khóa đào tạo nghiệp vụ, kiểm tra việc xây dựng và áp dụng hệ thống quản lý chất lượng tại các cơ quan, đơn vị, và báo cáo tình hình áp dụng hệ thống này."
+  },
+  {
+    "title": "Chuẩn bị nguồn nhân lực cho việc tái khởi động chương trình điện hạt nhân tại Việt Nam",
+    "context": "Chuyển giao công nghệ và nội địa hóa được xác định là những nội dung quan trọng cần được đưa vào trong các hợp đồng chìa khóa trao tay với đối tác nước ngoài khi triển khai các dự án điện hạt nhân tại Việt Nam. Với việc đồng thời triển khai hai dự án điện hạt nhân với hai đối tác cung cấp hai loại công nghệ khác nhau, cần có sự chỉ đạo cụ thể về chuyển giao công nghệ và nội địa hóa. Kinh nghiệm của Hàn Quốc, quốc gia đã nội địa hóa 76% sau dự án điện hạt nhân thứ sáu trong thập niên 1970-1980, là một bài học tham khảo quý giá cho Việt Nam.",
+    "question": "Trình bày tầm quan trọng của chuyển giao công nghệ và nội địa hóa trong các hợp đồng dự án điện hạt nhân tại Việt Nam, và bài học từ kinh nghiệm của Hàn Quốc được đề cập như thế nào?",
+    "answer": "Chuyển giao công nghệ và nội địa hóa là những nội dung quan trọng cần được đưa vào các hợp đồng chìa khóa trao tay với đối tác nước ngoài và cần có sự chỉ đạo thực hiện. Hàn Quốc đã nội địa hóa 76% sau khi thực hiện dự án điện hạt nhân thứ sáu vào những năm 1970-1980, và Việt Nam cần xem xét quyết định về chuyển giao công nghệ và nội địa hóa với tốc độ nhanh hơn, dựa trên điều kiện tốt hơn hiện tại."
+  },
+  {
+    "title": "Chuẩn mực đạo đức báo chí trong môi trường truyền thông số và gợi ý cho Việt Nam",
+    "context": "Để góp phần nâng cao chuẩn mực đạo đức báo chí ở Việt Nam, tài liệu khuyến nghị cần bổ sung, sửa đổi, hoàn thiện các quy định pháp lý đối với báo chí và đạo đức nghề nghiệp người làm báo. Điều này bao gồm việc nâng cao vai trò và trách nhiệm của Hội Nhà báo Việt Nam trong giáo dục đạo đức, theo dõi, giám sát và xử lý vi phạm. Đồng thời, cần luật hóa các quy định đạo đức nghề nghiệp để đáp ứng yêu cầu truyền thông số, hình thành biện pháp phòng ngừa và xây dựng chế tài xử phạt hành chính cụ thể cho cá nhân nhà báo vi phạm nghiêm trọng.",
+    "question": "Về mặt pháp lý, những khuyến nghị nào được đưa ra để nâng cao chuẩn mực đạo đức báo chí tại Việt Nam?",
+    "answer": "Các khuyến nghị pháp lý bao gồm bổ sung, sửa đổi, hoàn thiện quy định về báo chí và đạo đức nghề nghiệp, nâng cao vai trò của Hội Nhà báo Việt Nam trong giáo dục và xử lý vi phạm, luật hóa quy định đạo đức nghề nghiệp đáp ứng truyền thông số, và xây dựng chế tài xử phạt hành chính cụ thể cho nhà báo vi phạm."
+  },
+  {
+    "title": "Chính sách đổi mới sáng tạo chuyển đổi ở Thụy Điển và khuyến nghị cho Việt Nam",
+    "context": "Tại Việt Nam, vai trò then chốt của khoa học, công nghệ và đổi mới sáng tạo (ĐMST) trong phát triển bền vững đã được khẳng định rõ ràng trong các chủ trương, đường lối, chính sách của Đảng và Nhà nước. Điều này được thể hiện qua các văn kiện như Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, Quyết định số 622/QĐ-TTg về Kế hoạch hành động quốc gia thực hiện Chương trình nghị sự 2030 vì sự phát triển bền vững, và Chiến lược phát triển kinh tế-xã hội 10 năm 2021-2030. Các văn kiện này đều nhấn mạnh tầm quan trọng của khoa học, công nghệ và ĐMST trong việc tạo bứt phá về năng suất, chất lượng, hiệu quả và sức cạnh tranh của nền kinh tế.",
+    "question": "Theo tài liệu, vai trò của khoa học, công nghệ và đổi mới sáng tạo (ĐMST) trong sự phát triển bền vững của Việt Nam đã được khẳng định như thế nào trong các chính sách quốc gia?",
+    "answer": "Vai trò then chốt của khoa học, công nghệ và đổi mới sáng tạo (ĐMST) trong phát triển bền vững, tạo bứt phá về năng suất, chất lượng, hiệu quả và sức cạnh tranh của nền kinh tế Việt Nam đã được khẳng định trong các chủ trương, đường lối, chính sách của Đảng và Nhà nước như Văn kiện Đại hội XIII và các chiến lược phát triển bền vững quốc gia."
+  },
+  {
+    "title": "Công nghệ đột phá biến tế bào ung thư thành tế bào bình thường",
+    "context": "Các phương pháp điều trị ung thư truyền thống thường tập trung vào việc tiêu diệt tế bào ung thư, nhưng hướng đi này gặp phải nhiều hạn chế cơ bản. Những hạn chế này bao gồm khả năng tế bào ung thư phát triển kháng thuốc và tái phát, cùng với việc gây ra các tác dụng phụ nghiêm trọng do ảnh hưởng đến các tế bào khỏe mạnh trong cơ thể bệnh nhân. Hướng điều trị mới của KAIST tìm cách đảo ngược tế bào ung thư mà không tiêu diệt.",
+    "question": "So với phương pháp điều trị ung thư bằng cách chuyển đổi tế bào ung thư thành tế bào bình thường, những hạn chế cơ bản nào thường gặp phải khi áp dụng các phương pháp điều trị truyền thống nhằm mục tiêu tiêu diệt tế bào ung thư?",
+    "answer": "Các phương pháp điều trị truyền thống nhằm tiêu diệt tế bào ung thư thường gặp phải hạn chế như tế bào ung thư có thể phát triển khả năng kháng thuốc, tái phát, và gây ra tác dụng phụ nghiêm trọng do ảnh hưởng đến tế bào khỏe mạnh."
+  },
+  {
+    "title": "GS.TS Hoàng Chí Thiêm Việt Nam nên có chương trình dài hạn và đồng bộ để phát triển ngành khoa học vũ trụ",
+    "context": "Ngành khoa học vũ trụ Việt Nam hiện đang đứng trước nhiều cơ hội lớn trong bối cảnh phát triển khoa học toàn cầu. Các nước phát triển đang ưu tiên đầu tư vào các dự án thu thập dữ liệu khổng lồ, đồng thời sự phát triển của siêu máy tính và trí tuệ nhân tạo giúp mô phỏng vũ trụ ở nhiều quy mô. Các cơ sở dữ liệu từ những dự án này thường được công bố công khai, tạo điều kiện cho các nhà khoa học trên toàn cầu, bao gồm Việt Nam, khai thác và nghiên cứu. Điều này cho phép Việt Nam tham gia vào các nghiên cứu tiên tiến mà không cần đầu tư ngay vào cơ sở hạ tầng đắt đỏ, tận dụng lợi thế về nền tảng vật lý, toán học và khoa học máy tính của sinh viên Việt Nam.",
+    "question": "Những cơ hội lớn nào đang mở ra cho ngành khoa học vũ trụ Việt Nam trong bối cảnh phát triển của khoa học vũ trụ toàn cầu?",
+    "answer": "Các cơ hội lớn cho ngành khoa học vũ trụ Việt Nam bao gồm khả năng khai thác nguồn dữ liệu khổng lồ được công bố công khai từ các dự án quốc tế và lợi thế về nền tảng vật lý, toán học, khoa học máy tính của sinh viên Việt Nam để tham gia nghiên cứu tiên tiến mà không cần đầu tư cơ sở hạ tầng đắt đỏ."
+  },
+  {
+    "title": "Giá trị gia đình Việt Nam trong kỷ nguyên mới và vai trò của phụ nữ",
+    "context": "Gia đình Việt Nam đang trải qua nhiều biến đổi quan trọng do tác động của các chính sách kinh tế, văn hóa, xã hội. Phụ nữ Việt Nam, từ lâu được coi là trụ cột, có vai trò vượt bậc trong việc duy trì hạnh phúc gia đình, phát triển kinh tế và giáo dục con cái. Vai trò này không chỉ là một phần của giá trị văn hóa dân tộc mà còn là yếu tố quan trọng ảnh hưởng đến sự ổn định và phát triển của xã hội.",
+    "question": "Những biến đổi quan trọng nào đang diễn ra trong giá trị gia đình Việt Nam trong kỷ nguyên mới và vai trò của phụ nữ được thể hiện như thế nào trong bối cảnh này?",
+    "answer": "Trong kỷ nguyên mới, giá trị gia đình Việt Nam đang có nhiều biến đổi cùng với những chính sách kinh tế, văn hóa, xã hội. Phụ nữ Việt Nam được coi là trụ cột quan trọng, không chỉ đảm nhiệm trách nhiệm truyền thống mà còn đóng góp vượt bậc vào việc duy trì hạnh phúc, phát triển kinh tế và giáo dục con cái, là yếu tố quan trọng ảnh hưởng đến sự ổn định và phát triển của xã hội."
+  },
+  {
+    "title": "Hiệp định biển cả Chia sẻ lợi ích và bảo tồn nguồn gen biển",
+    "context": "Việc tham gia Hiệp định biển cả mang lại nhiều cơ hội chiến lược cho Việt Nam, một quốc gia biển có đa dạng sinh học cao, để hội nhập sâu rộng hơn với cộng đồng quốc tế. Hiệp định tạo cơ sở pháp lý thuận lợi để Việt Nam hưởng thụ công bằng các nguồn gen quý từ đại dương và thúc đẩy nghiên cứu khoa học. Đồng thời, đây cũng là cơ hội để chuyển giao công nghệ biển và nâng cao chất lượng nguồn nhân lực biển, góp phần bảo vệ an ninh và chủ quyền biển đảo quốc gia.",
+    "question": "Hiệp định biển cả mang lại những cơ hội quan trọng nào cho Việt Nam trong bối cảnh hội nhập quốc tế và phát triển biển bền vững?",
+    "answer": "Hiệp định biển cả là cơ hội để Việt Nam hội nhập sâu rộng hơn với thế giới, vươn ra “biển lớn” để tham gia hưởng lợi nhiều nhất các giá trị, đồng thời là động lực để đẩy mạnh nghiên cứu khoa học và chuyển giao công nghệ đại dương, nâng cao chất lượng nguồn nhân lực biển, và góp phần bảo vệ an ninh, chủ quyền biển đảo."
+  },
+  {
+    "title": "Hoàn thiện khung pháp lý về bảo vệ dữ liệu cá nhân trên không gian mạng Kinh nghiệm từ châu Âu",
+    "context": "Quy định Bảo vệ dữ liệu chung (GDPR) của Liên minh châu Âu thiết lập các điều kiện cụ thể để áp dụng xử phạt hành chính đối với vi phạm dữ liệu cá nhân, được nêu tại Điều 83. Các điều kiện này bao gồm bản chất, mức độ nghiêm trọng, thời gian và mục đích vi phạm, số lượng chủ thể dữ liệu bị ảnh hưởng, tính chất vô ý hoặc cố ý, hành động nhằm giảm thiểu thiệt hại và mức độ hợp tác với cơ quan giám sát. Việc dựa vào những tiêu chí này giúp xác định mức phạt phù hợp, đảm bảo tính răn đe và công bằng trong quá trình thực thi.",
+    "question": "Theo Điều 83 của Quy định Bảo vệ dữ liệu chung (GDPR) của Liên minh châu Âu, những điều kiện chung nào được sử dụng để áp dụng xử phạt hành chính đối với hành vi vi phạm dữ liệu cá nhân?",
+    "answer": "Các điều kiện chung để áp dụng xử phạt hành chính theo Điều 83 GDPR bao gồm bản chất, mức độ nghiêm trọng, thời gian và mục đích vi phạm, số lượng chủ thể dữ liệu bị ảnh hưởng, tính chất vô ý hoặc cố ý, hành động nhằm giảm thiểu thiệt hại, mức độ trách nhiệm của bên kiểm soát và bên xử lý, các vi phạm trước đó, mức độ hợp tác với cơ quan giám sát, các loại bảo vệ dữ liệu bị ảnh hưởng, cách thức hành vi vi phạm được phát hiện, và việc tuân thủ các biện pháp đã được lệnh hoặc quy tắc ứng xử."
+  },
+  {
+    "title": "Hệ thống tiêu chuẩn quốc gia về môi trường, xã hội và quản trị - Khung chiến lược hướng tới phát triển bền vững",
+    "context": "ESG (Môi trường, xã hội và quản trị) là một khuôn khổ chiến lược và hoạt động, được thiết kế để hỗ trợ các tổ chức thuộc mọi quy mô và loại hình. Mục tiêu của khuôn khổ này là giúp các tổ chức thực hiện và báo cáo về các hoạt động, sản phẩm, dịch vụ và cam kết của họ. Qua đó, ESG đóng góp vào việc đạt được phát triển bền vững, công bằng xã hội và quản trị tốt. Việc áp dụng ESG mang lại sự tập trung rõ ràng hơn vào tác động của tổ chức đối với môi trường và xã hội.",
+    "question": "ESG là gì và mục đích của khuôn khổ chiến lược môi trường, xã hội và quản trị (ESG) đối với các tổ chức nhằm hỗ trợ đạt được mục tiêu gì?",
+    "answer": "ESG là một khuôn khổ chiến lược và hoạt động nhằm hỗ trợ các tổ chức thực hiện và báo cáo về các hoạt động, sản phẩm, dịch vụ và cam kết của họ để hỗ trợ đạt được phát triển bền vững, công bằng xã hội và quản trị tốt."
+  },
+  {
+    "title": "Hệ thống tiêu chuẩn quốc gia về môi trường, xã hội và quản trị - Khung chiến lược hướng tới phát triển bền vững",
+    "context": "ESG là một yếu tố đặc biệt quan trọng đối với các tổ chức vì nó giúp tập trung sự chú ý của những người ra quyết định vào trách nhiệm giải trình và tác động của họ đối với cộng đồng và môi trường. Các cơ quan quản lý, nhà hoạch định chính sách và nhà đầu tư đặc biệt quan tâm đến ESG do những lợi ích mà nó mang lại. Hơn nữa, tất cả mọi người đều có tiềm năng trở thành bên quan tâm đến kết quả của các hoạt động ESG, tạo nên một phạm vi ảnh hưởng rộng lớn.",
+    "question": "Tại sao ESG được coi là yếu tố đặc biệt quan trọng đối với các tổ chức và các bên quan tâm như cơ quan quản lý, nhà hoạch định chính sách và nhà đầu tư?",
+    "answer": "ESG quan trọng vì nó tập trung sự chú ý của người ra quyết định vào tác động và trách nhiệm giải trình của các tổ chức đối với cộng đồng, môi trường và cuộc sống hàng ngày, đồng thời thu hút sự quan tâm của các cơ quan quản lý, nhà hoạch định chính sách và nhà đầu tư."
+  },
+  {
+    "title": "Hệ thống tiêu chuẩn quốc gia về môi trường, xã hội và quản trị - Khung chiến lược hướng tới phát triển bền vững",
+    "context": "Quản lý rủi ro và cơ hội là một phần thiết yếu trong khuôn khổ ESG, đòi hỏi các tổ chức phải xác định và hiểu rõ các tác động của yếu tố môi trường, xã hội và quản trị. Quy trình này bao gồm việc phân tích các tác động từ yếu tố bên trong và môi trường bên ngoài lên tổ chức. Sau khi đánh giá và ưu tiên dựa trên mức độ ảnh hưởng và khả năng xảy ra, tổ chức sẽ áp dụng các giải pháp đa dạng để tránh, giảm thiểu hoặc khai thác cơ hội phát triển mới.",
+    "question": "Khung quản lý ESG nhấn mạnh vai trò của việc quản lý rủi ro và cơ hội như thế nào, và quy trình này bao gồm các bước nào để xử lý các tác động từ yếu tố môi trường, xã hội và quản trị?",
+    "answer": "Khung quản lý ESG nhấn mạnh việc xác định và quản lý cả rủi ro và cơ hội. Quy trình bao gồm xác định rủi ro và cơ hội, đánh giá và ưu tiên chúng, sau đó áp dụng đa dạng các giải pháp từ tránh, giảm thiểu đến khai thác cơ hội phát triển mới."
+  },
+  {
+    "title": "Hệ thống tiêu chuẩn quốc gia về môi trường, xã hội và quản trị - Khung chiến lược hướng tới phát triển bền vững",
+    "context": "Để đánh giá hiệu quả của việc thực hiện ESG, các tổ chức cần sử dụng các chỉ số đo lường hiệu quả (KPIs) cụ thể cho từng khía cạnh môi trường, xã hội và quản trị. Bộ chỉ số này đóng vai trò là một khung tham chiếu quan trọng, giúp các tổ chức định lượng và định hướng chiến lược phát triển bền vững của mình. Việc áp dụng KPIs cho phép các tổ chức đo lường, theo dõi tiến độ và ra quyết định dựa trên dữ liệu thực tế.",
+    "question": "Vai trò của các chỉ số đo lường hiệu quả (KPIs) trong khuôn khổ ESG là gì để đánh giá hiệu quả của các khía cạnh môi trường, xã hội và quản trị?",
+    "answer": "Các chỉ số đo lường hiệu quả (KPIs) cho ESG đóng vai trò là khung tham chiếu để cụ thể hóa và đánh giá hiệu quả đối với mỗi khía cạnh về môi trường, xã hội, quản trị, hỗ trợ ra quyết định dựa trên dữ liệu thực tế."
+  },
+  {
+    "title": "Khoa học và Công nghệ phục vụ mục tiêu đạt mức phát thải ròng bằng 0 tại Việt Nam",
+    "context": "Để thực hiện mục tiêu giảm phát thải và ứng phó với biến đổi khí hậu, Việt Nam đang tích cực hoàn thiện các văn bản pháp lý và chính sách. Việc này bao gồm việc xây dựng các chiến lược quốc gia, nghị định quản lý carbon và thiết lập các công cụ kinh tế. Các nỗ lực này nhằm tạo ra một khuôn khổ pháp lý vững chắc để thúc đẩy các hoạt động giảm phát thải trên toàn quốc.",
+    "question": "Việt Nam đang hoàn thiện khung pháp lý và chính sách nào để quản lý carbon, giải quyết biến đổi khí hậu và giảm thiểu phát thải khí nhà kính trong các ngành kinh tế trọng điểm?",
+    "answer": "Việt Nam đang hoàn thiện khung pháp lý và chính sách liên quan đến biến đổi khí hậu, bảo vệ môi trường, bao gồm xây dựng chiến lược quốc gia về biến đổi khí hậu, nghị định về quản lý carbon, và thiết lập cơ chế thị trường carbon trong nước, cùng với các chính sách giảm thiểu phát thải trong các ngành kinh tế chủ chốt."
+  },
+  {
+    "title": "Khoa học, công nghệ và đổi mới sáng tạo trước những cơ hội và thử thách",
+    "context": "Để thúc đẩy khoa học và công nghệ cùng đổi mới sáng tạo tại Việt Nam, cần đặc biệt quan tâm đổi mới và hoàn thiện cơ chế, chính sách quản lý hoạt động khoa học và công nghệ. Hoạt động sáng tạo này đòi hỏi quan điểm và phương pháp quản lý phù hợp, ưu tiên tiếp cận quản lý sản phẩm đầu ra (outcome approach) thay vì quá tập trung vào quản lý quy trình, nhằm tạo điều kiện tốt nhất cho sự phát triển.",
+    "question": "Việt Nam cần thực hiện những đổi mới và hoàn thiện nào trong cơ chế, chính sách quản lý hoạt động khoa học và công nghệ để khuyến khích đổi mới sáng tạo?",
+    "answer": "Việt Nam cần đổi mới và hoàn thiện cơ chế, chính sách quản lý hoạt động khoa học và công nghệ, với phương pháp tiếp cận hướng đến quản lý sản phẩm đầu ra (outcome approach) thay vì quá chú trọng vào quản lý quy trình."
+  },
+  {
+    "title": "Kinh nghiệm quản trị công địa phương trên thế giới và định hướng phát triển mô hình chính quyền hai cấp ở Việt Nam",
+    "context": "Bài viết này phân tích và so sánh kinh nghiệm phát triển năng lực quản trị công địa phương từ các quốc gia phát triển và đang phát triển. Mục tiêu chính là làm rõ các yếu tố cốt lõi nâng cao hiệu quả quản trị và đưa ra đề xuất cho Việt Nam trong bối cảnh tái cấu trúc đơn vị hành chính. Nội dung hướng đến việc phát triển mô hình chính quyền tinh gọn, hiệu lực và hiệu quả tại Việt Nam, đặc biệt trong việc thực hiện Nghị quyết số 18-NQ/TW. Từ đó, bài viết cung cấp những định hướng quan trọng để cải thiện quản trị công địa phương.",
+    "question": "Mục tiêu chính của bài viết \"Kinh nghiệm quản trị công địa phương trên thế giới và định hướng phát triển mô hình chính quyền hai cấp ở Việt Nam\" là gì, đặc biệt trong bối cảnh tái cấu trúc đơn vị hành chính và thực hiện Nghị quyết số 18-NQ/TW?",
+    "answer": "Bài viết tập trung phân tích kinh nghiệm phát triển năng lực quản trị công địa phương trên thế giới để rút ra các yếu tố cốt lõi nâng cao hiệu quả quản trị, từ đó đưa ra đề xuất cho Việt Nam nhằm nâng cao năng lực quản trị công địa phương, hướng tới mô hình chính quyền tinh gọn, hiệu lực, hiệu quả trong bối cảnh thực hiện Nghị quyết số 18-NQ/TW."
+  },
+  {
+    "title": "Kiến trúc mạng lưới an ninh mạng Hướng tiếp cận mới trong bảo mật doanh nghiệp phân tán",
+    "context": "CSMA cũng giúp hiện thực hóa mô hình bảo mật Zero Trust bằng cách kiểm soát truy cập không dựa vào vị trí mạng, mà dựa trên danh tính, ngữ cảnh và mức độ rủi ro. Việc triển khai hạ tầng danh tính phân tán cho phép xác thực liên tục, theo dõi hành vi người dùng và kiểm soát truy cập động. Đây đều là những yếu tố then chốt trong chiến lược bảo mật hiện đại. Hạ tầng danh tính phân tán cung cấp các dịch vụ quản lý danh tính và truy cập (IAM), hỗ trợ giải pháp bảo mật toàn diện này.",
+    "question": "Kiến trúc mạng lưới an ninh mạng (CSMA) hỗ trợ hiện thực hóa mô hình bảo mật Zero Trust thông qua những cơ chế nào?",
+    "answer": "CSMA hiện thực hóa mô hình Zero Trust bằng cách kiểm soát truy cập dựa trên danh tính, ngữ cảnh và mức độ rủi ro, đồng thời triển khai hạ tầng danh tính phân tán để xác thực liên tục, theo dõi hành vi người dùng và kiểm soát truy cập động."
+  },
+  {
+    "title": "Luật Năng lượng nguyên tử Những bất cập, hạn chế cần sửa đổi, bổ sung",
+    "context": "Luật Năng lượng nguyên tử hiện hành còn thiếu một số quy định quan trọng, ảnh hưởng đến hiệu quả quản lý và khả năng hội nhập quốc tế. Các quy định tại Luật chưa thể hiện đầy đủ các nguyên tắc an toàn và an ninh cơ bản, cũng như thiếu các nội dung về bảo vệ chống phóng xạ và bảo vệ bệnh nhân trong chiếu xạ y tế. Ngoài ra, Luật cũng chưa có các quy định về văn hóa an toàn hạt nhân, văn hóa an ninh hạt nhân và cách tiếp cận phân cấp trong quản lý an toàn, an ninh theo mức độ nguy hiểm, cũng như thiếu quy định về thanh sát hạt nhân.",
+    "question": "Các quy định còn thiếu trong Luật Năng lượng nguyên tử hiện hành liên quan đến nguyên tắc an toàn, an ninh hạt nhân và thanh sát hạt nhân là gì?",
+    "answer": "Luật Năng lượng nguyên tử hiện hành còn thiếu các quy định về nguyên tắc an toàn và an ninh cơ bản, bảo vệ chống phóng xạ và bệnh nhân trong chiếu xạ y tế, văn hóa an toàn/an ninh hạt nhân, cách tiếp cận phân cấp quản lý an toàn/an ninh, và quy định về thanh sát hạt nhân."
+  },
+  {
+    "title": "Luật Năng lượng nguyên tử Những bất cập, hạn chế cần sửa đổi, bổ sung",
+    "context": "Việc xây dựng Luật Năng lượng nguyên tử (sửa đổi) cần tuân thủ và áp dụng phù hợp các nguyên tắc cơ bản, yêu cầu và hướng dẫn của Cơ quan Năng lượng nguyên tử quốc tế (IAEA) về bố cục và nội dung của một Luật Hạt nhân. Đặc biệt, Luật (sửa đổi) phải bảo đảm 11 nguyên tắc cốt lõi mà IAEA khuyến cáo. Các nguyên tắc này bao gồm an toàn, an ninh, trách nhiệm, cho phép, kiểm soát liên tục, bồi thường, phát triển bền vững, tuân thủ, độc lập, minh bạch và hợp tác quốc tế, nhằm tăng cường hội nhập và hợp tác quốc tế.",
+    "question": "Những nguyên tắc nào của Cơ quan Năng lượng nguyên tử quốc tế (IAEA) cần được bảo đảm khi xây dựng Luật Năng lượng nguyên tử (sửa đổi)?",
+    "answer": "Luật Năng lượng nguyên tử (sửa đổi) phải bảo đảm 11 nguyên tắc của IAEA gồm an toàn, an ninh, trách nhiệm, cho phép, kiểm soát liên tục, bồi thường, phát triển bền vững, tuân thủ, độc lập, minh bạch và hợp tác quốc tế."
+  },
+  {
+    "title": "Làm chủ công nghệ chế tạo sơn nano phản xạ nhiệt mặt trời",
+    "context": "So với các lớp phủ hữu cơ truyền thống có hiệu quả và tuổi thọ hạn chế, việc bổ sung phụ gia nano mang lại hiệu quả vượt trội cho lớp sơn phủ. Nhờ diện tích bề mặt riêng lớn, các phụ gia nano, ngay cả ở lượng nhỏ, có thể cải thiện đáng kể hiệu suất và tác dụng bảo vệ. Đặc biệt, chúng giúp nâng cao nhiều đặc tính của lớp sơn theo hướng đa dụng mà không gây độc hại cho sức khỏe con người và môi trường như nhiều hợp chất tăng cường khác thường được bổ sung.",
+    "question": "Việc bổ sung phụ gia nano mang lại những lợi ích và cải thiện hiệu quả của lớp sơn phủ như thế nào so với lớp phủ hữu cơ truyền thống?",
+    "answer": "Phụ gia nano giúp tăng hiệu quả và tác dụng bảo vệ của lớp sơn phủ, nâng cấp nhiều đặc tính theo hướng đa dụng nhờ diện tích bề mặt riêng lớn, đồng thời giảm thiểu yếu tố gây hại cho môi trường và sức khỏe so với lớp phủ hữu cơ truyền thống."
+  },
+  {
+    "title": "Môi giới công nghệ Cơ hội và thách thức trong kỷ nguyên số",
+    "context": "Nhu cầu đổi mới công nghệ từ các doanh nghiệp trong nước là một cơ hội lớn cho hoạt động môi giới công nghệ tại Việt Nam. Theo báo cáo tổng kết thị trường Khoa học và Công nghệ năm 2023 của Bộ Khoa học và Công nghệ, hơn 85% doanh nghiệp Việt Nam có nhu cầu đổi mới công nghệ. Tuy nhiên, chỉ khoảng 22% có khả năng tự tìm kiếm công nghệ phù hợp, điều này khẳng định vai trò thiết yếu của các tổ chức và cá nhân môi giới công nghệ trong việc kết nối cung - cầu công nghệ một cách hiệu quả.",
+    "question": "Theo báo cáo tổng kết thị trường Khoa học và Công nghệ năm 2023 của Bộ Khoa học và Công nghệ, nhu cầu đổi mới công nghệ của doanh nghiệp Việt Nam tạo ra cơ hội như thế nào cho hoạt động môi giới công nghệ?",
+    "answer": "Hơn 85% doanh nghiệp Việt Nam có nhu cầu đổi mới công nghệ nhưng chỉ khoảng 22% có khả năng tự tìm kiếm công nghệ phù hợp. Điều này cho thấy vai trò thiết yếu của các tổ chức và cá nhân môi giới công nghệ trong việc kết nối cung - cầu công nghệ một cách hiệu quả, tạo ra cơ hội lớn cho hoạt động này."
+  },
+  {
+    "title": "Một số vấn đề về ứng dụng khoa học vào chính sách",
+    "context": "Việc áp dụng cơ chế thị trường để kết nối khoa học và chính sách gặp phải những trở ngại cơ bản. Kết quả ứng dụng khoa học vào chính sách không thể hiện giá trị kinh tế một cách cụ thể, trực tiếp và nhanh chóng, gây khó khăn trong việc phân chia lợi ích và xác định trách nhiệm kinh tế. Hơn nữa, trong hệ thống cơ quan làm chính sách không tồn tại các đơn vị độc lập, cạnh tranh về thu hút kết quả nghiên cứu khoa học, khiến việc xác định giá trị sản phẩm khoa học trên cơ sở cạnh tranh trở nên bất khả thi.",
+    "question": "Tại sao cơ chế thị trường không phù hợp hoặc gặp trở ngại khi áp dụng để kết nối khoa học với chính sách?",
+    "answer": "Cơ chế thị trường gặp trở ngại vì kết quả ứng dụng khoa học vào chính sách không thể hiện giá trị kinh tế cụ thể, thiếu cơ sở phân chia lợi ích và xác định trách nhiệm, và không có sự cạnh tranh để định giá sản phẩm khoa học trong cơ quan làm chính sách."
+  },
+  {
+    "title": "Nghiên cứu khoa học xã hội và nhân văn Những vấn đề có tính nguyên tắc",
+    "context": "Giữ vững định hướng chính trị là một vấn đề có tính nguyên tắc cốt lõi trong nghiên cứu Khoa học xã hội và nhân văn (KHXH&NV), nhằm đảm bảo hoạt động này phát triển đúng hướng và đạt hiệu quả thiết thực. Nguyên tắc này cần được quán triệt một cách sâu sắc và triển khai xuyên suốt ở tất cả các hoạt động, từ công tác lãnh đạo, chỉ đạo, quản lý cho đến công tác nghiên cứu phát triển KHXH&NV. Để đảm bảo điều này, cần quán triệt sâu sắc quan điểm, đường lối, chủ trương của Đảng và chính sách, pháp luật của Nhà nước, đặc biệt là các nghị quyết và chỉ thị liên quan đến công tác lý luận và định hướng nghiên cứu.",
+    "question": "Vì sao việc giữ vững định hướng chính trị được xem là nguyên tắc quan trọng trong nghiên cứu Khoa học xã hội và nhân văn (KHXH&NV) và cách thức thực hiện nguyên tắc này?",
+    "answer": "Giữ vững định hướng chính trị là nguyên tắc để KHXH&NV phát triển đúng hướng và hiệu quả. Để thực hiện, cần quán triệt sâu sắc quan điểm, đường lối của Đảng và chính sách, pháp luật của Nhà nước trong mọi hoạt động từ lãnh đạo đến nghiên cứu."
+  },
+  {
+    "title": "Nguy cơ từ Shadow AI trong hoạt động tài chính",
+    "context": "Shadow AI được dự báo sẽ trở thành mối lo ngại lớn về an ninh mạng đối với các doanh nghiệp và tổ chức trên toàn cầu vào năm 2025, đặc biệt ảnh hưởng trực tiếp đến hoạt động tài chính và kinh doanh. Theo báo cáo mới đây của Arize AI, 56% các công ty thuộc danh sách Fortune 500 xem AI là \"yếu tố rủi ro\", tăng vọt so với mức 9% trong năm 2022. Điều này củng cố nhận định rằng Shadow AI đang vượt ngoài tầm kiểm soát và ngày càng gia tăng mối đe dọa nội bộ.",
+    "question": "Tại sao Shadow AI được nhận định là mối lo ngại lớn về an ninh mạng và ảnh hưởng đến hoạt động tài chính trong năm 2025?",
+    "answer": "Shadow AI được nhận định là mối lo ngại lớn do dự kiến ảnh hưởng trực tiếp đến hoạt động tài chính và kinh doanh vào năm 2025. Thống kê cho thấy 56% các công ty Fortune 500 coi AI là \"yếu tố rủi ro\", chứng tỏ mức độ nghiêm trọng của mối đe dọa này."
+  },
+  {
+    "title": "Phát huy giá trị tài sản trí tuệ gắn với bản sắc văn hóa, con người Thừa Thiên Huế",
+    "context": "Để phát huy giá trị tài sản trí tuệ (TSTT) gắn với bảo tồn văn hóa và phát triển du lịch, Thừa Thiên Huế cần đề ra các chiến lược phát triển bền vững, định vị hướng đi đúng đắn. Việc này bao gồm tăng cường lồng ghép chính sách, giải pháp thúc đẩy sáng tạo, xác lập, khai thác và bảo vệ quyền sở hữu trí tuệ (SHTT) vào các chiến lược phát triển tổng thể của tỉnh. Đồng thời, tỉnh cần ban hành các cơ chế, chính sách đặc thù, ưu tiên nguồn lực để phát triển các sản phẩm chủ lực mang bản sắc văn hóa Huế, đặc biệt là các sản phẩm có tiềm năng xuất khẩu, nhằm hình thành và xây dựng thương hiệu mạnh cho tỉnh. Cuối cùng, cần nghiên cứu cơ chế phân chia lợi ích hợp lý giữa các chủ thể liên quan trong thương mại hóa quyền SHTT.",
+    "question": "Những chiến lược và chính sách phát triển bền vững nào cần được Thừa Thiên Huế ưu tiên để phát huy giá trị tài sản trí tuệ (TSTT) gắn với bản sắc văn hóa và du lịch?",
+    "answer": "Thừa Thiên Huế cần đề ra chiến lược phát triển bền vững để tạo lập, bảo hộ, phát huy TSTT gắn với bảo tồn văn hóa và phát triển du lịch, lồng ghép chính sách, ban hành cơ chế đặc thù, ưu tiên nguồn lực cho sản phẩm chủ lực và thiết lập cơ chế phân chia lợi ích hợp lý."
+  },
+  {
+    "title": "Phát triển khoa học, công nghệ, đổi mới sáng tạo ở Trung Quốc và gợi suy cho Việt Nam",
+    "context": "Chiến lược Chế tạo tại Trung Quốc 2025 (MIC 2025) được xây dựng với mục tiêu thúc đẩy ngành công nghiệp chế tạo phát triển lên tầm cao mới. Kế hoạch này định hướng chuyển đổi Trung Quốc từ nền kinh tế dựa vào lao động giá rẻ sang nền kinh tế đổi mới công nghệ, gia tăng hàm lượng giá trị hàng hóa và giảm sự phụ thuộc vào nguồn cung từ các nước phát triển, hướng tới vị trí cường quốc công nghiệp vào năm 2049.",
+    "question": "Mục tiêu tổng thể của Chiến lược Chế tạo tại Trung Quốc 2025 (MIC 2025) là gì, và nó định hướng chuyển đổi ngành công nghiệp chế tạo Trung Quốc theo những tiêu chí nào đến năm 2049?",
+    "answer": "MIC 2025 nhằm thúc đẩy ngành công nghiệp chế tạo, chuyển đổi Trung Quốc từ nền kinh tế dựa vào lao động giá rẻ sang nền kinh tế đổi mới công nghệ và gia tăng hàm lượng giá trị hàng hóa. Kế hoạch định hướng chuyển từ “chế tạo Trung Quốc” sang “sáng tạo Trung Quốc”, từ “tốc độ Trung Quốc” sang “chất lượng Trung Quốc”, từ “sản phẩm Trung Quốc” sang “thương hiệu Trung Quốc”, từ “lớn” sang “mạnh”, hướng tới cường quốc công nghiệp vào năm 2049."
+  },
+  {
+    "title": "Phát triển kinh tế biển xanh Ninh Thuận",
+    "context": "Quan niệm kinh tế biển xanh là sự mở rộng của khái niệm kinh tế xanh, hướng đến phát triển bền vững bằng cách tận dụng tài nguyên môi trường làm chất xúc tác để thúc đẩy tăng trưởng kinh tế, đồng thời bảo vệ nguồn tài nguyên và môi trường biển. Việt Nam đã xác định 6 lĩnh vực chính ưu tiên trong cơ cấu ngành kinh tế biển xanh, nhấn mạnh vào việc cải thiện phúc lợi con người, công bằng xã hội và khả năng chống chịu với biến đổi khí hậu.",
+    "question": "Kinh tế biển xanh được hiểu như thế nào và Việt Nam ưu tiên phát triển 6 lĩnh vực chính nào trong cơ cấu ngành kinh tế biển xanh?",
+    "answer": "Kinh tế biển xanh là phát triển kinh tế biển hiệu quả không tổn hại tài nguyên và môi trường, coi trọng bảo toàn vốn tự nhiên và xã hội. Việt Nam ưu tiên Thủy sản, Dầu khí, Năng lượng biển tái tạo, Du lịch biển và ven biển, Hàng hải, Môi trường, đa dạng sinh học và dịch vụ hệ sinh thái biển."
+  },
+  {
+    "title": "Phát triển thời trang bền vững và nhân văn cùng AI",
+    "context": "Trí tuệ nhân tạo (AI) đang tạo ra những thay đổi tích cực đáng kể trong ngành thời trang hiện đại. Công nghệ này không chỉ nâng cao trải nghiệm mua sắm trực tuyến cho người tiêu dùng mà còn mở ra vô số cơ hội phát triển đột phá cho các doanh nghiệp. Mục tiêu của việc ứng dụng AI là thúc đẩy sự phát triển bền vững và lâu dài của ngành, đồng thời tích hợp các giá trị nhân văn và đạo đức vào chuỗi cung ứng và sản phẩm thời trang.",
+    "question": "Trí tuệ nhân tạo (AI) mang lại những lợi ích và cơ hội phát triển đột phá nào cho ngành thời trang và trải nghiệm mua sắm trực tuyến của người tiêu dùng?",
+    "answer": "AI tạo ra sự thay đổi tích cực bằng cách cải thiện trải nghiệm mua sắm trực tuyến cho người tiêu dùng và mở ra những cơ hội phát triển đột phá cho ngành thời trang."
+  },
+  {
+    "title": "Sử dụng hạt nano kim loại tổng hợp xanh trong canh tác nông nghiệp",
+    "context": "Việc nano hóa các hợp chất tự nhiên trong canh tác nông nghiệp đang mở ra những cải tiến đáng kể trong quản lý và bảo vệ cây trồng. Khi các hợp chất tự nhiên như dầu thiên nhiên, chiết xuất thực vật và dược liệu được nano hóa, chúng có thể được sử dụng hiệu quả hơn so với phân bón hoặc thuốc trừ sâu truyền thống. Điều này cho phép giải phóng chất dinh dưỡng chậm và kiểm soát, giúp cây trồng hấp thụ hiệu quả hơn, đồng thời giảm thiểu rủi ro đối với sức khỏe con người và động vật.",
+    "question": "Công nghệ nano hóa các hợp chất tự nhiên mang lại những lợi ích gì cho việc quản lý và bảo vệ cây trồng trong nông nghiệp bền vững?",
+    "answer": "Nano hóa các hợp chất tự nhiên như dầu thiên nhiên, chiết xuất thực vật và dược liệu giúp sử dụng chúng hiệu quả hơn phân bón hoặc thuốc trừ sâu truyền thống. Các nano hạt có thể giải phóng chất dinh dưỡng chậm, kiểm soát để cây trồng hấp thụ tốt hơn, giảm lượng phân bón và giảm thiểu rủi ro đối với sức khỏe con người, động vật."
+  },
+  {
+    "title": "Sự phát triển của công nghệ sinh học và hành vi phạm tội tiềm ẩn",
+    "context": "Để ngăn ngừa các hành vi tội phạm sinh học, cần đẩy mạnh và cải thiện quản lý thông qua nhiều biện pháp toàn diện. Các giải pháp được gợi ý bao gồm kiểm soát an ninh mạng trong lĩnh vực sinh học, làm rõ và quy định trách nhiệm của các công ty sinh học, tăng cường đầu tư nghiên cứu công nghệ phát hiện và giám sát tội phạm, cũng như nâng cao nhận thức cộng đồng về đạo đức sinh học.",
+    "question": "Những giải pháp nào được đề xuất để ngăn ngừa tội phạm sinh học và tăng cường quản lý trong lĩnh vực công nghệ sinh học?",
+    "answer": "Để ngăn ngừa tội phạm sinh học, các giải pháp được gợi ý là: kiểm soát an ninh mạng trong lĩnh vực sinh học, làm sáng tỏ và quy định rõ trách nhiệm của các công ty sinh học, tăng cường đầu tư nghiên cứu công nghệ trong phát hiện và giám sát tội phạm sinh học, và nâng cao nhận thức của cộng đồng về đạo đức sinh học."
+  },
+  {
+    "title": "Sự tham gia của các tổ chức chính trị - xã hội và người dân trong hoạt động bảo vệ môi trường ở nông thôn",
+    "context": "Để khắc phục những hạn chế và nâng cao hiệu quả công tác bảo vệ môi trường ở nông thôn, người dân đã đề xuất nhiều giải pháp quan trọng hướng tới chính quyền và các tổ chức chính trị - xã hội. Những đề xuất này tập trung vào việc tăng cường tuyên truyền và cung cấp kiến thức pháp luật về môi trường. Đồng thời, việc tổ chức các hoạt động và phong trào bảo vệ môi trường một cách thường xuyên cũng được nhấn mạnh là cần thiết. Những giải pháp này nhằm xây dựng một môi trường sống bền vững và lành mạnh cho cộng đồng nông thôn.",
+    "question": "Những giải pháp hàng đầu nào được người dân đề xuất cho chính quyền và các tổ chức chính trị - xã hội nhằm tăng cường vai trò và hiệu quả trong hoạt động bảo vệ môi trường nông thôn?",
+    "answer": "Các giải pháp hàng đầu được người dân đề xuất cho chính quyền và tổ chức chính trị - xã hội nhằm tăng cường vai trò trong bảo vệ môi trường nông thôn bao gồm tăng cường tuyên truyền, vận động người dân tham gia các hoạt động bảo vệ môi trường (99,5%), hướng dẫn/cung cấp kiến thức, pháp luật về quản lý, bảo vệ môi trường cho người dân (99,5%), và tăng cường tổ chức các hoạt động/phong trào/mô hình về bảo vệ môi trường (96,5%)."
+  },
+  {
+    "title": "TRIZ và khai thác sáng chế Công cụ giúp doanh nghiệp cải tiến sản phẩm và quy trình công nghệ",
+    "context": "Việc kết hợp TRIZ với khai thác thông tin sáng chế được xem là một hướng đi chiến lược, mang lại lợi ích toàn diện cho doanh nghiệp. TRIZ hỗ trợ vượt qua các mâu thuẫn kỹ thuật bằng các nguyên lý sáng tạo có tính khái quát cao, trong khi tra cứu sáng chế cung cấp những giải pháp thực tiễn đã được bảo hộ. Sự kết hợp này không chỉ giúp doanh nghiệp tạo ra các giải pháp không vi phạm bằng sáng chế hiện có, mà còn xây dựng chiến lược sở hữu trí tuệ vững chắc và tối ưu hóa hoạt động đổi mới.",
+    "question": "Lợi ích chiến lược của việc kết hợp phương pháp tư duy sáng tạo TRIZ với khai thác thông tin sáng chế đối với doanh nghiệp là gì?",
+    "answer": "Việc kết hợp TRIZ với khai thác sáng chế giúp doanh nghiệp tìm ra giải pháp cải tiến hiệu quả, tiết kiệm chi phí, hợp pháp, vượt qua mâu thuẫn kỹ thuật, tạo giải pháp không vi phạm bằng sáng chế và xây dựng chiến lược sở hữu trí tuệ vững chắc."
+  },
+  {
+    "title": "Tham gia thị trường tín chỉ carbon Việt Nam cần làm gì",
+    "context": "Việc thiết lập và vận hành thành công thị trường tín chỉ carbon mang lại nhiều lợi ích chiến lược cho Việt Nam, đặc biệt trong bối cảnh toàn cầu hóa và xu hướng \"xanh hóa\" kinh tế. Thị trường này không chỉ giúp Việt Nam đạt được các mục tiêu về biến đổi khí hậu mà còn thúc đẩy khả năng cạnh tranh quốc tế và thu hút đầu tư. Các lợi ích này góp phần quan trọng vào sự phát triển bền vững của quốc gia.",
+    "question": "Những lợi ích chiến lược nào mà việc hình thành và vận hành thị trường tín chỉ carbon mang lại cho Việt Nam, đặc biệt liên quan đến năng lực cạnh tranh xuất khẩu và thu hút vốn đầu tư trực tiếp nước ngoài?",
+    "answer": "Việc hình thành và vận hành thị trường tín chỉ carbon sẽ góp phần giúp Việt Nam gia tăng năng lực cạnh tranh trong hoạt động xuất khẩu, đặc biệt với các thị trường có yêu cầu cao về bảo vệ môi trường như châu Âu. Đồng thời, nó tăng cường khả năng thu hút vốn đầu tư trực tiếp nước ngoài trong bối cảnh \"xanh hóa\" hoạt động đầu tư."
+  },
+  {
+    "title": "Thành phố Hồ Chí Minh Những vấn đề đặt ra trong phát triển kinh tế ứng dụng trí tuệ nhân tạo",
+    "context": "Thành phố Hồ Chí Minh đã triển khai Chương trình “Nghiên cứu và phát triển ứng dụng trí tuệ nhân tạo (AI) tại Thành phố Hồ Chí Minh giai đoạn 2020-2030”. Chương trình này được xây dựng trên cơ sở Nghị quyết số 31-NQ/TW ngày 30/12/2022 của Bộ Chính trị về phương hướng, nhiệm vụ phát triển Thành phố Hồ Chí Minh đến năm 2030, tầm nhìn đến năm 2045. Mục tiêu chính là đưa AI trở thành ngành kinh tế mũi nhọn và một trong những công nghệ cốt lõi trong xây dựng đô thị sáng tạo, thành phố thông minh, nhằm thúc đẩy phát triển kinh tế số nhanh và bền vững.",
+    "question": "Chương trình phát triển ứng dụng trí tuệ nhân tạo (AI) của Thành phố Hồ Chí Minh giai đoạn 2020-2030 được triển khai dựa trên cơ sở nào và có mục tiêu chiến lược gì?",
+    "answer": "Chương trình “Nghiên cứu và phát triển ứng dụng trí tuệ nhân tạo (AI) tại Thành phố Hồ Chí Minh giai đoạn 2020-2030” được triển khai dựa trên Nghị quyết số 31-NQ/TW của Bộ Chính trị. Mục tiêu là đưa AI thành ngành kinh tế mũi nhọn và công nghệ cốt lõi trong xây dựng đô thị sáng tạo, thành phố thông minh, thúc đẩy phát triển kinh tế số nhanh, bền vững."
+  },
+  {
+    "title": "Thách thức và chiến lược đổi mới sáng tạo trong nghiên cứu, phát triển và sản xuất vắc-xin tại Việt Nam",
+    "context": "Việt Nam là quốc gia có khả năng tự sản xuất một số loại vắc-xin cho Chương trình Tiêm chủng mở rộng (TCMR), tuy nhiên, năng lực này chưa bao phủ toàn bộ chuỗi giá trị, đặc biệt trong việc tiếp cận công nghệ mới. Quốc gia đã đối mặt với những thách thức về thời gian và nguồn cung vắc-xin trong phòng chống đại dịch COVID-19. Để đáp ứng kế hoạch của Chính phủ đến năm 2030 về việc bổ sung các vắc-xin mới vào TCMR, các nhà sản xuất trong nước cần xây dựng chiến lược đổi mới sáng tạo nhằm nâng cao năng lực sản xuất và phát triển vắc-xin. Đây là điều kiện tiên quyết để đảm bảo an ninh vắc-xin và khả năng ứng phó với các đại dịch trong tương lai.",
+    "question": "Năng lực sản xuất vắc-xin hiện tại của Việt Nam cho Chương trình Tiêm chủng mở rộng (TCMR) là gì và những thách thức chính mà quốc gia đối mặt trong việc tiếp cận công nghệ mới và đảm bảo nguồn cung vắc-xin cho các đại dịch tương lai?",
+    "answer": "Việt Nam có khả năng sản xuất vắc-xin tự cung cấp cho TCMR nhưng chưa đủ năng lực đảm đương toàn bộ chuỗi giá trị, đặc biệt trong tiếp cận công nghệ mới. Các thách thức chính bao gồm việc chạy đua thời gian và đảm bảo đủ nguồn cung vắc-xin cần thiết trong phòng chống đại dịch, cũng như yêu cầu xây dựng chiến lược đổi mới sáng tạo để tiếp cận công nghệ mới cho các vắc-xin dự kiến bổ sung vào TCMR đến năm 2030."
+  },
+  {
+    "title": "Thương mại hoá tài sản trí tuệ là tri thức truyền thống thuộc lĩnh vực nghệ thuật trình diễn",
+    "context": "Bài viết này đề cập đến tri thức truyền thống trong lĩnh vực nghệ thuật trình diễn, tức là chỉ tìm hiểu về khía cạnh các biểu đạt văn hóa truyền thống của tri thức truyền thống. Cụ thể hơn nữa là các biểu đạt văn hóa của các loại hình nghệ thuật trình diễn dân gian, dễ nhận thấy nhất thông qua những di sản văn hóa phi vật thể. Lĩnh vực nghệ thuật trình diễn trong bài viết này đề cập tới các loại hình nghệ thuật trình diễn truyền thống như âm nhạc, múa, hát, sân khấu truyền thống và các hình thức trình diễn dân gian khác.",
+    "question": "Theo tài liệu, \"tri thức truyền thống thuộc lĩnh vực nghệ thuật trình diễn\" được định nghĩa và bao gồm những loại hình biểu đạt văn hóa truyền thống cụ thể nào?",
+    "answer": "Tri thức truyền thống thuộc lĩnh vực nghệ thuật trình diễn trong bài viết này đề cập đến các biểu đạt văn hóa truyền thống của các loại hình nghệ thuật trình diễn dân gian, bao gồm âm nhạc, múa, hát, sân khấu truyền thống và các hình thức trình diễn dân gian khác, chủ yếu qua các di sản văn hóa phi vật thể."
+  },
+  {
+    "title": "Tiếp cận dịch vụ chăm sóc sức khỏe cho người cao tuổi ở Việt Nam trong bối cảnh già hóa dân số",
+    "context": "Việt Nam chính thức trở thành quốc gia già hóa dân số vào năm 2011, khi tỷ trọng dân số từ 65 tuổi trở lên đạt 7%. Tỷ trọng người cao tuổi (từ 65 tuổi trở lên) đã tăng đáng kể trong hơn 20 năm qua, từ 5,8% năm 1999 lên 8,3% vào năm 2021. Tốc độ gia tăng tỷ trọng người cao tuổi ở nước ta ngày càng nhanh, ví dụ giai đoạn 2019-2021 có mức tăng bình quân năm là 3,82%.",
+    "question": "Việt Nam chính thức bước vào giai đoạn già hóa dân số vào năm nào và xu hướng gia tăng tỷ trọng người cao tuổi trong những thập kỷ gần đây ra sao?",
+    "answer": "Việt Nam chính thức trở thành quốc gia già hóa dân số vào năm 2011. Tỷ trọng người cao tuổi từ 65 tuổi trở lên đã tăng từ 5,8% năm 1999 lên 8,3% năm 2021, với tốc độ tăng bình quân năm từ 1,1% (1999-2009) lên 3,82% (2019-2021)."
+  },
+  {
+    "title": "Tiếp cận dịch vụ chăm sóc sức khỏe cho người cao tuổi ở Việt Nam trong bối cảnh già hóa dân số",
+    "context": "Đảng và Nhà nước Việt Nam đã ban hành nhiều chính sách nhằm quan tâm và chăm lo đời sống cho người cao tuổi, bao gồm cả lĩnh vực chăm sóc sức khỏe. Hiến pháp năm 2013, Điều 37 khẳng định quyền của người cao tuổi được Nhà nước, gia đình và xã hội tôn trọng, chăm sóc. Các văn bản pháp luật như Luật Bảo vệ sức khỏe nhân dân (1989), Pháp lệnh người cao tuổi (2000), Luật Người cao tuổi (2009) và Luật Bảo hiểm y tế (sửa đổi 2014) đều quy định về quyền được bảo đảm chăm sóc sức khỏe, ưu tiên khám chữa bệnh, chăm sóc sức khỏe ban đầu tại nơi cư trú, và cấp thẻ bảo hiểm y tế cho các nhóm đối tượng người cao tuổi.",
+    "question": "Các chính sách và văn bản pháp luật hiện hành của Việt Nam quy định như thế nào về việc chăm sóc sức khỏe và quyền lợi y tế cho người cao tuổi?",
+    "answer": "Các chính sách và văn bản pháp luật của Việt Nam, bao gồm Hiến pháp 2013, Luật Bảo vệ sức khỏe nhân dân 1989, Pháp lệnh người cao tuổi 2000, Luật Người cao tuổi 2009 và Luật Bảo hiểm y tế sửa đổi 2014, đều quy định người cao tuổi được tôn trọng, chăm sóc, ưu tiên khám chữa bệnh, được chăm sóc sức khỏe ban đầu tại nơi cư trú và được cấp thẻ bảo hiểm y tế."
+  },
+  {
+    "title": "Triết học của Michel Serres - từ bản thể luận đến tư tưởng về sinh thái học",
+    "context": "Triết học của Michel Serres mang lại nhiều gợi mở đáng kể cho Việt Nam, cả về mặt lý luận lẫn thực tiễn. Về lý luận, nó khuyến khích một bản thể luận mới đề cao sự quan trọng của các tồn tại không phải là con người trong giới tự nhiên. Về thực tiễn, Serres gợi ý Việt Nam nên chuyển từ lối sống ký sinh sang cộng sinh với môi trường, đẩy mạnh các ngành kinh tế thân thiện, áp dụng kinh tế tuần hoàn, và kết hợp chặt chẽ khoa học với pháp luật trong việc ban hành các chính sách môi trường. Ông cũng nhấn mạnh tầm quan trọng của đội ngũ lãnh đạo có hiểu biết và quan tâm đến lợi ích môi trường.",
+    "question": "Triết học của Michel Serres đem lại những gợi mở quan trọng nào đối với Việt Nam trong lĩnh vực lý luận và thực tiễn về môi trường sinh thái?",
+    "answer": "Triết học của Serres gợi mở cho Việt Nam về việc áp dụng bản thể luận mới đề cao tồn tại tự nhiên, chuyển sang kinh tế thân thiện môi trường (du lịch, dịch vụ) và kinh tế tuần hoàn, kết hợp khoa học và pháp luật trong chính sách môi trường, và đảm bảo đội ngũ lãnh đạo có hiểu biết và quan tâm đến môi trường."
+  },
+  {
+    "title": "Triển vọng chống lại nhiễm khuẩn đa kháng",
+    "context": "Nhiễm khuẩn đa kháng là một mối đe dọa to lớn đối với sức khỏe con người, khiến việc điều trị hiệu quả các bệnh nhiễm trùng trở thành nền tảng của chăm sóc y tế hiện đại. Trong số đó, vi khuẩn Acinetobacter baumannii kháng carbapenem (CRAB) nổi lên như một thách thức đặc biệt nghiêm trọng trong các bệnh viện. Sự hạn chế về kháng sinh có hoạt tính đối với CRAB đã làm cho việc điều trị nhiễm trùng do loại siêu vi khuẩn này trở nên vô cùng khó khăn.",
+    "question": "Tại sao nhiễm khuẩn đa kháng, đặc biệt là vi khuẩn Acinetobacter baumannii kháng carbapenem (CRAB), được coi là mối đe dọa lớn đối với sức khỏe con người và việc điều trị hiện nay gặp phải những khó khăn nào?",
+    "answer": "Nhiễm khuẩn đa kháng, đặc biệt là CRAB, là mối đe dọa to lớn vì khó khăn trong việc điều trị hiệu quả do số lượng kháng sinh còn hoạt tính trên loại vi khuẩn này ngày càng hạn chế."
+  },
+  {
+    "title": "Tư tưởng Hồ Chí Minh về gia đình cơ sở hình thành, nội dung và giá trị",
+    "context": "Tư tưởng Hồ Chí Minh về gia đình có nguồn gốc hình thành từ nhiều tiền đề, trong đó giá trị truyền thống về văn hoá gia đình trong lịch sử dân tộc Việt Nam đóng vai trò đầu tiên và quan trọng. Người đã kế thừa những giá trị cốt lõi như vai trò điểm tựa của gia đình và ý thức \"nước mất thì nhà tan\". Đồng thời, Người cũng nhìn nhận những hạn chế của chế độ gia đình phong kiến, đặc biệt là sự áp bức đối với người phụ nữ.",
+    "question": "Nguồn gốc hình thành tư tưởng Hồ Chí Minh về gia đình có bao gồm những giá trị truyền thống của dân tộc Việt Nam và Người đã nhận diện những hạn chế nào của gia đình thời phong kiến?",
+    "answer": "Tư tưởng Hồ Chí Minh về gia đình được hình thành dựa trên giá trị truyền thống về văn hoá gia đình trong lịch sử dân tộc Việt Nam, coi gia đình là giá trị cốt lõi và điểm tựa vững chắc. Người cũng nhận rõ những mặt hạn chế của gia đình Việt Nam thời phong kiến, đặc biệt là sự áp bức phụ nữ bị kìm hãm trong xiềng xích \"tam tòng\"."
+  },
+  {
+    "title": "Tư tưởng Hồ Chí Minh về gia đình cơ sở hình thành, nội dung và giá trị",
+    "context": "Lý luận của chủ nghĩa Mác - Lê-nin là cơ sở tư tưởng quyết định đến việc hình thành tư tưởng Hồ Chí Minh về gia đình, cung cấp thế giới quan và phương pháp luận khoa học. Các nhà kinh điển Mác - Lê-nin đã luận giải về sự vận động, biến đổi và vai trò của gia đình như một phạm trù lịch sử, đồng thời chỉ ra sự bất bình đẳng trong gia đình do chế độ chiếm hữu tư nhân. Chủ tịch Hồ Chí Minh đã vận dụng sáng tạo những quan điểm này để giải quyết vấn đề gia đình trong tiến trình cách mạng Việt Nam.",
+    "question": "Chủ nghĩa Mác - Lê-nin đã ảnh hưởng và định hình tư tưởng Hồ Chí Minh về gia đình như thế nào thông qua việc cung cấp cơ sở lý luận và phương pháp luận khoa học?",
+    "answer": "Chủ nghĩa Mác - Lê-nin là cơ sở lý luận quyết định đến việc hình thành tư tưởng Hồ Chí Minh về gia đình, cung cấp thế giới quan và phương pháp luận khoa học để Người nhìn nhận, xem xét và giải quyết đúng đắn vấn đề gia đình trong tiến trình cách mạng Việt Nam. Quan điểm này hướng tới việc xóa bỏ sự bất bình đẳng trong gia đình, giải phóng phụ nữ và xây dựng gia đình Việt Nam no ấm, hạnh phúc, tiến bộ và văn minh."
+  },
+  {
+    "title": "Tư tưởng Hồ Chí Minh về gia đình cơ sở hình thành, nội dung và giá trị",
+    "context": "Tư tưởng Hồ Chí Minh về xây dựng gia đình hạnh phúc trong xã hội mới mang ý nghĩa sâu sắc, không chỉ là một vấn đề lý luận cơ bản mà còn là một vấn đề thực tiễn có giá trị to lớn. Về mặt lý luận, tư tưởng này đã bổ sung và phát triển chủ nghĩa Mác - Lê-nin về gia đình xã hội chủ nghĩa. Về thực tiễn, nó là kim chỉ nam để Đảng Cộng sản Việt Nam lãnh đạo và định hướng phát triển gia đình trong các giai đoạn lịch sử.",
+    "question": "Giá trị lý luận và thực tiễn của tư tưởng Hồ Chí Minh về xây dựng gia đình hạnh phúc trong xã hội mới được thể hiện như thế nào đối với chủ nghĩa Mác - Lê-nin và công tác hoạch định chính sách của Đảng?",
+    "answer": "Tư tưởng Hồ Chí Minh về xây dựng gia đình hạnh phúc có giá trị lý luận to lớn, bổ sung và phát triển chủ nghĩa Mác - Lê-nin về xây dựng gia đình mới, gia đình xã hội chủ nghĩa, đồng thời là cơ sở tư tưởng để Đảng Cộng sản Việt Nam lãnh đạo, chỉ đạo xây dựng gia đình mới no ấm, bình đẳng, tiến bộ, hạnh phúc. Về thực tiễn, Đảng đã vận dụng sáng tạo tư tưởng này để hoạch định các chính sách về gia đình, huy động sức mạnh đại đoàn kết toàn dân và phát triển gia đình trên tất cả các lĩnh vực."
+  },
+  {
+    "title": "Vinfast Đổi mới sáng tạo thúc đẩy chuyển giao, ứng dụng công nghệ tiên tiến",
+    "context": "Việc VinFast chủ động học hỏi, chuyển giao và làm chủ công nghệ tiên tiến không chỉ mang lại lợi ích trực tiếp cho bản thân doanh nghiệp mà còn có ý nghĩa sâu rộng đối với ngành công nghiệp ô tô và công nghệ tại Việt Nam. Cách tiếp cận này đã mở ra một hướng đi mới, cho thấy khả năng của Việt Nam trong việc phát triển và làm chủ các công nghệ tiên tiến mà trước đây chỉ các hãng xe lớn trên thế giới nắm giữ. Điều này góp phần nâng cao năng lực cạnh tranh của nền kinh tế Việt Nam trên bản đồ công nghiệp toàn cầu.",
+    "question": "Việc VinFast học hỏi, chuyển giao và làm chủ công nghệ tiên tiến đã tạo ra ý nghĩa và tác động như thế nào đối với ngành công nghiệp ô tô và công nghệ tại Việt Nam?",
+    "answer": "Việc VinFast học hỏi, chuyển giao và làm chủ công nghệ tiên tiến mở ra một hướng tiếp cận mới cho ngành công nghiệp ô tô và công nghệ tại Việt Nam, góp phần nâng cao năng lực cạnh tranh của nền kinh tế trên bản đồ công nghiệp toàn cầu."
+  },
+  {
+    "title": "Vắc-xin ngừa ung thư, có thật sự khả thi",
+    "context": "Nghiên cứu vắc-xin ung thư đang có nhiều triển vọng trong tương lai để phát triển thành một hướng điều trị ung thư hiệu quả. Các kỹ thuật khoa học hiện đại đang giúp đẩy nhanh tiến độ nghiên cứu. Hướng phát triển tập trung vào việc tối ưu hóa tìm kiếm các điểm đặc hiệu của tế bào ung thư để tế bào miễn dịch nhận biết tốt hơn, tìm ra những phương pháp hỗ trợ tế bào miễn dịch học và nhớ hiệu quả các kháng nguyên ung thư, cũng như ứng dụng những công nghệ mới để rút ngắn thời gian tổng hợp và thử nghiệm vắc-xin.",
+    "question": "Các kỹ thuật khoa học hiện đại đang giúp đẩy nhanh tiến độ nghiên cứu vắc-xin ung thư theo những hướng nào để cải thiện hiệu quả điều trị?",
+    "answer": "Các kỹ thuật khoa học hiện đại đang đẩy nhanh tiến độ nghiên cứu để tối ưu hóa việc tìm kiếm các điểm đặc hiệu của tế bào ung thư, tìm ra phương pháp hỗ trợ tế bào miễn dịch học và ghi nhớ kháng nguyên ung thư hiệu quả, và ứng dụng công nghệ mới nhằm rút ngắn thời gian tổng hợp, thử nghiệm vắc-xin."
+  },
+  {
+    "title": "Xử lý rác thải điện tử Giải pháp nào cho Việt Nam",
+    "context": "Để quản lý chất thải điện tử theo định hướng kinh tế tuần hoàn, Việt Nam cần xây dựng giải pháp đồng bộ từ tiền xử lý đến thu gom và xử lý tập trung. Đặc biệt, cần có luật về quản lý chất thải điện tử, chính quy hóa hoạt động tái chế, và thiết lập hệ thống thu gom định kỳ, kiểm soát nguồn gốc. Đồng thời, các bộ/ngành và chính quyền địa phương cần rà soát cơ sở tái chế, ban hành chính sách ưu đãi và đẩy mạnh tuyên truyền nâng cao ý thức người dân.",
+    "question": "Việt Nam cần triển khai những giải pháp về chính sách, pháp luật và quản lý nào để đạt được hiệu quả trong quản lý chất thải điện tử theo định hướng kinh tế tuần hoàn?",
+    "answer": "Việt Nam cần xây dựng luật quản lý chất thải điện tử, chính quy hóa tái chế, thiết lập hệ thống thu gom định kỳ, kiểm soát nguồn gốc và bố trí điểm tập trung. Đồng thời, cần có chính sách ưu đãi, rà soát cơ sở tái chế chưa phép và đẩy mạnh tuyên truyền nâng cao nhận thức cộng đồng để quản lý hiệu quả theo kinh tế tuần hoàn."
+  },
+  {
+    "title": "Đại tướng Võ Nguyên Giáp và một số công trình nghiên cứu về khoa học - kỹ thuật",
+    "context": "Đại tướng Võ Nguyên Giáp đã có bài nói chuyện quan trọng về cuộc cách mạng khoa học kỹ thuật ở Việt Nam tại Hội nghị bàn về công tác khoa học và kỹ thuật vào tháng 7 năm 1976. Ông khẳng định rằng cuộc cách mạng này ở nước ta phải được phân tích sâu sắc đặc điểm riêng, phát hiện quy luật, xác định mục tiêu và phương hướng trọng điểm. Sau này, quan điểm của ông được tập hợp trong công trình 'Thanh niên với cách mạng khoa học kỹ thuật' xuất bản năm 1985, nhấn mạnh rằng cuộc cách mạng khoa học kỹ thuật phải xuất phát từ đường lối của Đảng và đặc điểm đất nước.",
+    "question": "Quan điểm của Đại tướng Võ Nguyên Giáp về cuộc cách mạng khoa học kỹ thuật ở Việt Nam được trình bày như thế nào tại Hội nghị tháng 7 năm 1976 và trong công trình 'Thanh niên với cách mạng khoa học kỹ thuật'?",
+    "answer": "Tại Hội nghị tháng 7 năm 1976, Đại tướng nhấn mạnh cần phân tích đặc điểm, quy luật, xác định mục tiêu và phương hướng trọng điểm của cuộc cách mạng khoa học kỹ thuật ở Việt Nam. Trong công trình 'Thanh niên với cách mạng khoa học kỹ thuật', ông cho rằng cách mạng này phải xuất phát từ đường lối của Đảng, đặc điểm của đất nước và con người Việt Nam, tiềm năng thiên nhiên và tiền đề khoa học - kỹ thuật."
+  },
+  {
+    "title": "Đổi mới sáng tạo trong phát triển ngành tài chính - ngân hàng tại Việt Nam Cơ hội và thách thức",
+    "context": "Năng lực đổi mới sáng tạo trong hệ thống ngân hàng thương mại phụ thuộc vào nhiều yếu tố tương tác với nhau. Theo P.D. Dũng (2021), có năm nhân tố chính ảnh hưởng tới năng lực đổi mới sáng tạo trong hệ thống ngân hàng thương mại. Các yếu tố này bao gồm các cơ chế, chính sách của nhà nước, quan điểm của lãnh đạo, nguồn lực tài chính, trình độ của đội ngũ và văn hóa doanh nghiệp.",
+    "question": "Theo P.D. Dũng (2021), những nhân tố nào đóng vai trò ảnh hưởng đến năng lực đổi mới sáng tạo trong hệ thống ngân hàng thương mại?",
+    "answer": "Năm nhân tố ảnh hưởng tới năng lực đổi mới sáng tạo trong hệ thống ngân hàng thương mại là: cơ chế, chính sách của nhà nước; quan điểm của lãnh đạo; nguồn lực tài chính; trình độ của đội ngũ và văn hóa doanh nghiệp."
+  },
+  {
+    "title": "Đổi mới sáng tạo xanh Động lực phát triển bền vững của Việt Nam",
+    "context": "Đổi mới sáng tạo xanh được các quốc gia đang phát triển áp dụng nhằm thúc đẩy tăng trưởng xanh và phát triển bền vững. Đây là quá trình tạo ra các sản phẩm, dịch vụ hoặc quy trình quan trọng hướng tới giảm thiểu tác hại và suy thoái môi trường. Đồng thời, nó tối ưu hóa việc khai thác tài nguyên thiên nhiên, góp phần cải thiện phúc lợi của con người.",
+    "question": "Đổi mới sáng tạo xanh được định nghĩa và áp dụng như thế nào trong bối cảnh phát triển bền vững của các quốc gia đang phát triển?",
+    "answer": "Đổi mới sáng tạo xanh là tổng hợp các loại hình đổi mới sáng tạo nhằm giảm thiểu tác hại môi trường, suy thoái tài nguyên và tối ưu hóa khai thác tài nguyên thiên nhiên. Các quốc gia đang phát triển áp dụng giải pháp này để thúc đẩy tăng trưởng xanh và phát triển bền vững."
+  },
+  {
+    "title": "Ứng dụng công nghệ vi sinh nâng cao giá trị nông sản theo hướng hữu cơ, bền vững",
+    "context": "Với sự hỗ trợ của Trung tâm Khoa học và Công nghệ (KH&CN) trực thuộc Sở KH&CN Bến Tre, dự án “Xây dựng mô hình ứng dụng công nghệ vi sinh vào chuỗi liên kết nâng cao giá trị nông sản theo hướng hữu cơ bền vững” đã được triển khai thành công. Dự án đã góp phần quan trọng giúp nâng cao giá trị các mặt hàng trong chuỗi sản xuất. Đặc biệt, các mô hình đã tạo ra các sản phẩm nông nghiệp hữu cơ sạch, mang lại hiệu quả kinh tế cao cho người dân trong vùng.",
+    "question": "Dự án “Xây dựng mô hình ứng dụng công nghệ vi sinh vào chuỗi liên kết nâng cao giá trị nông sản theo hướng hữu cơ bền vững” có mục tiêu chính là gì và đã mang lại những đóng góp quan trọng nào cho ngành nông nghiệp?",
+    "answer": "Mục tiêu chính của dự án là hỗ trợ các hợp tác xã ứng dụng công nghệ vi sinh vào chuỗi liên kết sản xuất để nâng cao giá trị nông sản. Dự án đã góp phần tăng giá trị các mặt hàng nông sản, tạo ra sản phẩm hữu cơ sạch và mang lại hiệu quả kinh tế cao cho người dân địa phương."
+  },
+  {
+    "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+    "context": "Việc ứng dụng trí tuệ nhân tạo trong khoa học xã hội cần được tiếp cận một cách nghiêm túc, bởi lẽ bản chất của trí tuệ nhân tạo luôn thay đổi và tiềm ẩn nhiều thách thức. Các phương pháp ứng dụng AI mang lại cho các nhà nghiên cứu lợi thế về các công cụ phân tích và diễn giải hành vi xã hội, nhưng nó cũng đặt ra nhiều vấn đề về đạo đức, liên quan đến ý nghĩa của việc sử dụng AI trong việc hiểu và tác động đến các hệ thống xã hội. Khía cạnh đạo đức cũng là một mối quan tâm quan trọng trong việc triển khai AI vào nghiên cứu, ví dụ như trong quản trị xã hội, cần xem xét cẩn trọng các vấn đề như quyền riêng tư, quyền tự chủ và rủi ro liên quan đến giám sát.",
+    "question": "Tại sao việc ứng dụng trí tuệ nhân tạo (AI) trong nghiên cứu khoa học xã hội cần một cách tiếp cận nghiêm túc và những vấn đề đạo đức nào cần được cân nhắc?",
+    "answer": "Việc ứng dụng AI cần nghiêm túc vì bản chất AI luôn thay đổi và tiềm ẩn nhiều thách thức. Các vấn đề đạo đức cần cân nhắc bao gồm ý nghĩa của việc AI hiểu và tác động đến hệ thống xã hội, quyền riêng tư, quyền tự chủ, và rủi ro giám sát, đặc biệt trong quản trị xã hội."
+  },
+  {
+    "title": "10 sự kiện khoa học và công nghệ nổi bật năm 2024",
+    "context": "Trong đó, giai đoạn 1 (2024-2030) của Chiến lược phát triển công nghiệp bán dẫn Việt Nam có những mục tiêu cụ thể. Quy mô doanh thu công nghiệp bán dẫn tại Việt Nam đạt trên 25 tỷ USD/năm, giá trị gia tăng tại Việt Nam đạt 10-15%. Quy mô doanh thu công nghiệp điện tử tại Việt Nam đạt trên 225 tỷ USD/năm, giá trị gia tăng tại Việt Nam đạt 10-15%. Chiến lược này được Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 1018/QĐ-TTg ban hành ngày 21/9/2024.",
+    "question": "Theo Chiến lược phát triển công nghiệp bán dẫn Việt Nam đến năm 2030, mục tiêu về quy mô doanh thu và giá trị gia tăng của ngành công nghiệp bán dẫn và điện tử tại Việt Nam là bao nhiêu?",
+    "answer": "Đến năm 2030, Chiến lược đặt mục tiêu quy mô doanh thu công nghiệp bán dẫn tại Việt Nam đạt trên 25 tỷ USD/năm với giá trị gia tăng đạt 10-15%, và quy mô doanh thu công nghiệp điện tử đạt trên 225 tỷ USD/năm với giá trị gia tăng đạt 10-15%."
+  },
+  {
+    "title": "An ninh mạng và thách thức đối với hệ thống Internet vạn vật",
+    "context": "Việc ứng dụng công nghệ Internet vạn vật (IoT) trong nhiều lĩnh vực như lưới điện thông minh, giám sát môi trường, y tế, sản xuất, logistics… khiến nguy cơ an ninh mạng gia tăng. Đặc biệt, đặc điểm động và đa dạng của các kết nối IoT cùng với hạn chế về tài nguyên đặt ra thách thức lớn về bảo mật. Bài viết cung cấp cái nhìn tổng quan về sự phát triển của IoT và nguy cơ an ninh mạng liên quan.",
+    "question": "Việc ứng dụng công nghệ Internet vạn vật (IoT) trong những lĩnh vực nào đang làm gia tăng nguy cơ an ninh mạng?",
+    "answer": "Việc ứng dụng công nghệ Internet vạn vật (IoT) trong các lĩnh vực như lưới điện thông minh, giám sát môi trường, y tế, sản xuất, logistics đang làm gia tăng nguy cơ an ninh mạng."
+  },
+  {
+    "title": "Ba trụ cột trong chiến lược đổi mới sáng tạo tích hợp của Nhật Bản",
+    "context": "“Tầm nhìn xã hội tương lai về công nghệ lượng tử” của Nhật Bản được công bố vào tháng 04/2022, gồm 3 mục tiêu cần đạt được vào năm 2030 là: giá trị sản xuất đạt 50 nghìn tỷ Yên; 10 triệu người dùng tại Nhật Bản; tạo ra các doanh nghiệp kỳ lân lượng tử. Chiến lược phát triển ngành công nghệ lượng tử được ban hành vào tháng 04/2023 nhằm giải quyết các vấn đề trong ứng dụng thực tiễn và công nghiệp hóa công nghệ lượng tử, đồng thời cung cấp các chính sách phản ứng và kế hoạch hành động cơ bản. Bên cạnh đó, Nhật Bản sẽ tiếp tục tăng cường các dự án siêu lớn và các dự án R&D khác để bảo đảm lợi thế của quốc gia trong cơ sở hạ tầng công nghệ tiên tiến.",
+    "question": "“Tầm nhìn xã hội tương lai về công nghệ lượng tử” của Nhật Bản được công bố khi nào và đặt ra những mục tiêu cụ thể nào cần đạt được vào năm 2030?",
+    "answer": "“Tầm nhìn xã hội tương lai về công nghệ lượng tử” của Nhật Bản được công bố vào tháng 04/2022. Các mục tiêu cần đạt được vào năm 2030 bao gồm: giá trị sản xuất đạt 50 nghìn tỷ Yên, 10 triệu người dùng tại Nhật Bản, và tạo ra các doanh nghiệp kỳ lân lượng tử."
+  },
+  {
+    "title": "Bảo tồn và phát triển nguồn gen cá vồ cờ (Pangasius sanitwongsei) tại Việt Nam",
+    "context": "Đề tài đã xây dựng được quy trình công nghệ sản xuất giống cá vồ cờ. Quy trình này đạt các chỉ tiêu: tỷ lệ thành thục ≥70%. Tỷ lệ cá đẻ đạt ≥50%. Tỷ lệ thụ tinh đạt ≥80%.",
+    "question": "Các chỉ tiêu kỹ thuật nào đã đạt được trong quy trình công nghệ sản xuất giống cá vồ cờ về tỷ lệ thành thục, tỷ lệ cá đẻ và tỷ lệ thụ tinh?",
+    "answer": "Quy trình công nghệ sản xuất giống cá vồ cờ đã đạt các chỉ tiêu: tỷ lệ thành thục ≥70%, tỷ lệ cá đẻ ≥50%, và tỷ lệ thụ tinh ≥80%."
+  },
+  {
+    "title": "Chuyển đổi số Thách thức và lời giải cho bài toán chống buôn lậu hàng giả và bảo vệ quyền sở hữu trí tuệ",
+    "context": "Sự bùng nổ của thương mại điện tử và giao dịch trực tuyến xuyên biên giới đã làm thay đổi căn bản phương thức buôn lậu hàng giả và vi phạm quyền SHTT. Các hoạt động vi phạm lợi dụng nền tảng kỹ thuật số, mạng xã hội và dịch vụ chuyển phát nhanh để phân tán hàng hóa, ẩn danh người bán, thay đổi xuất xứ hoặc nhãn hiệu một cách tinh vi, khiến cơ quan chức năng khó phát hiện và truy xuất nguồn gốc. Những giao dịch nhỏ lẻ diễn ra với tần suất cao, sử dụng thanh toán điện tử và tiền kỹ thuật số đã phá vỡ khuôn khổ kiểm soát truyền thống, đòi hỏi cơ quan quản lý phải có công cụ giám sát mới, dựa trên dữ liệu thời gian thực và công nghệ phân tích rủi ro tự động.",
+    "question": "Sự bùng nổ của thương mại điện tử và giao dịch trực tuyến đã thay đổi phương thức buôn lậu hàng giả và vi phạm quyền SHTT như thế nào?",
+    "answer": "Sự bùng nổ của thương mại điện tử và giao dịch trực tuyến xuyên biên giới đã làm thay đổi căn bản phương thức buôn lậu hàng giả và vi phạm quyền SHTT. Các hoạt động vi phạm lợi dụng nền tảng kỹ thuật số, mạng xã hội và dịch vụ chuyển phát nhanh để phân tán hàng hóa, ẩn danh người bán, thay đổi xuất xứ hoặc nhãn hiệu một cách tinh vi, khiến cơ quan chức năng khó phát hiện và truy xuất nguồn gốc."
+  },
+  {
+    "title": "Chính sách phát triển điện tái tạo Kinh nghiệm từ Canada",
+    "context": "Để đáp ứng mục tiêu Net-Zero vào năm 2050 và đáp ứng đủ nhu cầu sử dụng điện (dự kiến sẽ tăng gấp đôi so với năm 2020), đòi hỏi sản lượng điện của Canada từ các nguồn điện thay thế sẽ phải chiếm tối thiểu 33% (dao động từ 23-43%) tổng sản lượng điện vào năm 2050, tương đương khoảng 430 TWh. Khi đó, công suất điện gió lắp đặt phải đạt 109.000 MW (gấp khoảng 8 lần mức độ hiện nay) và công suất điện mặt trời phải đạt 47.000 MW (gấp khoảng 14 lần mức độ hiện nay). Bên cạnh việc dự báo gia tăng về công suất lắp đặt mới các nguồn cung cấp năng lượng điện tái tạo, CanREA cũng cho rằng, việc phát triển và ứng dụng các công nghệ lưu trữ năng lượng và chuyển thể năng lượng dự kiến sẽ diễn ra một cách nhanh chóng trên quy mô lớn.",
+    "question": "Để đạt mục tiêu Net-Zero vào năm 2050, sản lượng điện từ các nguồn thay thế của Canada cần chiếm tối thiểu bao nhiêu phần trăm tổng sản lượng điện và công suất lắp đặt của điện gió, điện mặt trời dự kiến sẽ đạt bao nhiêu MW?",
+    "answer": "Để đạt mục tiêu Net-Zero vào năm 2050, sản lượng điện từ các nguồn thay thế của Canada cần chiếm tối thiểu 33% (khoảng 430 TWh) tổng sản lượng điện. Khi đó, công suất điện gió lắp đặt phải đạt 109.000 MW và công suất điện mặt trời phải đạt 47.000 MW."
+  },
+  {
+    "title": "Chế phẩm probiotic an toàn dùng cho người",
+    "context": "Ở Việt Nam, mặc dù vi khuẩn lactic có tiềm năng ứng dụng cao trong thực phẩm và y tế, nhưng vẫn chưa có nghiên cứu nào về đặc điểm kháng kháng sinh nội tại của chúng, thiếu hẳn các nghiên cứu chuyên sâu về an toàn chủng giống. Điều này đặt ra yêu cầu cấp bách cần đầu tư nghiên cứu bài bản, để không chỉ đảm bảo chất lượng và an toàn của các sản phẩm probiotics mà còn đáp ứng tiêu chuẩn quốc tế. Nắm bắt xu thế đó, Viện Công nghiệp Thực phẩm đã đề xuất và được Bộ KH&CN phê duyệt thực hiện đề tài độc lập cấp nhà nước “Nghiên cứu đặc điểm kháng kháng sinh nội tại của các chủng Lactobacillus để tạo chế phẩm probiotic an toàn dùng cho người”.",
+    "question": "Tại sao việc nghiên cứu đặc điểm kháng kháng sinh nội tại của vi khuẩn lactic ở Việt Nam lại được coi là cấp bách?",
+    "answer": "Việc nghiên cứu này cấp bách vì ở Việt Nam chưa có nghiên cứu chuyên sâu về đặc điểm kháng kháng sinh nội tại và an toàn chủng giống của vi khuẩn lactic, điều này cần thiết để đảm bảo chất lượng, an toàn sản phẩm probiotic và đáp ứng tiêu chuẩn quốc tế."
+  },
+  {
+    "title": "Công nghệ hạt nhân trong phòng chống tội phạm",
+    "context": "Các kỹ thuật phân tích tia X có thể giúp phát hiện sự hiện diện và đo lường nồng độ của các nguyên tố trong các loại vật liệu. Phương pháp này giúp phân tích thành phần vật chất của đất, thuốc hoặc khoáng chất và xác định nguồn gốc của chúng. Kỹ thuật phân tích tia X cũng giúp đánh giá, so sánh sơn, kim loại hoặc vết súng bắn và trong các kiểm tra y tế.",
+    "question": "Các kỹ thuật phân tích tia X có khả năng giúp phát hiện và đo lường những gì trong các loại vật liệu?",
+    "answer": "Các kỹ thuật phân tích tia X có khả năng giúp phát hiện sự hiện diện và đo lường nồng độ của các nguyên tố trong các loại vật liệu, phân tích thành phần vật chất của đất, thuốc, khoáng chất, và xác định nguồn gốc của chúng."
+  },
+  {
+    "title": "Công tác quản lý các tổ chức nghệ thuật biểu diễn ở Việt Nam trong bối cảnh hiện nay",
+    "context": "Nguồn nhân lực trong các tổ chức nghệ thuật biểu diễn ở Việt Nam hiện nay đang đối diện với nhiều thách thức và hạn chế, nhưng cũng đồng thời có những tiềm năng phát triển đáng kể. (1) Chất lượng nguồn nhân lực chưa đồng đều: Hiện nay, các tổ chức nghệ thuật biểu diễn ở Việt Nam, từ nhà hát lớn ở các thành phố trung tâm đến các đoàn nghệ thuật địa phương, đều tồn tại sự chênh lệch lớn về chất lượng nhân sự. Sự thiếu hụt về nhân sự có trình độ cao, đặc biệt là trong các lĩnh vực nghệ thuật đòi hỏi kỹ năng chuyên môn sâu như nhạc kịch, múa ballet, opera, vẫn là một vấn đề lớn; (2) Thiếu hụt nhân lực trẻ và có tay nghề cao: Trong những năm gần đây, dù có sự gia tăng về số lượng nghệ sĩ trẻ tham gia vào các tổ chức nghệ thuật, nhưng vẫn chưa đáp ứng đủ nhu cầu về chất lượng. Nhiều nghệ sĩ trẻ sau khi tốt nghiệp từ các trường nghệ thuật lớn thường chọn làm việc ở các ngành khác hoặc xuất ngoại để tìm cơ hội phát triển tốt hơn.",
+    "question": "Những thách thức chính nào đang ảnh hưởng đến chất lượng nguồn nhân lực trong các tổ chức nghệ thuật biểu diễn ở Việt Nam?",
+    "answer": "Chất lượng nguồn nhân lực trong các tổ chức nghệ thuật biểu diễn ở Việt Nam chưa đồng đều, có sự chênh lệch lớn giữa các vùng miền và thiếu hụt nhân sự có trình độ cao trong các lĩnh vực chuyên môn sâu như nhạc kịch, múa ballet, opera. Ngoài ra, còn thiếu hụt nhân lực trẻ và có tay nghề cao, khi nhiều nghệ sĩ trẻ chọn làm việc ở các ngành khác hoặc xuất ngoại để tìm cơ hội phát triển tốt hơn."
+  },
+  {
+    "title": "Giao thông tương lai Mô hình và giải pháp cho phát triển đô thị hiện đại",
+    "context": "Ba là, xây dựng mô hình mô phỏng giao thông cho Hà Nội: Một mô hình mô phỏng giao thông tổng thể cho Hà Nội đã được xây dựng trên nền tảng phần mềm VISUM và VISSIM. Mô hình này cho phép đánh giá tác động của các giải pháp giao thông lên toàn bộ mạng lưới đường bộ của Thủ đô. Sử dụng dữ liệu về lưu lượng và hành vi giao thông, mô hình này có thể mô phỏng chi tiết các kịch bản giao thông cho năm 2030, từ đó hỗ trợ việc ra quyết định về chính sách và phát triển hệ thống giao thông.",
+    "question": "Mô hình mô phỏng giao thông tổng thể cho Hà Nội được xây dựng bằng phần mềm nào và có khả năng gì?",
+    "answer": "Mô hình mô phỏng giao thông tổng thể cho Hà Nội được xây dựng trên nền tảng phần mềm VISUM và VISSIM, cho phép đánh giá tác động của các giải pháp giao thông lên toàn bộ mạng lưới đường bộ của Thủ đô và mô phỏng chi tiết các kịch bản giao thông cho năm 2030."
+  },
+  {
+    "title": "Giao thông tương lai Mô hình và giải pháp cho phát triển đô thị hiện đại",
+    "context": "Bên cạnh những nội dung đã đạt được, đề tài còn phân tích rõ các thách thức trong quản lý giao thông tại các thành phố lớn ở Việt Nam, trong đó có sự phụ thuộc lớn vào xe máy và các hành vi giao thông chưa đồng bộ. Kết quả phân tích là cơ sở cho các nghiên cứu và giải pháp tiếp theo, nhằm tối ưu hóa mạng lưới giao thông và cải thiện tính bền vững của các đô thị Việt Nam trong tương lai. Dựa trên các kết quả nghiên cứu, các giải pháp được đề xuất để hướng đến hệ thống giao thông đô thị bền vững cho Hà Nội nói riêng và các đô thị ở Việt Nam nói chung, bao gồm:",
+    "question": "Những thách thức chính nào trong quản lý giao thông tại các thành phố lớn ở Việt Nam đã được đề tài phân tích?",
+    "answer": "Đề tài đã phân tích rõ các thách thức trong quản lý giao thông tại các thành phố lớn ở Việt Nam, bao gồm sự phụ thuộc lớn vào xe máy và các hành vi giao thông chưa đồng bộ."
+  },
+  {
+    "title": "Giáo dục khởi nghiệp trong trường đại học Cần thay đổi từ phong trào sang chiến lược kiến tạo giá trị",
+    "context": "Đã đến lúc Việt Nam cần tái định vị giáo dục khởi nghiệp trong trường đại học không chỉ là một hoạt động hỗ trợ sinh viên lập doanh nghiệp, mà là một chiến lược phát triển năng lực kiến tạo - đổi mới - chuyển giao giá trị từ tri thức thành ứng dụng thực tiễn. Nếu chúng ta chỉ dạy khởi nghiệp như một môn học kỹ năng mềm, nó sẽ dừng lại ở sự hứng khởi ngắn hạn và khởi nghiệp trong trường đại học ở Việt Nam sẽ rơi vào vòng lặp “nhiệt huyết ban đầu - phong trào giữa chừng - nguội lạnh sau đó”. Ngược lại, nếu làm đúng, khởi nghiệp có thể trở thành một trong những nền tảng quan trọng nhất để phát triển nguồn nhân lực sáng tạo, thích ứng và có trách nhiệm xã hội.",
+    "question": "Việt Nam cần tái định vị vai trò của giáo dục khởi nghiệp trong trường đại học như thế nào và điều gì sẽ xảy ra nếu cách tiếp cận hiện tại không được đổi mới đúng hướng?",
+    "answer": "Việt Nam cần tái định vị giáo dục khởi nghiệp trong trường đại học thành một chiến lược phát triển năng lực kiến tạo - đổi mới - chuyển giao giá trị từ tri thức thành ứng dụng thực tiễn, thay vì chỉ là hoạt động hỗ trợ lập doanh nghiệp. Nếu chỉ dạy như một môn học kỹ năng mềm, khởi nghiệp sẽ dừng lại ở sự hứng khởi ngắn hạn và rơi vào vòng lặp “nhiệt huyết ban đầu - phong trào giữa chừng - nguội lạnh sau đó”."
+  },
+  {
+    "title": "Khoa học và công nghệ phục vụ mục tiêu đạt mức phát thải ròng bằng 0 tại Việt Nam",
+    "context": "Việt Nam đang đẩy mạnh phát triển năng lượng tái tạo như điện gió, điện mặt trời và năng lượng sinh khối, nhằm giảm sự phụ thuộc vào các nguồn năng lượng hóa thạch. Nhiều dự án điện gió ngoài khơi, điện mặt trời quy mô lớn đang được triển khai tại các khu vực có tiềm năng. Ngoài ra, việc tiết kiệm năng lượng hiện đang được thực hiện thông qua Luật Sử dụng năng lượng tiết kiệm và hiệu quả, Chiến lược quốc gia về tiết kiệm và sử dụng hiệu quả năng lượng giai đoạn 2019-2030, Chương trình Dán nhãn năng lượng quốc gia và các giải pháp tiết kiệm năng lượng trong các ngành, lĩnh vực.",
+    "question": "Việt Nam đang thực hiện những biện pháp nào để phát triển năng lượng tái tạo và thúc đẩy tiết kiệm năng lượng?",
+    "answer": "Việt Nam đang đẩy mạnh phát triển năng lượng tái tạo như điện gió, điện mặt trời và năng lượng sinh khối. Việc tiết kiệm năng lượng được thực hiện thông qua Luật Sử dụng năng lượng tiết kiệm và hiệu quả, Chiến lược quốc gia về tiết kiệm và sử dụng hiệu quả năng lượng giai đoạn 2019-2030, và Chương trình Dán nhãn năng lượng quốc gia."
+  },
+  {
+    "title": "Khoa học và công nghệ phục vụ tăng trưởng xanh, kinh tế tuần hoàn, giảm phát thải khí nhà kính tại Việt Nam",
+    "context": "Giảm phát thải khí nhà kính là mục tiêu quan trọng, không chỉ đối với môi trường mà còn trong việc tuân thủ các cam kết quốc tế về biến đổi khí hậu. Các doanh nghiệp cần thực hiện các biện pháp giảm thiểu phát thải CO2 và các loại khí gây hiệu ứng nhà kính khác từ quá trình sản xuất. Một số định hướng chính cần quan tâm: i) Tiết kiệm năng lượng: Áp dụng các biện pháp tối ưu hóa hiệu quả năng lượng trong sản xuất sẽ giúp giảm tiêu thụ nhiên liệu và giảm phát thải khí nhà kính.",
+    "question": "Mục tiêu giảm phát thải khí nhà kính có tầm quan trọng như thế nào và các doanh nghiệp cần thực hiện những biện pháp gì để giảm thiểu phát thải?",
+    "answer": "Giảm phát thải khí nhà kính là mục tiêu quan trọng đối với môi trường và để tuân thủ các cam kết quốc tế về biến đổi khí hậu. Để đạt được mục tiêu này, các doanh nghiệp cần thực hiện các biện pháp giảm thiểu phát thải CO2 và các loại khí gây hiệu ứng nhà kính khác từ quá trình sản xuất."
+  },
+  {
+    "title": "Khoa học và công nghệ phục vụ tăng trưởng xanh, kinh tế tuần hoàn, giảm phát thải khí nhà kính tại Việt Nam",
+    "context": "Năng lượng tái tạo: Ngành năng lượng tái tạo là một trong những lĩnh vực quan trọng để đạt được các mục tiêu về tăng trưởng xanh, kinh tế tuần hoàn và giảm phát thải khí nhà kính. Việt Nam có tiềm năng lớn về năng lượng mặt trời, gió, thủy điện, địa nhiệt và các dạng năng lượng khác từ đại dương. Việc đầu tư vào các dự án năng lượng tái tạo không chỉ giúp giảm phụ thuộc vào năng lượng hóa thạch mà còn đóng góp vào mục tiêu phát thải thấp.",
+    "question": "Ngành năng lượng tái tạo đóng vai trò gì trong việc đạt được các mục tiêu phát triển bền vững tại Việt Nam?",
+    "answer": "Ngành năng lượng tái tạo là một trong những lĩnh vực quan trọng để đạt được các mục tiêu về tăng trưởng xanh, kinh tế tuần hoàn và giảm phát thải khí nhà kính. Việc đầu tư vào các dự án năng lượng tái tạo giúp Việt Nam giảm phụ thuộc vào năng lượng hóa thạch và đóng góp vào mục tiêu phát thải thấp."
+  },
+  {
+    "title": "Khoa học và công nghệ thúc đẩy tăng trưởng xanh tại Việt Nam",
+    "context": "Kế hoạch phát triển kinh tế - xã hội giai đoạn 2021-2030 cũng nhấn mạnh đến nền kinh kế chuyển đổi từ tăng trưởng theo chiều rộng (phụ thuộc vào tài nguyên và lao động đơn giản), sang tăng trưởng theo chiều sâu (tiết kiệm năng lượng và tài nguyên, nâng cao hơn nữa vai trò của KH&CN). Để thúc đẩy tiến trình phát triển bền vững, Ban Chấp hành trung ương Đảng khóa XII đã ban hành Nghị quyết số 36-NQ/TW về Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045. Ngoài ra, Thủ tướng Chính phủ cũng phê duyệt quyết định số 150/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển nông nghiệp và nông thôn bền vững giai đoạn 2021-2030, tầm nhìn đến năm 2050.",
+    "question": "Kế hoạch phát triển kinh tế - xã hội giai đoạn 2021-2030 của Việt Nam định hướng chuyển đổi nền kinh tế như thế nào?",
+    "answer": "Kế hoạch phát triển kinh tế - xã hội giai đoạn 2021-2030 của Việt Nam định hướng chuyển đổi từ tăng trưởng theo chiều rộng (phụ thuộc vào tài nguyên và lao động đơn giản) sang tăng trưởng theo chiều sâu (tiết kiệm năng lượng và tài nguyên, nâng cao hơn nữa vai trò của KH&CN)."
+  },
+  {
+    "title": "Kinh tế vũ trụ Cơ hội và thách thức cho Việt Nam",
+    "context": "Việt Nam cần xác định dữ liệu vệ tinh như “dữ liệu quốc gia” và là nguyên liệu đầu vào cho nền kinh tế như “dầu thô”. Đồng thời, cần đẩy mạnh khai thác hiệu quả dữ liệu vệ tinh trong phòng chống thiên tai, giám sát tài nguyên và an ninh, ưu tiên phát triển các dịch vụ như quan sát Trái đất và trinh sát tín hiệu vô tuyến phù hợp với tiềm lực hiện tại. Việt Nam đã có Nghị quyết số 36-NQ/TW ngày 22/10/2018 về chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045, trên tinh thần của Nghị quyết số 57-NQ/TW của Bộ Chính trị ban hành ngày 22/12/2024 về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Do đó, Việt Nam cũng nên sớm có nghị quyết để phát triển kinh tế vũ trụ.",
+    "question": "Việt Nam nên có chiến lược như thế nào đối với dữ liệu vệ tinh và về mặt chính sách cấp quốc gia để phát triển kinh tế vũ trụ?",
+    "answer": "Việt Nam nên xác định dữ liệu vệ tinh là “dữ liệu quốc gia” và “nguyên liệu đầu vào” như dầu thô, đồng thời đẩy mạnh khai thác hiệu quả dữ liệu này cho phòng chống thiên tai, giám sát tài nguyên và an ninh, ưu tiên các dịch vụ quan sát Trái đất và trinh sát tín hiệu vô tuyến. Tương tự như Nghị quyết số 36-NQ/TW về kinh tế biển, Việt Nam cũng nên sớm ban hành một nghị quyết để phát triển kinh tế vũ trụ dựa trên tinh thần của Nghị quyết số 57-NQ/TW."
+  },
+  {
+    "title": "Liệu pháp miễn dịch ung thư bằng tế bào T γδ",
+    "context": "Gần đây, một loạt thử nghiệm lâm sàng về tác dụng chống khối u của tế bào T γδ đã được tiến hành. Chỉ tính riêng năm 2020, đã có 7 thử nghiệm lâm sàng về tế bào T γδ, 5 trong số 7 thử nghiệm là về tác dụng chống khối u của nó. Trong số nhiều phân nhóm tế bào T γδ, phân nhóm Vγ9Vδ2 là phân nhóm chính được áp dụng trong các điều kiện lâm sàng.",
+    "question": "Trong những năm gần đây, đã có bao nhiêu thử nghiệm lâm sàng về tế bào T γδ và bao nhiêu trong số đó tập trung vào tác dụng chống khối u?",
+    "answer": "Gần đây, một loạt thử nghiệm lâm sàng về tác dụng chống khối u của tế bào T γδ đã được tiến hành. Chỉ riêng năm 2020, đã có 7 thử nghiệm lâm sàng về tế bào T γδ, trong đó 5 thử nghiệm tập trung vào tác dụng chống khối u của nó."
+  },
+  {
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Mô hình hợp tác 3 bên mở rộng đã được Trường Đại học GTVT áp dụng từ sớm cho việc tổ chức nghiên cứu với nguyên tắc: (1) Vận dụng đúng và triệt để các chính sách đột phá về phát triển khoa học, công nghệ và đổi mới sáng tạo của Chính phủ; (2) Gắn kết chặt chẽ với cộng đồng doanh nghiệp trong quá trình tổ chức nghiên cứu; (3) Xác định rõ địa chỉ ứng dụng và ý thức rất cao về việc điều chỉnh chất lượng sản phẩm nghiên cứu đáp ứng yêu cầu ứng dụng trong thực tế.",
+    "question": "Trường Đại học GTVT áp dụng mô hình hợp tác 3 bên mở rộng trong hoạt động nghiên cứu dựa trên những nguyên tắc cốt lõi nào?",
+    "answer": "Trường Đại học GTVT áp dụng mô hình hợp tác 3 bên mở rộng trong nghiên cứu dựa trên ba nguyên tắc: (1) Vận dụng đúng và triệt để các chính sách đột phá của Chính phủ về khoa học, công nghệ và đổi mới sáng tạo; (2) Gắn kết chặt chẽ với cộng đồng doanh nghiệp trong quá trình nghiên cứu; (3) Xác định rõ địa chỉ ứng dụng và điều chỉnh chất lượng sản phẩm nghiên cứu để đáp ứng yêu cầu thực tế."
+  },
+  {
+    "title": "Một số sửa đổi, bổ sung đáng chú ý về xử lý vi phạm hành chính trong lĩnh vực sở hữu công nghiệp",
+    "context": "Nghị định số 46/2024/NĐ-CP bãi bỏ quy định xử phạt đối với hành vi cố ý cản trở việc xác lập, thực hiện và bảo vệ quyền sở hữu công nghiệp gây thiệt hại cho người có quyền và lợi ích liên quan. Việc bãi bỏ này là do Luật Sở hữu trí tuệ hiện hành không quy định xử lý đối với hành vi nêu trên. Mục đích là để bảo đảm tính khả thi trong thực tiễn áp dụng.",
+    "question": "Nghị định số 46/2024/NĐ-CP đã bãi bỏ quy định xử phạt đối với hành vi nào liên quan đến việc cản trở quyền sở hữu công nghiệp và vì lý do gì?",
+    "answer": "Nghị định số 46/2024/NĐ-CP bãi bỏ quy định xử phạt đối với hành vi cố ý cản trở việc xác lập, thực hiện và bảo vệ quyền sở hữu công nghiệp gây thiệt hại cho người có quyền và lợi ích liên quan. Lý do bãi bỏ là vì Luật Sở hữu trí tuệ hiện hành không quy định xử lý hành vi này và nhằm đảm bảo tính khả thi trong thực tiễn áp dụng."
+  },
+  {
+    "title": "Mực in chuyển sắc quang học và một số ứng dụng",
+    "context": "Vật liệu mực in trên cơ sở spiropyran và spirooxazine có nhiều ứng dụng tiềm năng trong việc lưu trữ thông tin bằng tín hiệu quang học. Các bộ hiển thị quang sắc chuyển đổi cũng như các bộ lọc quang học là một trong những hướng nghiên cứu ứng dụng chính trong phát triển vật liệu mực in chuyển sắc quang học. Thực tế cho thấy, ngày càng có nhiều công ty công nghiệp và quốc phòng quan tâm đến lĩnh vực này.",
+    "question": "Các hướng nghiên cứu ứng dụng chính trong phát triển vật liệu mực in chuyển sắc quang học trên cơ sở spiropyran và spirooxazine là gì?",
+    "answer": "Các hướng nghiên cứu ứng dụng chính trong phát triển vật liệu mực in chuyển sắc quang học trên cơ sở spiropyran và spirooxazine là các bộ hiển thị quang sắc chuyển đổi và các bộ lọc quang học."
+  },
+  {
+    "title": "Nghiên cứu hóa học về lipid và phát triển các chuỗi sản phẩm từ sinh vật biển Việt Nam",
+    "context": "Năm 2000, thuật ngữ “lipidome” được đưa ra để mô tả cấu trúc hóa học lipid hoàn chỉnh của một đối tượng sinh vật. Các nghiên cứu về “lipidomic” có nhiệm vụ xem xét cấu trúc, chức năng, sự tương tác sinh học và phân bố của phân tử lipid trong đối tượng sinh vật đó. Hiện nay, các thiết bị mới và phương pháp mới đã cho phép những nghiên cứu định tính, định lượng xác định ngày càng chính xác cấu trúc và liên kết của các “dạng phân tử” lipid. Đồng thời, chúng cũng xác định được vị trí các liên kết đôi trong mạch axit béo ở mức độ phân tử.",
+    "question": "Thuật ngữ \"lipidome\" được giới thiệu khi nào và mô tả điều gì, và nghiên cứu \"lipidomic\" tập trung vào những khía cạnh nào của phân tử lipid?",
+    "answer": "Thuật ngữ “lipidome” được giới thiệu năm 2000 để mô tả cấu trúc hóa học lipid hoàn chỉnh của một đối tượng sinh vật. Nghiên cứu “lipidomic” có nhiệm vụ xem xét cấu trúc, chức năng, sự tương tác sinh học và phân bố của phân tử lipid trong đối tượng sinh vật đó."
+  },
+  {
+    "title": "Nghị viện châu Âu thông qua đạo luật về trí tuệ nhân tạo",
+    "context": "AIA cũng quy định các nghĩa vụ rõ ràng đối với các hệ thống AI có rủi ro cao (do chúng có khả năng gây hại đáng kể đối với sức khỏe, sự an toàn, các quyền cơ bản, môi trường, dân chủ, pháp quyền). Việc sử dụng AI có rủi ro cao có thể bao gồm: cơ sở hạ tầng quan trọng, giáo dục - đào tạo nghề, việc làm, các dịch vụ công - tư thiết yếu (ví dụ như chăm sóc sức khỏe y tế, ngân hàng), một số hệ thống nhất định trong việc thực thi pháp luật, di cư và quản lý biên giới, các quy trình tư pháp và dân chủ (ví dụ như gây ảnh hưởng đến các cuộc bầu cử). Các hệ thống như vậy phải được đánh giá, giảm thiểu rủi ro và duy trì nhật ký sử dụng; cần có sự minh bạch, chính xác cũng như đảm bảo sự giám sát của con người.",
+    "question": "Theo Đạo luật Trí tuệ nhân tạo (AIA), những lĩnh vực hoặc hệ thống cụ thể nào được coi là có rủi ro cao và cần tuân thủ các nghĩa vụ đặc biệt?",
+    "answer": "Theo AIA, các hệ thống AI có rủi ro cao bao gồm các lĩnh vực như cơ sở hạ tầng quan trọng, giáo dục - đào tạo nghề, việc làm, dịch vụ công - tư thiết yếu (như chăm sóc sức khỏe, ngân hàng), thực thi pháp luật, di cư và quản lý biên giới, cùng các quy trình tư pháp và dân chủ."
+  },
+  {
+    "title": "Nguy cơ tội phạm sử dụng công nghệ deepfake trong giao dịch ngân hàng",
+    "context": "Tích hợp với công nghệ Blockchain: Tương lai của xác thực sinh trắc học trong ngân hàng có thể bao gồm tích hợp với công nghệ blockchain. Blockchain, với tính phi tập trung và không thể giả mạo, sẽ tăng cường bảo mật cho dữ liệu sinh trắc học, lưu trữ chúng một cách an toàn và không thể thay đổi. Sự kết hợp này có khả năng cách mạng hóa quản lý danh tính và phòng chống gian lận trong ngành ngân hàng.",
+    "question": "Công nghệ blockchain có thể đóng vai trò gì trong tương lai của xác thực sinh trắc học trong ngân hàng?",
+    "answer": "Trong tương lai, xác thực sinh trắc học trong ngân hàng có thể tích hợp với công nghệ blockchain. Blockchain, với tính phi tập trung và không thể giả mạo, sẽ tăng cường bảo mật cho dữ liệu sinh trắc học, lưu trữ chúng một cách an toàn và không thể thay đổi, qua đó cách mạng hóa quản lý danh tính và phòng chống gian lận."
+  },
+  {
+    "title": "Nguy cơ từ Shadow AI trong hoạt động tài chính",
+    "context": "Shadow AI làm gia tăng mối đe dọa nội bộ vì tổ chức không thể theo dõi hoặc quản lý dữ liệu được xử lý bởi các công cụ này. Khi nhân viên sử dụng các công cụ AI không được phê duyệt (ví dụ: chatbot, công cụ phân tích dữ liệu, hoặc nền tảng AI bên thứ ba), dữ liệu nhạy cảm như thông tin khách hàng, giao dịch tài chính hoặc chiến lược kinh doanh có thể bị rò rỉ hoặc lưu trữ trên các hệ thống không an toàn. Các công cụ này thường không tuân thủ các tiêu chuẩn bảo mật của tổ chức, làm tăng nguy cơ tấn công mạng hoặc vi phạm dữ liệu nghiêm trọng.",
+    "question": "Shadow AI gây ra rủi ro bảo mật và rò rỉ dữ liệu như thế nào khi các tổ chức không thể theo dõi việc sử dụng AI của nhân viên?",
+    "answer": "Shadow AI gây ra rủi ro bảo mật và rò rỉ dữ liệu vì tổ chức không thể theo dõi hoặc quản lý dữ liệu được xử lý bởi các công cụ AI không được phê duyệt, khiến dữ liệu nhạy cảm có thể bị rò rỉ hoặc lưu trữ trên các hệ thống không an toàn."
+  },
+  {
+    "title": "Nguyên Bộ trưởng Hoàng Văn Phong Tin tưởng vào sức mạnh trí tuệ và khát vọng cống hiến của đội ngũ các nhà khoa học và công nghệ Việt Nam",
+    "context": "Luật Sở hữu trí tuệ được xây dựng vào năm 2004 và ban hành năm 2005, cùng với Luật Thuế và Luật Hải quan, có vai trò quyết định kết thúc quá trình đàm phán lâu dài, đầy cam go với các quốc gia, vùng lãnh thổ, đưa Việt Nam chính thức gia nhập Tổ chức Thương mại Thế giới WTO vào năm 2007. Một đóng góp quan trọng khác của Luật Sở hữu trí tuệ là đưa ra chính sách quốc gia về phát triển tài sản trí tuệ đối với nhiều đối tượng từ sở hữu công nghiệp, giống cây trồng cho đến quyền tác giả và các quyền liên quan. Việc thực thi chính sách này trở nên hết sức quan trọng trong quá trình công nghiệp hóa - hiện đại hóa đất nước, nhất là trong thời kỳ cách mạng công nghiệp, kỷ nguyên số và trí tuệ nhân tạo.",
+    "question": "Luật Sở hữu trí tuệ, được ban hành vào năm 2005, đã đóng vai trò quan trọng như thế nào trong việc Việt Nam gia nhập WTO và trong việc hình thành chính sách quốc gia về tài sản trí tuệ?",
+    "answer": "Luật Sở hữu trí tuệ, được xây dựng năm 2004 và ban hành năm 2005, cùng với Luật Thuế và Luật Hải quan, có vai trò quyết định giúp Việt Nam chính thức gia nhập Tổ chức Thương mại Thế giới WTO vào năm 2007. Ngoài ra, luật này còn đưa ra chính sách quốc gia về phát triển tài sản trí tuệ đối với nhiều đối tượng, từ sở hữu công nghiệp, giống cây trồng cho đến quyền tác giả và các quyền liên quan. Việc thực thi chính sách này đặc biệt quan trọng trong quá trình công nghiệp hóa - hiện đại hóa đất nước, nhất là trong thời kỳ cách mạng công nghiệp, kỷ nguyên số và trí tuệ nhân tạo."
+  },
+  {
+    "title": "Nhu cầu nâng cao năng lực số của thanh niên hiện nay",
+    "context": "Theo Liên Hợp Quốc, thanh niên là những người trong độ tuổi từ 15 đến 24 tuổi. Thanh thiếu niên có thể được hiểu như là một giai đoạn chuyển tiếp từ sự phụ thuộc của thời thơ ấu đến sự độc lập của tuổi trưởng thành. Theo tổ chức UNESCO, độ tuổi thanh niên được hiểu linh hoạt hơn và sử dụng phù hợp với từng hoạt động và vùng lãnh thổ. Theo Luật Thanh niên 2020: “Thanh niên là công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi\" (Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam, 2020).",
+    "question": "Theo Luật Thanh niên 2020 của Việt Nam, độ tuổi nào được định nghĩa là thanh niên?",
+    "answer": "Theo Luật Thanh niên 2020, thanh niên được định nghĩa là công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi."
+  },
+  {
+    "title": "Phát triển nguồn nhân lực kỹ thuật sản xuất thông minh Đòn bẩy cho công nghiệp Việt Nam",
+    "context": "Đối với Việt Nam, nơi đa phần các doanh nghiệp vẫn đang trong quá trình số hóa từng phần, thì việc hình thành một lực lượng kỹ sư có tư duy hệ thống, khả năng tích hợp công nghệ và hiểu được bức tranh toàn cục sản xuất thông minh sẽ là yếu tố quyết định. Họ chính là nhân tố giúp doanh nghiệp thoát khỏi phụ thuộc công nghệ, tiến tới làm chủ quy trình, tối ưu năng suất và tham gia vào chuỗi giá trị toàn cầu với vai trò cao hơn. Trong xu thế sản xuất công nghiệp chuyển đổi mạnh mẽ sang sản xuất thông minh, nguồn nhân lực kỹ thuật sản xuất thông minh đang nổi lên như yếu tố quyết định năng lực cạnh tranh của quốc gia.",
+    "question": "Tại sao việc xây dựng lực lượng kỹ sư có tư duy hệ thống và khả năng tích hợp công nghệ lại đặc biệt quan trọng đối với các doanh nghiệp Việt Nam trong bối cảnh sản xuất thông minh?",
+    "answer": "Đối với Việt Nam, nơi đa phần doanh nghiệp đang số hóa từng phần, lực lượng kỹ sư có tư duy hệ thống, khả năng tích hợp công nghệ và hiểu bức tranh toàn cục sản xuất thông minh là yếu tố quyết định. Họ giúp doanh nghiệp thoát phụ thuộc công nghệ, làm chủ quy trình, tối ưu năng suất và tham gia chuỗi giá trị toàn cầu với vai trò cao hơn, từ đó quyết định năng lực cạnh tranh của quốc gia."
+  },
+  {
+    "title": "Phục hồi và tái chế pin lithium đã qua sử dụng",
+    "context": "Việc tái sử dụng các loại pin lithium đã cạn kiệt có ý nghĩa quan trọng đối với việc thu hồi tài nguyên, bảo tồn môi trường và giảm bớt sự phụ thuộc vào nguyên liệu thô. Chỉ tính riêng từ 500.000 tấn pin lithium được sản xuất toàn cầu vào năm 2019, ước tính có thể tái chế và thu hồi được 15.000 tấn nhôm, 35.000 tấn phốt pho, 45.000 tấn đồng, 60.000 tấn coban, 75.000 tấn lithium và 90.000 tấn sắt [2]. Điều này thể hiện tiềm năng đáng kể trong việc thu hồi các vật liệu có giá trị.",
+    "question": "Từ 500.000 tấn pin lithium được sản xuất toàn cầu vào năm 2019, ước tính có thể tái chế và thu hồi được bao nhiêu tấn các vật liệu như nhôm, phốt pho, đồng, coban, lithium và sắt?",
+    "answer": "Từ 500.000 tấn pin lithium được sản xuất toàn cầu vào năm 2019, ước tính có thể tái chế và thu hồi được 15.000 tấn nhôm, 35.000 tấn phốt pho, 45.000 tấn đồng, 60.000 tấn coban, 75.000 tấn lithium và 90.000 tấn sắt."
+  },
+  {
+    "title": "Phục hồi và tái chế pin lithium đã qua sử dụng",
+    "context": "Một số quốc gia khai thác lithium hàng đầu cho pin điện tử là Trung Quốc, Úc và Chile. Hiện nay, Trung Quốc là nước tiêu thụ và sản xuất LIB lớn nhất và việc tái chế LIB đã qua sử dụng chỉ mới bắt đầu những năm gần đây [2]. Việc này cho thấy Trung Quốc có vai trò quan trọng trong chuỗi cung ứng và quản lý pin lithium.",
+    "question": "Những quốc gia nào là nhà khai thác lithium hàng đầu cho pin điện tử và Trung Quốc hiện có vai trò như thế nào đối với pin lithium-ion (LIB)?",
+    "answer": "Các quốc gia khai thác lithium hàng đầu cho pin điện tử là Trung Quốc, Úc và Chile. Hiện nay, Trung Quốc là nước tiêu thụ và sản xuất LIB lớn nhất."
+  },
+  {
+    "title": "Quy hoạch phát triển, ứng dụng năng lượng nguyên tử thời kỳ đến năm 2030, tầm nhìn đến năm 2050",
+    "context": "Về phát triển tiềm lực khoa học và công nghệ hạt nhân, đào tạo nguồn nhân lực, bảo đảm an toàn, an ninh hạt nhân, mục tiêu đến năm 2030 sẽ tái cấu trúc chức năng, nâng cấp hạ tầng kỹ thuật và phát triển nguồn nhân lực chất lượng cao cho các cơ sở nghiên cứu và đào tạo hiện có. Mục tiêu này nhằm đáp ứng được yêu cầu thực tiễn và chất lượng về nghiên cứu, phát triển và ứng dụng khoa học và công nghệ hạt nhân trong các ngành, lĩnh vực. Đồng thời, Quy hoạch cũng hướng đến nâng cao năng lực hỗ trợ kỹ thuật phục vụ công tác bảo đảm an toàn và an ninh hạt nhân trong phát triển, ứng dụng NLNT và triển khai Dự án điện hạt nhân Ninh Thuận.",
+    "question": "Đến năm 2030, Quy hoạch phát triển, ứng dụng năng lượng nguyên tử đặt ra những mục tiêu gì về tiềm lực khoa học và công nghệ hạt nhân, đào tạo nguồn nhân lực, cũng như bảo đảm an toàn, an ninh hạt nhân?",
+    "answer": "Đến năm 2030, Quy hoạch đặt mục tiêu tái cấu trúc chức năng, nâng cấp hạ tầng kỹ thuật và phát triển nguồn nhân lực chất lượng cao cho các cơ sở nghiên cứu và đào tạo hiện có. Mục tiêu này nhằm đáp ứng yêu cầu về nghiên cứu, phát triển và ứng dụng khoa học và công nghệ hạt nhân. Đồng thời, Quy hoạch cũng nhằm nâng cao năng lực hỗ trợ kỹ thuật phục vụ công tác bảo đảm an toàn và an ninh hạt nhân trong phát triển, ứng dụng năng lượng nguyên tử và triển khai Dự án điện hạt nhân Ninh Thuận."
+  },
+  {
+    "title": "Robot hỗ trợ dạy tiếng Anh “Made in Vietnam”",
+    "context": "Các mô đun phần mềm điều khiển chuyển động của robot được phát triển chủ yếu trên hệ điều hành ROS framework. ROS framework cho phép tích hợp và quản lý khá linh hoạt mọi nguồn tài nguyên cũng như sự điều chỉnh của các khối chức năng. Hệ điều hành của robot phải đảm bảo hỗ trợ chạy ổn định các thuật toán xử lý và chương trình điều khiển, nhất là đảm bảo tính đồng bộ theo thời gian thực.",
+    "question": "ROS framework cung cấp những khả năng chính nào cho việc phát triển mô đun phần mềm điều khiển chuyển động của robot?",
+    "answer": "ROS framework cho phép tích hợp và quản lý khá linh hoạt mọi nguồn tài nguyên cũng như sự điều chỉnh của các khối chức năng cho việc phát triển mô đun phần mềm điều khiển chuyển động của robot."
+  },
+  {
+    "title": "Sửa đổi Luật Báo chí Một số vấn đề đối với tạp chí khoa học",
+    "context": "Uy tín của tạp chí khoa học khác với báo/tạp chí thông thường. Nếu như báo/tạp chí thông thường khẳng định được uy tín thông qua lượng độc giả, lượt truy cập, lượt xem/đọc thì uy tín của tạp chí khoa học lại được khẳng định bằng chất lượng các công bố khoa học và số lượt trích dẫn, sự quan tâm, đánh giá cao của các nhà khoa học trong lĩnh vực xuất bản của tạp chí. Chính vì vậy, để khẳng định được uy tín của mình, các tạp chí khoa học của Việt Nam cần hòa mình vào “sân chơi” quốc tế, lấy các tiêu chuẩn chung của quốc tế làm định hướng phát triển.",
+    "question": "Sự khác biệt trong cách khẳng định uy tín giữa tạp chí khoa học và báo/tạp chí thông thường là gì và tạp chí khoa học Việt Nam cần làm gì để khẳng định uy tín?",
+    "answer": "Uy tín của báo/tạp chí thông thường được khẳng định qua lượng độc giả, lượt truy cập, lượt xem/đọc. Ngược lại, uy tín của tạp chí khoa học được xác định bằng chất lượng các công bố khoa học, số lượt trích dẫn và sự đánh giá cao từ các nhà khoa học. Để khẳng định uy tín, các tạp chí khoa học Việt Nam cần hòa mình vào 'sân chơi' quốc tế và lấy các tiêu chuẩn chung của quốc tế làm định hướng phát triển."
+  },
+  {
+    "title": "Sự phát triển của công nghệ sinh học và hành vi phạm tội tiềm ẩn",
+    "context": "Sau khi nghiên cứu các trường hợp tội phạm sinh học, M. Elgabry và cs (2020) cũng đã tổng hợp theo chủ đề và thống kê được 13 vụ tội phạm sinh học đã xảy ra. Nhóm nghiên cứu cũng phân loại tám loại tội phạm tiềm ẩn xuất hiện từ các nghiên cứu. Các tội phạm này có thể được phân thành hai nhóm chính là tội phạm hiện có và tội phạm tương lai, dựa trên khả năng xảy ra các hành vi này.",
+    "question": "Nghiên cứu của M. Elgabry và cs (2020) đã thống kê được bao nhiêu vụ tội phạm sinh học và đã phân loại các loại tội phạm tiềm ẩn này thành những nhóm chính nào?",
+    "answer": "Nghiên cứu của M. Elgabry và cs (2020) đã thống kê được 13 vụ tội phạm sinh học đã xảy ra và phân loại tám loại tội phạm tiềm ẩn thành hai nhóm chính là tội phạm hiện có và tội phạm tương lai."
+  },
+  {
+    "title": "Thành công mới trong nghiên cứu liệu pháp tái tạo xương",
+    "context": "Các bệnh và khuyết tật về xương do hậu quả của chấn thương, ung thư, nhiễm trùng và các tình trạng thoái hóa, viêm đang ngày càng gia tăng, là một trong những nguyên nhân hàng đầu gây ra tàn tật trên toàn thế giới. Các triệu chứng của bệnh xương khớp bao gồm: đau nhức, rối loạn chức năng, thậm chí biến dạng khớp. Các bệnh lý về xương đang rất phổ biến.",
+    "question": "Các bệnh và khuyết tật về xương gây ra những hậu quả nghiêm trọng nào trên toàn cầu?",
+    "answer": "Các bệnh và khuyết tật về xương là một trong những nguyên nhân hàng đầu gây ra tàn tật trên toàn thế giới, với các triệu chứng bao gồm đau nhức, rối loạn chức năng và thậm chí biến dạng khớp."
+  },
+  {
+    "title": "Thúc đẩy bình đẳng giới và đổi mới công nghệ ở khu vực nông thôn",
+    "context": "Vì vậy, đối với các nước đang phát triển, cần quy hoạch thận trọng các khu vực canh tác công nghệ cao dành cho các nhà đầu tư tư bản. Đồng thời, với đại bộ phận cộng đồng nông dân quy mô nhỏ, nhà nước cần có chính sách khuyến khích và đầu tư các cơ sở nghiên cứu để phát triển công nghệ hỗ trợ cho các mô hình sản xuất “thuận” tự nhiên. Các mô hình này hỗ trợ nông dân ứng dụng tri thức bản địa, đồng thời đưa các công nghệ ở mức vừa phải để hỗ trợ cải tiến tri thức bản địa, tạo ra mô hình sản xuất vừa hiện đại, vừa gần gũi và ít chi phí cho nông dân.",
+    "question": "Các nước đang phát triển cần có những chính sách gì để vừa quy hoạch khu vực canh tác công nghệ cao, vừa hỗ trợ nông dân quy mô nhỏ?",
+    "answer": "Các nước đang phát triển cần quy hoạch thận trọng các khu vực canh tác công nghệ cao dành cho các nhà đầu tư tư bản. Đồng thời, nhà nước cần có chính sách khuyến khích và đầu tư các cơ sở nghiên cứu để phát triển công nghệ hỗ trợ các mô hình sản xuất “thuận” tự nhiên, giúp nông dân ứng dụng tri thức bản địa và công nghệ phù hợp với chi phí thấp."
+  },
+  {
+    "title": "Thách thức và chiến lược đổi mới sáng tạo trong nghiên cứu, phát triển và sản xuất vắc-xin tại Việt Nam",
+    "context": "Chính phủ hiện cũng đã xây dựng các kế hoạch đến năm 2030, sớm đưa thêm các vắc-xin mới như vắc-xin phòng ung thư cổ tử cung (HPV), phế cầu (PCV), Rota và cúm mùa vào Chương trình TCMR. Điều này thúc đẩy các nhà sản xuất vắc-xin tại Việt Nam cần sớm xây dựng các chiến lược đổi mới sáng tạo để tiếp cận các công nghệ mới và tiên tiến trong nghiên cứu, phát triển và sản xuất vắc-xin. Đây cũng chính là điều kiện để giúp Việt Nam tiếp tục tự đảm bảo được nguồn cung vắc-xin và tăng cường năng lực để đối phó với các đại dịch mới trong trong tương lai.",
+    "question": "Chính phủ Việt Nam có kế hoạch bổ sung những loại vắc-xin mới nào vào Chương trình Tiêm chủng mở rộng (TCMR) đến năm 2030?",
+    "answer": "Đến năm 2030, Chính phủ Việt Nam có kế hoạch bổ sung các loại vắc-xin mới như vắc-xin phòng ung thư cổ tử cung (HPV), phế cầu (PCV), Rota và cúm mùa vào Chương trình Tiêm chủng mở rộng (TCMR)."
+  },
+  {
+    "title": "Thách thức và chiến lược đổi mới sáng tạo trong nghiên cứu, phát triển và sản xuất vắc-xin tại Việt Nam",
+    "context": "Ngoại trừ 2 loại vắc-xin nhập khẩu là vắc-xin phối hợp 5 trong 1 (Bạch hầu, ho gà, uốn ván, viêm gan B, Hib cộng hợp) và bại liệt bất hoạt (IPV), các vắc-xin khác hiện sử dụng cho Chương trình TCMR đều được cung cấp bởi các nhà sản xuất trong nước. Các nhà sản xuất vắc-xin Việt Nam mặc dù đã đáp ứng được yêu cầu về vắc-xin cho Chương trình TCMR và một phần cho thị trường dịch vụ, tuy nhiên công suất hiện tại của hầu hết các nhà sản xuất đều chưa đạt đến mức độ tối đa (bảng 1). Điều này sẽ gây khó khăn trong việc giảm giá thành, tối ưu hoá lợi nhuận và đảm bảo được nguồn kinh phí để tái đầu tư cho nghiên cứu, phát triển và sản xuất các sản phẩm mới.",
+    "question": "Theo tài liệu, những loại vắc-xin nào đang được nhập khẩu để sử dụng cho Chương trình Tiêm chủng mở rộng (TCMR) tại Việt Nam?",
+    "answer": "Hai loại vắc-xin đang được nhập khẩu để sử dụng cho Chương trình Tiêm chủng mở rộng (TCMR) tại Việt Nam là vắc-xin phối hợp 5 trong 1 (Bạch hầu, ho gà, uốn ván, viêm gan B, Hib cộng hợp) và vắc-xin bại liệt bất hoạt (IPV)."
+  },
+  {
+    "title": "Tiếp cận dịch vụ chăm sóc sức khỏe cho người cao tuổi ở Việt Nam trong bối cảnh già hóa dân số",
+    "context": "Theo dự báo, Việt Nam sẽ bước vào giai đoạn “dân số già” (khi tỷ trọng người từ 65 tuổi trở lên chiếm từ 14% tổng dân số) vào năm 2036 với tỷ trọng người cao tuổi đạt 14,17% tổng dân số. Đây cũng là thời điểm được dự báo là giai đoạn kết thúc “cơ cấu dân số vàng” (năm 2039) của Việt Nam. Điều này có nghĩa là trong thời gian tới Việt Nam sẽ cùng trong giai đoạn già hóa và “cơ cấu dân số vàng” cho tới khoảng 2036, và sau đó bước vào giai đoạn già ngay khi “cơ cấu dân số vàng” gần kết thúc.",
+    "question": "Việt Nam dự kiến sẽ bước vào giai đoạn \"dân số già\" vào năm nào và tỷ lệ người từ 65 tuổi trở lên sẽ chiếm bao nhiêu phần trăm tổng dân số vào thời điểm đó?",
+    "answer": "Việt Nam dự kiến sẽ bước vào giai đoạn “dân số già” vào năm 2036, với tỷ trọng người từ 65 tuổi trở lên đạt 14,17% tổng dân số."
+  },
+  {
+    "title": "Tư tưởng Hồ Chí Minh về gia đình cơ sở hình thành, nội dung và giá trị",
+    "context": "Trong học thuyết Nho giáo, cũng bàn rất nhiều về nội dung của gia đình và cho rằng gia đình có vị trí, vai trò đặc biệt quan trọng đối với sự ổn định, phát triển của xã hội; là đơn vị kết cấu cơ bản nhất của xã hội. Trong quá trình luận giải cơ sở tự nhiên của con người, Nho giáo đã chỉ ra chuẩn mực đạo đức mà mỗi con người trong xã hội phải tuân theo, đó là những chuẩn mực đạo đức dựa trên các quan hệ cơ bản rường cột gọi là tam cương, ngũ thường và trong đó, hơn nửa các mối quan hệ ấy thuộc phạm vi quan hệ gia đình (Phu - thê, phụ - tử, huynh - đệ). Nho giáo cũng chỉ rõ, gia đình là nơi tu dưỡng, rèn luyện những đức tính căn bản của con người, thông qua cách ứng xử, hành động tuân theo lễ của những người trong gia đình, hình thành nên phẩm chất, nhân cách của họ và tạo nên giá trị văn hoá gia đình.",
+    "question": "Học thuyết Nho giáo đã luận giải vai trò và các chuẩn mực đạo đức của gia đình trong xã hội như thế nào?",
+    "answer": "Học thuyết Nho giáo nhấn mạnh gia đình có vị trí đặc biệt quan trọng đối với sự ổn định và phát triển xã hội, là đơn vị kết cấu cơ bản nhất của xã hội. Nho giáo chỉ ra các chuẩn mực đạo đức dựa trên tam cương, ngũ thường, trong đó hơn nửa thuộc quan hệ gia đình (Phu - thê, phụ - tử, huynh - đệ). Gia đình là nơi tu dưỡng, rèn luyện đức tính căn bản và hình thành nhân cách con người thông qua cách ứng xử, hành động tuân theo lễ."
+  },
+  {
+    "title": "Vai trò của trợ giúp xã hội trong bảo đảm quyền của người khuyết tật ở tỉnh Lạng Sơn hiện nay",
+    "context": "Điều 14, Luật Người khuyết tật 2010 quy định về các hành vi cấm. Các hành vi này bao gồm kỳ thị, phân biệt đối xử người khuyết tật. Ngoài ra, việc xâm phạm thân thể, nhân phẩm, danh dự, tài sản, quyền, lợi ích hợp pháp của người khuyết tật cũng bị cấm. Luật cũng cấm lôi kéo, dụ dỗ hoặc ép buộc người khuyết tật thực hiện hành vi vi phạm pháp luật, đạo đức xã hội.",
+    "question": "Theo Luật Người khuyết tật năm 2010, những hành vi nào bị nghiêm cấm đối với người khuyết tật?",
+    "answer": "Theo Điều 14 Luật Người khuyết tật 2010, các hành vi cấm bao gồm kỳ thị, phân biệt đối xử người khuyết tật; xâm phạm thân thể, nhân phẩm, danh dự, tài sản, quyền, lợi ích hợp pháp của người khuyết tật; lôi kéo, dụ dỗ hoặc ép buộc người khuyết tật thực hiện hành vi vi phạm pháp luật, đạo đức xã hội; và lợi dụng người khuyết tật, tổ chức của người khuyết tật, tổ chức vì người khuyết tật, hình ảnh, thông tin cá nhân, tình trạng của người khuyết tật để trục lợi hoặc thực hiện hành vi vi phạm pháp luật."
+  },
+  {
+    "title": "Xử lý rác thải điện tử Giải pháp nào cho Việt Nam",
+    "context": "Mặc dù các công nghệ xử lý và thu hồi chất thải điện tử tại Việt Nam đã được các nhà nghiên cứu quan tâm và doanh nghiệp đầu tư, nghiên cứu. Tuy nhiên, so với các nước trên thế giới, các sáng chế, kết quả nghiên cứu và các công bố về lĩnh vực này còn hạn chế về số lượng. Đồng thời, việc triển khai dự án quy mô công nghiệp xử lý rác thải điện tử vào thực tế vẫn còn gặp nhiều vướng mắc.",
+    "question": "Mặc dù có những nghiên cứu và đầu tư, nhưng lĩnh vực công nghệ xử lý rác thải điện tử ở Việt Nam còn đối mặt với những hạn chế và vướng mắc nào khi so sánh với thế giới?",
+    "answer": "So với các nước trên thế giới, các sáng chế, kết quả nghiên cứu và các công bố về công nghệ xử lý rác thải điện tử ở Việt Nam còn hạn chế về số lượng. Ngoài ra, việc triển khai dự án quy mô công nghiệp xử lý rác thải điện tử vào thực tế vẫn còn nhiều vướng mắc."
+  },
+  {
+    "title": "Đại tướng Võ Nguyên Giáp và một số công trình nghiên cứu về khoa học - kỹ thuật",
+    "context": "Khác với các nước có nền kinh tế phát triển, Việt Nam tiến hành cách mạng khoa học kỹ thuật trong điều kiện nền kinh tế đất nước đang từ sản xuất nhỏ tiến lên sản xuất lớn xã hội chủ nghĩa. Vì vậy, Đại tướng khẳng định: “Việt Nam không đi theo con đường thông thường là phát triển cách mạng khoa học - kỹ thuật trong công nghiệp trước, rồi từ đó mới mở rộng đến nông nghiệp, mà chúng ta lại tiến hành cách mạng khoa học - kỹ thuật đồng thời trong công nghiệp và nông nghiệp” (Võ Nguyên Giáp, 1978: 16). Đại tướng nêu ra những thuận lợi của cuộc cách mạng trong nông nghiệp ở nước ta, đồng thời nhấn mạnh một số đặc thù về điều kiện đất nước và con người Việt Nam, sự khác biệt giữa sản xuất nông nghiệp và sản xuất công nghiệp.",
+    "question": "Khác với các nước có nền kinh tế phát triển, Việt Nam đã tiến hành cách mạng khoa học kỹ thuật trong điều kiện nào và theo con đường ra sao?",
+    "answer": "Khác với các nước có nền kinh tế phát triển, Việt Nam tiến hành cách mạng khoa học kỹ thuật trong điều kiện nền kinh tế đất nước đang từ sản xuất nhỏ tiến lên sản xuất lớn xã hội chủ nghĩa. Việt Nam không đi theo con đường thông thường là phát triển cách mạng khoa học - kỹ thuật trong công nghiệp trước rồi mới mở rộng đến nông nghiệp. Thay vào đó, chúng ta tiến hành cách mạng khoa học - kỹ thuật đồng thời trong cả công nghiệp và nông nghiệp."
+  },
+  {
+    "title": "Đạo đức và quản lý trí tuệ nhân tạo trong y tế Kinh nghiệm quốc tế và gợi ý cho Việt Nam",
+    "context": "Để bảo đảm sự an toàn và hiệu quả khi sử dụng AI trong y tế, Việt Nam cần thiết lập một khung pháp lý rõ ràng. Khung pháp lý nên bao gồm các quy định về quản lý rủi ro, giám sát con người, tính minh bạch, quản trị dữ liệu và an ninh mạng. Những hệ thống AI có mức độ rủi ro cao cần được kiểm định kỹ lưỡng trước khi triển khai. Đặc biệt, cần quy định trách nhiệm pháp lý của các nhà cung cấp dịch vụ AI và cơ sở y tế trong trường hợp xảy ra sự cố hoặc sai sót trong quá trình sử dụng.",
+    "question": "Để đảm bảo an toàn và hiệu quả của AI trong y tế, khung pháp lý mà Việt Nam cần thiết lập nên bao gồm những quy định cụ thể nào?",
+    "answer": "Khung pháp lý mà Việt Nam cần thiết lập cho AI trong y tế nên bao gồm các quy định về quản lý rủi ro, giám sát con người, tính minh bạch, quản trị dữ liệu và an ninh mạng. Những hệ thống AI có mức độ rủi ro cao cần được kiểm định kỹ lưỡng. Đồng thời, cần quy định trách nhiệm pháp lý của các nhà cung cấp dịch vụ AI và cơ sở y tế trong trường hợp xảy ra sự cố."
+  },
+  {
+    "title": "Đổi mới công tác truyền thông về nâng cao năng suất và chất lượng",
+    "context": "Từ kinh nghiệm triển khai truyền thông về NSCL trong năm 2024, Viện Thông tin và Truyền thông Tiêu chuẩn Đo lường Chất lượng đề xuất: Cần tăng cường hơn nữa hoạt động truyền thông trong lĩnh vực này, biến NSCL thành một phần trong tư duy và hành động thường nhật của mỗi cá nhân, tổ chức. Mô hình truyền thông hiện tại nên được mở rộng ra nhiều bộ/ngành và địa phương. Cần xây dựng một mạng lưới truyền thông NSCL toàn quốc nhằm tối ưu hiệu quả lan tỏa. Ngoài ra, việc chuyển giao kết quả nhiệm vụ cho các cơ sở giáo dục, trường đại học… để xây dựng giáo trình, tài liệu giảng dạy là rất cần thiết.",
+    "question": "Dựa trên kinh nghiệm năm 2024, Viện Thông tin và Truyền thông Tiêu chuẩn Đo lường Chất lượng đề xuất những giải pháp nào để tăng cường hoạt động truyền thông về NSCL?",
+    "answer": "Dựa trên kinh nghiệm năm 2024, Viện đề xuất tăng cường hoạt động truyền thông để NSCL trở thành tư duy và hành động thường nhật, mở rộng mô hình truyền thông ra nhiều bộ/ngành và địa phương, xây dựng mạng lưới truyền thông NSCL toàn quốc, và chuyển giao kết quả nhiệm vụ cho các cơ sở giáo dục để xây dựng giáo trình giảng dạy."
+  },
+  {
+    "title": "Đổi mới sáng tạo xanh Động lực phát triển bền vững của Việt Nam",
+    "context": "ĐMST xanh đang có xu hướng phát triển và đảm nhiệm một vai trò quan trọng trong sự phát triển bền vững vì nó định hướng tới việc khai thác hợp lý, hiệu quả các nguồn tài nguyên thiên nhiên để cải thiện phúc lợi của con người. Ngoài ra, sự kết hợp giữa những biến đổi trong sản phẩm và quy trình sản xuất sẽ đóng góp vào phát triển bền vững kinh tế - xã hội. ĐMST xanh được các quốc gia đang phát triển, trong đó có Việt Nam áp dụng như một phương án để thúc đẩy tăng trưởng xanh, phát triển bền vững.",
+    "question": "Đổi mới sáng tạo xanh đóng vai trò quan trọng như thế nào trong sự phát triển bền vững, đặc biệt liên quan đến khai thác tài nguyên và phúc lợi con người?",
+    "answer": "ĐMST xanh đang có xu hướng phát triển và đảm nhiệm một vai trò quan trọng trong sự phát triển bền vững vì nó định hướng tới việc khai thác hợp lý, hiệu quả các nguồn tài nguyên thiên nhiên để cải thiện phúc lợi của con người."
+  },
+  {
+    "title": "Ứng dụng công nghệ hạt nhân trong ứng phó ô nhiễm rác thải nhựa",
+    "context": "Năm 2021, có 17 quốc gia tham gia các dự án tái chế do IAEA điều phối, chủ yếu là từ châu Á - Thái Bình Dương. Đến hiện nay, con số này là 39 quốc gia với sự gia nhập của các thành viên đến từ châu Âu, Mỹ Latinh và Caribe. Thông qua NUTEC Plastics, hiện có 86 quốc gia đang tham gia giám sát vi nhựa trên biển và 39 quốc gia trên toàn thế giới đang phát triển công nghệ tái chế tiên tiến.",
+    "question": "Số lượng các quốc gia tham gia các dự án tái chế do IAEA điều phối đã thay đổi như thế nào từ năm 2021, và hiện có bao nhiêu quốc gia đang tham gia giám sát vi nhựa trên biển cũng như phát triển công nghệ tái chế thông qua NUTEC Plastics?",
+    "answer": "Năm 2021, có 17 quốc gia tham gia các dự án tái chế do IAEA điều phối, chủ yếu từ châu Á - Thái Bình Dương. Hiện nay, con số này là 39 quốc gia với sự gia nhập của các thành viên từ châu Âu, Mỹ Latinh và Caribe. Thông qua NUTEC Plastics, hiện có 86 quốc gia đang tham gia giám sát vi nhựa trên biển và 39 quốc gia đang phát triển công nghệ tái chế tiên tiến."
+  },
+  {
+    "title": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước",
+    "context": "Để góp phần giải quyết khó khăn này, được sự hỗ trợ từ Chương trình Đổi mới công nghệ quốc gia đến năm 2030, Công ty TNHH Công nghiệp Quang Nam đã tiến hành nghiên cứu, chế tạo thành công dây chuyền sản xuất gỗ nhựa có tính tự động hóa cao với nguồn lực hoàn toàn trong nước. Để góp phần giải quyết các vấn đề nêu trên, Chương trình Đổi mới công nghệ quốc gia đến năm 2030 đã hỗ trợ Công ty TNHH Công nghiệp Quang Nam thực hiện đề tài “Nghiên cứu đổi mới dây chuyền, thiết bị công nghệ sản xuất sản phẩm gỗ nhựa phục vụ thị trường trong nước và xuất khẩu”. Thông qua đó, Công ty đã nghiên cứu, chế tạo thành công dây chuyền sản xuất gỗ nhựa có tính tự động hóa cao và làm chủ được quy trình công nghệ chế tạo sản phẩm gỗ nhựa.",
+    "question": "Chương trình Đổi mới công nghệ quốc gia đến năm 2030 đã hỗ trợ Công ty TNHH Công nghiệp Quang Nam như thế nào trong việc phát triển dây chuyền sản xuất gỗ nhựa?",
+    "answer": "Chương trình Đổi mới công nghệ quốc gia đến năm 2030 đã hỗ trợ Công ty TNHH Công nghiệp Quang Nam nghiên cứu, chế tạo thành công dây chuyền sản xuất gỗ nhựa có tính tự động hóa cao bằng nguồn lực trong nước. Chương trình đã hỗ trợ Công ty thực hiện đề tài “Nghiên cứu đổi mới dây chuyền, thiết bị công nghệ sản xuất sản phẩm gỗ nhựa phục vụ thị trường trong nước và xuất khẩu”, giúp Công ty làm chủ được quy trình công nghệ chế tạo sản phẩm."
+  },
+  {
+    "title": "Công nhận cơ sở thực hành tốt phòng thí nghiệm",
+    "context": "Hiện nay, nhiều tổ chức công nhận quốc tế và khu vực đã triển khai chương trình công nhận cơ sở phù hợp theo nguyên tắc GLP-OECD. Nhiều tổ chức được công nhận bởi Cơ quan Công nhận của các quốc gia như Úc (NATA), Pháp (COFRAC), Malaysia (DSM), Đan Mạch (DANAK)… Toàn bộ quá trình thực hiện đánh giá các tổ chức đăng ký công nhận theo nguyên tắc GLP-OECD đều được các cơ quan công nhận công bố trên hệ thống website các tài liệu công nhận, chuẩn mực công nhận là \"OECD principle\", quá trình đánh giá và cấp quyết định công nhận.",
+    "question": "Nêu một số Cơ quan Công nhận của các quốc gia đã triển khai chương trình công nhận cơ sở phù hợp theo nguyên tắc GLP-OECD.",
+    "answer": "Một số Cơ quan Công nhận của các quốc gia đã triển khai chương trình công nhận cơ sở phù hợp theo nguyên tắc GLP-OECD bao gồm NATA của Úc, COFRAC của Pháp, DSM của Malaysia và DANAK của Đan Mạch."
+  },
+  {
+    "title": "Quản lý và phát triển thương hiệu sản phẩm chủ lực mang địa danh của Sơn La",
+    "context": "Về kết quả quản lý và phát triển thương hiệu các sản phẩm nông nghiệp chủ lực mang địa danh ở Sơn La, có thể đánh giá khái quát như sau: Nâng cao nhận thức và sự quan tâm của các cấp, các ngành, tạo sự chuyển biến tích cực trong nhận thức của doanh nghiệp và người dân đối với các sản phẩm chủ lực của địa phương. Nhiều sản phẩm chủ lực của tỉnh sau khi được cấp văn bằng bảo hộ đã phát huy được giá trị, mở rộng vùng sản xuất, nâng cao chất lượng sản phẩm, thu hút nhiều doanh nghiệp, tập đoàn lớn đến xây dựng nhà máy, đầu tư dây chuyền công nghệ tiên tiến chế biến sâu sản phẩm. Việc xây dựng thương hiệu cho sản phẩm chủ lực của tỉnh đã hỗ trợ hình thành và thúc đẩy hoạt động ứng dụng tiến bộ khoa học và công nghệ (KH&CN) trong sản xuất, thu hoạch và bảo quản sản phẩm.",
+    "question": "Theo đánh giá khái quát, việc quản lý và phát triển thương hiệu các sản phẩm nông nghiệp chủ lực mang địa danh ở Sơn La đã đạt được những kết quả nào về nhận thức, giá trị sản phẩm và ứng dụng khoa học và công nghệ?",
+    "answer": "Việc quản lý và phát triển thương hiệu các sản phẩm nông nghiệp chủ lực mang địa danh ở Sơn La đã nâng cao nhận thức của các cấp, ngành, doanh nghiệp và người dân. Nhiều sản phẩm sau khi được bảo hộ đã phát huy giá trị, mở rộng sản xuất, nâng cao chất lượng và thu hút đầu tư. Ngoài ra, việc xây dựng thương hiệu cũng hỗ trợ thúc đẩy ứng dụng tiến bộ khoa học và công nghệ trong sản xuất, thu hoạch và bảo quản sản phẩm."
+  },
+  {
+    "title": "Robot hỗ trợ dạy tiếng Anh “Made in Vietnam”",
+    "context": "Hơn một thập kỷ trở lại đây, việc ứng dụng robot trong hệ thống giáo dục đã được nghiên cứu và triển khai tại nhiều quốc gia trên thế giới. Các robot đang trở thành những trợ giảng đắc lực trong hoạt động giáo dục đặc biệt (ví dụ cho trẻ em, trẻ bị tự kỷ). Robot cũng là đối tượng trung gian giúp trẻ em tiếp cận với tri thức nền tảng về robot học và lập trình robot cũng như nhiều ứng dụng khác.",
+    "question": "Trong hơn một thập kỷ qua, việc ứng dụng robot trong hệ thống giáo dục đã được nghiên cứu và triển khai như thế nào trên thế giới?",
+    "answer": "Trong hơn một thập kỷ qua, việc ứng dụng robot trong hệ thống giáo dục đã được nghiên cứu và triển khai tại nhiều quốc gia trên thế giới."
+  },
+  {
+    "title": "Tăng tốc chuyển đổi số ở cấp xã Ứng dụng trí tuệ nhân tạo trong xử lý công việc hành chính cấp xã",
+    "context": "Để AI thực sự hỗ trợ hiệu quả trong hành chính cấp xã, cần xây dựng chương trình đào tạo sát với thực tiễn công việc, trình độ và nhu cầu cán bộ. Giải pháp khả thi là thiết kế các khóa học theo chức năng của từng bộ phận: Văn phòng HĐND-UBND, Phòng Kinh tế - Hạ tầng, Phòng Văn hóa - Xã hội, Trung tâm Hành chính công. Mỗi nhóm công việc sẽ gắn với công cụ AI phù hợp, ví dụ thực tế và bài tập tình huống, giúp việc học dễ hiểu và dễ áp dụng.",
+    "question": "Để các chương trình đào tạo AI cho cán bộ cấp xã đạt hiệu quả, cần phải thiết kế khóa học như thế nào?",
+    "answer": "Để đạt hiệu quả, các chương trình đào tạo AI cần được thiết kế sát với thực tiễn công việc, trình độ và nhu cầu cán bộ. Cụ thể, cần xây dựng các khóa học theo chức năng của từng bộ phận và gắn mỗi nhóm công việc với công cụ AI phù hợp, ví dụ thực tế và bài tập tình huống để việc học dễ hiểu và dễ áp dụng."
+  },
+  {
+    "title": "Khoa học - công nghệ và đổi mới sáng tạo là đột phá để đưa đất nước bước vào kỷ nguyên mới, kỷ nguyên vươn mình của Dân tộc Việt Nam",
+    "context": "Các báo cáo về chiến lược phát triển kinh tế - xã hội, xây dựng Đảng và thi hành Điều lệ Đảng thực sự là các báo cáo chuyên đề. Chúng có vai trò bổ sung quan trọng và cụ thể hoá Báo cáo chính trị. Báo cáo Tổng kết 40 năm đổi mới đã đúc rút khá toàn diện các căn cứ. Những căn cứ này phục vụ việc xây dựng Báo cáo chính trị.",
+    "question": "Các báo cáo về chiến lược phát triển kinh tế - xã hội, xây dựng Đảng và Báo cáo Tổng kết 40 năm đổi mới có vai trò và nội dung như thế nào đối với Báo cáo chính trị?",
+    "answer": "Các báo cáo về chiến lược phát triển kinh tế - xã hội, xây dựng Đảng và thi hành Điều lệ Đảng là các báo cáo chuyên đề, bổ sung quan trọng và cụ thể hoá Báo cáo chính trị. Báo cáo Tổng kết 40 năm đổi mới đã đúc rút khá toàn diện các căn cứ phục vụ xây dựng Báo cáo chính trị."
+  },
+  {
+    "title": "GS.TS Trần Thục Hơn 40 năm cống hiến cho ngành khí tượng thủy văn và biến đổi khí hậu",
+    "context": "Theo GS.TS Trần Thục, để áp dụng trí tuệ nhân tạo (AI) trong dự báo khí tượng thủy văn cần có hạ tầng chuyển đổi số. Hạ tầng này bao gồm hạ tầng về dữ liệu, với nhu cầu về cơ sở dữ liệu lớn về hình thế thời tiết và thiên tai. Ngoài ra, cần cải thiện hạ tầng về thiết bị, tài nguyên tính toán và phát triển, chuyển giao công nghệ phân tích cho người làm KTTV và hải văn.",
+    "question": "Theo GS.TS Trần Thục, để áp dụng trí tuệ nhân tạo (AI) trong dự báo khí tượng thủy văn cần có những yếu tố hạ tầng chuyển đổi số nào?",
+    "answer": "Theo GS.TS Trần Thục, để áp dụng trí tuệ nhân tạo (AI) trong dự báo khí tượng thủy văn cần có hạ tầng chuyển đổi số bao gồm hạ tầng về dữ liệu (cần cơ sở dữ liệu lớn về hình thế thời tiết và thiên tai), hạ tầng về thiết bị và tài nguyên tính toán, cùng với hạ tầng về công nghệ phân tích."
+  }
+]

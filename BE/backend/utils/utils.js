@@ -6,6 +6,38 @@ import path from "path";
  * NORMALIZE HELPERS
  * ========================================================= */
 
+export function getAvailableExperiments() {
+  const expRoot = path.join(process.cwd(), "dataModel", "exp");
+
+  if (!fs.existsSync(expRoot)) return [];
+
+  const experiments = [];
+
+  const dirs = fs.readdirSync(expRoot, { withFileTypes: true });
+
+  for (const d of dirs) {
+    if (!d.isDirectory()) continue;
+    if (!d.name.startsWith("exp")) continue;
+
+    const expPath = path.join(expRoot, d.name);
+
+    // check có ít nhất 1 JSON
+    const files = fs.readdirSync(expPath);
+    const hasJson = files.some((f) => f.endsWith(".json"));
+
+    if (hasJson) experiments.push(d.name);
+  }
+
+  // sort exp1 → exp17
+  experiments.sort((a, b) => {
+    const na = Number(a.replace("exp", ""));
+    const nb = Number(b.replace("exp", ""));
+    return na - nb;
+  });
+
+  return experiments;
+}
+
 export function normalizeModel(raw) {
   if (!raw) return "unknown";
 
@@ -213,25 +245,44 @@ export function computeFullMetrics(qas) {
 /* =========================================================
  * 6. GET EXPERIMENT LIST BY MODEL
  * ========================================================= */
-export function getExperimentsByModel(model = "all") {
+/* =========================================================
+ * GET EXPERIMENT LIST BY MODEL + DATASET (LANG)
+ * ========================================================= */
+export function getExperimentsByModel(model = "all", dataset = "all") {
   const base = path.join(process.cwd(), "dataModel", "exp");
   if (!fs.existsSync(base)) return [];
 
   const exps = fs.readdirSync(base).filter((d) => d.startsWith("exp"));
-  if (model === "all") return exps.sort();
+  if (model === "all" || dataset === "all") return exps.sort();
 
+  const lang = dataset === "semantic_scholar" ? "en" : "vi";
   const result = [];
 
   for (const e of exps) {
     const expDir = path.join(base, e);
+    if (!fs.existsSync(expDir)) continue;
+
     const files = fs.readdirSync(expDir);
 
-    const hasModel = files.some((f) =>
-      f.toLowerCase().includes(model.toLowerCase()),
-    );
+    const hasModelLang = files.some((f) => {
+      const name = f.toLowerCase();
 
-    if (hasModel) result.push(e);
+      const matchModel =
+        (model === "gpt" && name.startsWith("gpt")) ||
+        (model === "gemini" && name.startsWith("gemini")) ||
+        (model === "deepseek" && name.startsWith("deepseek"));
+
+      const matchLang = name.includes(`_${lang}`);
+
+      return matchModel && matchLang;
+    });
+
+    hint: if (hasModelLang) result.push(e);
   }
 
-  return result.sort();
+  // sort exp1 → exp17
+  return result.sort(
+    (a, b) => Number(a.replace("exp", "")) - Number(b.replace("exp", "")),
+  );
 }
+

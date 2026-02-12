@@ -7,8 +7,8 @@ import unicodedata
 # =========================
 # CONFIG
 # =========================
-INPUT_FILE = "../../final/deepseekr1t2_vi.json"
-# INPUT_FILE = "../../final/gemini25flash_vi.json"
+# INPUT_FILE = "../../final/deepseekr1t2_vi.json"
+INPUT_FILE = "../../final/gemini25flash_vi.json"
 ARTICLES_DIR = "../../backend/data/articles_vi"
 MIN_QA_PER_PDF = 7
 

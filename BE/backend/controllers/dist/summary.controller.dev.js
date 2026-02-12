@@ -38,10 +38,13 @@ function getQAList(req, res) {
 
 function getExperiments(req, res) {
   try {
-    var _req$query$model = req.query.model,
-        model = _req$query$model === void 0 ? 'all' : _req$query$model;
-    var exps = (0, _utils.getExperimentsByModel)(model);
-    res.json(exps);
+    var _req$query = req.query,
+        _req$query$model = _req$query.model,
+        model = _req$query$model === void 0 ? "all" : _req$query$model,
+        _req$query$dataset = _req$query.dataset,
+        dataset = _req$query$dataset === void 0 ? "all" : _req$query$dataset;
+    var list = (0, _utils.getExperimentsByModel)(model, dataset);
+    res.json(list);
   } catch (err) {
     res.status(500).json({
       error: err.message
@@ -51,8 +54,8 @@ function getExperiments(req, res) {
 
 function getDatasetOverview(req, res) {
   try {
-    var data = (0, _summaryService.buildDatasetOverview)();
-    res.json(data);
+    var rows = (0, _summaryService.buildDatasetOverview)();
+    res.json(rows);
   } catch (err) {
     console.error(err);
     res.status(500).json({
