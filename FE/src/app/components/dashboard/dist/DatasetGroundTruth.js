@@ -34,7 +34,7 @@ function DatasetGroundTruth() {
     var _h = react_1.useState([]), qaList = _h[0], setQAList = _h[1];
     var _j = react_1.useState(0), qaTotal = _j[0], setQaTotal = _j[1];
     var _k = react_1.useState(1), page = _k[0], setPage = _k[1];
-    var PAGE_SIZE = 20;
+    var PAGE_SIZE = 10;
     var _l = react_1.useState(null), selectedQA = _l[0], setSelectedQA = _l[1];
     var _m = react_1.useState(false), isSheetOpen = _m[0], setIsSheetOpen = _m[1];
     /* ========================= LOADING STATES ========================= */
@@ -200,7 +200,7 @@ function DatasetGroundTruth() {
         React.createElement(QAPairValidationTable_1["default"], { qaPairs: qaList, totalQAPairs: qaTotal, page: page, pageSize: PAGE_SIZE, qualityThreshold: qualityThreshold, searchQuery: searchQuery, loading: loadingQA, onSearchChange: setSearchQuery, onPageChange: handlePageChange, onViewSource: handleViewSource }),
         React.createElement(TraceabilityVisualization_1["default"], null),
         React.createElement(ValidationLogicPanel_1["default"], null),
-        React.createElement(SourceViewSheet_1["default"], { qa: selectedQA, isOpen: isSheetOpen, onClose: function () { return setIsSheetOpen(false); } }),
+        React.createElement(SourceViewSheet_1["default"], { qa: selectedQA, isOpen: isSheetOpen, onClose: function () { return setIsSheetOpen(false); }, threshold: qualityThreshold, searchQuery: searchQuery }),
         globalLoading && (React.createElement("div", { className: "fixed inset-0 bg-black/20 backdrop-blur-sm flex items-center justify-center z-50" },
             React.createElement("div", { className: "bg-white dark:bg-gray-900 p-6 rounded-xl shadow-lg" },
                 React.createElement(loading_spinner_1["default"], { size: 32 }),

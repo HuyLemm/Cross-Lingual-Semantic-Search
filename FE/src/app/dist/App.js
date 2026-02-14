@@ -1,20 +1,20 @@
 "use strict";
 exports.__esModule = true;
 var react_1 = require("react");
-var button_1 = require("@/app/components/ui/button");
+var button_1 = require("../app/components/ui/button");
 var lucide_react_1 = require("lucide-react");
-var ModelTestingWorkbench_1 = require("@/app/components/workbench/ModelTestingWorkbench");
-var OverviewSummary_1 = require("@/app/components/workbench/OverviewSummary");
-var DatasetGroundTruth_1 = require("@/app/components/dashboard/DatasetGroundTruth");
-var LanguageEvaluation_1 = require("@/app/components/dashboard/LanguageEvaluation");
-var ModelComparison_1 = require("@/app/components/dashboard/ModelComparison");
-var EmbeddingAnalysis_1 = require("@/app/components/dashboard/EmbeddingAnalysis");
-var RerankingAnalysis_1 = require("@/app/components/dashboard/RerankingAnalysis");
-var IndexingChunking_1 = require("@/app/components/dashboard/IndexingChunking");
-var VectorDatabaseEvaluation_1 = require("@/app/components/dashboard/VectorDatabaseEvaluation");
-var ErrorAnalysis_1 = require("@/app/components/dashboard/ErrorAnalysis");
-var ExperimentLogs_1 = require("@/app/components/dashboard/ExperimentLogs");
-var Settings_1 = require("@/app/components/dashboard/Settings");
+var ModelTestingWorkbench_1 = require("../app/components/workbench/ModelTestingWorkbench");
+var OverviewSummary_1 = require("../app/components/workbench/OverviewSummary");
+var DatasetGroundTruth_1 = require("../app/components/dashboard/DatasetGroundTruth");
+var DatasetEvaluation_1 = require("../app/components/dashboard/DatasetEvaluation");
+var ModelComparison_1 = require("../app/components/dashboard/ModelComparison");
+var EmbeddingAnalysis_1 = require("../app/components/dashboard/EmbeddingAnalysis");
+var RerankingAnalysis_1 = require("../app/components/dashboard/RerankingAnalysis");
+var IndexingChunking_1 = require("../app/components/dashboard/IndexingChunking");
+var VectorDatabaseEvaluation_1 = require("../app/components/dashboard/VectorDatabaseEvaluation");
+var ErrorAnalysis_1 = require("../app/components/dashboard/ErrorAnalysis");
+var ExperimentLogs_1 = require("../app/components/dashboard/ExperimentLogs");
+var Settings_1 = require("../app/components/dashboard/Settings");
 function App() {
     var _a = react_1.useState("workbench"), activeTab = _a[0], setActiveTab = _a[1];
     var _b = react_1.useState(false), darkMode = _b[0], setDarkMode = _b[1];
@@ -24,7 +24,7 @@ function App() {
         { id: "workbench", label: "Experiment Playground", group: "control" },
         { id: "overview", label: "Evaluation Overview", group: "control" },
         { id: "dataset", label: "Dataset Management", group: "data" },
-        { id: "language", label: "Language Evaluation", group: "data" },
+        { id: "dataset-evaluation", label: "Dataset Evaluation", group: "data" },
         { id: "model", label: "Model Comparison", group: "model" },
         { id: "embedding", label: "Embedding Analysis", group: "model" },
         { id: "reranking", label: "Reranking Analysis", group: "model" },
@@ -46,8 +46,8 @@ function App() {
                 return React.createElement(OverviewSummary_1["default"], null);
             case "dataset":
                 return React.createElement(DatasetGroundTruth_1["default"], null);
-            case "language":
-                return React.createElement(LanguageEvaluation_1["default"], null);
+            case "dataset-evaluation":
+                return React.createElement(DatasetEvaluation_1["default"], null);
             case "model":
                 return React.createElement(ModelComparison_1["default"], null);
             case "embedding":

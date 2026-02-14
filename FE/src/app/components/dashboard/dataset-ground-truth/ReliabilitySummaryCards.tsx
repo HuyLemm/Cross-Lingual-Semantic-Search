@@ -63,7 +63,7 @@ export default function ReliabilitySummaryCards({
         <CardContent className="p-5">
           <Metric
             label="QA Validation Rate"
-            value={`${validationRate.toFixed(1)}%`}
+            value={`${validationRate.toFixed(2)}%`}
             valueClass="text-purple-600 dark:text-purple-400"
             tooltip="Final acceptance rate = verified_final / total_QA"
           />
@@ -75,7 +75,7 @@ export default function ReliabilitySummaryCards({
         <CardContent className="p-5">
           <Metric
             label="Avg Bi-Encoder Score"
-            value={avgBiEncoder.toFixed(2)}
+            value={avgBiEncoder.toFixed(3)}
             valueClass="text-blue-600 dark:text-blue-400"
             tooltip="Mean(sim_qc) — semantic relevance (Step 1)"
           />
@@ -87,7 +87,7 @@ export default function ReliabilitySummaryCards({
         <CardContent className="p-5">
           <Metric
             label="Avg Cross-Encoder Score"
-            value={avgCrossEncoder.toFixed(2)}
+            value={avgCrossEncoder.toFixed(3)}
             valueClass="text-indigo-600 dark:text-indigo-400"
             tooltip="Mean(ce_multi_prob) — entailment confidence (Step 2)"
           />
@@ -99,7 +99,7 @@ export default function ReliabilitySummaryCards({
         <CardContent className="p-5">
           <Metric
             label="Step-1 Only Pass Rate"
-            value={`${step1OnlyRate.toFixed(1)}%`}
+            value={`${step1OnlyRate.toFixed(2)}%`}
             valueClass="text-orange-600 dark:text-orange-400"
             tooltip="QA passing Bi-Encoder but rejected by Cross-Encoder"
           />

@@ -1,25 +1,25 @@
 import { useState } from "react";
-import { Button } from "@/app/components/ui/button";
+import { Button } from "../app/components/ui/button";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/app/components/ui/select";
+} from "../app/components/ui/select";
 import { Moon, Sun, Download } from "lucide-react";
-import ModelTestingWorkbench from "@/app/components/workbench/ModelTestingWorkbench";
-import OverviewSummary from "@/app/components/workbench/OverviewSummary";
-import DatasetGroundTruth from "@/app/components/dashboard/DatasetGroundTruth";
-import LanguageEvaluation from "@/app/components/dashboard/LanguageEvaluation";
-import ModelComparison from "@/app/components/dashboard/ModelComparison";
-import EmbeddingAnalysis from "@/app/components/dashboard/EmbeddingAnalysis";
-import RerankingAnalysis from "@/app/components/dashboard/RerankingAnalysis";
-import IndexingChunking from "@/app/components/dashboard/IndexingChunking";
-import VectorDatabaseEvaluation from "@/app/components/dashboard/VectorDatabaseEvaluation";
-import ErrorAnalysis from "@/app/components/dashboard/ErrorAnalysis";
-import ExperimentLogs from "@/app/components/dashboard/ExperimentLogs";
-import Settings from "@/app/components/dashboard/Settings";
+import ModelTestingWorkbench from "../app/components/workbench/ModelTestingWorkbench";
+import OverviewSummary from "../app/components/workbench/OverviewSummary";
+import DatasetGroundTruth from "../app/components/dashboard/DatasetGroundTruth";
+import DatasetEvaluation from "../app/components/dashboard/DatasetEvaluation";
+import ModelComparison from "../app/components/dashboard/ModelComparison";
+import EmbeddingAnalysis from "../app/components/dashboard/EmbeddingAnalysis";
+import RerankingAnalysis from "../app/components/dashboard/RerankingAnalysis";
+import IndexingChunking from "../app/components/dashboard/IndexingChunking";
+import VectorDatabaseEvaluation from "../app/components/dashboard/VectorDatabaseEvaluation";
+import ErrorAnalysis from "../app/components/dashboard/ErrorAnalysis";
+import ExperimentLogs from "../app/components/dashboard/ExperimentLogs";
+import Settings from "../app/components/dashboard/Settings";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("workbench");
@@ -31,7 +31,7 @@ export default function App() {
     { id: "workbench", label: "Experiment Playground", group: "control" },
     { id: "overview", label: "Evaluation Overview", group: "control" },
     { id: "dataset", label: "Dataset Management", group: "data" },
-    { id: "language", label: "Language Evaluation", group: "data" },
+    { id: "dataset-evaluation", label: "Dataset Evaluation", group: "data" },
     { id: "model", label: "Model Comparison", group: "model" },
     { id: "embedding", label: "Embedding Analysis", group: "model" },
     { id: "reranking", label: "Reranking Analysis", group: "model" },
@@ -55,8 +55,8 @@ export default function App() {
         return <OverviewSummary />;
       case "dataset":
         return <DatasetGroundTruth />;
-      case "language":
-        return <LanguageEvaluation />;
+      case "dataset-evaluation":
+        return <DatasetEvaluation />;
       case "model":
         return <ModelComparison />;
       case "embedding":

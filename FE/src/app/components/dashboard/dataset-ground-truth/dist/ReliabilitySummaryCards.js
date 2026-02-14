@@ -17,16 +17,16 @@ function ReliabilitySummaryCards(_a) {
                 React.createElement(Metric, { label: "Verified QA (Final)", value: verifiedQAPairs, valueClass: "text-green-600 dark:text-green-400", tooltip: "QA passing both Bi-Encoder (Step 1) and Cross-Encoder (Step 2)" }))),
         React.createElement(card_1.Card, null,
             React.createElement(card_1.CardContent, { className: "p-5" },
-                React.createElement(Metric, { label: "QA Validation Rate", value: validationRate.toFixed(1) + "%", valueClass: "text-purple-600 dark:text-purple-400", tooltip: "Final acceptance rate = verified_final / total_QA" }))),
+                React.createElement(Metric, { label: "QA Validation Rate", value: validationRate.toFixed(2) + "%", valueClass: "text-purple-600 dark:text-purple-400", tooltip: "Final acceptance rate = verified_final / total_QA" }))),
         React.createElement(card_1.Card, null,
             React.createElement(card_1.CardContent, { className: "p-5" },
-                React.createElement(Metric, { label: "Avg Bi-Encoder Score", value: avgBiEncoder.toFixed(2), valueClass: "text-blue-600 dark:text-blue-400", tooltip: "Mean(sim_qc) \u2014 semantic relevance (Step 1)" }))),
+                React.createElement(Metric, { label: "Avg Bi-Encoder Score", value: avgBiEncoder.toFixed(3), valueClass: "text-blue-600 dark:text-blue-400", tooltip: "Mean(sim_qc) \u2014 semantic relevance (Step 1)" }))),
         React.createElement(card_1.Card, null,
             React.createElement(card_1.CardContent, { className: "p-5" },
-                React.createElement(Metric, { label: "Avg Cross-Encoder Score", value: avgCrossEncoder.toFixed(2), valueClass: "text-indigo-600 dark:text-indigo-400", tooltip: "Mean(ce_multi_prob) \u2014 entailment confidence (Step 2)" }))),
+                React.createElement(Metric, { label: "Avg Cross-Encoder Score", value: avgCrossEncoder.toFixed(3), valueClass: "text-indigo-600 dark:text-indigo-400", tooltip: "Mean(ce_multi_prob) \u2014 entailment confidence (Step 2)" }))),
         React.createElement(card_1.Card, null,
             React.createElement(card_1.CardContent, { className: "p-5" },
-                React.createElement(Metric, { label: "Step-1 Only Pass Rate", value: step1OnlyRate.toFixed(1) + "%", valueClass: "text-orange-600 dark:text-orange-400", tooltip: "QA passing Bi-Encoder but rejected by Cross-Encoder" })))));
+                React.createElement(Metric, { label: "Step-1 Only Pass Rate", value: step1OnlyRate.toFixed(2) + "%", valueClass: "text-orange-600 dark:text-orange-400", tooltip: "QA passing Bi-Encoder but rejected by Cross-Encoder" })))));
 }
 exports["default"] = ReliabilitySummaryCards;
 /* =========================

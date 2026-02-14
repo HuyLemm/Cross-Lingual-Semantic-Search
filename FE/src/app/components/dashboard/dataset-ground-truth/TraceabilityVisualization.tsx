@@ -1,63 +1,114 @@
-import { Card, CardContent, CardHeader, CardTitle } from '@/app/components/ui/card';
-import { ArrowRight } from 'lucide-react';
+import { Card, CardContent, CardHeader, CardTitle } from "../../ui/card";
+import { ArrowRight, RotateCcw } from "lucide-react";
 
 export default function TraceabilityVisualization() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>QA → Document → Chunk Traceability</CardTitle>
+        <CardTitle>QA Dataset Generation & Verification Pipeline</CardTitle>
       </CardHeader>
+
       <CardContent>
-        <div className="bg-gradient-to-r from-blue-50 to-purple-50 dark:from-slate-800 dark:to-slate-700 p-8 rounded-lg">
-          <div className="flex items-center justify-between max-w-5xl mx-auto">
-            <div className="text-center flex-shrink-0">
-              <div className="w-28 h-28 bg-blue-500 dark:bg-blue-600 rounded-lg flex items-center justify-center mb-3 shadow-lg">
-                <span className="text-4xl">❓</span>
-              </div>
-              <p className="text-sm font-semibold text-gray-900 dark:text-white">Question</p>
-              <p className="text-xs text-gray-600 dark:text-gray-400 mt-1">User Query</p>
-            </div>
-            
-            <ArrowRight className="w-8 h-8 text-gray-400 dark:text-gray-500 flex-shrink-0 mx-4" />
-            
-            <div className="text-center flex-shrink-0">
-              <div className="w-28 h-28 bg-green-500 dark:bg-green-600 rounded-lg flex items-center justify-center mb-3 shadow-lg">
-                <span className="text-4xl">✓</span>
-              </div>
-              <p className="text-sm font-semibold text-gray-900 dark:text-white">Ground Truth Answer</p>
-              <p className="text-xs text-gray-600 dark:text-gray-400 mt-1">Expected Response</p>
-            </div>
-            
-            <ArrowRight className="w-8 h-8 text-gray-400 dark:text-gray-500 flex-shrink-0 mx-4" />
-            
-            <div className="text-center flex-shrink-0">
-              <div className="w-28 h-28 bg-purple-500 dark:bg-purple-600 rounded-lg flex items-center justify-center mb-3 shadow-lg">
-                <span className="text-4xl">🔖</span>
-              </div>
-              <p className="text-sm font-semibold text-gray-900 dark:text-white">Source Chunk</p>
-              <p className="text-xs text-gray-600 dark:text-gray-400 mt-1">Text Segment</p>
-            </div>
-            
-            <ArrowRight className="w-8 h-8 text-gray-400 dark:text-gray-500 flex-shrink-0 mx-4" />
-            
-            <div className="text-center flex-shrink-0">
-              <div className="w-28 h-28 bg-orange-500 dark:bg-orange-600 rounded-lg flex items-center justify-center mb-3 shadow-lg">
-                <span className="text-4xl">📄</span>
-              </div>
-              <p className="text-sm font-semibold text-gray-900 dark:text-white">PDF Document</p>
-              <p className="text-xs text-gray-600 dark:text-gray-400 mt-1">Source Paper</p>
-            </div>
+        <div className="bg-gradient-to-r from-blue-50/70 to-purple-50/70 dark:from-slate-800 dark:to-slate-700 p-10 rounded-xl">
+
+          {/* ================= PIPELINE ================= */}
+          <div className="flex items-center justify-center gap-8 flex-wrap">
+
+            <StepBox
+              color="bg-blue-500"
+              icon="📥"
+              title="1. Crawl PDFs"
+              desc="VJOL (VI) + Semantic Scholar (EN)"
+            />
+
+            <ArrowRight className="w-6 h-6 text-gray-400 shrink-0" />
+
+            <StepBox
+              color="bg-indigo-500"
+              icon="🤖"
+              title="2. Generate QA"
+              desc="LLMs generate 7 QA per iteration"
+            />
+
+            <ArrowRight className="w-6 h-6 text-gray-400 shrink-0" />
+
+            <StepBox
+              color="bg-cyan-500"
+              icon="🧹"
+              title="3. Preprocess"
+              desc="Dedup + Title filtering"
+            />
+
+            <ArrowRight className="w-6 h-6 text-gray-400 shrink-0" />
+
+            <StepBox
+              color="bg-purple-500"
+              icon="⚙️"
+              title="4. Normalize + Validate"
+              desc="Metadata → Bi-Encoder → Cross-Encoder"
+            />
+
+            <ArrowRight className="w-6 h-6 text-gray-400 shrink-0" />
+
+            <StepBox
+              color="bg-green-500"
+              icon="✔"
+              title="5. Verified QA"
+              desc="Pass BOTH validation stages"
+            />
           </div>
-          
-          <div className="mt-8 p-4 bg-white dark:bg-slate-900 rounded-lg border border-gray-200 dark:border-slate-600">
-            <p className="text-sm text-gray-700 dark:text-gray-300 text-center">
-              <span className="font-semibold">Full Traceability Guarantee:</span> Each QA pair is explicitly linked to a specific text chunk 
-              extracted from the source document, ensuring full provenance tracking and enabling verification 
-              that answers are grounded in actual document content, not hallucinated.
+
+          {/* LOOP */}
+          <div className="flex items-center justify-center gap-2 mt-6 text-sm text-gray-600 dark:text-gray-400">
+            <RotateCcw className="w-4 h-4" />
+            Repeat until each document reaches <span className="font-semibold">≥ 7 verified QA pairs</span>
+          </div>
+
+          {/* ================= DESCRIPTION ================= */}
+          <div className="mt-8 max-w-4xl mx-auto text-center">
+            <p className="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
+              <span className="font-semibold">Iterative QA Construction:</span>{" "}
+              Documents are crawled from Vietnamese (VJOL) and English (Semantic Scholar).
+              QA pairs are generated in controlled batches, preprocessed, normalized,
+              and semantically validated using a Bi-Encoder and Cross-Encoder.
+              Only QA pairs passing both validation stages are accepted, ensuring
+              high-quality, semantically grounded dataset construction.
             </p>
           </div>
         </div>
       </CardContent>
     </Card>
+  );
+}
+
+/* ================= STEP BOX ================= */
+
+function StepBox({
+  color,
+  icon,
+  title,
+  desc,
+}: {
+  color: string;
+  icon: string;
+  title: string;
+  desc: string;
+}) {
+  return (
+    <div className="flex flex-col items-center text-center w-[150px]">
+      <div
+        className={`w-20 h-20 ${color} rounded-xl flex items-center justify-center shadow-md`}
+      >
+        <span className="text-2xl">{icon}</span>
+      </div>
+
+      <p className="mt-3 text-sm font-semibold text-gray-900 dark:text-white">
+        {title}
+      </p>
+
+      <p className="text-xs text-gray-600 dark:text-gray-400 mt-1 leading-snug">
+        {desc}
+      </p>
+    </div>
   );
 }

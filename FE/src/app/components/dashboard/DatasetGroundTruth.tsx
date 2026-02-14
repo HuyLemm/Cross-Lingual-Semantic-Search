@@ -33,7 +33,7 @@ export default function DatasetGroundTruth() {
   const [qaTotal, setQaTotal] = useState(0);
 
   const [page, setPage] = useState(1);
-  const PAGE_SIZE = 20;
+  const PAGE_SIZE = 10;
 
   const [selectedQA, setSelectedQA] = useState<QAPair | null>(null);
   const [isSheetOpen, setIsSheetOpen] = useState(false);
@@ -282,6 +282,8 @@ export default function DatasetGroundTruth() {
         qa={selectedQA}
         isOpen={isSheetOpen}
         onClose={() => setIsSheetOpen(false)}
+        threshold={qualityThreshold}
+        searchQuery={searchQuery}
       />
 
       {/* GLOBAL OVERLAY LOADING */}

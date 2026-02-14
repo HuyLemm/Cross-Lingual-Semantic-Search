@@ -41,11 +41,11 @@ function DatasetOverviewTable(_a) {
                         React.createElement(table_1.TableCell, { className: "text-right" },
                             React.createElement("span", { className: biPass
                                     ? "text-green-600 font-medium"
-                                    : "text-orange-500 font-medium" }, bi.toFixed(2))),
+                                    : "text-orange-500 font-medium" }, bi.toFixed(3))),
                         React.createElement(table_1.TableCell, { className: "text-right" },
                             React.createElement("span", { className: cePass
                                     ? "text-green-600 font-medium"
-                                    : "text-orange-500 font-medium" }, ce.toFixed(2))),
+                                    : "text-orange-500 font-medium" }, ce.toFixed(3))),
                         React.createElement(table_1.TableCell, { className: "text-center" }, verified ? (React.createElement(lucide_react_1.CheckCircle, { className: "w-5 h-5 text-green-500 mx-auto" })) : (React.createElement(lucide_react_1.AlertTriangle, { className: "w-5 h-5 text-orange-500 mx-auto" })))));
                 })))))));
 }

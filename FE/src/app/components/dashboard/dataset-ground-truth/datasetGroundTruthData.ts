@@ -11,7 +11,7 @@ export interface QAPair {
    * ========================= */
   question: string;
   answer: string;
-  context?: string;
+  context: string;
 
   /* =========================
    * SOURCE

@@ -264,7 +264,7 @@ export default function QAPairValidationTable({
                             : "text-red-500"
                         }
                       >
-                        {bi.toFixed(2)}
+                        {bi.toFixed(3)}
                       </span>
                     </TableCell>
 
@@ -277,7 +277,7 @@ export default function QAPairValidationTable({
                             : "text-red-500"
                         }
                       >
-                        {ce.toFixed(2)}
+                        {ce.toFixed(3)}
                       </span>
                     </TableCell>
 

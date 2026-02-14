@@ -144,11 +144,11 @@ function QAPairValidationTable(_a) {
                                 React.createElement(table_1.TableCell, { className: "text-right font-medium" },
                                     React.createElement("span", { className: bi >= qualityThreshold
                                             ? "text-green-600"
-                                            : "text-red-500" }, bi.toFixed(2))),
+                                            : "text-red-500" }, bi.toFixed(3))),
                                 React.createElement(table_1.TableCell, { className: "text-right font-medium" },
                                     React.createElement("span", { className: ce >= qualityThreshold
                                             ? "text-green-600"
-                                            : "text-red-500" }, ce.toFixed(2))),
+                                            : "text-red-500" }, ce.toFixed(3))),
                                 React.createElement(table_1.TableCell, { className: "text-center" }, getStatusBadge(status)),
                                 React.createElement(table_1.TableCell, null,
                                     React.createElement("div", { className: "flex justify-center" },

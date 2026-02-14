@@ -102,7 +102,7 @@ export default function DatasetOverviewTable({
                             : "text-orange-500 font-medium"
                         }
                       >
-                        {bi.toFixed(2)}
+                        {bi.toFixed(3)}
                       </span>
                     </TableCell>
 
@@ -115,7 +115,7 @@ export default function DatasetOverviewTable({
                             : "text-orange-500 font-medium"
                         }
                       >
-                        {ce.toFixed(2)}
+                        {ce.toFixed(3)}
                       </span>
                     </TableCell>
 
