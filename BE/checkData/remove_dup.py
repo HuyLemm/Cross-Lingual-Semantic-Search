@@ -10,14 +10,14 @@ DATASETS = {
     "1": {
         "name": "GPT_VI",
         "lang": "vi",
-        "input": "../genData/gptData/input_vi_gpt.json",
-        "output": "../genData/gptData/input_vi_gpt_dedup.json",
+        "input": "../genData/gptData/exp1/input_vi_gpt.json",
+        "output": "../genData/gptData/exp1/input_vi_gpt_dedup.json",
     },
     "2": {
         "name": "GPT_EN",
         "lang": "en",
-        "input": "../genData/gptData/input_en_gpt.json",
-        "output": "../genData/gptData/input_en_gpt_dedup.json",
+        "input": "../genData/gptData/exp1/input_en_gpt.json",
+        "output": "../genData/gptData/exp1/input_en_gpt_dedup.json",
     },
     "3": {
         "name": "GEMINI_VI",

@@ -3,6 +3,7 @@ import DatasetEvaluationHeader from "./dataset-evaluation/DatasetEvaluationHeade
 import DatasetMetricsChart from "./dataset-evaluation/DatasetMetricsChart";
 import DatasetStatisticsTable from "./dataset-evaluation/DatasetStatisticsTable";
 import DatasetInsightCards from "./dataset-evaluation/DatasetInsightCards";
+import LoadingSpinner from "../ui/loading-spinner";
 
 export interface DatasetMetrics {
   language: string;
@@ -29,7 +30,7 @@ export default function DatasetEvaluation() {
     setLoading(true);
 
     fetch(
-      `http://localhost:4000/dataset-eval/metrics?language=${language}&model=${selectedModel}&verification=${verification}`
+      `http://localhost:4000/dataset-eval/metrics?language=${language}&model=${selectedModel}&verification=${verification}`,
     )
       .then((r) => r.json())
       .then((d) => {
@@ -71,15 +72,15 @@ export default function DatasetEvaluation() {
     if (!metrics.length) return null;
 
     const bestLanguage = [...metrics].sort(
-      (a, b) => b.verifiedRatio - a.verifiedRatio
+      (a, b) => b.verifiedRatio - a.verifiedRatio,
     )[0];
 
     const highestSimilarity = [...metrics].sort(
-      (a, b) => b.avgSimilarity - a.avgSimilarity
+      (a, b) => b.avgSimilarity - a.avgSimilarity,
     )[0];
 
     const strongestEntailment = [...metrics].sort(
-      (a, b) => b.avgEntailment - a.avgEntailment
+      (a, b) => b.avgEntailment - a.avgEntailment,
     )[0];
 
     return {
@@ -91,7 +92,6 @@ export default function DatasetEvaluation() {
 
   return (
     <div className="p-6 space-y-6">
-
       {/* Header */}
       <DatasetEvaluationHeader
         language={language}
@@ -103,7 +103,14 @@ export default function DatasetEvaluation() {
       />
 
       {loading ? (
-        <div className="text-sm text-gray-500">Loading dataset metrics...</div>
+        <div className="fixed inset-0 bg-black/20 backdrop-blur-sm flex items-center justify-center z-50">
+          <div className="bg-white dark:bg-gray-900 p-6 rounded-xl shadow-lg">
+            <LoadingSpinner size={32} />
+            <p className="text-sm text-gray-500 mt-2 text-center">
+              Loading data...
+            </p>
+          </div>
+        </div>
       ) : (
         <>
           {/* Chart */}

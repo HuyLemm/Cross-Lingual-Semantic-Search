@@ -12,6 +12,7 @@ var DatasetEvaluationHeader_1 = require("./dataset-evaluation/DatasetEvaluationH
 var DatasetMetricsChart_1 = require("./dataset-evaluation/DatasetMetricsChart");
 var DatasetStatisticsTable_1 = require("./dataset-evaluation/DatasetStatisticsTable");
 var DatasetInsightCards_1 = require("./dataset-evaluation/DatasetInsightCards");
+var loading_spinner_1 = require("../ui/loading-spinner");
 function DatasetEvaluation() {
     var _a = react_1.useState("all"), language = _a[0], setLanguage = _a[1];
     var _b = react_1.useState("all"), selectedModel = _b[0], setSelectedModel = _b[1];
@@ -69,7 +70,10 @@ function DatasetEvaluation() {
     }, [metrics]);
     return (React.createElement("div", { className: "p-6 space-y-6" },
         React.createElement(DatasetEvaluationHeader_1["default"], { language: language, selectedModel: selectedModel, verification: verification, onLanguageChange: setLanguage, onModelChange: setSelectedModel, onVerificationChange: setVerification }),
-        loading ? (React.createElement("div", { className: "text-sm text-gray-500" }, "Loading dataset metrics...")) : (React.createElement(React.Fragment, null,
+        loading ? (React.createElement("div", { className: "fixed inset-0 bg-black/20 backdrop-blur-sm flex items-center justify-center z-50" },
+            React.createElement("div", { className: "bg-white dark:bg-gray-900 p-6 rounded-xl shadow-lg" },
+                React.createElement(loading_spinner_1["default"], { size: 32 }),
+                React.createElement("p", { className: "text-sm text-gray-500 mt-2 text-center" }, "Loading data...")))) : (React.createElement(React.Fragment, null,
             React.createElement(DatasetMetricsChart_1["default"], { data: chartData }),
             React.createElement(DatasetStatisticsTable_1["default"], { data: metrics }),
             insights && React.createElement(DatasetInsightCards_1["default"], { insights: insights })))));

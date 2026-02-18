@@ -12,20 +12,21 @@ INPUT_FILES = {
     "../../genData/deepseekData/exp17/input17_vi_deepseek_filtered.json": ("deepseek-r1t2", "vi"),
     "../../genData/geminiData/exp5/input5_en_gemini_filtered.json": ("gemini-2.5-flash", "en"),
     "../../genData/geminiData/exp9/input9_vi_gemini_filtered.json": ("gemini-2.5-flash", "vi"),
-    "../../genData/gptData/input_en_gpt.json": ("gpt-5.2", "en"),
-    "../../genData/gptData/input_vi_gpt.json": ("gpt-5.2", "vi"),
+    "../../genData/gptData/exp1/input_en_gpt_filtered.json": ("gpt-5.2", "en"),
+    "../../genData/gptData/exp1/input_vi_gpt_filtered.json": ("gpt-5.2", "vi"),
 }
 
 # 👉 CHỈNH DÒNG NÀY ĐỂ CHỌN FILE CHẠY
 # SELECTED_INPUT = "../../genData/deepseekData/exp17/input17_vi_deepseek_filtered.json"
-SELECTED_INPUT = "../../genData/geminiData/exp9/input9_vi_gemini_filtered.json"
+# SELECTED_INPUT = "../../genData/geminiData/exp9/input9_vi_gemini_filtered.json"
+SELECTED_INPUT = "../../genData/gptData/exp1/input_en_gpt_filtered.json"
 
 PDF_DIR = {
     "en": "../../backend/data/articles_en",
     "vi": "../../backend/data/articles_vi"
 }
 
-OUTPUT_DIR = "../../stepResults/step1/exp9"
+OUTPUT_DIR = "../../stepResults/step1/exp1"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 MATCH_THRESHOLD = 0.6

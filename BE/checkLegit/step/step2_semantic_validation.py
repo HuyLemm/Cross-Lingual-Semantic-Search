@@ -5,11 +5,14 @@ from sentence_transformers import SentenceTransformer, util
 # =========================
 # CONFIG
 # =========================
-INPUT_FILE = "../../stepResults/step1/exp9/gemini25flash_vi.json"
-OUTPUT_FILE = "../../stepResults/step2/exp9/gemini25flash_vi.json"
+# INPUT_FILE = "../../stepResults/step1/exp9/gemini25flash_vi.json"
+# OUTPUT_FILE = "../../stepResults/step2/exp9/gemini25flash_vi.json"
 
 # INPUT_FILE = "../../stepResults/step1/exp17/deepseekr1t2_vi.json"
 # OUTPUT_FILE = "../../stepResults/step2/exp17/deepseekr1t2_vi.json"
+
+INPUT_FILE = "../../stepResults/step1/exp1/gpt52_en.json"
+OUTPUT_FILE = "../../stepResults/step2/exp1/gpt52_en.json"
 
 # tạo folder step2/exp2 nếu chưa có
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

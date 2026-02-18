@@ -63,24 +63,31 @@ def normalize_title(title: str, lang: str = "en") -> str:
 #     "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json",
 # ]
 
+# INPUT_FILES = [
+#     "../../stepResults/step2b_ce/exp1/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp2/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp3/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp4/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp5/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp6/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp7/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp8/gemini25flash_vi.json",
+#     "../../stepResults/step2b_ce/exp9/gemini25flash_vi.json",
+# ]
+
 INPUT_FILES = [
-    "../../stepResults/step2b_ce/exp1/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp2/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp3/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp4/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp5/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp6/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp7/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp8/gemini25flash_vi.json",
-    "../../stepResults/step2b_ce/exp9/gemini25flash_vi.json",
+    "../../stepResults/step2b_ce/exp1/gpt52_en.json",
 ]
 
-FINAL_FILE = "../../final/gemini25flash_vi.json"
+# FINAL_FILE = "../../final/gemini25flash_vi.json"
 # FINAL_FILE = "../../final/deepseekr1t2_vi.json"
+FINAL_FILE = "../../final/gpt52_en.json"
+
+
 os.makedirs(os.path.dirname(FINAL_FILE), exist_ok=True)
 
 KEEP_FIELDS = ["title", "context", "question", "answer"]
-LANG = "vi"
+LANG = "en"
 
 
 # =========================

@@ -10,8 +10,11 @@ from sentence_transformers import CrossEncoder
 # INPUT_FILE = "../../stepResults/step2/exp17/deepseekr1t2_vi.json"
 # OUTPUT_FILE = "../../stepResults/step2b_ce/exp17/deepseekr1t2_vi.json"
 
-INPUT_FILE = "../../stepResults/step2/exp9/gemini25flash_vi.json"
-OUTPUT_FILE = "../../stepResults/step2b_ce/exp9/gemini25flash_vi.json"
+# INPUT_FILE = "../../stepResults/step2/exp9/gemini25flash_vi.json"
+# OUTPUT_FILE = "../../stepResults/step2b_ce/exp9/gemini25flash_vi.json"
+
+INPUT_FILE = "../../stepResults/step2/exp1/gpt52_en.json"
+OUTPUT_FILE = "../../stepResults/step2b_ce/exp1/gpt52_en.json"
 
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
