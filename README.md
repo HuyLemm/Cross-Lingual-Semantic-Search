@@ -1,4 +1,4 @@
-# Multilingual Semantic Search Evaluation (KLTN/NEW)
+# Multilingual Semantic Search Evaluation (Khóa luận tốt nghiệp)
 
 Hệ thống phục vụ nghiên cứu và đánh giá **semantic search đa ngôn ngữ (EN/VI)**, bao gồm:
 - quản lý dữ liệu PDF nguồn,
