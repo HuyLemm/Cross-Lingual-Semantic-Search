@@ -1,0 +1,154 @@
+{
+  "indexing_strategy": {
+    "selected": "HNSW",
+    "rows": [
+      {
+        "strategy": "Flat",
+        "build_time_s": 0.172,
+        "query_latency_ms": 0.5068,
+        "recall_at_10": 1.0,
+        "memory_gb": 0.3702,
+        "best_for": "Perfect recall"
+      },
+      {
+        "strategy": "IVF (nlist=100)",
+        "build_time_s": 1.029,
+        "query_latency_ms": 0.211,
+        "recall_at_10": 0.5726,
+        "memory_gb": 0.3713,
+        "best_for": "Balanced"
+      },
+      {
+        "strategy": "HNSW (M=32)",
+        "build_time_s": 18.98,
+        "query_latency_ms": 0.0876,
+        "recall_at_10": 0.9504,
+        "memory_gb": 0.3948,
+        "best_for": "Low latency"
+      },
+      {
+        "strategy": "PQ (m=8)",
+        "build_time_s": 8.935,
+        "query_latency_ms": 0.0305,
+        "recall_at_10": 0.1572,
+        "memory_gb": 0.0017,
+        "best_for": "Low memory"
+      },
+      {
+        "strategy": "IVF+PQ",
+        "build_time_s": 9.997,
+        "query_latency_ms": 0.0069,
+        "recall_at_10": 0.2174,
+        "memory_gb": 0.0028,
+        "best_for": "Production"
+      }
+    ]
+  },
+  "chunking_strategy": {
+    "selected": "Semantic Chunking",
+    "rows": [
+      {
+        "strategy": "Fixed 512",
+        "avg_chunks": 57261,
+        "recall_at_10": null,
+        "overlap_ratio": 0.0,
+        "coherence_score": 0.48240951476910165,
+        "notes": "Fast, simple"
+      },
+      {
+        "strategy": "Fixed 1024",
+        "avg_chunks": 26013,
+        "recall_at_10": null,
+        "overlap_ratio": 0.0,
+        "coherence_score": 0.49107292599905406,
+        "notes": "More context"
+      },
+      {
+        "strategy": "Sliding 512/128",
+        "avg_chunks": 83508,
+        "recall_at_10": null,
+        "overlap_ratio": 0.25,
+        "coherence_score": 0.4895997104588254,
+        "notes": "Better coverage"
+      },
+      {
+        "strategy": "Semantic",
+        "avg_chunks": 125,
+        "recall_at_10": null,
+        "overlap_ratio": 0.25,
+        "coherence_score": null,
+        "notes": "Observed from 200 collections"
+      },
+      {
+        "strategy": "Paragraph",
+        "avg_chunks": 26013,
+        "recall_at_10": null,
+        "overlap_ratio": 0.0,
+        "coherence_score": 0.49107292599905406,
+        "notes": "Natural boundaries"
+      }
+    ]
+  },
+  "vector_database": {
+    "selected": "FAISS",
+    "cards": {
+      "fastest_insert_vecs_per_s": 564421.95,
+      "lowest_latency_ms": 0.0069,
+      "best_recall": 1.0,
+      "lowest_storage_gb": 0.0017
+    },
+    "faiss_rows": [
+      {
+        "strategy": "Flat",
+        "insert_speed_vecs_per_s": 564421.95,
+        "search_latency_ms": 0.5068,
+        "recall_at_10": 1.0,
+        "storage_gb": 0.3702
+      },
+      {
+        "strategy": "IVF (nlist=100)",
+        "insert_speed_vecs_per_s": 94296.44,
+        "search_latency_ms": 0.211,
+        "recall_at_10": 0.5726,
+        "storage_gb": 0.3713
+      },
+      {
+        "strategy": "HNSW (M=32)",
+        "insert_speed_vecs_per_s": 5113.24,
+        "search_latency_ms": 0.0876,
+        "recall_at_10": 0.9504,
+        "storage_gb": 0.3948
+      },
+      {
+        "strategy": "PQ (m=8)",
+        "insert_speed_vecs_per_s": 10861.68,
+        "search_latency_ms": 0.0305,
+        "recall_at_10": 0.1572,
+        "storage_gb": 0.0017
+      },
+      {
+        "strategy": "IVF+PQ",
+        "insert_speed_vecs_per_s": 9707.54,
+        "search_latency_ms": 0.0069,
+        "recall_at_10": 0.2174,
+        "storage_gb": 0.0028
+      }
+    ]
+  },
+  "meta": {
+    "backend": "BGE",
+    "embed_model": "BAAI/bge-m3",
+    "normalize_embeddings": true,
+    "nb_vectors": 97051,
+    "nq_queries": 500,
+    "dimension": 1024,
+    "k": 10,
+    "nlist": 100,
+    "hnsw_m": 32,
+    "pq_m": 8,
+    "collections_found": 1043,
+    "collections_used_for_texts": 1043,
+    "collections_used_for_sentences": 754,
+    "created_at_unix": 1772701598
+  }
+}

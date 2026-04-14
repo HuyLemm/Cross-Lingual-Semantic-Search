@@ -1,80 +1,62 @@
 import { useState } from "react";
 import { Button } from "../app/components/ui/button";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "../app/components/ui/select";
 import { Moon, Sun, Download } from "lucide-react";
-import ModelTestingWorkbench from "../app/components/workbench/ModelTestingWorkbench";
-import OverviewSummary from "../app/components/workbench/OverviewSummary";
-import DatasetGroundTruth from "../app/components/dashboard/DatasetGroundTruth";
-import DatasetEvaluation from "../app/components/dashboard/DatasetEvaluation";
+import QAValidation from "../app/components/dashboard/QAValidation";
+import QAEvaluation from "../app/components/dashboard/QAEvaluation";
+import Option1Eval from "../app/components/dashboard/Option1Evaluation";
+import Option2Eval from "../app/components/dashboard/Option2Evaluation";
 import ModelComparison from "../app/components/dashboard/ModelComparison";
-import EmbeddingAnalysis from "../app/components/dashboard/EmbeddingAnalysis";
-import RerankingAnalysis from "../app/components/dashboard/RerankingAnalysis";
 import IndexingChunking from "../app/components/dashboard/IndexingChunking";
 import VectorDatabaseEvaluation from "../app/components/dashboard/VectorDatabaseEvaluation";
-import ErrorAnalysis from "../app/components/dashboard/ErrorAnalysis";
-import ExperimentLogs from "../app/components/dashboard/ExperimentLogs";
-import Settings from "../app/components/dashboard/Settings";
+import SearchQATesting from "../app/components/dashboard/SearchQATesting";
+import DatasetManagement from "../app/components/dashboard/DatasetManagement";
+import QueryTestResults from "./components/dashboard/QueryTestResults";
 
 export default function App() {
   const [activeTab, setActiveTab] = useState("workbench");
   const [darkMode, setDarkMode] = useState(false);
-  const [dataset, setDataset] = useState("arxiv-multilingual");
-  const [experiment, setExperiment] = useState("exp-001");
 
   const tabs = [
     { id: "workbench", label: "Experiment Playground", group: "control" },
-    { id: "overview", label: "Evaluation Overview", group: "control" },
-    { id: "dataset", label: "Dataset Management", group: "data" },
-    { id: "dataset-evaluation", label: "Dataset Evaluation", group: "data" },
-    { id: "model", label: "Model Comparison", group: "model" },
-    { id: "embedding", label: "Embedding Analysis", group: "model" },
-    { id: "reranking", label: "Reranking Analysis", group: "model" },
+    { id: "overview", label: "Query Test Results", group: "control" },
+    { id: "dataset-management", label: "Dataset Management", group: "data" },
+    { id: "qa-validation", label: "QA Validation", group: "data" },
+    { id: "qa-evaluation", label: "QA Evaluation", group: "data" },
+    { id: "option1Eval", label: "MiniLM Search Results", group: "model" },
+    { id: "option2Eval", label: "BGE Search Results", group: "model" },
+    { id: "comparison", label: "Comparative Analysis", group: "model" },
     { id: "indexing", label: "Indexing & Chunking", group: "system" },
     { id: "vectordb", label: "Vector Database", group: "system" },
-    { id: "error", label: "Error Analysis", group: "evaluation" },
-    { id: "logs", label: "Experiment Logs", group: "evaluation" },
-    { id: "settings", label: "Settings", group: "evaluation" },
   ];
 
   const handleExport = (format: string) => {
     console.log(`Exporting data as ${format}`);
-    // Mock export functionality
   };
 
   const renderTabContent = () => {
     switch (activeTab) {
       case "workbench":
-        return <ModelTestingWorkbench />;
+        return <SearchQATesting />;
       case "overview":
-        return <OverviewSummary />;
-      case "dataset":
-        return <DatasetGroundTruth />;
-      case "dataset-evaluation":
-        return <DatasetEvaluation />;
-      case "model":
+        return <QueryTestResults />;
+      case "dataset-management":
+        return <DatasetManagement />;
+      case "qa-validation":
+        return <QAValidation />;
+      case "qa-evaluation":
+        return <QAEvaluation />;
+      case 'option1Eval':
+        return <Option1Eval />;
+      case 'option2Eval':
+        return <Option2Eval />;
+      case 'comparison':
         return <ModelComparison />;
-      case "embedding":
-        return <EmbeddingAnalysis />;
-      case "reranking":
-        return <RerankingAnalysis />;
       case "indexing":
         return <IndexingChunking />;
       case "vectordb":
         return <VectorDatabaseEvaluation />;
-      case "error":
-        return <ErrorAnalysis />;
-      case "logs":
-        return <ExperimentLogs />;
-      case "settings":
-        return <Settings />;
       default:
-        return <ModelTestingWorkbench />;
+        return <SearchQATesting />;
     }
   };
 
@@ -86,23 +68,12 @@ export default function App() {
           <div className="px-6 py-3">
             <div className="flex items-center justify-between">
               <div className="flex items-center space-x-6">
-                <h1 className="text-base font-semibold text-gray-900 dark:text-slate-100 tracking-tight">
+                <h1 className="text-lg font-semibold text-gray-900 dark:text-slate-100 tracking-tight">
                   Multilingual Semantic Search Evaluation
                 </h1>
               </div>
 
               <div className="flex items-center space-x-4">
-                {/* Export Button */}
-                <Button
-                  variant="outline"
-                  size="sm"
-                  onClick={() => handleExport("csv")}
-                  className="h-8 border-gray-300 dark:border-slate-600 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700"
-                >
-                  <Download className="w-3 h-3 mr-2" />
-                  Export
-                </Button>
-
                 {/* Dark Mode Toggle */}
                 <Button
                   variant="ghost"
@@ -122,9 +93,9 @@ export default function App() {
         </header>
 
         {/* Main Layout */}
-        <div className="flex">
+        <div className="flex h-[calc(100vh-57px)]">
           {/* Left Sidebar Navigation - Always visible */}
-          <aside className="w-56 border-r border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-800 min-h-[calc(100vh-57px)]">
+          <aside className="w-56 border-r border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-800 sticky top-[57px] h-[calc(100vh-57px)] overflow-y-auto">
             <nav className="p-3 space-y-1">
               {tabs.map((tab, index) => {
                 const prevGroup = index > 0 ? tabs[index - 1].group : null;
@@ -152,7 +123,7 @@ export default function App() {
           </aside>
 
           {/* Main Content Area */}
-          <main className="flex-1 bg-white dark:bg-slate-900">
+          <main className="flex-1 bg-white dark:bg-slate-900 overflow-y-auto">
             {renderTabContent()}
           </main>
         </div>

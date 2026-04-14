@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Engineering the Anthropocene Scalable social networks and resilience building in human evolutionary timescales",
+    "context": "The paper posits that framing human-environment interactions within deep evolutionary and planetary timescales offers a robust framework for understanding global change. This perspective moves beyond debates about the Anthropocene's precise timing by illuminating the deep roots of human behaviors that transform the Earth system, connecting the past, present, and future trajectories of societal development. Such an approach aims to enhance understanding of societal adaptations to environmental change and aids collective decision-making for resilience building.",
+    "question": "According to the introduction, what is the crucial advantage of examining human-environment relationships within a deep evolutionary and planetary timescale for understanding the Anthropocene?",
+    "answer": "Examining human-environment relationships within deep evolutionary and planetary timescales provides a robust comprehension of humanity's past, present, and future impacts on Earth, fostering understanding of societal adaptations to environmental change and aiding collective decision-making for resilience.",
+    "check_human": "true"
+  },
+  {
+    "title": "Yellow Brick Road to Digital State",
+    "context": "Almost all the types of policies included in the Value Chain of Public Administration can be digitalized; due to new technologies, both the efficiency of spending budget funds and the quality of public administration services can be improved. The only policy which largely cannot be digitalized is institutional policy, since this is a mechanism on which the architecture of the entire public administration system of a digitalized state can be founded. The sustainability of the state depends on how effectively this function is realized and how sustainable the institutional structure is. For a digital state, this is also true, since satisfying the needs of public service consumers is not reliant on if the quality of these services is low and if citizens express their dissatisfaction through social upheavals that shock the state.",
+    "question": "Which policy within the Value Chain of Public Administration is largely resistant to digitalization, and why is it crucial for state sustainability?",
+    "answer": "Institutional policy is largely resistant to digitalization as it serves as the foundational mechanism for the architecture of the entire public administration system of a digitalized state. The sustainability of the state, including a digital state, depends on how effectively this function is realized and how sustainable its institutional structure is.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Transformation in MSMEs Challenges and Opportunities in Technology Management",
+    "context": "Digital transformation offers Micro, Small, and Medium Enterprises unparalleled opportunities to expand their market reach beyond local boundaries. Through e-commerce platforms, social media, and digital marketing strategies, MSMEs can effectively promote products nationally and internationally. Furthermore, digital technology facilitates the collection and analysis of customer data, providing valuable insights for tailoring products and improving decision-making processes.",
+    "question": "What specific opportunities do digital technologies, such as e-commerce and data analytics, provide MSMEs for market expansion and strategic decision-making?",
+    "answer": "Digital technologies offer MSMEs opportunities to access broader markets through e-commerce platforms, social media, and digital marketing. Additionally, they enable MSMEs to collect and analyze customer data, gaining insights into behaviors and preferences for tailored products and data-driven decision-making.",
+    "check_human": "true"
+  },
+  {
+    "title": "Exploring the nexus of entrepreneurial potential and entrepreneurial mentoring among TVET programme students",
+    "context": "Entrepreneurial students are characterized by a unique combination of motivation, innovation, and a strong ambition to establish successful businesses, actively embracing an entrepreneurial mindset throughout their educational pursuits. TVET programmes play a crucial role in fostering their entrepreneurial learning, particularly as students, typically aged 15 to 19 years, are receptive to guidance and the instillation of disciplined habits by mentors. Moreover, their willingness to adhere to instructions and accept feedback significantly enhances their learning process and entrepreneurial development.",
+    "question": "What are the distinguishing characteristics of entrepreneurial students, and how do TVET programmes and the students' age cohort facilitate their entrepreneurial learning and habit formation?",
+    "answer": "Entrepreneurial students exhibit motivation, innovation, and a strong desire to build successful businesses, actively engaging in entrepreneurial activities with an entrepreneurial mindset. TVET programmes foster their learning as they follow mentor instructions, and their young age (15-19 years) aids in instilling discipline and positive entrepreneurial habits, especially when they are willing to follow instructions and acknowledge feedback.",
+    "check_human": "true"
+  },
+  {
+    "title": "ICT use in the teaching of mathematics Implications for professional development of pre-service teachers in Ghana",
+    "context": "Ghana's government is dedicated to providing high-quality mathematics education, a compulsory subject across all pre-university levels. The New Educational Reforms, initiated in September 2007, emphasize skill acquisition, creativity, and problem-solving within the Senior High School (SHS) mathematics curriculum. Significantly, this reform highlights Information and Communication Technology (ICT) as an essential tool for teaching mathematics. Despite these policy directives, the actual presentation of mathematics in classrooms has not undergone substantial change.",
+    "question": "How do Ghana's New Educational Reforms, specifically the 2007 implementation, position Information and Communication Technology (ICT) within the Senior High School (SHS) mathematics curriculum?",
+    "answer": "As part of the New Educational Reforms implemented in September 2007, the Senior High School mathematics curriculum in Ghana places a strong emphasis on Information and Communication Technology (ICT) as a tool for teaching mathematics.",
+    "check_human": "true"
+  },
+  {
+    "title": "Renewable energy policies A comparative analysis of Nigeria and the USA",
+    "context": "In addition to RPS, federal tax incentives such as the Production Tax Credit (PTC) and the Investment Tax Credit (ITC) have been pivotal in supporting the renewable energy industry. Wiser and Bolinger (2019) in their Wind Technologies Market Report emphasize the impact of these incentives on the growth of wind energy in the U.S., illustrating how these financial mechanisms have helped reduce costs and encourage investment in wind power projects. These financial mechanisms have been crucial in supporting the deployment and expansion of renewable energy capacity by making projects more economically viable.",
+    "question": "What federal tax incentives have been instrumental in supporting the U.S. renewable energy industry, and how have these mechanisms specifically impacted the growth of wind energy?",
+    "answer": "Federal tax incentives such as the Production Tax Credit (PTC) and the Investment Tax Credit (ITC) have been pivotal in supporting the U.S. renewable energy industry. These incentives have particularly impacted the growth of wind energy by helping reduce costs and encouraging investment in wind power projects.",
+    "check_human": "true"
+  },
+  {
+    "title": "Implementation of Organizational Agility Strategies to Meet The Challenges of Digital Transformation in Government Organizations",
+    "context": "The research provides crucial managerial insights for leaders in government organizations tasked with building digital transformation capabilities. It underscores the necessity for organizational leaders to consciously implement effective management strategies that foster agility. Such strategies involve designing adaptive policies, cultivating a responsive organizational culture, and establishing collaborative and innovative structures.",
+    "question": "What are the primary managerial implications for government organizations concerning the implementation of organizational agility strategies to support digital transformation?",
+    "answer": "Managerial implications for government organizations include the need for leaders to implement sound management strategies fostering organizational agility. These strategies involve designing adaptive policies, cultivating a responsive organizational culture, and establishing structures that promote collaboration and innovation to facilitate digital transformation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Flood Resilience Building in Thailand Assessing Progress and the Effect of Leadership",
+    "context": "Other researchers have found that leadership affects organizational resilience and team performance under crisis. Birkeland et al. (2017) conducted a longitudinal study to assess the impact of a terrorist attack on employees’ perceptions of leadership. By analyzing the data collected from a sample of ministerial employees following the 2011 Oslo bombing, the results showed that, during a crisis, being supportive, fair, and empowering were the three leadership behaviors that helped increase organizational resilience. This ﬁnding is consistent with what was found by Peus (2011) and Farooq Malik et al. (2014).",
+    "question": "What three leadership behaviors did Birkeland et al. (2017) identify as increasing organizational resilience during a crisis, based on their study of the 2011 Oslo bombing?",
+    "answer": "Based on their study following the 2011 Oslo bombing, Birkeland et al. (2017) found that being supportive, fair, and empowering were the three leadership behaviors that helped increase organizational resilience during a crisis.",
+    "check_human": "true"
+  },
+  {
+    "title": "Telemedicine Use in Rural Native American Communities in the Era of the ACA a Systematic Literature Review",
+    "context": "The Affordable Care Act not only permanently extended the Indian Health Care Improvement Act but also provides for expanded Native access to Medicaid and Medicare [25]. This expansion is important and should not be underestimated, as it allows for impoverished and elder Native Americans to gain access to health insurance. More insured people means the potential for more reimbursement, which could stimulate the growth of telemedicine on rural reservations as long as reimbursement for telemedicine services increases.",
+    "question": "How has the Affordable Care Act (ACA) impacted Native American access to health insurance?",
+    "answer": "The Affordable Care Act (ACA) has permanently extended the Indian Health Care Improvement Act and expanded Native American access to Medicaid and Medicare, allowing impoverished and elder Native Americans to gain access to health insurance.",
+    "check_human": "true"
+  },
+  {
+    "title": "What is a ‘quality TVET lecturer’ Problematising the concept of quality in vocational education",
+    "context": "A quality TVET lecturer faces multiple expectations, encompassing both internal and external demands. Internally, within the educational domain, expectations revolve around pedagogic processes, effective curriculum application, and fostering student development in the classroom. Externally, a primary objective is to prepare young people for the world of work, thereby bridging the gap between TVET provision and the labor market demands. This external quality is frequently promoted through work-integrated learning for both students and lecturers.",
+    "question": "What are the distinct internal and external expectations placed upon a 'quality TVET lecturer' as described in the document?",
+    "answer": "Internally, a 'quality TVET lecturer' is expected to excel in educational or pedagogic processes, curriculum application, and student development in the classroom. Externally, a primary expectation is to prepare young people for the world of work, thereby bridging the gap between TVET and the labor market.",
+    "check_human": "true"
+  },
+  {
+    "title": "Performance-based financing as a health system reform mapping the key dimensions for monitoring and evaluation",
+    "context": "There is no consensus on the proportion of health worker (or facility) pay which should, in theory, be derived from PBF pay-ments in order to motivate better performance. The ‘living wage’ argument would suggest that a higher proportion is justified in contexts where basic pay is low, as is the case in many low income countries. However, there is a con-trary argument that small amounts can be motivating when absolute earnings are low. In one study, positive effects were documented with an increase in doctors ’ rev-enue of only 5% [31].",
+    "question": "Is there a consensus on the ideal proportion of health worker or facility pay that should come from Performance-Based Financing (PBF) payments?",
+    "answer": "There is currently no consensus on the theoretical proportion of health worker or facility pay that should be derived from PBF payments to motivate better performance. While the 'living wage' argument suggests a higher proportion might be justified in low-income countries where basic pay is low, a contrary argument posits that even small amounts can be motivating when absolute earnings are low. For instance, one study documented positive effects with only a 5% increase in doctors' revenue.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does Renewable Energy Matter to Achieve Sustainable Development Goals The Impact of Renewable Energy Strategies on Sustainable Economic Growth",
+    "context": "The empirical findings from the long-run assessment, particularly using the AMG assessor, revealed consistent and significant impacts of various factors on GDP per capita. All examined renewable energy sources, capital accumulation, government spending, and trade openness demonstrated a positive effect on GDP per capita. Conversely, non-renewable energy consumption was found to have a significant negative impact.",
+    "question": "What is the contrasting long-term impact observed between renewable and non-renewable energy sources on GDP per capita, as determined by the study's empirical analysis?",
+    "answer": "The study found that renewable energy sources, capital accumulation, government spending, and trade openness positively impact GDP per capita in the long run. In contrast, non-renewable energy consumption exerted a significant negative impact on GDP per capita.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems",
+    "context": "Public Key Infrastructure (PKI) represents a comprehensive assembly of hardware, software, personnel, policies, and procedures. Its fundamental purpose is to facilitate the creation, management, storage, distribution, and revocation of digital certificates. PKI systems are widely recognized and utilized as a crucial technology for enabling robust information systems security services, including authentication and confidentiality.",
+    "question": "What constitutes a Public Key Infrastructure (PKI) system and what primary information security services does it enable?",
+    "answer": "A PKI system is comprised of hardware, software, people, policies, and procedures necessary for managing digital certificates, and it enables information systems security services such as authentication and confidentiality.",
+    "check_human": "true"
+  },
+  {
+    "title": "Top Incomes and the Great Recession Recent Evolutions and Policy Implications",
+    "context": "The paper discusses optimal tax policy, highlighting that bargaining effects significantly influence the optimal top tax rate, even when they are moderate and coexist with standard supply-side effects. For instance, if the total elasticity of reported taxable income is 0.5, and this is partly due to a standard labor supply channel (0.2) and partly to a bargaining channel (0.3), the optimal top tax rate could be as high as 82 percent. This contrasts with a 57 percent optimal rate if the elasticity were solely from standard supply-side channels.",
+    "question": "How do bargaining effects influence the determination of optimal top tax rates, according to the paper's analysis of different elasticities?",
+    "answer": "The paper suggests that bargaining effects significantly increase optimal top tax rates. For a total elasticity of 0.5, if a portion of this (e.g., 0.3) comes from bargaining, the optimal top tax rate can be 82 percent, compared to 57 percent if the elasticity (0.5) were entirely due to standard supply-side channels.",
+    "check_human": "true"
+  },
+  {
+    "title": "Perceptions of the adult US population regarding the novel coronavirus outbreak",
+    "context": "Over 90% of our sample was aware of the COVID-19 mostly through the news (n = 522, 73%). The majority of participants wanted the CDC Director (n = 382, 53%) or the NIH Direc- tor (n = 117, 16%) to lead the COVID-19 response (Fig 1). However, only a small percentage of participants wanted the president (n = 91, 13%) or Congress (n = 5, 1%) to lead the response (Fig 1).",
+    "question": "How did participants primarily learn about COVID-19, and what percentage of the sample was aware of the outbreak?",
+    "answer": "Over 90% of the sample was aware of COVID-19, with the majority (73%, n = 522) learning about it through the news.",
+    "check_human": "true"
+  },
+  {
+    "title": "Effectiveness of urban transport modes",
+    "context": "For urban rail transport capacity is theoretically a matter of vehicle infrastructure and capacity. In reality, the occupation is less than 100%, and the frequency of the service is usually lower than the theoretical maximum frequency. Therefore, in order to estimate the theoretical transport capacity, the frequency of services and vehicle capacity were taken into account, using the same approach as for road (bus) transport [11 p. 10-12].",
+    "question": "How is the theoretical transport capacity estimated for urban rail transport, according to the document?",
+    "answer": "To estimate the theoretical transport capacity for urban rail, the frequency of services and vehicle capacity were taken into account, using the same approach as for road (bus) transport.",
+    "check_human": "true"
+  },
+  {
+    "title": "Identifying the Right Policies for Increasing the Efficiency of the Renewable Energy Transition with a Novel Fuzzy Decision-Making Model",
+    "context": "Necessary improvements should be made to the determinants of renewable energy transition. However, it is necessary to give priority to the issues that are more important while making improvements to this process since all improvements cause cost increase. Therefore, a new analysis is needed in which the most important ones among these criteria will be determined. The purpose of this study is to identify the most essential items for renewable energy transition.",
+    "question": "Why is a new analysis needed to determine the most essential items for renewable energy transition?",
+    "answer": "A new analysis is needed because all improvements to the renewable energy transition process cause cost increases, making it necessary to prioritize the most important issues. The study's purpose is to identify these essential items.",
+    "check_human": "true"
+  },
+  {
+    "title": "Practices of Accountability and Transparency in Financial Management among Secondary School Principals",
+    "context": "Accountability in financial management is supported by three primary instruments: fiscal accountability, management accountability, and program accountability. Fiscal accountability ensures financial integrity, information disclosure, and compliance; management accountability focuses on efficient resource use; and program accountability assesses objective achievement and optimal options. The overarching goal of financial responsibility in education is to ensure adherence to relevant rules, promote proper conduct among public authorities, and foster a mindset of transparency and caution among government workers.",
+    "question": "What are the three main instruments of accountability in financial management, and what are the general objectives of financial responsibility in education?",
+    "answer": "The three main instruments of accountability are fiscal accountability (financial integrity, disclosure, compliance), management accountability (efficient and economical resource use), and program accountability (achieving objectives efficiently). The general objectives include ensuring compliance with rules, promoting proper conduct, and fostering transparency, economy, and caution in financial processes among educators.",
+    "check_human": ""
+  },
+  {
+    "title": "Labor Market Distortions, Rural-Urban Inequality, and the Opening of China's Economy",
+    "context": "Of the three factor market distortions, we find the Hukou reform to be most significant, both in terms of its macro-economic impact, as well as its impact on income distribution. We model this as a reduction in the indirect transactions costs currently incurred by temporary migrants. Whereas the other two labor market reforms primarily benefit the agricultural households, this reform benefits most the rural households currently sending temporary migrants to the city.",
+    "question": "Which of the three factor market distortions considered is identified as most significant in terms of its macro-economic and income distribution impact, and which household group primarily benefits from its reform?",
+    "answer": "Of the three factor market distortions, the Hukou reform is found to be the most significant, in terms of both its macro-economic impact and its impact on income distribution. This reform primarily benefits the rural households currently sending temporary migrants to the city.",
+    "check_human": "true"
+  },
+  {
+    "title": "Climate Change’s Role in Disaster Risk Reduction’s Future Beyond Vulnerability and Resilience",
+    "context": "The document critically assesses the concept of 'double exposure,' which posits that vulnerability is increased by simultaneously facing global environmental change and economic globalization. It argues that this narrow focus neglects the more comprehensive reality of 'multiple exposure,' a notion long established in relevant literature. 'Multiple exposure' better reflects the convergence of numerous threats, such as climate change, poverty, injustice, and lack of livelihood opportunities, which disproportionately affect the most vulnerable populations.",
+    "question": "What is the main argument made in the document against the concept of 'double exposure' and in favor of 'multiple exposure'?",
+    "answer": "The document argues that 'double exposure' is too narrow, as it primarily focuses on two forms of threat (global environmental change and economic globalization). It advocates for 'multiple exposure' instead, which recognizes that numerous challenges often converge simultaneously to impact the most vulnerable populations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Telemedicine Use in Rural Native American Communities in the Era of the ACA a Systematic Literature Review",
+    "context": "Barriers to using telemedicine for cost savings in Native American populations do exist. The cost of technology is cited in many studies as a deterrent to telemedicine [ 8]. Healthcare for Native American populations is already vastly underfunded; the per capita health care expenditure for the typical United States population is $8,097 yearly, while for the IHS, per capita expenditure on the population who use healthcare is $3,099, suggesting that funding of technology may be a large deterrent to the adoption of telehealth in rural Native American communities [22].",
+    "question": "What is a significant barrier to achieving cost savings through telemedicine in Native American populations?",
+    "answer": "A significant barrier to achieving cost savings through telemedicine in Native American populations is the high cost of technology, especially since healthcare for these populations is vastly underfunded, with a per capita expenditure of $3,099 for the IHS compared to $8,097 for the typical United States population.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards Accountability in the Use of Artificial Intelligence for Public Administrations",
+    "context": "Let us begin by considering distributed responsibility, also known as the \"problem of many hands\". Several recommendations address this concern. In AI ethics guidelines, it is normally assumed that only human persons can be accountable, (current) AIs cannot. The guidelines we have examined require, for example, that organizations should \"establish a continuous chain of responsibility for all roles involved in the design and implemen-tation lifecycle of the project\" [19].",
+    "question": "What specific measure do the analyzed AI ethics guidelines commonly recommend to address the problem of distributed responsibility?",
+    "answer": "To address the problem of distributed responsibility, also known as the \"problem of many hands,\" the analyzed AI ethics guidelines commonly recommend that organizations establish a continuous chain of responsibility for all roles involved in the design and implementation lifecycle of a project.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Inclusion and Fintech during COVID-19 Crisis Policy Solutions",
+    "context": "The article's central aim is to propose various policy solutions for enhancing financial inclusion during the COVID-19 crisis. Financial inclusion is recognized as a powerful development instrument capable of improving access to finance and providing support to vulnerable individuals and households amidst the pandemic. The documented policy solutions are designed to mitigate the adverse effects of the COVID-19 crisis through the combined application of Fintech and short-term policy interventions. This approach aims to address the widespread challenges posed by the global health crisis.",
+    "question": "What is the primary objective of this article regarding financial inclusion during the COVID-19 crisis, and how are the proposed policy solutions expected to mitigate the crisis's impact?",
+    "answer": "The primary objective is to offer policy solutions for improving financial inclusion during the COVID-19 crisis. These solutions are expected to mitigate the crisis's effects through the combined use of Fintech and short-term policies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ten building blocks for sustainable water governance an integrated method to assess the governance of water",
+    "context": "The assumption is that the involvement of stakeholders in general enhances the content of policy proposals (because more knowledge becomes available) and creates more support legitimacy for water policy measures. Stakeholder involvement would improve the quality of decision-making by opening up the decision-making process and making better use of the information and knowledge that is available in society. Moreover, it would improve public understanding of the management issues at stake, make decision-making more transparent, and might stimulate the different government bodies involved to coordinate their actions more in order to provide serious follow-up to the inputs received.",
+    "question": "What are the key assumptions and benefits associated with stakeholder involvement in water policy and decision-making?",
+    "answer": "The assumption is that stakeholder involvement enhances policy content by increasing available knowledge and creates more support legitimacy for water policy measures. It is also believed to improve decision-making quality, public understanding of management issues, transparency, and coordination among government bodies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving preventive service delivery at adult complete health check-ups the Preventive health Evidence-based Recommendation Form (PERFORM) cluster randomized controlled trial",
+    "context": "This simple, low cost, clinically relevant intervention improves the delivery of preventive health services by prompting physicians of evidence-based recommendations in a checklist format that incorporates existing practice patterns. Periodic updates of the Preventive Care Checklist Forms © will allow a feasible and easy-to-use tool for primary care physicians to provide evidence-based preventive health services to adults at routine health check-ups. The forms can also be incorporated into an electronic health record. The Preventive Care Checklist Forms© are accessible in English and French at the College of Family Physicians of Canada web site.",
+    "question": "How does the Preventive Care Checklist Form©, as a simple and low-cost intervention, improve preventive service delivery and where can it be accessed?",
+    "answer": "As a simple, low cost, clinically relevant intervention, the Preventive Care Checklist Form© improves preventive service delivery by prompting physicians of evidence-based recommendations in a checklist format. The forms are accessible in English and French at the College of Family Physicians of Canada web site.",
+    "check_human": "true"
+  },
+  {
+    "title": "Who pays for healthcare in Bangladesh An analysis of progressivity in health systems financing",
+    "context": "The concentration indexes are positive except households’ private health insurance. This indicates the wealthier contribute more in absolute amount to the financing of healthcare than the poor do. For the private health insurance, the concentration index is negative which is an indication of a regressive mode of financing. The concentration index is largest for household yearly taxes (0.2419) suggesting that taxes are relatively progressive than other sources.",
+    "question": "What do the positive and negative concentration indexes for healthcare financing sources signify regarding wealth contribution, and which source has the largest concentration index?",
+    "answer": "Positive concentration indexes indicate that the wealthier contribute more in absolute amount to healthcare financing than the poor, while a negative concentration index, as seen for private health insurance, signifies a regressive mode of financing. Household yearly taxes have the largest concentration index (0.2419), suggesting they are relatively more progressive than other sources.",
+    "check_human": "true"
+  },
+  {
+    "title": "Quality Assurance Agenda in Nepali TVET System",
+    "context": "Good quality education is crucial for the holistic development of students, directly contributing to proper growth, enhanced job prospects, and the successful attainment of academic goals and objectives. Beyond individual benefits, education acts as a potent agent of change, improving health and livelihoods while fostering social stability and driving long-term economic growth. It is also recognized as the primary foundation for modern culture, science, technology, and sustainable societal development. Moreover, quality education is a prerequisite for attractiveness, mobility, and trust, transforming potential into reality.",
+    "question": "According to the document, what are the essential contributions of good quality education to individual development and broader societal progress?",
+    "answer": "Good quality education is essential for a student's total development, ensuring proper development, job prospects, and the realization of academic goals, while also serving as a powerful agent for improving health, livelihoods, social stability, and driving long-term economic growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of water source use, quality of water, sanitation and hygiene perceptions among urban households in North-West Ethiopia A cross-sectional study",
+    "context": "The questionnaire consisted of five sections namely; section I: socio-demographic data, section II: Sources of income, section III: water source observation, section IV: household water use and section V: Water quality and sanitation perception. A detailed questionnaire was prepared in the native language of the households (Amharic) and included over 50 questions.",
+    "question": "What were the five sections included in the study's questionnaire, and in what language was it prepared?",
+    "answer": "The questionnaire consisted of five sections: socio-demographic data, sources of income, water source observation, household water use, and water quality and sanitation perception. It was prepared in Amharic, the native language of the households.",
+    "check_human": "true"
+  },
+  {
+    "title": "Satisfied or Frustrated A Qualitative Analysis of Need Satisfying and Need Frustrating Experiences of Engaging With Digital Health Technology in Chronic Care",
+    "context": "We also identified and excluded descriptions of experienced satisfaction of safety and security, which have historically not been considered as basic psychological needs in Self-Determination Theory (SDT). Rather, they have been defined as deficit needs or need-substitutes that occur as a response to need frustration. Hence, safety and security are primarily considered as outcomes of need frustration rather than basic psychological needs in their own right and therefore not included in our analysis.",
+    "question": "Why were experiences of safety and security excluded from the analysis as basic psychological needs according to Self-Determination Theory (SDT)?",
+    "answer": "Descriptions of safety and security were excluded because Self-Determination Theory (SDT) does not classify them as basic psychological needs; instead, they are defined as deficit needs or need-substitutes that arise from need frustration, making them outcomes rather than intrinsic basic needs.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Complexity of Health Service Integration A Review of Reviews",
+    "context": "The review concluded that health service integration is inherently complex and does not lend itself to a single, universal approach. It highlighted that successful integration involves a range of strategies and that a clear understanding of the purpose of integration is fundamental. This clarity is crucial for effectively implementing appropriate models, processes, strategies, and structures.",
+    "question": "What was the central conclusion of \"The Complexity of Health Service Integration: A Review of Reviews\" regarding the nature and implementation of health service integration?",
+    "answer": "The central conclusion was that health service integration is complex, with no 'one size fits all' approach. The review emphasized that being clear about the purpose of integration and understanding what needs to be integrated are key ingredients for implementing appropriate models, processes, strategies, and structures.",
+    "check_human": ""
+  },
+  {
+    "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+    "context": "A significant challenge for NLP models, such as Chat GPT and Google Bard, is the issue of accuracy, which is highly dependent on the quality, diversity, and complexity of both the training data and the input provided by students. These systems may struggle to comprehend the nuances and complexities of human language, potentially leading to misunderstandings and incorrect responses. Inaccurate or incomplete patterns can also arise if the training data is not sufficiently diverse or of low quality, further impacting the reliability of the model's output. Moreover, the quality of student input directly affects the system's ability to generate accurate responses, particularly when queries are unclear or imprecise.",
+    "question": "What factors critically influence the accuracy of Natural Language Processing (NLP) models in higher education, and why might these systems generate incorrect responses?",
+    "answer": "The accuracy of NLP models is critically influenced by the quality, diversity, and complexity of their training data and the input provided by students. These systems might generate incorrect responses due to struggles with human language nuances, biased or low-quality training data, or unclear student input.",
+    "check_human": "true"
+  },
+  {
+    "title": "Reviewing The Benefits of Health Workforce Stability",
+    "context": "The document highlights a significant scarcity of comprehensive research examining the intricate relationship between staff turnover and organizational performance, particularly concerning quality of care in the health sector. While some exploratory studies and investigations into staffing levels and outcomes have occurred, focusing on turnover rates as proxy measures, few have prioritized the direct impact of turnover or stability rates on performance as their central examination.",
+    "question": "What is the current status of research regarding the complex interaction between staff turnover and organizational performance or quality of care within the health sector, as highlighted in the document?",
+    "answer": "The document states there is a paucity of research fully examining the complex interaction between staff turnover and organizational performance, especially quality of care in the health sector. Few studies have taken the impact of turnover or stability rates on performance as their primary focus of examination.",
+    "check_human": "true"
+  },
+  {
+    "title": "China’s Agricultural Policy Transition Impacts of Recent Reforms and Future Scenarios",
+    "context": "Allowing for rural unemployment of unskilled workers. In the standard GTAP model, full employment is assumed and wages of unskilled worker are equalized across urban and rural sectors. However, it has long been suggested that there have been hidden unemployment and/or under-employment in China’s rural areas. Since the State Statistics Bureau of China only releases data on urban unemployment, there have been only unofficial estimates on the extent of rural unemployment in China.",
+    "question": "What assumption does the standard GTAP model make regarding employment and wages of unskilled workers in urban and rural sectors?",
+    "answer": "The standard GTAP model assumes full employment and equalized wages of unskilled workers across urban and rural sectors.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of Renewable Energy Policy and Use on Innovation A Literature Review",
+    "context": "This comprehensive literature review primarily aims to highlight the numerous motivations and necessities underlying the introduction of renewable energy policies. It demonstrates that policy intervention has been an effective tool to change relative prices, thereby incentivizing innovation. Furthermore, the paper outlines various influencing factors and discusses the agreement in literature on the need for specific renewable energy policies to overcome market failures and barriers.",
+    "question": "What is the primary objective of the literature review concerning renewable energy policies and innovation?",
+    "answer": "The primary objective of the paper is to provide a comprehensive literature review highlighting the motivations and necessities for introducing renewable energy policies and to show that policy intervention has been an effective tool for incentivizing innovation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Diffusion of industrial robotics and inclusive growth Labour market evidence from cross country data",
+    "context": "To examine the effect of robot adoption on the employment rate, we use the aggregate employment rate ( EMP_TOTAL) as the dependent variable. Following Graetz and Michaels (2018), the control variables include the annual GDP growth rate ( GDPGR), country size (LNSIZE) measured by the logarithm of total population, the share of imports in GDP (IMPORT), and the share of exports in GDP (EXPORT). We also add the share of the population aged 15-64 over the total population ( POP15) to control for the influence of demographic changes. To explore which group is more sensitive to emerging technology shock, we further decompose the employment rate by gender and by education level, including male (EMP_MALE) and female ( EMP_FEMALE) employment rates, and the employment rate of advanced (EMP_EDU_ADV), intermediate ( EMP_EDU_INT), basic ( EMP_EDU_BAS), and less than basic (EMP_EDU_LTB) education levels.",
+    "question": "In the paper \"Diffusion of Industrial Robotics and Inclusive Growth: Labour Market Evidence from Cross Country Data\", what is used as the dependent variable for examining the effect of robot adoption on the employment rate, what are its control variables, and how is it further decomposed?",
+    "answer": "The aggregate employment rate (EMP_TOTAL) is used as the dependent variable for examining the effect of robot adoption on the employment rate. Its control variables include the annual GDP growth rate (GDPGR), country size (LNSIZE) measured by the logarithm of total population, the share of imports in GDP (IMPORT), the share of exports in GDP (EXPORT), and the share of the population aged 15-64 over the total population (POP15). To explore which group is more sensitive to emerging technology shock, the employment rate is further decomposed by gender (male and female employment rates) and by education level (advanced, intermediate, basic, and less than basic education levels).",
+    "check_human": "true"
+  },
+  {
+    "title": "Carbon taxes a review of experience and policy design considerations",
+    "context": "The implementation of carbon taxes necessitates careful consideration of several fundamental design elements to ensure their efficacy and alignment with jurisdictional objectives. Key aspects include determining which economic sectors will be subject to the tax, establishing appropriate tax rates, and defining the methods for distributing the generated revenues. Furthermore, policymakers must evaluate the potential impact on consumers and develop strategies to achieve specified emissions reduction targets.",
+    "question": "What are the essential policy design considerations for implementing carbon taxes, according to the document?",
+    "answer": "Essential policy design considerations for carbon taxes include deciding which sectors to tax, setting the tax rate, determining how to use tax revenues, assessing the impact on consumers, and ensuring the achievement of emissions reduction goals.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards trust-based governance of health data research",
+    "context": "Lastly, while the second aim of the GDPR is to improve coherence, it still allows Member States their own interpretation of certain provisions including research exemptions (van Veen 2018). Some countries are more restrictive than others and this can complicate the establishment of a joint database shared between different countries (Nilstun et al. 2006; Haneef et al. 2020). For instance, the use of deceased persons’ data is not covered by the GDPR but can be regulated nationally (Bak et al. 2020 ): in ESCAPE-NET, some groups could not use these data, which negatively affects study validity and may result in bias. Researchers also noted that their collaboration was affected by national and local variation among data protection officers (DPOs) and research ethics committees (RECs/IRBs) (Vandenberghe 2019; de Lange et al. 2019).",
+    "question": "How does the GDPR's allowance for Member State interpretation lead to incoherent guidance and complicate health data research, according to the ESCAPE-NET experiences?",
+    "answer": "The GDPR's allowance for Member State interpretation, particularly concerning research exemptions, leads to incoherent guidance. This complicates the establishment of joint databases shared between countries, as seen in ESCAPE-NET where national regulations on deceased persons' data negatively affected study validity, and collaboration was impacted by variations among DPOs and RECs/IRBs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems",
+    "context": "The basic PKI architecture model has remained largely unchanged since it was first published in the original Internet Certificate and Certificate Revocation List (CRL) Profile [RFC2459][16]. The latest model is reflected in the most recent version of the Internet Certificate and Certificate Revocat ion List (CRL) Profile [RFC5280] [17]. Following is a simplified view of the architectural model for the Public-Key Infrastructure as specif ied in the X.509 digital certificate specifications standard [17].",
+    "question": "How has the basic PKI architecture model evolved, and what standard specifies its architectural model?",
+    "answer": "The basic PKI architecture model has remained largely unchanged since its initial publication in RFC2459, with its latest model reflected in RFC5280, and its architectural model is specified in the X.509 digital certificate specifications standard.",
+    "check_human": "true"
+  },
+  {
+    "title": "Public health disconnections between policy, practice and research",
+    "context": "Public health necessitates collaboration across policy, practice, and research, yet effectively linking these domains proves challenging as they function as independent 'niches.' This separation hinders the integrated approach vital for successful public health outcomes. To mitigate these disconnections, the document suggests that consistent face-to-face encounters are crucial for efficient knowledge transfer and mutual understanding. Such interactions foster higher quality collaboration and acknowledge the interdependence of these domains.",
+    "question": "What is the primary obstacle to connecting public health policy, practice, and research, and what method is proposed for effective knowledge transfer and improved collaboration?",
+    "answer": "The primary obstacle is that policy, practice, and research operate as independent 'niches,' making collaboration difficult. To overcome this, face-to-face encounters are recommended as the most efficient way to transfer knowledge, achieve higher quality, and acknowledge mutual dependence.",
+    "check_human": "true"
+  },
+  {
+    "title": "From workforce intelligence to workforce development: advancing the Eastern Mediterranean pharmaceutical workforce for better health outcomes.",
+    "context": "Strengthening data on human resources for health is a priority for WHO as demonstrated by the recent launch of the National Health Workforce Accounts (4). This links to other objectives focused on policy development and investment in human resources for health aligned with population health needs ( 5). Other WHO guidelines recommend governance and planning, including national plans to produce and retain graduates in the health workforce informed by needs and intelligence in the labour market (6).",
+    "question": "What is a stated priority for the WHO regarding human resources for health?",
+    "answer": "Strengthening data on human resources for health is a priority for WHO, as demonstrated by the recent launch of the National Health Workforce Accounts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Cloud Computing of E-Government",
+    "context": "However, many developing countries still face difficulties to implement E -government initiatives, leading to a high level of failure [ 1] [2]. The most experienced challenges and barriers across the relevant studies include technological barriers, lack of resources, cost, digital divide, poor management and infrastructure, and lack of IT infrastructure [1] [3]-[5]. The continuous advancements in technologi es related to implementing and delivering E -government services may provide opportunities to overcome some of these challenges enhance and make the impl e-mented systems more effective.",
+    "question": "What difficulties and challenges do developing countries commonly face when implementing E-government initiatives?",
+    "answer": "Many developing countries still face difficulties to implement E-government initiatives, leading to a high level of failure. The most experienced challenges and barriers across the relevant studies include technological barriers, lack of resources, cost, digital divide, poor management and infrastructure, and lack of IT infrastructure.",
+    "check_human": "true"
+  },
+  {
+    "title": "Labor Market Participation, Unemployment and Monetary Policy",
+    "context": "The model conceptualizes entry into the labor market as the outcome of an optimal time-allocation problem, where individuals choose between market work, housework, and search activities. The opportunity cost associated with job search is specifically quantified in terms of foregone home production. This approach provides a micro-founded basis for understanding fluctuations in labor force participation.",
+    "question": "How is entry into the labor market modeled in the paper, and what is identified as the opportunity cost of search?",
+    "answer": "Entry into the labor market is modeled as the outcome of an optimal time-allocation problem involving market work, housework, and search activity, with the opportunity cost of search defined in terms of foregone home production.",
+    "check_human": "true"
+  },
+  {
+    "title": "Governance of artificial intelligence and personal health information",
+    "context": "Artificial intelligence (AI) technologies increasingly enable innovations from searching the internet to voice and facial recognition, smart appliances, and even to driverless cars. In the past, key limitations of AI have been the availability of sufficient data for training algorithms and the inability of AI systems to manage data in their natural form. Now, with omnipresent digitalization of data about humans and their activities, deep learning[1] algorithms increasingly are able to take advantage of stockpiles of “big data” to enhance a learning model’s performance and extend the sophistication and reach of AI applications (Chen and Lin, 2014; Jordan and Mitchell, 2015).",
+    "question": "What are some general innovations enabled by AI technologies, and how has the availability of data for AI systems evolved?",
+    "answer": "AI technologies enable innovations such as internet searching, voice and facial recognition, smart appliances, and driverless cars. Historically, AI was limited by the availability of sufficient training data and its inability to manage data in natural forms, but deep learning algorithms now leverage omnipresent digitized 'big data' to enhance performance and extend the sophistication of AI applications.",
+    "check_human": "true"
+  },
+  {
+    "title": "Exam-oriented education and implementation of education policy for migrant children in urban China",
+    "context": "The paper posits that the examination-oriented education system represents the paramount school-level factor influencing the implementation outcomes of education policy for migrant children. This system demonstrably impedes the effective implementation of equal school admissions policies by encouraging selective entrance examinations and the charging of additional fees. However, paradoxically, it facilitates the implementation of non-segregation and academic support policies, as migrant children's academic performance directly impacts the school's overall reputation and success metrics.",
+    "question": "What is identified as the most significant school-level determinant affecting the implementation of education policy for migrant children in urban China, and how does it differentially impact admissions versus non-segregation and academic support policies?",
+    "answer": "The examination-oriented education system is identified as the most significant school-level determinant. It compromises the implementation of equal school admissions policy but facilitates the implementation of non-segregation and academic support policies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Regional electricity generation and employment in UK regions",
+    "context": "The data were of four types. First, data on past investments were available from the 2007 Input-Output Tables for Wales (JONES et al. 2011) for a number of extant electricity generation sub-sectors (the 2007 Tables report four such sectors, plus hydro pumped storage). Although the Tables only publish current expenditure in detail, the data collection and survey process undertaken for their compilation included capital expenditure inquiries. Secondly, data were available for generation investments post-2007 either from sector specific projects and surveys (see REGENERIS & CARDIFF UNIVERSITY, 2013a for onshore wind, for example) or undertaken ad hoc to inform sector understanding (for example, a site visit to the new RWEnpower 2GW gas fired station in Pembroke undertaken in 2014).",
+    "question": "What were the first two types of data used to estimate the economic impact of electricity generation investment on the regional economy in Wales?",
+    "answer": "The first type was data on past investments from the 2007 Input-Output Tables for Wales, which included capital expenditure inquiries despite only publishing current expenditure in detail. The second type was data for generation investments post-2007, sourced from sector-specific projects and surveys or ad hoc efforts like a site visit to the RWEnpower 2GW gas fired station in Pembroke.",
+    "check_human": "true"
+  },
+  {
+    "title": "Rounding the Corners of the Policy Trilemma Sources of Monetary Policy Autonomy",
+    "context": "A foundational concept in international macroeconomics, the policy trilemma asserts that a government cannot concurrently achieve open financial markets, fixed exchange rates, and monetary policy autonomy. Countries are consequently restricted to selecting only two of these three objectives. This constraint arises because maintaining both a credible fixed exchange rate and open financial markets compels the domestic interest rate to align with that of the base country, thereby negating independent monetary control.",
+    "question": "According to the NBER working paper, what is the fundamental assertion of the policy trilemma in international macroeconomics and why does it impose limitations on a country's monetary policy?",
+    "answer": "The policy trilemma fundamentally asserts that a government cannot simultaneously pursue open financial markets, fixed exchange rates, and monetary autonomy, limiting choices to only two. This limitation occurs because a credible fixed exchange rate coupled with open financial markets necessitates that the domestic interest rate matches the base country's rate, thus precluding independent monetary policy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving Community-Based Mental Health Care for Children Translating Knowledge into Action",
+    "context": "Several studies have reported aggregate decreases in children’s behavioral and emotional problems after entering care in community-based service systems, reflecting overall improvement in symptoms (Hawley and Weisz 2005; Manteuffel et al. 2002; Trask and Garland 2011), but like all uncontrolled studies, the extent to which these observed changes can be attributed to treatment received is unknown. Results from a number of studies demonstrating no “dose–effect” relationship (i.e., no link between amount of treatment received—usually measured as number of sessions attended—and outcome variability) reinforce skepticism about attributing observed symptom change to treatment (Andrade et al. 2000; Garland et al. Under Review; Lindhiem and Kolko 2011; Trask and Garland 2011; Warren et al. 2009). Lambert and Bickman (2004) proposed that observed decreases in symptom severity and/ or improvements in functioning after service entry should not necessarily be attributed to service effectiveness because such changes likely reflect predictable variation, including expected “regression to the mean.”",
+    "question": "What have studies observed regarding children's behavioral and emotional problems after entering community-based care, and what specific factors raise skepticism about attributing these changes solely to treatment?",
+    "answer": "Studies have reported aggregate decreases in children's behavioral and emotional problems after entering care in community-based service systems, reflecting overall symptom improvement. However, skepticism about attributing these observed changes solely to treatment is reinforced by the fact that these are uncontrolled studies, the absence of a \"dose-effect\" relationship, and the likelihood that such changes reflect predictable variation like \"regression to the mean.\"",
+    "check_human": "true"
+  },
+  {
+    "title": "Rural mental health workforce difficulties: a management perspective",
+    "context": "Rural communities confront greater difficulties than urban areas in maintaining an effective health workforce. Rurality is associated with higher levels of physical risk, lower population densities, scarcity of services and threats to the sustainability of services 1. These characteristics are accompanied by shortages of qualified professionals 2, transport difficulties, long waiting lists, lack of after-hours services and high fixed costs per service.",
+    "question": "According to the study's introduction, what general difficulties do rural communities face in maintaining an effective health workforce, irrespective of mental health specifics?",
+    "answer": "Rural communities confront greater difficulties than urban areas in maintaining an effective health workforce. Rurality is associated with higher levels of physical risk, lower population densities, scarcity of services, and threats to the sustainability of services. These characteristics are accompanied by shortages of qualified professionals, transport difficulties, long waiting lists, lack of after-hours services, and high fixed costs per service.",
+    "check_human": "true"
+  },
+  {
+    "title": "Preparing Public Administration Scholars for Qualitative Inquiry A Status Report",
+    "context": "Within doctoral programs, there are two main components that impact the preparation of students: (1) faculty mentoring and course design; and (2) program requirements. Both issues have been blamed for poor quality research (McCurdy & Cleary, 1984; White et al., 1996). Mentoring is noted as particularly important to the improvement of qualitative research methods. The dissertation committee experience should prepare scholars for carrying out their future research agendas and publishing activities, including both diverse topics and methodological approaches (Jensen & Rodgers, 2001; Orosz, 1997; White, 1986a).",
+    "question": "What are the two primary components within doctoral programs that influence student preparation, and what role does mentoring play in improving qualitative research methods?",
+    "answer": "The two primary components within doctoral programs that impact student preparation are (1) faculty mentoring and course design, and (2) program requirements. Mentoring is considered particularly important for improving qualitative research methods, and the dissertation committee experience is expected to prepare scholars for their future research agendas and publishing activities, encompassing diverse topics and methodological approaches.",
+    "check_human": "true"
+  },
+  {
+    "title": "Managing urban riverscapes towards a cultural perspective of land and water governance",
+    "context": "Governance theory, particularly an actor-centered view, is employed as an analytical framework to describe contemporary planning processes. This approach acknowledges that urban riverscapes involve a complex ensemble of actors, institutions, and management beyond just government. It highlights the potential for conflicts arising from multiple actors at various levels, each with specific rationalities, striving for consensus on land and water issues within confined urban spaces.",
+    "question": "How does the application of governance theory, specifically an actor-centered view, contribute to understanding the management of urban riverscapes?",
+    "answer": "Applying governance theory with an actor-centered view reveals that urban riverscapes are managed by a complex ensemble of actors, institutions, and management, not solely the government. This approach illuminates potential conflicts from multiple stakeholders, each with specific rationalities, attempting to reach consensus in confined urban areas.",
+    "check_human": "true"
+  },
+  {
+    "title": "Tools for Modeling of Stormwater Management and Economics of Green Infrastructure Practices a Review",
+    "context": "During the second phase of the review process, ten selected modelling tools underwent a detailed examination based on a set of five major criteria. These criteria encompassed the representative Green Infrastructure (GI) practices supported, the applicable spatial scales, the algorithms utilized for modelling, the required data inputs and generated outputs, and the overall user interface and handling characteristics of each tool.",
+    "question": "What were the five major criteria used for the detailed review of the ten selected modelling tools in the second phase of the review process?",
+    "answer": "The five major criteria used for the detailed review were: representative Green Infrastructure (GI) practices, spatial scales, algorithms used for modelling, data inputs and outputs, and the user interface and handling of the tool.",
+    "check_human": "true"
+  },
+  {
+    "title": "Constitutional rules and agricultural policy outcomes",
+    "context": "From a methodological point of view, the authors followed a specific tendency in their research. They included both democracies and non-democracies in their sample. This approach was adopted to overcome the issue that established democracies often lack sufficient time variation in their constitutional features, allowing for a more robust empirical analysis exploiting within-country data variation.",
+    "question": "What methodological approach was used to ensure sufficient variation in constitutional features for a robust empirical analysis?",
+    "answer": "The authors included both democracies and non-democracies in their sample. This methodological choice helped overcome the issue of established democracies lacking sufficient time variation in their constitutional features, enabling a more robust empirical approach that leverages within-country data variation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving Community-Based Mental Health Care for Children Translating Knowledge into Action",
+    "context": "There is an urgent necessity to enhance community-based mental health services for children and their families, as numerous studies have identified significant limitations in the effectiveness of \"usual care.\" Fortunately, substantial empirically-supported knowledge now exists, offering strategies to improve care and address this critical public health issue. This selective review aims to synthesize and highlight this established knowledge to facilitate the essential translation of information into practical improvements.",
+    "question": "What is the primary goal of the selective review titled \"Improving Community-Based Mental Health Care for Children: Translating Knowledge into Action\" regarding the application of empirically-supported knowledge?",
+    "answer": "The primary goal of this selective review is to highlight and synthesize empirically-supported knowledge to stimulate and facilitate the translation of this knowledge into actionable improvements for community-based mental health care for children and families.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences",
+    "context": "The article begins with a brief historical reflection on what we know about the relationship between technological innovation and society. This is followed by a summary of several instrumental and critical approaches to digital divides and a consideration of how research in this area treats issues of economic and social inequality. The way in which the results of some of this scholarly work becomes embedded in policy in the European context is then discussed to prepare the basis for a discussion of the emerging contradictory relationships between humans and their machines.",
+    "question": "What is the initial topic discussed in the article, after its introduction, regarding technological innovation?",
+    "answer": "The article begins with a brief historical reflection on what we know about the relationship between technological innovation and society.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does Green Banking Performance Pay Off Evidence from a Unique Regulatory Setting in Bangladesh",
+    "context": "Bangladesh, an emerging economy, was chosen as our research setting for three reasons. Firstly, Bangladesh is one of the early GB adopters, with GB-related regulation introduced in the country in 2011. Secondly, banks in Bangladesh have strong incentives to comply with GB regulation as significant economic benefits are associated with compliance. Thirdly, as Bangladesh is potentially one of the worst victims of global warming, its people and corporations are likely to have a strong interest in policies and practices aimed at mitigating its effects.",
+    "question": "What were the three primary reasons for choosing Bangladesh as the research setting for the study on green banking performance?",
+    "answer": "Bangladesh was chosen because it is one of the early GB adopters with regulation introduced in 2011, banks there have strong incentives to comply due to significant economic benefits, and the country is potentially one of the worst victims of global warming, leading to strong interest in mitigation policies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Imagineering Mobility Constructing Utopias for Future Urban Transport",
+    "context": "Whilst transport policy-making is not specifically mentioned in the images created by le Corbusier and Howard, such policy-making is one aspect of more general approaches to governance considered by the two authors. Pinder distinguishes the authoritarian approach of the former with the anti- authoritarian approach of the latter,“drawn from anarchist perspectives and especially from the work of Kropotkin” (2005, p54). Arguably, the Corbusi an approach to transport policy-making is dominant today, given the current technocratic practices which emphasise the role of the ‘transport expert’ in formulating plans, parti cularly as ‘forecaster’ and ‘evaluator’: advocates of participatory planning, t hough in a minority, can be seen to be following (to a certain extent) the alternative approach.",
+    "question": "According to the document, which approach to transport policy-making is considered dominant today, and what characterizes it?",
+    "answer": "The Corbusian approach to transport policy-making is considered dominant today. This approach is characterized by current technocratic practices that emphasize the role of the 'transport expert' in formulating plans, specifically as a 'forecaster' and 'evaluator'.",
+    "check_human": "true"
+  },
+  {
+    "title": "CIRCULAR ECONOMY MODEL FOR RECYCLING WASTE RESOURCES UNDER GOVERNMENT PARTICIPATION A CASE STUDY IN INDUSTRIAL WASTE WATER CIRCULATION IN CHINA",
+    "context": "The present study establishes a systematic economic model for the circular economy, utilizing game analysis to derive equilibrium solutions and critical conditions for both government and non-government participation scenarios. This model analyzes CE from a resource flow perspective, distinguishing between two main categories: the 'no recycling resource return model' and the 'recycling resource return model.' These categories are foundational for determining the boundary of government participation and taxation within the circulatory system.",
+    "question": "What methodological approach and primary model categories are employed in this study to analyze the circular economy and define government involvement?",
+    "answer": "This study employs a systematic economic model, using game analysis to determine equilibrium solutions and critical conditions. It constructs two primary model categories, the 'no recycling resource return model' and the 'recycling resource return model,' to analyze CE from a resource flow perspective and define government participation boundaries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Pharmaceutical digital marketing and governance illicit actors and challenges to global patient safety and public health",
+    "context": "“Internet governance ” is a relatively new phenomena. Conceptually, it is defined as the establishment of shared principles, norms, rules, decisionmaking procedures and programs developed by governments, the private sector, and civil society on the use and evolution of the Internet [59]. Reflecting a heretofore decentralized, multi-stakeholder, multi-co untry, interconnected, self-governed and autonomous group of actors, the UN has made Internet governance a global priority despite its highly challenging nature.",
+    "question": "How is \"Internet governance\" conceptually defined?",
+    "answer": "\"Internet governance\" is conceptually defined as the establishment of shared principles, norms, rules, decision-making procedures, and programs developed by governments, the private sector, and civil society regarding the use and evolution of the Internet.",
+    "check_human": "true"
+  },
+  {
+    "title": "Study of Aromatic and Medicated Plants in Uttrakhand, India With Focus on Role in Employment Generation and Supply Chain Management",
+    "context": "Despite the formal structure, Uttarakhand's Medicated and Aromatic Plants (MAPs) supply chain exhibits several shortcomings, resulting in a limited proportion of cultivated products transacting through official channels. The primary issue stems from cultivators receiving substantially lower prices via government agencies compared to direct sales to industries or unofficial intermediaries, which disincentivizes formal engagement. This leads to a loss of potential royalty revenue for the government and compromises the accuracy of official data on production and cultivation patterns, thereby hindering the effectiveness of various government schemes. To enhance the system, recommendations include broadening the roles of existing organizations beyond commission agency, expanding collection centers, establishing a Management Information System (MIS) for market information, and implementing dynamic auction pricing.",
+    "question": "What are the identified shortcomings of the formal Medicated and Aromatic Plants (MAPs) supply chain in Uttarakhand, and what improvements are recommended to address these issues?",
+    "answer": "Shortcomings of the formal MAP supply chain include low prices for cultivators through official channels, leading to revenue loss for the government and inaccurate data. Recommended improvements involve organizations actively engaging in all three assigned roles (direct purchase, mortgage, commission agent), increasing the number of collection centers, implementing a Management Information System (MIS) for market information, and adopting dynamic auction pricing.",
+    "check_human": ""
+  },
+  {
+    "title": "Export Performance as a Measurement of Competitiveness",
+    "context": "Finally, we confirmed hypothesis H3. With the 1% increase of the household consumption expenditures we expected the values of export performance to decrease by 0.23%. National economies experiencing growth mostly due to household consumption are not primarily dependent on international trade, therefore, their export performance is lower. We observe that those countries are further away from the curve, generally falling under it, as shown in Figure h 1.",
+    "question": "What was the confirmed relationship between household consumption expenditures and export performance, as stated in the document?",
+    "answer": "The study confirmed hypothesis H3, stating that with a 1% increase in household consumption expenditures, the values of export performance were expected to decrease by 0.23%, as national economies growing primarily due to household consumption are less dependent on international trade, leading to lower export performance.",
+    "check_human": "true"
+  },
+  {
+    "title": "Constitutional rules and agricultural policy outcomes",
+    "context": "The analysis by Alessandro Olper and Valentina Raimondi specifically addresses the effect of constitutional rules on agricultural policy outcomes. This comprehensive study utilizes data from 74 developing and developed countries over a 50-year period, from 1955 to 2005. Its primary objective is to establish robust empirical regularities connecting constitutional rules with agricultural policy outcomes.",
+    "question": "What is the main objective and the scope of the analysis conducted by Alessandro Olper and Valentina Raimondi concerning constitutional rules and agricultural policy outcomes?",
+    "answer": "The main objective is to find robust empirical regularity that maps constitutional rules into agricultural policy outcomes, using data from 74 developing and developed countries observed between 1955 and 2005.",
+    "check_human": "true"
+  },
+  {
+    "title": "Export Performance as a Measurement of Competitiveness",
+    "context": "The study aimed to quantify and qualify the influence of the institutional environment on export performance, which is considered a key single-factor measure of competitiveness. This environment was represented by specific indicators reflecting governance, regulation, and corruption.",
+    "question": "What specific factors of the institutional environment did the authors aim to quantify and qualify the impact of on export performance in their research objective?",
+    "answer": "The research objective was to quantify and qualify the impact of institutional environment indicators, specifically government effectiveness, regulatory quality, and corruption perception, on export performance.",
+    "check_human": ""
+  },
+  {
+    "title": "Which experiences of health care delivery matter to service users and why A critical interpretive synthesis and conceptual map",
+    "context": "The conceptual map is intended as a valuable resource for a diverse audience, including policy-makers, service providers, researchers, and patient advocates. Its utility extends to making a compelling case for improving social and relational aspects of care, identifying gaps in current policy or research initiatives, and stimulating detailed investigation of specific patient experiences. It also serves to remind users of the dynamic nature of patient experiences and challenges the reliance on simplistic checklists over genuine individual responsiveness.",
+    "question": "For which stakeholders is the conceptual map designed, and what are its practical applications for enhancing health care delivery?",
+    "answer": "The conceptual map is designed for policy-makers, service providers, researchers, and patient advocates. Its practical applications include advocating for improved social/relational care, identifying gaps in initiatives, stimulating detailed experience analysis, and promoting individual responsiveness over standardized procedures.",
+    "check_human": "true"
+  },
+  {
+    "title": "Unveiling the effect of transport infrastructure and technological innovation on economic growth, energy consumption and CO2 emissions",
+    "context": "We also expect labour to either increase or reduce EC. Labour can increase energy use by raising economic growth and household incomes. Contrarily, studies such as Acheampong et al. (2021) and Omri (2013) indicated that labour has an inverse relationship with EC , explaining the substitution between labour and energy.",
+    "question": "What are the contrasting perspectives on how labor influences energy consumption, according to existing literature?",
+    "answer": "Labour is expected to either increase or reduce energy consumption. It can increase energy use by raising economic growth and household incomes; however, other studies indicate an inverse relationship, explaining the substitution between labour and energy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Modern contraceptive use among reproductive-aged women in Ghana prevalence, predictors, and policy implications",
+    "context": "Although we found high levels of knowledge and awareness (98%; n = 213) of modern contraception use, only 21% of participants were using modern contraceptives. We found a high level of knowledge (the ability to mention at least one type of modern contraceptive method) and awareness of modern contraception methods. The result showed that majority of participants (98%; n = 213) had adequate knowledge (the ability to mention at least one type of modern contraceptive method) of modern contraceptives and knew at least a method of modern contraception.",
+    "question": "What was the reported level of knowledge and awareness of modern contraception among participants, and what percentage of them were actually using modern contraceptives?",
+    "answer": "The study found high levels of knowledge and awareness of modern contraception use, with 98% (n = 213) of participants having adequate knowledge. However, only 21% of participants were actually using modern contraceptives.",
+    "check_human": "true"
+  },
+  {
+    "title": "Shifting the State Burden in Infrastructure Financing through the Issuance of Government Sukuk",
+    "context": "The research conducted an in-depth analysis of the long-term effects of various macroeconomic indicators on the issuance of government sukuk. A notable finding revealed that, over the long term, infrastructure financing exhibits a negative influence on government sukuk issuance. This outcome contrasts with short-term observations and suggests a different strategic approach as infrastructure needs evolve.",
+    "question": "What long-term influence does infrastructure financing have on the issuance of government sukuk, as identified by the study?",
+    "answer": "In the long term, infrastructure financing negatively influences government sukuk issuance.",
+    "check_human": "true"
+  },
+  {
+    "title": "Performance-based financing in the context of the complex remuneration of health workers findings from a mixed-method study in rural Sierra Leone",
+    "context": "The descriptive analysis revealed that performance-based financing (PBF) bonuses constituted a relatively minor proportion of health workers' total monthly income, specifically contributing approximately 9–11%. In contrast, salaries remained the primary income source, accounting for 55–63% of the total revenue. Despite its modest financial contribution, health workers expressed positive views regarding PBF bonuses, a sentiment notably different from their often-negative perceptions of their official salaries.",
+    "question": "What was the absolute and relative contribution of performance-based financing (PBF) to the total income of primary health workers in rural Sierra Leone, and what were their general views on these bonuses compared to other income sources?",
+    "answer": "Performance-based financing contributed approximately 9–11% to the total monthly income of health workers, who held positive views on these bonuses, especially when contrasted with their negative perceptions of salaries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Disaster Risk Reduction and Health The Potential of Health Registers for Public Health Monitoring",
+    "context": "Since 2000, patient data acquired from health registers maintained by general practitioners and other health professionals have been instrumental in monitoring the health consequences of disasters. These data, sometimes integrated with other registers and sources, have been utilized across the Netherlands, Norway, and Sweden. This methodology allows for comprehensive tracking of health impacts following various environmental hazards.",
+    "question": "Which countries have utilized patient data from health registers since 2000 to monitor the health impact of disasters and environmental hazards, according to the document?",
+    "answer": "Patient data from health registers have been utilized to monitor the health impact of disasters and environmental hazards in the Netherlands, Norway, and Sweden since 2000.",
+    "check_human": "true"
+  },
+  {
+    "title": "Pharmaceutical digital marketing and governance illicit actors and challenges to global patient safety and public health",
+    "context": "The unregulated expansion of digital forms of direct-to-consumer pharmaceutical marketing (eDTCA) has allowed illicit online pharmacies to proliferate globally. These cybercriminal entities exploit eDTCA mediums to market products deceptively presented as safe and legitimate, yet are often counterfeit or substandard. This widespread activity poses significant, unaddressed global public health and patient safety threats. Consequently, a comprehensive evaluation of these threats and effective governance mechanisms is urgently needed.",
+    "question": "What is the fundamental global public health and patient safety concern arising from the unregulated growth of digital direct-to-consumer pharmaceutical marketing (eDTCA) by illicit online pharmacies?",
+    "answer": "The fundamental concern is that illicit online pharmacies exploit unregulated eDTCA to sell purportedly safe and legitimate products that are actually counterfeit or substandard, leading to unaddressed global public health and patient safety threats.",
+    "check_human": "true"
+  },
+  {
+    "title": "Measuring Health System Strengthening Application of the Balanced Scorecard Approach to Rank the Baseline Performance of Three Rural Districts in Zambia",
+    "context": "The proportion of health workers receiving training in the past 12 months was lowest in Kafue (58%) and highest in Luangwa district (77%). When stratified by residence mean motivation scores remained high across the three residence areas. However, rural residence had a slightly higher mean motivation score when compared to peri-urban or hospital-based health facilities. In terms of training received, peri-urban health facilities had the lowest proportion of health workers who received training (50%).",
+    "question": "What were the lowest and highest proportions of health workers who received training in the past 12 months across the study districts and by residence?",
+    "answer": "The proportion of health workers receiving training in the past 12 months was lowest in Kafue (58%) and highest in Luangwa district (77%). When stratified by residence, peri-urban health facilities had the lowest proportion of health workers who received training (50%).",
+    "check_human": "true"
+  },
+  {
+    "title": "Effective Coverage A Metric for Monitoring Universal Health Coverage",
+    "context": "Effective coverage represents a notable advancement over traditional crude coverage measurements, which solely concentrate on the accessibility or utilization of interventions. Unlike crude coverage, effective coverage integrates need, use, and quality into its assessment. This comprehensive approach ensures that a health performance metric captures not just service delivery but also the quality and actual benefit received.",
+    "question": "How does effective coverage offer a more comprehensive assessment of health system performance compared to crude coverage?",
+    "answer": "Effective coverage is more comprehensive than crude coverage because it combines intervention need, use, and quality, whereas crude coverage primarily focuses only on intervention access or utilization.",
+    "check_human": "true"
+  },
+  {
+    "title": "Electricity market reform in Norway",
+    "context": "The initial hardcover edition of the book 'Electricity Market Reform in Norway' was published in the year 2000. This scholarly work was released under the Palgrave Macmillan imprint, which operates globally through various companies and representatives. The publication also indicates its transfer to digital printing in 1999.",
+    "question": "What was the publication year for the first hardcover edition of 'Electricity Market Reform in Norway,' and which academic publisher was responsible for its release?",
+    "answer": "The first hardcover edition of 'Electricity Market Reform in Norway' was published in 2000 by Palgrave Macmillan.",
+    "check_human": "true"
+  },
+  {
+    "title": "Understanding the human dimensions of a sustainable energy transition",
+    "context": "The media and public and political debate (e.g., initiated by interest groups) present arguments that nourish views of climate change supporters as well as climate change deniers. In the USA, campaigns have been pursued that deny the seriousness of anthropogenic climate change, primarily emphasizing that scientists disagree about climate change, thereby aiming to create confusion among the public ( McCright et al. , 2013). The more individuals think that scientists disagree about climate change, the less they believe in global warming and the less they support policies to combat climate change. People with right-wing and conservative political views are more prone to doubt scientific consensus on climate change, whereas people with left-wing and liberal political views and those who participate in environmental movements are more likely to believe that scientists agree on this topic ( McCright et al. , 2013).",
+    "question": "How do media and political debates influence public perception of scientific consensus on climate change and support for related policies?",
+    "answer": "Media and political debates present arguments that nourish both climate change supporters and deniers, with campaigns in the USA emphasizing scientific disagreement to create public confusion. This leads to less belief in global warming and reduced support for policies when individuals perceive scientific disagreement, with right-wing and conservative individuals more prone to doubt consensus, and left-wing and liberal individuals more likely to believe scientists agree.",
+    "check_human": "true"
+  },
+  {
+    "title": "Examining health facility financing in Kenya in the context of devolution",
+    "context": "Figure 1 outlines the study’s conceptual framework. The framework unpacks health financing into four domains namely planning and budgeting, sources of funds, flow of funds to health facilities, and the spending of these funds at the facility level. The framework identifies aspects of these domains that may influence health systems goals (efficiency, equity, and quality of care). The framework domains and aspects of the domains guided the tools development, data collection and analysis in this study.",
+    "question": "According to the study's conceptual framework, what were the four main domains into which health financing was unpacked?",
+    "answer": "The study's conceptual framework unpacked health financing into four domains: planning and budgeting, sources of funds, flow of funds to health facilities, and the spending of these funds at the facility level.",
+    "check_human": "true"
+  },
+  {
+    "title": "Personalized digital extension services and agricultural performance Evidence from smallholder farmers in India",
+    "context": "Annual crop income is calculated as the gross value of crop production (including the output not sold valued at average market prices) minus variable production costs (purchased seeds, fertilizer, pesticides, manure, hired labour, irrigation water, machinery, and transportation). It is expected that higher productivity and higher levels of commercialization will also lead to higher crop income. Farmers would hardly adopt and use digital extension services if these were associated with lower crop income.",
+    "question": "How is annual crop income calculated in the study, and what is the expected relationship between digital extension services and crop income?",
+    "answer": "Annual crop income is calculated as the gross value of crop production (including the output not sold valued at average market prices) minus variable production costs (purchased seeds, fertilizer, pesticides, manure, hired labour, irrigation water, machinery, and transportation). It is expected that higher productivity and higher levels of commercialization will also lead to higher crop income, and farmers would hardly adopt digital extension services if these were associated with lower crop income.",
+    "check_human": "true"
+  },
+  {
+    "title": "Early Childhood Education and Care Access for Children from Disadvantaged Backgrounds Using a Framework to Guide Intervention",
+    "context": "Early Childhood Education and Care (ECEC) programs offer significant advantages for the holistic development and academic achievement of children from disadvantaged backgrounds. These programs also facilitate mothers' return to employment, contributing to increased family income and broader economic development. Consequently, public policies that invest in early childhood are recognized as crucial for human capital development.",
+    "question": "What are the key beneficial effects of Early Childhood Education and Care (ECEC) for children from disadvantaged backgrounds and their families, as detailed in the document?",
+    "answer": "ECEC programs provide substantial beneficial effects on overall child development and educational success for children from disadvantaged backgrounds, allow mothers to return to work, raise family income, and foster economic development, making them a powerful strategy to reduce child development inequities and a valuable investment in human capital.",
+    "check_human": ""
+  },
+  {
+    "title": "Climate justice through climate finance Australia’s approach to climate finance in the Pacific",
+    "context": "The CCAS was developed following an apparent ‘renewed focus ’ on climate change after the 2015 Paris Agreement, and an ODE climate evaluation recommending a strategy in 2018 40. The 2018 Development Assistance Committee (DAC) Peer Review of Australia also recommended mainstreaming and increasing climate and environmental ODA based on the absence of ‘a strategic approach to mainstreaming the environ-ment and climate across the programme that is backed by sufﬁcient capacity and resources, despite recognition that these issues are risks for security and prosperity in the Paciﬁc’43. This was a backslide compared to the 2013 DAC Peer Review which had recommended continuing AusAID ’s mainstreaming approach 44.",
+    "question": "What factors and recommendations led to the development of Australia's Climate Change Action Strategy (CCAS) in 2019?",
+    "answer": "The Climate Change Action Strategy (CCAS) was developed following a renewed focus on climate change after the 2015 Paris Agreement and an ODE climate evaluation recommending a strategy in 2018. The 2018 Development Assistance Committee (DAC) Peer Review of Australia also recommended mainstreaming and increasing climate and environmental ODA due to the absence of a strategic approach.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of the COVID-19 Pandemic on the Global Delivery of Mental Health Services and Telemental Health Systematic Review",
+    "context": "The link between COVID-19 and mental illness is increasingly supported by robust evidence. The association is bidirectional; mental illness increases the risk of subsequent COVID-19 infection, and the risk of a new mental health diagnosis increases up to 180 days following COVID-19 infection [3,4]. COVID-19 and related coronavirus infections, such as SARS and Middle East respiratory syndrome (MERS), are associated with increased subsequent risk of depression, anxiety, and other neuropsychiatric consequences, such as dysexecutive syndrome [5-7].",
+    "question": "What is the nature of the association between COVID-19 and mental illness, and what specific neuropsychiatric consequences are linked to COVID-19 and related coronavirus infections?",
+    "answer": "The association between COVID-19 and mental illness is bidirectional, meaning mental illness increases the risk of subsequent COVID-19 infection, and a new mental health diagnosis risk increases up to 180 days post-infection. Additionally, COVID-19 and related coronavirus infections like SARS and MERS are associated with an increased subsequent risk of depression, anxiety, and other neuropsychiatric consequences such as dysexecutive syndrome.",
+    "check_human": "true"
+  },
+  {
+    "title": "Decreasing patient cost and travel time through pediatric rheumatology telemedicine visits",
+    "context": "Of the Kansas City cohort queried, 42 % of the respondents were interested in a telemedicine option. Those who expressed interest lived further from the Kansas City clinic than those who were not interested (68 miles vs. 25 miles, p < 0.001). Among respondents who missed work, those who endorsed interest in telemedicine spent more hours away from work ( p <0 . 0 0 1 ) . T h e n u m b e r o f h o u r s o f school missed and amount of money spent were not associated with increased interest in telemedicine (T able 1).",
+    "question": "What percentage of the Kansas City cohort was interested in a telemedicine option, and what factors were found to be significantly associated with this interest in 'Decreasing patient cost and travel time through pediatric rheumatology telemedicine visits'?",
+    "answer": "Forty-two percent of the Kansas City cohort expressed interest in a telemedicine option. Respondents interested in telemedicine lived further from the Kansas City clinic (68 miles compared to 25 miles for those not interested) and, among those who missed work, spent more hours away from work.",
+    "check_human": "true"
+  },
+  {
+    "title": "From theory to practice in road safety policy Understanding risk versus mobility",
+    "context": "Peltzman (1975) introduced the \"risk compensation\" theory within economics, arguing that any regulatory measure intended to reduce risk could be entirely offset by changes in driver behavior. His analysis of US vehicle safety regulations from the mid-1960s suggested that the expected engineering-based risk reduction was completely negated by increased driver recklessness. This behavioral response reportedly led to a rise in \"driving intensity,\" specifically contributing to an increase in pedestrian fatalities.",
+    "question": "What does Peltzman's (1975) 'risk compensation' theory propose regarding the effectiveness of risk reduction measures, and what specific consequence did it attribute to early US vehicle safety regulations?",
+    "answer": "Peltzman's 'risk compensation' theory proposes that risk reduction measures can be completely offset by increased driver risk-taking. It attributed increased pedestrian fatalities, due to heightened 'driving intensity,' as a consequence of early US vehicle safety regulations.",
+    "check_human": "true"
+  },
+  {
+    "title": "GRADUATION DETERMINANTS OF PRODUCTIVE SAFETY NET PROGRAM BENEFICIARY HOUSEHOLDS A LOGISTIC ANALYSIS, TIGRAI-ETHIOPIA",
+    "context": "The Productive Safety Net Program was established to address chronic food insecurity by providing transfers and protecting assets. However, the program's design inherently limits its standalone capability to achieve the ultimate goal of graduation. Success depends on broader synergistic efforts beyond its core functions.",
+    "question": "Why is the Productive Safety Net Program alone insufficient to solely drive graduation, and what does its success depend on?",
+    "answer": "The Productive Safety Net Program alone is aimed at asset protection and cannot solely drive graduation; therefore, its success depends on the performance and integration with other food security and income-generating programs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Stock market development and low-carbon economy The role of innovation and renewable energy",
+    "context": "In this study, we specifically focus on stock market development, instead of other measures of financial market development, because the EU's market capitalisation is about 77.9% of its nominal GDP by December 2017, including companies focused on renewable energy and technological innovation. Moreover, most of the sample countries use a common currency. However, renewable energy requires a long-term financing commitment. Hence, we consider the stock market capitalisation of the listed companies as the sole measure of the stock market development.",
+    "question": "Why does the study specifically use market capitalisation as the sole measure for stock market development, rather than other financial market development proxies?",
+    "answer": "The study focuses on market capitalisation because the EU's market capitalisation was about 77.9% of its nominal GDP by December 2017, including companies focused on renewable energy and technological innovation, and most sample countries use a common currency, with renewable energy requiring long-term financing.",
+    "check_human": "true"
+  },
+  {
+    "title": "Enhancing Accountability and Transparency in the Public Sector A Comprehensive Review of Public Sector Accounting Practices",
+    "context": "Public sector accounting practices play a pivotal role in facilitating accountability and transparency. These practices encompass various financial management processes, reporting mechanisms, and auditing procedures designed to ensure the proper utilization of public resources and the disclosure of financial information to the public [5]–[7]. This section of the literature review delves into the various accounting methods employed in the public sector, such as accrual accounting, budgeting and financial reporting, performance measurement, and cost accounting.",
+    "question": "What do public sector accounting practices encompass, and which accounting methods are specifically mentioned as being employed in the public sector?",
+    "answer": "Public sector accounting practices encompass various financial management processes, reporting mechanisms, and auditing procedures designed to ensure the proper utilization of public resources and the disclosure of financial information to the public, and methods employed include accrual accounting, budgeting and financial reporting, performance measurement, and cost accounting.",
+    "check_human": "true"
+  },
+  {
+    "title": "Internet use and need for digital health technology among the elderly a cross-sectional survey in China",
+    "context": "By the end of 2018, 98.6% of Internet users accessed it using mobile phones in China. The Internet penetration rate in China was 57.7%, and that in Heilongjiang Province was 52%. However, many elderly believe that they are excluded from the online environment. By December 2017, Internet users aged 60 and older accounted for 5.2% of all Internet users and only 16.7% of the total population of the elderly [7].",
+    "question": "What was the dominant method of Internet access in China by the end of 2018, and what was the proportion of elderly Internet users by December 2017?",
+    "answer": "By the end of 2018, 98.6% of Internet users in China accessed it using mobile phones. By December 2017, Internet users aged 60 and older constituted 5.2% of all Internet users and only 16.7% of the total elderly population.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences",
+    "context": "The article highlights a significant risk associated with the advancement of augmented machine intelligence and algorithmic complexity: the potential erosion of human control over the digitally mediated environment. As calculative practices become increasingly internalized by citizens and technological systems grow less transparent, human capacity to imagine alternative directions for innovation is constrained. This pathway also raises concerns about the potential for artificial intelligence to develop intentions conflicting with human will.",
+    "question": "What critical risk does the increasing complexity of algorithmic systems and the rise of augmented machine intelligence pose to human agency and societal direction, as discussed in the document?",
+    "answer": "The increasing complexity of algorithmic systems and augmented machine intelligence risks human beings losing the ability to control the digitally mediated environment and constrains their capacity to imagine alternative technological innovation pathways.",
+    "check_human": "true"
+  },
+  {
+    "title": "Public value creation in digital government",
+    "context": "Public value creation is considered the outcome of a production process where public services fulfill collective goals, involving administrative processes to balance values from combined service consumption. It is not simply the sum of goals fulfilled by individual services but rather results from citizens valuing what is delivered by the consumption of aggregated public services. This means public value emerges from the trade-off inherent in balancing multiple public services consumed collectively.",
+    "question": "How is public value created through the provision of public services, particularly in relation to the aggregation of services and the collective consumption by citizens?",
+    "answer": "Public value is created when citizens consume aggregated public services and value what is delivered by this combined consumption, rather than the sum of individual service values. It represents a trade-off resulting from the balance of multiple public services consumed collectively to fulfill collective goals.",
+    "check_human": "true"
+  },
+  {
+    "title": "ICU Telemedicine and Critical Care Mortality A National Effectiveness Study",
+    "context": "In the difference-in-differences analysis, ICU telemedicine adoption was associated with a small relative reduction in 90-day mortality (ratio of odds ratios: 0.96, 95% CI = 0.95–0.98, p<0.001). However, there was wide variation in the ICU telemedicine effect across individual hospitals (median ratio of odds ratios: 1.01; interquartile range 0.85–1.12; range 0.45–2.54). Only 16 case hospitals (12.2%) experienced statistically significant mortality reductions post-adoption.",
+    "question": "What was the overall effect of ICU telemedicine adoption on 90-day mortality in the difference-in-differences analysis, and how much variation was observed across hospitals?",
+    "answer": "ICU telemedicine adoption was associated with a small relative reduction in 90-day mortality (ratio of odds ratios: 0.96, 95% CI = 0.95–0.98, p<0.001). There was wide variation in the ICU telemedicine effect across individual hospitals, with only 16 case hospitals (12.2%) experiencing statistically significant mortality reductions post-adoption.",
+    "check_human": "true"
+  },
+  {
+    "title": "Power in global governance an expanded typology from global health",
+    "context": "An important advance made by Bourdieu was to conceptualize power as capital: the two concepts “amount to the same thing ” [12]. Hanefeld and Walt highlighted the utility of Bourdieu ’s four forms of capital—economic, cultural, social, and symbolic —for understanding power in global health [ 19]. By conceptualizing power as capital, Bourdieu emphasized its fungibility and productiveness—the ways in which one kind of power could be transformed into and amplify others.",
+    "question": "How did Pierre Bourdieu conceptualize power, and what did this conceptualization emphasize about power?",
+    "answer": "Pierre Bourdieu conceptualized power as capital, stating that the two concepts \"amount to the same thing.\" This conceptualization emphasized power's fungibility and productiveness, illustrating how one kind of power could be transformed into and amplify others.",
+    "check_human": "true"
+  },
+  {
+    "title": "Where Chain Governance and Environmental Governance Meet Interfirm Strategies in the Canned Tuna Global Value Chain",
+    "context": "The paper's conclusion asserts that chain governance and environmental governance are not merely intertwined but are fundamentally inseparable and mutually constituted. Downstream chain governance dynamics, characterized by concentration and centralization, generate a demand for high volumes of raw material, which directly influences fishing practices and state-led efforts to manage resource extraction. Concurrently, firms strategically develop and deploy environmentally-oriented standards and associations, thereby melding environmental conditions with existing chain dynamics to assert control over other firms or improve their competitive standing.",
+    "question": "In what way are chain governance and environmental governance considered 'mutually constitutive' according to the paper's conclusion?",
+    "answer": "Chain governance and environmental governance are mutually constitutive because downstream chain governance, driven by concentration and centralization, creates an imperative for high volumes of raw material, which shapes fishing practices and state-led regulatory efforts. Simultaneously, firms strategically deploy environmentally-oriented standards and associations to meld environmental conditions with existing chain dynamics, expressing control over other firms or improving their competitive position.",
+    "check_human": "true"
+  },
+  {
+    "title": "Monetary-Fiscal Policy Interactions and Fiscal Stimulus",
+    "context": "The research emphatically demonstrates that accurately comprehending the impacts of a fiscal stimulus necessitates a joint analysis of monetary and fiscal policies. It highlights that differing assumptions regarding this joint monetary-fiscal behavior can lead to profoundly varied conclusions concerning the potential economic outcomes of fiscal stimulus initiatives. The paper's results underscore the critical importance of considering the interplay between these two policy domains for robust macroeconomic analysis.",
+    "question": "What is the fundamental conclusion of the paper regarding the analysis of fiscal stimulus impacts?",
+    "answer": "The fundamental conclusion is that the impacts of a fiscal stimulus cannot be understood without studying monetary and fiscal policies jointly, as different assumptions about their combined behavior lead to sharply different conclusions about the stimulus's consequences.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences",
+    "context": "This article examines some of the relationships between economic and social inequality and digitally mediated communication. Researchers generally agree that there is a reciprocal relationship between expressions of inequality and changes in the digitally mediated world, but there are large differences in their views about how these relationships work and whether inequality is likely to persist into the future. In the digital divide research tradition, there are instrumental and critical approaches and some of the limitations of the instrumental approach are highlighted.",
+    "question": "What is the general agreement among researchers regarding the relationship between economic and social inequality and changes in the digitally mediated world?",
+    "answer": "Researchers generally agree that there is a reciprocal relationship between expressions of inequality and changes in the digitally mediated world, although there are large differences in their views about how these relationships work and whether inequality is likely to persist into the future.",
+    "check_human": "true"
+  },
+  {
+    "title": "Yellow Brick Road to Digital State",
+    "context": "At the same time, some state bodies cannot provide a unified architecture for their digital environment. In these situations, they are forced to coordinate their actions and projects at the governmental level (Osipov, 2016); when digitalizing their public service system, this acts as a consolidating and directing center. The role of each national government is not limited to consolidating the ideas of disparate and independent state bodies; the tasks faced by national government are much greater than might seem at first glance. The government should not only develop, approve and implement their digitalization strategy (in which the goals, objectives, priorities, and methods of its implementation are clearly fixed); it should also offer a unified IT platform, as well as the technical standards necessary for developing the components necessary to underpin their digital environment (with the possibility of their integration with each other based on a single digital platform), and ensure the timely submission of bills to parliament, which will fix new institutional conditions for the provision of public services amongst many others.",
+    "question": "What are the expanded tasks of national governments beyond consolidating ideas, especially regarding digitalization strategy and IT infrastructure?",
+    "answer": "National governments' tasks extend beyond consolidating ideas from disparate state bodies to include developing, approving, and implementing digitalization strategies, offering a unified IT platform with necessary technical standards, and ensuring timely submission of bills to parliament to fix new institutional conditions for public services.",
+    "check_human": "true"
+  },
+  {
+    "title": "TVET, economy and sustainable development",
+    "context": "There are several challenges and ba rriers to the effective implementation of technical and vocational education and training (TVET) programs for economic development (Mao et al., 2016): Funding One of the main challenges facing TVET programs is a lack of adequate funding. Many TVET prog rams struggle to secure sufficient resources to cover the costs of instructional materials, equipment, faculty salaries, and other expenses (Paryono, 2017b).",
+    "question": "What is identified as a primary financial barrier hindering the effective implementation of TVET programs for economic development?",
+    "answer": "A primary financial barrier hindering the effective implementation of TVET programs for economic development is a lack of adequate funding. Many TVET programs struggle to secure sufficient resources. These resources are necessary to cover costs such as instructional materials, equipment, and faculty salaries.",
+    "check_human": "true"
+  },
+  {
+    "title": "The effect of Kenya’s free maternal health care policy on the utilization of health facility delivery services and maternal and neonatal mortality in public health facilities",
+    "context": "Through this policy, public health facilities are reimbursed for costs incurred while providing delivery services through a capitation fund provided by the Ministry of Health. This policy provides equal reimbursement for both spontaneous vaginal deliveries and caesarean sections. The amounts reimbursed to health facilities are based on their capacity to manage pregnancy and delivery complications.",
+    "question": "How are public health facilities reimbursed for providing free delivery services under Kenya's free maternal health care policy?",
+    "answer": "Public health facilities are reimbursed for costs incurred while providing delivery services through a capitation fund from the Ministry of Health. The policy offers equal reimbursement for both spontaneous vaginal deliveries and caesarean sections, with amounts based on the facility's capacity to manage complications.",
+    "check_human": "true"
+  },
+  {
+    "title": "Measuring Outcomes of Digital Transformation in Public Administration Literature Review and Possible Steps Forward",
+    "context": "Despite considerable enthusiasm regarding the potential of digital transformation in public administration, there is limited academic literature on effectively measuring the actual benefits it provides to all relevant stakeholders. International indices often focus on the availability of e-services for citizens and businesses, overlooking crucial aspects such as actual use, quality, and effects on government-to-government (G2G) and government-to-employees (G2E) interactions. Furthermore, advanced indices like the EU Digital Economy and Society Index (DESI) frequently fail to fully account for the costs and potential risks associated with digital government initiatives. This research gap highlights the necessity for a more comprehensive approach to evaluating digital transformation outcomes.",
+    "question": "What is the primary gap in the existing literature concerning digital transformation in public administration, particularly regarding the measurement of its outcomes and benefits for various stakeholders?",
+    "answer": "The primary gap is the limited literature on measuring the actual benefits of digital transformation for all stakeholders, with existing international indices often concentrating on e-service availability (G2C, G2B) rather than actual use, quality, or impacts on G2G and G2E dimensions, and frequently not accounting for costs and risks.",
+    "check_human": "true"
+  },
+  {
+    "title": "The worldwide trend to high participation higher education dynamics of social stratification in inclusive systems",
+    "context": "By deﬁnition, HPS higher education is more socially inclusive than elite higher education. The trend to HPS lifts the threshold of human agency, capability and rights (Sen 2000), provided that the higher education is sufﬁciently formative to augment people’s capa-bilities and/or social trajectories. In a high participation-based society, the average indi-vidual should be more comfortable with knowledge and information and other tools of reﬂexivity, more effective and creative in communication and civil organisation, more capable in dealing with corporations and governments, and potentially more proactive, ﬂexible and productive at work. These are important gains.",
+    "question": "What are the positive societal impacts and individual gains associated with the trend towards High Participation Systems (HPS) in higher education?",
+    "answer": "The trend to HPS makes higher education more socially inclusive, lifts the threshold of human agency, capability, and rights, and should make the average individual more comfortable with knowledge, effective in communication, capable in dealing with institutions, and proactive and productive at work.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social Protection for the Poor and Poorest in Developing Countries Reflections on a Quiet Revolution",
+    "context": "Social protection in developing countries, particularly since the early 1990s, exhibits several distinguishing features that set it apart from its counterparts in advanced industrial nations. It primarily focuses on poverty reduction, specifically targeting the poor and poorest segments of the population. These initiatives increasingly rely on income transfers, often combined with access to basic services or opportunities for productive employment and asset building, and adopt a 'productivist' approach aiming for broader social and economic development. Moreover, there is a plurality of providers, including government agencies, multilateral and bilateral international organizations, and national and international NGOs.",
+    "question": "What are the distinguishing features of social protection as it has emerged in developing countries since the early 1990s?",
+    "answer": "Distinguishing features include a strong focus on poverty reduction for the poor and poorest, increasing reliance on income transfers combined with access to basic services and/or productive employment and asset building, a \"productivist\" bent contributing to social and economic development, and a plurality of providers involving government, multilateral and bilateral international organizations, and NGOs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Understanding inequities in health and health systems in Latin America and the Caribbean a thematic series",
+    "context": "The financially constrained health systems in Latin America often fail to guarantee quality care for numerous vulnerable and historically excluded populations. These groups include women and girls, the LGBTQ+ community, indigenous peoples, ethnic minorities, and migrants and refugees. Such inequities are rooted in complex historical, political, and economic contexts that limit equitable access to quality healthcare and public health services.",
+    "question": "Which specific population groups in Latin America and the Caribbean are particularly affected by health inequities and limited access to quality care, according to the document?",
+    "answer": "Specific population groups affected by health inequities and limited access to quality care in Latin America include women and girls, the LGBTQ+ community, indigenous peoples, ethnic minorities, and migrants and refugees.",
+    "check_human": "true"
+  },
+  {
+    "title": "Sustainable development goals and inclusive development",
+    "context": "While sustainable development has ecological, social and economic aspects, the difﬁculties in optimizing all three aspects for present and future generations has led to the rise of concepts that embody dualities of this trinity—green economy/growth (which combines the environment with the economy, UNEP 2011; World Bank 2012), green society (which combines the environment with social goals), inclusive growth (which combines growth with social aspects) and inclusive development (which focuses on social and ecological aspects) (Gupta and Baud 2015). Green growth and inclusive growth are the two most dominant dualities and both have neo-liberal roots but take on an additional dimension—either environmental issues or the need to share economic growth with the poorest. In contrast, inclusive development questions the need for continuous economic growth in a business-as-usual paradigm (Sect. 2.2).",
+    "question": "What are some of the dualities that have emerged in development concepts due to the challenge of optimizing ecological, social, and economic aspects of sustainable development?",
+    "answer": "Due to the difficulties in optimizing ecological, social, and economic aspects of sustainable development for present and future generations, concepts that embody dualities have arisen, including green economy/growth, green society, inclusive growth, and inclusive development.",
+    "check_human": "true"
+  },
+  {
+    "title": "Shifting the State Burden in Infrastructure Financing through the Issuance of Government Sukuk",
+    "context": "The ECM includes the ECT (Error Correction Term) coefficient. If the ECT coefficient is significant and has a positive value, the model specifications used in the study are reliable and valid. The ECT value is located between 0 < α 7 < 1. The ECT shows an imbalance correction coefficient as an absolute value that explains how fast time is needed to get the balance value.",
+    "question": "What role does the Error Correction Term (ECT) coefficient play in determining the reliability and validity of the ECM model in this study?",
+    "answer": "If the Error Correction Term (ECT) coefficient is significant and has a positive value (between 0 and 1), it indicates that the model specifications used in the study are reliable and valid.",
+    "check_human": "true"
+  }
+]

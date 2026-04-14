@@ -1,13 +1,21 @@
-import { Card, CardContent, CardHeader, CardTitle } from '@/app/components/ui/card';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/app/components/ui/table';
-import { IndexingStrategy } from './indexingChunkingData';
+import { Card, CardContent, CardHeader, CardTitle } from '../../ui/card';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '../../ui/table';
+
+export interface IndexingStrategy {
+  name: string;
+  buildTime: number;
+  queryLatency: number;
+  recall: number | null;
+  memory: number | null;
+  bestFor?: string;
+}
 
 interface IndexingStrategyTableProps {
   strategies: IndexingStrategy[];
 }
 
 export default function IndexingStrategyTable({ strategies }: IndexingStrategyTableProps) {
-  const getBestFor = (name: string) => {
+  const getBestForFallback = (name: string) => {
     if (name === 'Flat') return 'Perfect recall';
     if (name === 'IVF (nlist=100)') return 'Balanced';
     if (name === 'HNSW (M=32)') return 'Low latency';
@@ -21,6 +29,7 @@ export default function IndexingStrategyTable({ strategies }: IndexingStrategyTa
       <CardHeader>
         <CardTitle>Indexing Strategy Comparison</CardTitle>
       </CardHeader>
+
       <CardContent>
         <Table>
           <TableHeader>
@@ -33,27 +42,46 @@ export default function IndexingStrategyTable({ strategies }: IndexingStrategyTa
               <TableHead>Best For</TableHead>
             </TableRow>
           </TableHeader>
+
           <TableBody>
-            {strategies.map((strategy) => (
-              <TableRow key={strategy.name}>
-                <TableCell className="font-medium">{strategy.name}</TableCell>
-                <TableCell className="text-right">{strategy.buildTime}s</TableCell>
-                <TableCell className="text-right">
-                  <span className={strategy.queryLatency < 10 ? 'text-green-600 dark:text-green-400' : ''}>
-                    {strategy.queryLatency}ms
-                  </span>
-                </TableCell>
-                <TableCell className="text-right">
-                  <span className={strategy.recall >= 0.98 ? 'text-green-600 dark:text-green-400' : ''}>
-                    {(strategy.recall * 100).toFixed(1)}%
-                  </span>
-                </TableCell>
-                <TableCell className="text-right">{strategy.memory} GB</TableCell>
-                <TableCell className="text-sm text-gray-600 dark:text-gray-400">
-                  {getBestFor(strategy.name)}
-                </TableCell>
-              </TableRow>
-            ))}
+            {strategies.map((strategy) => {
+              const recallPct =
+                typeof strategy.recall === 'number' ? `${(strategy.recall * 100).toFixed(1)}%` : '—';
+              const memoryText =
+                typeof strategy.memory === 'number' ? `${strategy.memory.toFixed(2)} GB` : '—';
+
+              const bestFor = (strategy.bestFor || '').trim() || getBestForFallback(strategy.name);
+
+              return (
+                <TableRow key={strategy.name}>
+                  <TableCell className="font-medium">{strategy.name}</TableCell>
+
+                  <TableCell className="text-right">{strategy.buildTime}s</TableCell>
+
+                  <TableCell className="text-right">
+                    <span className={strategy.queryLatency < 10 ? 'text-green-600 dark:text-green-400' : ''}>
+                      {strategy.queryLatency}ms
+                    </span>
+                  </TableCell>
+
+                  <TableCell className="text-right">
+                    <span
+                      className={
+                        typeof strategy.recall === 'number' && strategy.recall >= 0.98
+                          ? 'text-green-600 dark:text-green-400'
+                          : ''
+                      }
+                    >
+                      {recallPct}
+                    </span>
+                  </TableCell>
+
+                  <TableCell className="text-right">{memoryText}</TableCell>
+
+                  <TableCell className="text-sm text-gray-600 dark:text-gray-400">{bestFor}</TableCell>
+                </TableRow>
+              );
+            })}
           </TableBody>
         </Table>
       </CardContent>

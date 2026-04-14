@@ -1,0 +1,702 @@
+[
+  {
+    "title": "From theory to practice in road safety policy Understanding risk versus mobility",
+    "context": "The paper reviews theoretical issues surrounding transport safety modeling and the implications for road safety policy. It states that behavioral mechanisms that affect transport safety are typically not considered in safety modeling. It discusses these issues in the context of trade-offs between risk-taking and other mobility objectives. It links these ideas to improvements in empirical work and crash modeling.",
+    "question": "What key limitation of transport safety modeling does the abstract identify?",
+    "answer": "It identifies that behavioral mechanisms affecting transport safety are typically not considered in safety modeling.",
+    "check_human": "true"
+  },
+  {
+    "title": "Communal Land and Agricultural Productivity",
+    "context": "The paper analyzes communal land tenure systems common in developing countries, especially Sub-Saharan Africa. Communal land allows use but restricts transfer through sale or rental. The study focuses on how these restrictions affect productivity and labor allocation. A dynamic general equilibrium model calibrated to Ethiopia is used.",
+    "question": "What type of land tenure system is examined in the study on communal land?",
+    "answer": "The study examines communal land tenure systems that restrict land transfer while allowing use rights.",
+    "check_human": "true"
+  },
+  {
+    "title": "Emerging solutions to the water challenges of an urbanizing world",
+    "context": "Urban water systems face growing economic and environmental pressures. Aging infrastructure, increasing urbanization, emerging contaminants, and competitive water uses are raising costs and complexity. These developments question whether existing urban water management systems remain the best solution.",
+    "question": "What developments are increasing economic and environmental pressures on urban water management systems?",
+    "answer": "aging infrastructure, increasing urbanization, emerging contaminants, and competitive water uses",
+    "check_human": "true"
+  },
+  {
+    "title": "Epidemiology of general anesthesia prior to age 3 in a population‐based birth cohort",
+    "context": "The study found that approximately one in seven children were exposed to general anesthesia before age 3. It also found that about one in four children who received general anesthesia fell into the high-risk category defined by the FDA warning. These findings were considered relevant for healthcare providers, regulators, and policymakers. The authors concluded that disparities related to race and ethnicity deserved further exploration. :contentReference[oaicite:4]{index=4}",
+    "question": "What major conclusion did the study draw about exposure to general anesthesia before age 3?",
+    "answer": "The study concluded that about one in seven children were exposed to general anesthesia before age 3, and about one in four exposed children met the FDA high-risk criteria.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital financial inclusion evidence from Ukraine",
+    "context": "Digital financial inclusion depends on the availability of digital infrastructure and remote service channels. Consumers may access their financial accounts using mobile phones or internet-based systems. Digital payments and online financial services provide convenient ways to manage finances without visiting financial institutions. These systems improve accessibility and flexibility of financial services. :contentReference[oaicite:9]{index=9}",
+    "question": "What role do digital infrastructure and remote channels play in digital financial inclusion?",
+    "answer": "They enable consumers to access financial accounts, make digital payments, and manage financial services remotely through mobile phones and internet systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Open Government Portals Assessment A Transparency for Accountability Perspective",
+    "context": "Despite the rapid expansion of open government data portals, there is still limited research evaluating whether these portals truly improve transparency and accountability. Many initiatives publish data but lack clear frameworks for assessing their effectiveness.",
+    "question": "What problem exists in evaluating open government portals?",
+    "answer": "A key problem is the lack of clear frameworks to evaluate whether open government portals actually improve transparency and accountability.",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of globalization on regional development and competitiveness cases of selected regions",
+    "context": "Regional competitiveness is linked to productivity, efficiency, and profitability. It reflects a region’s ability to produce goods and services that compete internationally. Competitive regions can sustain development and improve economic performance. Productivity plays a central role in this process.",
+    "question": "What factors determine regional competitiveness according to the study?",
+    "answer": "Productivity, efficiency, and profitability determine regional competitiveness.",
+    "check_human": "true"
+  },
+  {
+    "title": "National Surgical, Obstetric, and Anesthesia Plans Supporting the Vision of Universal Health Coverage",
+    "context": "Improving access to surgical care contributes to universal health coverage. Surgical services address many essential health conditions. Expanding these services improves population health. This supports global health goals.",
+    "question": "How does expanding surgical care support universal health coverage?",
+    "answer": "By improving access to essential surgical services that address major health conditions and improve population health.",
+    "check_human": "true"
+  },
+  {
+    "title": "Labor Market Slack and Monetary Policy",
+    "context": "Labor market slack can place downward pressure on wages during periods of weak economic recovery. Underemployment and hidden unemployment represent additional forms of slack beyond the conventional unemployment rate. Evidence from state-level data shows that each of these forms exerts significant downward pressure on nominal wages. :contentReference[oaicite:2]{index=2}",
+    "question": "What effect do underemployment and hidden unemployment have on nominal wages?",
+    "answer": "Underemployment and hidden unemployment each place significant downward pressure on nominal wages.",
+    "check_human": "true"
+  },
+  {
+    "title": "Driving energy: the enactment and ambitiousness of state renewable energy policy",
+    "context": "The study finds that Democratic control of state legislatures is the most consistent determinant of ambitious renewable portfolio standards. States with Democratic legislative majorities tend to adopt policies that require larger increases in renewable energy production. Electricity prices also influence ambitiousness, with higher prices associated with more ambitious standards. Other commonly cited factors show no significant effect.",
+    "question": "What is the most important political factor determining renewable portfolio standard ambitiousness?",
+    "answer": "Democratic control of state legislative chambers is the most important determinant of policy ambitiousness.",
+    "check_human": "true"
+  },
+  {
+    "title": "Obligations of low income countries in ensuring equity in global health financing",
+    "context": "The article argues that discussions on global health equity have largely neglected the obligations of low-income countries in health financing. While global health justice is commonly framed as a shared responsibility, existing proposals focus mainly on transfers from high-income countries. The authors contend that equity in global health financing cannot be achieved without clearly defined domestic obligations for low-income governments. Health financing is identified as a priority area for addressing this gap.",
+    "question": "What main gap in global health equity debates do the authors identify?",
+    "answer": "They identify the neglect of low-income countries’ own obligations in health financing within global health equity discussions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Research, part of a Special Feature on Urban Water Governance Political ecology of inter-basin water transfers in Turkish water governance",
+    "context": "Inter-basin water transfer involves moving water from one river basin to another. This approach is widely used to meet the water needs of growing urban populations. However, such transfers create trade-offs between regions and ecosystems. Downstream users are often disproportionately affected.",
+    "question": "What is inter-basin water transfer?",
+    "answer": "It is the transfer of water from one geographically distinct river basin to another.",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of maternal health service utilization in Ethiopia analysis of the 2011 Ethiopian Demographic and Health Survey",
+    "context": "Maternal health services such as antenatal care (ANC), skilled delivery attendants, and postnatal care (PNC) are essential for reducing maternal mortality and improving health outcomes for mothers and newborns. :contentReference[oaicite:5]{index=5}",
+    "question": "Which maternal health services are essential for reducing maternal mortality?",
+    "answer": "Key maternal health services include antenatal care (ANC), skilled delivery attendance during childbirth, and postnatal care (PNC).",
+    "check_human": "true"
+  },
+  {
+    "title": "Does Green Banking Performance Pay Off Evidence from a Unique Regulatory Setting in Bangladesh",
+    "context": "The study also analyzes the role of banks’ political connections. It finds that political connections negatively affect the relationship between green banking performance and financial performance. According to the article, this occurs because political connections counterbalance green banking’s non-financial benefits. As a result, political connections weaken the positive effect of green banking performance.",
+    "question": "How do political connections affect the link between green banking performance and financial performance?",
+    "answer": "Political connections negatively affect the relationship by weakening the positive effect of green banking performance on financial performance.",
+    "check_human": "true"
+  },
+  {
+    "title": "Data Governance and Regulation for Sustainable Smart Cities",
+    "context": "Digital technologies can both support and hinder sustainability goals. Smart solutions may increase efficiency and reduce resource use. At the same time, digital infrastructures consume energy and may accelerate unsustainable growth.",
+    "question": "Why is assessing the environmental impact of smart technologies complex?",
+    "answer": "smart solutions can increase efficiency but they also consume lots of energy and may accelerate unsustainable growth dynamics",
+    "check_human": "true"
+  },
+  {
+    "title": "The Principal Role of Organic Fertilizer on Soil Properties and Agricultural Productivity -A Review",
+    "context": "The paper identifies multiple sources of organic fertilizers, including animal manure, plant residues, compost, green manure, and sewage sludge. These sources contribute organic matter and nutrients to the soil. Their use enhances nutrient cycling and reduces dependence on external inputs. The diversity of sources allows for local and farm-based fertilizer production.",
+    "question": "What are the main sources of organic fertilizers identified in the review?",
+    "answer": "They include animal manure, plant residues, compost, green manure, sewage sludge, and certain mineral-based organic inputs.",
+    "check_human": ""
+  },
+  {
+    "title": "Universal Health Coverage",
+    "context": "The article states that oral diseases have a disproportionate impact on poorer and less educated groups. It also notes that oral diseases are the fourth most expensive disease to treat. Out-of-pocket payments for dental care can place major pressure on limited personal resources. This can increase the risks of poverty and further illness for vulnerable populations.",
+    "question": "What economic burden of oral disease is emphasized in the article?",
+    "answer": "The article emphasizes that oral diseases are the fourth most expensive disease to treat and that out-of-pocket dental expenses can increase poverty and illness.",
+    "check_human": "true"
+  },
+  {
+    "title": "Integrating rural development and biodiversity conservation in Central Romania",
+    "context": "Researchers conducted interviews with representatives from town halls in villages in Southern Transylvania. These interviews aimed to understand perceptions of EU rural development policies. Structured questionnaires and semi-structured interviews were used in the study.",
+    "question": "What research methods were used to examine perceptions of EU rural development policy in Southern Transylvania?",
+    "answer": "Structured questionnaires and semi-structured interviews with town hall representatives and local EU experts were used in the study.",
+    "check_human": ""
+  },
+  {
+    "title": "Development Aid and Climate Finance",
+    "context": "Climate finance refers to financial transfers from developed countries to developing countries to support climate mitigation and adaptation efforts. :contentReference[oaicite:5]{index=5}",
+    "question": "What is climate finance in the context of international development?",
+    "answer": "Climate finance refers to financial transfers from developed countries to developing countries to support efforts to reduce greenhouse gas emissions and adapt to climate change.",
+    "check_human": "true"
+  },
+  {
+    "title": "Remittances, Migrants' Education and Immigration Policy Theory and Evidence from Bilateral Data",
+    "context": "Highly educated migrants may remit more because they earn higher incomes and have better access to financial systems, but they may also remit less if they migrate with their families or have weaker ties to their home country. :contentReference[oaicite:24]{index=24}",
+    "question": "Why is the relationship between migrants’ education and remittances theoretically ambiguous?",
+    "answer": "Because educated migrants may send more due to higher income but may also send less if they migrate with their families or maintain weaker ties with their home country. :contentReference[oaicite:25]{index=25}",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental quality and the role of economic policy uncertainty, economic complexity, renewable energy, energy intensity: the case of G7 countries",
+    "context": "Renewable energy sources are considered cleaner, inexhaustible and environmentally friendly compared to fossil fuels.",
+    "question": "Why is renewable energy considered environmentally beneficial?",
+    "answer": "because it is cleaner, inexhaustible and less harmful to the environment than fossil fuel energy",
+    "check_human": "true"
+  },
+  {
+    "title": "Information, Institutions and Governance: Advancing a Basic Social Science Research Program for Digital Government",
+    "context": "The report was developed following a national workshop supported by the National Science Foundation. Scholars from multiple disciplines participated, including political science, sociology, public management, and computer science. The workshop aimed to define a coherent, multidisciplinary research agenda. This collaborative process shaped the report’s strategic priorities.",
+    "question": "What was the purpose of the national workshop underlying this report?",
+    "answer": "The workshop aimed to develop a multidisciplinary social science research agenda to advance digital government research.",
+    "check_human": "true"
+  },
+  {
+    "title": "Role of Artificial Intelligence in Smart Cities for Information Gathering and Dissemination (A Review)",
+    "context": "Artificial intelligence works closely with big data in smart city environments. Big data is characterized by large volume, high velocity, and a wide variety of information. Artificial intelligence systems analyze these massive datasets to generate insights and predictions. This analysis helps improve the management of city services and infrastructure. :contentReference[oaicite:12]{index=12}",
+    "question": "Why is artificial intelligence closely related to big data in smart cities?",
+    "answer": "Because AI analyzes large, fast-generated, and diverse datasets to generate insights and predictions for city management.",
+    "check_human": "true"
+  },
+  {
+    "title": "Land Conflict and Distributive Politics in Kenya",
+    "context": "State allocation of land in Kenya has historically been used as an instrument of distributive politics. Governments have granted access to land strategically to build political constituencies. This practice has helped leaders retain and expand political power. :contentReference[oaicite:8]{index=8}",
+    "question": "How has the Kenyan state used land allocation in political strategy?",
+    "answer": "Governments have used land allocation strategically to engineer political constituencies that support them.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Complexity of Health Service Integration A Review of Reviews",
+    "context": "Systematic reviews involve a rigorous scientific approach to an existing body of research evidence. Procedures are explicitly defined in advance to ensure transparency and replicability. Eligible studies are critically appraised and the results are summarized and synthesized.",
+    "question": "What characterizes systematic reviews in research methodology?",
+    "answer": "Systematic reviews use a rigorous scientific approach in which procedures are explicitly defined in advance and eligible studies are critically appraised and synthesized.",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental governance for all",
+    "context": "To be politically legitimate and long-lasting, incentives and regulations for conservation and climate mitigation must engage with the claims, rights and knowledge of local and indigenous populations.",
+    "question": "Why must conservation policies involve local and indigenous populations?",
+    "answer": "because engaging their rights, claims and knowledge is necessary for legitimate and long lasting environmental governance",
+    "check_human": "true"
+  },
+  {
+    "title": "Remittances, Migrants' Education and Immigration Policy Theory and Evidence from Bilateral Data",
+    "context": "Remittances are financial transfers sent by migrants to individuals in their home countries. These transfers represent an important source of income for many developing countries. Researchers study remittances to understand their economic and social impacts. Migration policies and migrants’ characteristics can influence the amount sent. :contentReference[oaicite:5]{index=5}",
+    "question": "What are remittances in the context of international migration?",
+    "answer": "They are financial transfers sent by migrants to individuals in their home countries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Current Trends in Malaysian Higher Education and the Effect on Education Policy and Practice An Overview.",
+    "context": "Higher education in Malaysia has expanded significantly in recent decades. The country now includes public universities, polytechnics, community colleges, private universities, and foreign branch campuses. This expansion has increased access to tertiary education. It has also helped position Malaysia as an education hub in Southeast Asia. :contentReference[oaicite:11]{index=11}",
+    "question": "How has Malaysia expanded its higher education system?",
+    "answer": "Malaysia expanded its system by establishing public universities, polytechnics, community colleges, private universities, and foreign university branch campuses.",
+    "check_human": "true"
+  },
+  {
+    "title": "Telemedicine Use in Rural Native American Communities in the Era of the ACA",
+    "context": "Telemedicine can reduce healthcare costs by eliminating travel expenses and enabling remote consultations for patients in geographically isolated areas.",
+    "question": "How can telemedicine reduce healthcare costs for rural populations?",
+    "answer": "Telemedicine reduces healthcare costs by eliminating travel expenses and allowing remote consultations for patients in geographically isolated areas. :contentReference[oaicite:8]{index=8}",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of digital inclusive finance on SMEs’ technological innovation activities—Empirical analysis based on the data of new third board enterprises",
+    "context": "Digital inclusive finance uses technologies such as cloud computing, big data, and mobile connectivity. These technologies improve information processing and reduce transaction costs. They also reduce information asymmetry between financial institutions and SMEs. This improves credit evaluation and financing efficiency.",
+    "question": "Why does digital inclusive finance reduce financing costs for SMEs?",
+    "answer": "Because digital technologies reduce transaction costs and information asymmetry in financial services.",
+    "check_human": "true"
+  },
+  {
+    "title": "Renewable energy policies A comparative analysis of Nigeria and the USA",
+    "context": "Renewable energy offers a clean alternative to fossil fuels and helps reduce greenhouse gas emissions. It also enhances energy security and supports economic development. Renewable resources include solar, wind, hydro, and biomass. These sources contribute to sustainable energy systems.",
+    "question": "What benefits does renewable energy provide according to the study?",
+    "answer": "It reduces emissions, improves energy security, and supports economic development.",
+    "check_human": "true"
+  },
+  {
+    "title": "What should the African health workforce know about disasters Proposed competencies for strengthening public health disaster risk management education in Africa",
+    "context": "Public health disaster risk management (DRM) focuses on preventing, preparing for, responding to and recovering from disasters while protecting population health.",
+    "question": "What does public health disaster risk management focus on?",
+    "answer": "Public health disaster risk management focuses on preventing, preparing for, responding to and recovering from disasters while protecting population health.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social innovation and sustainability; how to disentangle the buzzword and its application in the field of agriculture and rural development",
+    "context": "Social innovation is embedded in social and cultural contexts. Social relations influence how innovations develop and spread. Innovation affects behavior and institutions. This shows the social nature of innovation.",
+    "question": "How are innovations socially embedded?",
+    "answer": "They develop and spread within social and cultural contexts shaped by social relations and institutions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Toward a new era of administrative reform The myth of post-NPM in New Zealand",
+    "context": "New Public Management refers to a set of reforms that emphasize managerial practices in public administration. These reforms promote performance measurement, efficiency and market-based mechanisms. New Public Management became influential in many countries during the late twentieth century.",
+    "question": "What are the key characteristics of New Public Management reforms in public administration?",
+    "answer": "New Public Management reforms emphasize managerial practices, performance measurement, efficiency and market-based mechanisms.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Folly of EU Policy Transfer: Why the CAP does not fit Central and Eastern Europe",
+    "context": "One major issue identified in the study is the difference in farm structures between Central and Eastern Europe and established EU member states.",
+    "question": "What structural difference in agriculture contributes to the mismatch between CAP policies and Central and Eastern Europe?",
+    "answer": "Differences in farm structures between Central and Eastern Europe and older EU member states contribute to the mismatch.",
+    "check_human": "true"
+  },
+  {
+    "title": "Carbon taxes a review of experience and policy design considerations",
+    "context": "Carbon taxes are typically applied to fossil fuels such as coal, oil and natural gas according to their carbon content. Fuels with higher carbon content generate more carbon dioxide emissions when burned. Therefore, the tax rate is usually proportional to the carbon content of the fuel.",
+    "question": "According to the paper, how are carbon taxes typically applied to fossil fuels?",
+    "answer": "Carbon taxes are typically applied to fossil fuels such as coal, oil and natural gas according to their carbon content",
+    "check_human": "true"
+  },
+  {
+    "title": "Economic policy for country’s digitalization a case study",
+    "context": "The article examines the theoretical foundations of the digital economy and digital government in the context of national economic policy. It analyzes Russia’s strategic objectives for digital transformation, emphasizing efficiency, innovation, and improved public administration. Digitalization is presented as a driver of economic modernization and governance reform. The study links digital policy to long-term development goals.",
+    "question": "How does the article conceptualize the role of economic policy in advancing a country’s digitalization strategy?",
+    "answer": "It frames economic policy as a strategic tool for enabling digital government, improving efficiency, fostering innovation, and supporting long-term national development.",
+    "check_human": "true"
+  },
+  {
+    "title": "Technology and labor regulations theory and evidence",
+    "context": "Labor regulations such as unemployment benefits, minimum wages, and firing costs can alter labor supply and influence technology choices across sectors. :contentReference[oaicite:13]{index=13}",
+    "question": "What types of labor regulations can affect technology choices in the economy?",
+    "answer": "Labor regulations such as unemployment benefits, minimum wages, and firing costs can affect technology choices.",
+    "check_human": "true"
+  },
+  {
+    "title": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa",
+    "context": "Many water management reforms emphasize participation of multiple stakeholders. Governments, communities, and development partners often collaborate in planning and implementing water policies. Stakeholder participation is therefore an important feature of water governance.",
+    "question": "Who often collaborate in planning and implementing water policies in integrated water governance?",
+    "answer": "Governments, communities, and development partners often collaborate in planning and implementing water policies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Incorporating telemedicine as part of COVID-19 outbreak response systems.",
+    "context": "Internationally, many countries have expanded laws and regulations to support telemedicine adoption. For example, all Italian regions implemented telemedicine guidelines to facilitate greater use of digital health technologies. These regulatory adaptations increase access to care during the COVID-19 outbreak. Such measures are critical when patients cannot access traditional healthcare facilities.",
+    "question": "How have international regulations supported telemedicine during COVID-19?",
+    "answer": "By expanding laws and guidelines to facilitate greater adoption of telemedicine technologies and increase access to care.",
+    "check_human": "true"
+  },
+  {
+    "title": "What is a sustainable remote health workforce People, practice and place",
+    "context": "In rural and remote regions, access to healthcare services is reliant on the availability of a competent workforce.",
+    "question": "What does access to healthcare services in rural and remote regions rely on?",
+    "answer": "Access to healthcare services in rural and remote regions relies on the availability of a competent workforce.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving preventive service delivery at adult complete health check-ups the Preventive health Evidence-based Recommendation Form (PERFORM) cluster randomized controlled trial",
+    "context": "The study concluded that a simple checklist intervention can significantly improve preventive care delivery. The intervention produced a clinically important increase in preventive services. It required minimal cost and was easy to implement. The checklist helped physicians follow evidence-based recommendations.",
+    "question": "What conclusion did the study reach about the checklist intervention?",
+    "answer": "The study concluded that a simple checklist significantly improves preventive care delivery and helps physicians follow evidence-based recommendations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Informality: Causes and Consequences for Development",
+    "context": "Research shows that informal firms are typically smaller, pay lower wages, employ less educated workers, and earn lower profits than formal firms.",
+    "question": "What characteristics typically distinguish informal firms from formal firms?",
+    "answer": "informal firms are generally smaller, pay lower wages, employ less educated workers, and earn lower profits",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards Principles–Based Approaches to Governance of Health-Related Research Using Personal Data",
+    "context": "The current governance framework for secondary uses of health data has been criticized for creating a conservative culture of governance that makes data linkage for research difficult.",
+    "question": "What criticism is directed at the current governance framework for secondary uses of health data?",
+    "answer": "The framework is criticized for creating a conservative culture of governance that makes data linkage for research difficult.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems",
+    "context": "Digital forensics is a branch of forensic science that focuses on recovering and investigating information from digital devices. It is often used in investigations related to computer crime or security incidents. Organizations typically conduct digital forensic investigations after a significant security event occurs. However, preparing for digital evidence collection before incidents can improve investigative effectiveness. ",
+    "question": "What is digital forensics in the context of information systems?",
+    "answer": "Digital forensics is a branch of forensic science that involves recovering and investigating material found in digital devices, often in relation to computer crime or security incidents.",
+    "check_human": "true"
+  },
+  {
+    "title": "Export Performance as a Measurement of Competitiveness",
+    "context": "Export performance is commonly used as an indicator of a country's competitiveness. Strong export growth reflects the ability to produce goods efficiently and compete internationally. It also indicates integration into global markets. Therefore, exports serve as a measurable proxy for competitiveness.",
+    "question": "Why is export performance used to measure competitiveness?",
+    "answer": "Because strong exports indicate efficient production and successful competition in global markets.",
+    "check_human": "true"
+  },
+  {
+    "title": "Scientific careers and the mobility of European researchers an analysis of international mobility by career stage",
+    "context": "International scientific mobility and research careers are closely related concepts. The study investigates how international mobility influences career progression and job changes among researchers. Using a large-scale survey of researchers in European universities, it examines differences across career stages. The findings show that mobility patterns vary depending on career stage.",
+    "question": "What does the study conclude about the relationship between mobility and career stage?",
+    "answer": "It concludes that mobility patterns vary depending on the researcher’s career stage.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Technologies for Health Workforce Development in Low- and Middle-Income Countries A Scoping Review",
+    "context": "Digital technologies have the potential to improve health workforce capacity in low- and middle-income countries. These technologies can support training, supervision, and communication among health workers. They also provide opportunities for monitoring performance and delivering professional support. As a result, digital tools can strengthen health systems and improve service delivery. :contentReference[oaicite:5]{index=5}",
+    "question": "How can digital technologies support the health workforce in low- and middle-income countries?",
+    "answer": "Digital technologies can support the health workforce by enabling training, supervision, communication, and performance monitoring for health workers.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of Renewable Energy Policy and Use on Innovation A Literature Review",
+    "context": "Technological change is an important factor in renewable energy development. Technological advances help reduce the costs of renewable technologies. This cost reduction increases the market penetration of emission reducing technologies.",
+    "question": "How do technological advances affect renewable energy technologies?",
+    "answer": "technological advances help to lower technology costs and increase market penetration of emission reducing technologies",
+    "check_human": "true"
+  },
+  {
+    "title": "Infrastructuring digital sovereignty a research agenda for an infrastructure-based sociology of digital self-determination practices",
+    "context": "The study suggests examining digital sovereignty through infrastructure-embedded practices. These practices are part of political and economic projects creating autonomous digital infrastructures. Such infrastructures operate within a hyperconnected world. They reflect attempts to increase digital autonomy.",
+    "question": "How does the study propose to analyze digital sovereignty?",
+    "answer": "By examining infrastructure-embedded practices in projects that aim to create autonomous digital infrastructures.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does institutional quality matter for environmental sustainability",
+    "context": "Institutional quality plays an important role in environmental protection. High-quality institutions help allocate resources to efficient and environmentally friendly initiatives. They also create an ecosystem where different actors can contribute to environmental protection. Several studies have shown that better institutional quality can reduce CO2 emissions.",
+    "question": "How can institutional quality influence environmental sustainability?",
+    "answer": "Institutional quality can influence environmental sustainability by allocating resources to efficient and environmentally friendly initiatives and helping reduce CO2 emissions.",
+    "check_human": "true"
+  },
+  {
+    "title": "The behavioral finance of MSMEs in the advancement of financial inclusion and financial technology (Fintech)",
+    "context": "The study finds that financial technology can mediate the relationship between financial inclusion and behavioral finance of MSMEs. Fintech helps improve access to financial services. This supports the achievement of financial inclusion goals. As a result, fintech strengthens the effect of financial inclusion on MSME behavioral finance.",
+    "question": "How does financial technology influence the relationship between financial inclusion and MSME behavioral finance?",
+    "answer": "Financial technology mediates and strengthens the effect of financial inclusion on MSME behavioral finance.",
+    "check_human": "true"
+  },
+  {
+    "title": "What should the African health workforce know about disasters Proposed competencies for strengthening public health disaster risk management education in Africa",
+    "context": "Strengthening disaster risk management education is essential for improving the capacity of the African health workforce.",
+    "question": "Why is strengthening disaster risk management education important for the African health workforce?",
+    "answer": "Strengthening disaster risk management education is important because it improves the capacity of the African health workforce.",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental governance for all",
+    "context": "Local and indigenous populations play a crucial role in governing ecosystems and biodiversity and in meeting global climate change mitigation goals.",
+    "question": "What role do local and indigenous populations play in environmental governance?",
+    "answer": "they help govern ecosystems and biodiversity and contribute to achieving climate change mitigation goals",
+    "check_human": "true"
+  },
+  {
+    "title": "Satisfied or Frustrated A Qualitative Analysis of Need Satisfying and Need Frustrating Experiences of Engaging With Digital Health Technology in Chronic Care",
+    "context": "Digital health technologies are increasingly used to support individuals managing chronic conditions. Digital health technologies such as self-monitoring devices and apps are becoming important tools for promoting healthy habits and supporting self-care. These technologies can assist individuals in monitoring symptoms and treatment outcomes.",
+    "question": "How are digital health technologies described in relation to supporting individuals with chronic conditions?",
+    "answer": "Digital health technologies such as self-monitoring devices and apps are becoming important tools for promoting healthy habits and supporting self-care.",
+    "check_human": "true"
+  },
+  {
+    "title": "Transport and Economic Development",
+    "context": "Research has shown that reduced transport costs can favor the concentration of manufacturing in a small number of centers rather than a more even spatial distribution.",
+    "question": "What effect can reduced transport costs have on the spatial distribution of manufacturing?",
+    "answer": "Reduced transport costs can favor the concentration of manufacturing in a small number of centers.",
+    "check_human": "true"
+  },
+  {
+    "title": "Shifting the State Burden in Infrastructure Financing through the Issuance of Government Sukuk",
+    "context": "Infrastructure development places a heavy burden on government budgets. Public funding sources are often limited. Governments therefore seek alternative financing instruments. Islamic financial instruments such as sukuk are one possible solution.",
+    "question": "Why do governments seek alternative financing instruments for infrastructure?",
+    "answer": "Because infrastructure development requires large funding while government budget resources are limited.",
+    "check_human": "true"
+  },
+  {
+    "title": "Unravelling Stakeholder Perceptions to Enable Adaptive Water Governance in Dryland Systems",
+    "context": "Increasing conflicts over water access and overexploitation of scarce water resources are indicators of management failures. These situations represent an undesirable state of water governance. Such conditions demonstrate inefficient water management.",
+    "question": "What do increasing conflicts over water access indicate about water governance?",
+    "answer": "Increasing conflicts over water access and overexploitation of scarce water resources are indicators of management failures.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Usability, Feasibility, Acceptability, and Efficacy of Digital Mental Health Services in the COVID-19 Pandemic",
+    "context": "The rapid deployment of digital mental health technologies during the pandemic provided opportunities to expand access to psychological support for populations experiencing stress and anxiety.",
+    "question": "How did digital mental health technologies help during the COVID-19 pandemic?",
+    "answer": "They helped expand access to psychological support for populations experiencing stress and anxiety.",
+    "check_human": "true"
+  },
+  {
+    "title": "Climate Change and the Sendai Framework for Disaster Risk Reduction",
+    "context": "The article explains that disaster risk is a combination of hazard and vulnerability. To understand climate change’s influence on disaster risk, both of these dimensions must be considered. Climate change mainly affects hazards, while vulnerability is shaped by social and political conditions. This distinction is central to the article’s argument.",
+    "question": "What two dimensions make up disaster risk according to the article?",
+    "answer": "Disaster risk is made up of hazard and vulnerability.",
+    "check_human": "true"
+  },
+  {
+    "title": "Complexity and Hybrid Public Administration—Theoretical and Empirical Challenges",
+    "context": "Public organizations are increasingly complex in modern governance systems. They must address multiple demands, values and institutional pressures simultaneously. As a result public organizations are becoming increasingly complex and hybrid.",
+    "question": "According to the article, why are public organizations becoming increasingly complex and hybrid?",
+    "answer": "public organizations are becoming increasingly complex and hybrid as they try to attend to numerous and sometimes conflicting ideas, considerations, demands, structures and cultural elements at the same time",
+    "check_human": "true"
+  },
+  {
+    "title": "Fiscal Deficits, Financial Fragility, and the Effectiveness of Government Policies",
+    "context": "Macroeconomic stability depends on balanced fiscal and financial policies. Governments must manage deficits while supporting growth. Financial fragility can complicate policy decisions. Effective policy requires maintaining stability and confidence.",
+    "question": "Why must governments balance fiscal and financial policies?",
+    "answer": "To maintain macroeconomic stability while supporting sustainable economic growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Telehealth and digital health innovations A mixed landscape of access",
+    "context": "Telehealth offers opportunities to improve healthcare access when physical access is not possible. However, the experience since the COVID-19 pandemic shows that many populations in the United States do not or cannot adopt telehealth because of inequitable access. The paper examines Digital Determinants of Health for telehealth. These include accessibility, broadband connectivity, electrical grids, and patient intersectionality.",
+    "question": "Why does the paper describe telehealth as a mixed landscape of access?",
+    "answer": "The paper describes telehealth as a mixed landscape of access because telehealth can improve healthcare access, but many populations still cannot adopt it due to inequitable access.",
+    "check_human": "true"
+  },
+  {
+    "title": "Part II Policy instruments for sustainable road transport",
+    "context": "Public transport is often promoted as a solution to reduce road transport externalities. Compared with private cars, public transport generally produces lower CO2 emissions per passenger kilometre. Increasing the use of public transport can therefore reduce congestion and emissions.",
+    "question": "Why can increasing the use of public transport help reduce CO2 emissions?",
+    "answer": "public transport generally causes lower CO2 emissions per passenger kilometre than private cars",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental Systems and Local Actors Decentralizing Environmental Policy in Uganda",
+    "context": "Decentralization of environmental governance is often associated with broader goals of democracy and efficiency. By transferring responsibilities to local governments, policymakers hope to improve transparency and public participation. This approach is also expected to make environmental policies more responsive to local conditions. However, implementation can be complex. :contentReference[oaicite:12]{index=12}",
+    "question": "What broader governance goals are associated with environmental decentralization?",
+    "answer": "Environmental decentralization aims to improve efficiency, transparency, public participation, and responsiveness to local environmental conditions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social safety and behavioral aspects of populations financial inclusion A multicountry analysis",
+    "context": "Social safety systems typically include three main components. These components are social assistance programs, social insurance programs, and labor market protection measures. Social assistance provides transfers or support to vulnerable groups. Social insurance and labor market protection address risks such as unemployment or income loss.",
+    "question": "What are the three main components of social safety systems?",
+    "answer": "They include social assistance, social insurance programs, and labor market protection measures.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Folly of European Union Policy Transfer Why the Common Agricultural Policy (CAP) Does Not Fit Central and Eastern Europe",
+    "context": "This study evaluates the suitability of the European Union’s Common Agricultural Policy for addressing rural development challenges in new member states. It argues that although rural structural problems must be addressed to integrate Central and Eastern Europe into the EU, the CAP is poorly suited to this task. The policy was insufficiently reformed to accommodate the accession of these countries. :contentReference[oaicite:5]{index=5}",
+    "question": "What is the main argument about the suitability of the Common Agricultural Policy for Central and Eastern Europe?",
+    "answer": "The study argues that the Common Agricultural Policy is poorly suited to addressing rural development challenges in Central and Eastern Europe.",
+    "check_human": "true"
+  },
+  {
+    "title": "What about Financial Sustainability of Local Government!—A Critical Review of Accountability, Transparency, and Public Assurance Arrangements in England during Austerity",
+    "context": "Financial sustainability refers to the ability of local governments to maintain services and meet financial obligations over the long term.",
+    "question": "What does financial sustainability mean for local governments?",
+    "answer": "Financial sustainability means that local governments are able to maintain services and meet their financial obligations over the long term.",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of Financial Inclusion in Southern Africa",
+    "context": "Financial inclusion has become a topic of global interest due to the negative impact of financial exclusion on socio-economic issues such as poverty. Policymakers and financial institutions increasingly seek strategies to improve access to financial services.",
+    "question": "Why has financial inclusion become an important topic at the global level according to the study?",
+    "answer": "because financial exclusion negatively affects socio-economic issues such as poverty",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of water source use quality of water sanitation and hygiene perceptions among urban households in North-West Ethiopia",
+    "context": "Access to improved water sources is influenced by demographic, socio-economic, sanitation, and hygiene-related factors that affect water accessibility and household practices. :contentReference[oaicite:14]{index=14}",
+    "question": "What categories of factors determine access to improved drinking water sources?",
+    "answer": "Access to improved drinking water sources is determined by demographic, socio-economic, sanitation, and hygiene-related factors.",
+    "check_human": "true"
+  },
+  {
+    "title": "Segregation and Disparities in Health Services Use",
+    "context": "Many national studies of health care disparities control for individual demographic, health, and socioeconomic factors. However, these studies often fail to adequately control for environmental and market-level factors related to health care access. Because race is correlated with these contextual factors through residential segregation, disparities are often attributed to race alone.",
+    "question": "Why might disparities in health care access be incorrectly attributed solely to race?",
+    "answer": "Because race is correlated with environmental and market-level factors through residential segregation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Current Debates on Infrastructure Policy",
+    "context": "Infrastructure services are typically delivered through networks. Network expansion can produce nonlinear effects on economic output. Returns may increase as coverage expands and systems become more complete. This means infrastructure impact varies across stages of development.",
+    "question": "Why can infrastructure have nonlinear effects on growth?",
+    "answer": "Because infrastructure is delivered through networks, returns increase as coverage expands, causing its impact on growth to vary across development stages.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital transformation of everyday lives of older Swiss adults use of and attitudes toward current and future digital services",
+    "context": "Established digital services were used more often than newer services among the older adults in the study. Cash machines were used more frequently than newer tools such as self-checkout apps or machines. Public transportation ticket machines and contactless payment were also more common than self-checkout apps. This pattern shows that familiarity influenced service use.",
+    "question": "Which type of digital services were used more often by the older adults in the study?",
+    "answer": "Established digital services, such as cash machines, were used more often than newer services.",
+    "check_human": "true"
+  },
+  {
+    "title": "Motor Development: Embodied, Embedded, Enculturated, and Enabling",
+    "context": "Finally, the authors describe motor development as enabling because new motor skills create new opportunities for learning. Acquiring skills such as crawling or walking expands infants’ access to objects, people, and experiences. These changes can trigger developmental cascades across cognitive, social, and emotional domains. Motor development thus actively drives broader development.",
+    "question": "Why do the authors argue that motor development is enabling?",
+    "answer": "Because new motor skills open up new opportunities for exploration and learning that drive development in multiple psychological domains.",
+    "check_human": "true"
+  },
+  {
+    "title": "Readiness for voice assistants to support healthcare delivery during a health crisis and pandemic",
+    "context": "Voice assistants and chatbots enable communication with users through natural language. They may operate using rule-based dialogue systems or machine learning techniques. These systems support multimodal interaction through text, speech, and other communication channels.",
+    "question": "How do voice assistants and chatbots enable communication with users?",
+    "answer": "They enable communications with end-users via natural language through rule-based dialog or machine learning.",
+    "check_human": "true"
+  },
+  {
+    "title": "Evaluation of Public R&D Policies A Cross-country Comparison",
+    "context": "Governments often provide incentives such as R&D subsidies, tax credits, and technological consultancy to stimulate private R&D activities.",
+    "question": "What types of incentives do governments use to stimulate private R&D activities?",
+    "answer": "R&D subsidies, tax credits, and technological consultancy",
+    "check_human": "true"
+  },
+  {
+    "title": "Consumer-directed health care will it improve health system performance",
+    "context": "Consumer-directed health care plans often combine insurance with spending accounts. A common design links a high-deductible insurance plan with a health reimbursement account. Most interest has centered on combining a high-deductible health insurance plan with a health reimbursement account to cover part of the out-of-pocket cost of health care expenses.",
+    "question": "What combination of insurance features is commonly used in consumer-directed health care plans?",
+    "answer": "combining a high-deductible health insurance plan with a health reimbursement account to cover part of the out-of-pocket cost of health care expenses",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental quality and the role of economic policy uncertainty, economic complexity, renewable energy, and energy intensity the case of G7 countries",
+    "context": "The findings show that energy intensity increases environmental pollution. Renewable energy helps reduce environmental degradation. Economic policy uncertainty also plays a role in environmental outcomes. These relationships are observed in G7 countries. :contentReference[oaicite:2]{index=2}",
+    "question": "How does energy intensity affect environmental quality?",
+    "answer": "Energy intensity increases environmental pollution and worsens environmental quality. :contentReference[oaicite:3]{index=3}",
+    "check_human": "true"
+  },
+  {
+    "title": "Climate Transition Risk and Development Finance A Carbon Risk Assessment of China's Overseas Energy Portfolios",
+    "context": "Climate transition risk refers to financial risks arising from changes in climate policy or market conditions. These changes can affect the profitability of energy projects. Projects relying on fossil fuels are particularly vulnerable to these policy shifts. As a result, their financial value may decline.",
+    "question": "What does climate transition risk refer to in the context of energy investments?",
+    "answer": "It refers to financial risks arising from changes in climate policy or market conditions that affect project profitability.",
+    "check_human": "true"
+  },
+  {
+    "title": "Quality Assurance Agenda in Nepali Technical Vocational Education and Training System",
+    "context": "Quality education is considered essential for the development of students and society. It helps students achieve academic goals and improves their job prospects. Good quality education also contributes to social and economic development.",
+    "question": "Why is good quality education considered necessary for students?",
+    "answer": "Good quality education is very necessary in the total development of the student, which ensures proper development, job prospects and the realization of academic goals and objectives.",
+    "check_human": "true"
+  },
+  {
+    "title": "Conduct of Conduits Engineering, Desire and Government through the Enclosure and Exposure of Urban Water",
+    "context": "Singapore initially relied on a closed drainage system made of concrete canals and culverts. These structures were designed to control and direct water flows efficiently. However, the enclosed drainage environment created favorable conditions for dengue-carrying mosquitoes. This contributed to recurring public health problems.",
+    "question": "Why did Singapore’s closed drainage system contribute to dengue outbreaks?",
+    "answer": "Because the enclosed canals and culverts created breeding environments for dengue-carrying mosquitoes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Review of urban traffic management and the impacts of new vehicle technologies",
+    "context": "Advanced vehicle technologies can improve road safety and optimize traffic flow through better communication between vehicles and infrastructure.",
+    "question": "How can advanced vehicle technologies improve urban transportation?",
+    "answer": "by improving road safety and optimizing traffic flow through vehicle-infrastructure communication",
+    "check_human": "true"
+  },
+  {
+    "title": "Economic Development as Coordination Problems",
+    "context": "The economics of coordination failures is widely interpreted as a call for more active government interventions in economic development. The goal of this paper is to explain that, contrary to the common perception, the logic of coordination failures does not justify policy activism. This perspective reexamines the role of government in facilitating coordination.",
+    "question": "According to the paper, what does the logic of coordination failures not justify?",
+    "answer": "the logic of coordination failures does not justify policy activism",
+    "check_human": "true"
+  },
+  {
+    "title": "Technical and vocational education and training (TVET) for young people in low- and middle-income countries a systematic review and meta-analysis",
+    "context": "Meta-analysis results showed that the overall effects of TVET on paid employment, formal employment, and earnings were small but positive and statistically significant. :contentReference[oaicite:3]{index=3}",
+    "question": "What were the overall effects of TVET interventions on employment outcomes?",
+    "answer": "TVET interventions produced small but positive and statistically significant effects on paid employment, formal employment, and earnings.",
+    "check_human": "true"
+  },
+  {
+    "title": "Policy Instruments for Sustainable Road Transport",
+    "context": "The article categorizes transport policies into three main groups: physical policies, soft policies, and knowledge policies, each aiming to influence behaviour in different ways.",
+    "question": "What are the three main categories of transport policy instruments discussed in the paper?",
+    "answer": "The three categories are physical policies, soft policies, and knowledge policies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Central Bank Digital Currencies A Framework for Assessing Why and How",
+    "context": "A central bank digital currency can be defined as monetary value stored electronically that is a liability of the central bank and can be used to make payments. This definition distinguishes it from privately issued digital currencies. A CBDC would represent a digital form of central bank money.",
+    "question": "How does the paper define a central bank digital currency?",
+    "answer": "monetary value stored electronically that is a liability of the central bank and can be used to make payments",
+    "check_human": "true"
+  },
+  {
+    "title": "Evaluation of Public R&D Policies A Cross-Country Comparison",
+    "context": "The empirical analysis finds that firms receiving R&D subsidies would have invested less in innovation without public support. The results indicate that public funding stimulates additional private R&D investment. The study also examines the effect on firms that did not receive subsidies. This helps evaluate whether expanding subsidy programs could increase innovation activities. :contentReference[oaicite:14]{index=14}",
+    "question": "What did the study conclude about the effect of public R&D subsidies on firms’ investment?",
+    "answer": "The study concluded that firms receiving subsidies would have invested significantly less in R&D without public support.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Planning Goes Rural. Conceptualising the “New Village”",
+    "context": "The redevelopment plan included reducing the spatial footprint of the village settlement. The original village occupied about 30% of village-controlled land. The redesigned settlement would occupy only around 10% of that land. The remaining land would be used for other productive purposes.",
+    "question": "How did the redevelopment plan change the spatial footprint of Liuxian Village?",
+    "answer": "The plan reduced the village settlement area from about 30% of village land to roughly 10%.",
+    "check_human": "true"
+  },
+  {
+    "title": "Monetary Policy Uncertainty and Economic Fluctuations",
+    "context": "The term premium is a key concept in the analysis of interest rates. Policymakers often examine the term premium when interpreting the yield curve. Public commentary by policy-makers at central banks worldwide indicates that the term premium is one of the most important pieces of information extracted from the term structure of interest rates.",
+    "question": "Why is the term premium important according to central bank policymakers?",
+    "answer": "the term premium is one of the most important pieces of information extracted from the term structure of interest rates",
+    "check_human": "true"
+  },
+  {
+    "title": "Entrepreneurship Development and Financial Performances in SMEs Sector in Serbia",
+    "context": "Government policies that support entrepreneurship development can strengthen the SME sector by improving the business environment and supporting innovation.",
+    "question": "How can government policy strengthen the SME sector?",
+    "answer": "government policies can strengthen the SME sector by improving the business environment and supporting innovation",
+    "check_human": "true"
+  },
+  {
+    "title": "Trajectories of Administrative Reform Institutions, Timing and Choices in France and Spain",
+    "context": "The article compares administrative reform policies in two ‘most similar’ Napoleonic countries, France and Spain, to analyse the commonalities and divergences in decentralisation, territorial state reorganisation, civil service reforms and performance management policies.",
+    "question": "Which two countries are compared in the study to analyse administrative reform trajectories?",
+    "answer": "The study compares France and Spain as two ‘most similar’ Napoleonic administrative systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of water source use quality of water sanitation and hygiene perceptions among urban households in North-West Ethiopia",
+    "context": "Drinking water sources are categorized as improved sources, such as piped water, protected wells, and rainwater, and unimproved sources, such as unprotected wells, springs, or surface water. :contentReference[oaicite:11]{index=11}",
+    "question": "What is the difference between improved and unimproved water sources?",
+    "answer": "Improved water sources include protected supplies such as piped water, boreholes, protected wells, and rainwater, while unimproved sources include unprotected wells, springs, and surface water.",
+    "check_human": ""
+  },
+  {
+    "title": "Not What it Said on the Tin Reflections on Three Decades of UK Public Management Reform",
+    "context": "The article describes the United Kingdom as a particularly important case for studying reform. It cites the idea that the UK was a “serial reformer” in public management. Over several decades, the public sector experienced repeated initiatives to modernize structures, systems, and processes. This long sequence of reforms makes the UK a critical case for evaluation.",
+    "question": "How does the paper characterize the UK in relation to public management reform?",
+    "answer": "It characterizes the UK as a serial reformer.",
+    "check_human": "true"
+  },
+  {
+    "title": "Going green with artificial intelligence The path of technological change towards the renewable energy transition",
+    "context": "Artificial intelligence technologies such as neural networks and machine learning are increasingly used in energy systems. Their computational power allows them to process massive datasets and support demand forecasting. These capabilities help improve the planning and management of energy systems.",
+    "question": "How can artificial intelligence technologies contribute to the management of energy systems?",
+    "answer": "Neural networks, machine learning, and cognitive computing can contribute to empowering the planning and management of energy use",
+    "check_human": ""
+  },
+  {
+    "title": "Mobility-Induced Service Migration in Mobile Micro-clouds",
+    "context": "Mobile micro-clouds aim to bring computing resources closer to users. A mobile micro-cloud typically consists of a small set of servers attached to wireless infrastructure. These servers provide services to users within a limited coverage area.",
+    "question": "What is a mobile micro-cloud according to the paper?",
+    "answer": "A small cloud consisting of a small set of servers attached to the wireless communication infrastructure to provide service to users within its coverage.",
+    "check_human": "true"
+  },
+  {
+    "title": "Problems and Prospects of SME Financing in Bangladesh",
+    "context": "The study collected data from one hundred SME units using a structured questionnaire. The research aimed to analyze SME potential and financing problems. It also provided recommendations for improvement. The methodology included survey data and analysis.",
+    "question": "How many SME units were surveyed in the study?",
+    "answer": "One hundred SME units were surveyed.",
+    "check_human": "true"
+  },
+  {
+    "title": "Macroeconomic Policy and Elections in OECD Democracies",
+    "context": "The study investigates the behavior of monetary policy around elections. It finds some evidence of expansionary monetary policy during election years. These patterns are described as political monetary cycles. However, the statistical strength of the evidence is limited.",
+    "question": "What type of political cycle is observed in monetary policy?",
+    "answer": "The study finds evidence of expansionary monetary policy in election years.",
+    "check_human": "true"
+  },
+  {
+    "title": "Flourishing in Resonance: Joint Resilience Building Through Music and Motion",
+    "context": "Resilience is closely connected to the concept of eudaimonia, which relates to meaning, growth, and well-being. Eudaimonia involves self-realization, meaningful relationships, and personal development. These qualities help individuals function well even during adversity. Therefore, resilience and eudaimonia are interrelated.",
+    "question": "How does the article relate resilience to eudaimonia?",
+    "answer": "It states that resilience and eudaimonia are interrelated because both involve meaning, growth, well-being, and functioning effectively during adversity.",
+    "check_human": "true"
+  },
+  {
+    "title": "Quality Assurance Agenda in Nepali TVET System",
+    "context": "Quality education contributes to the overall development of students by improving job prospects, strengthening skills, and helping individuals achieve academic goals.",
+    "question": "How does quality education benefit students in the TVET system?",
+    "answer": "It improves skills, job prospects, and helps students achieve their academic and professional goals.",
+    "check_human": "true"
+  },
+  {
+    "title": "Rounding the Corners of the Policy Trilemma Sources of Monetary Policy Autonomy",
+    "context": "The policy trilemma in international macroeconomics states that a country cannot simultaneously maintain open financial markets, fixed exchange rates, and independent monetary policy. Governments must therefore choose only two of these three policy goals. If a country fixes its exchange rate and allows free capital mobility, its interest rate must follow the base country’s interest rate. This situation limits the country's monetary policy autonomy. :contentReference[oaicite:0]{index=0}",
+    "question": "What does the policy trilemma state about exchange rates, capital mobility, and monetary policy autonomy?",
+    "answer": "It states that a country cannot simultaneously maintain fixed exchange rates, open financial markets, and independent monetary policy, and must choose only two of these three goals.",
+    "check_human": "true"
+  }
+]

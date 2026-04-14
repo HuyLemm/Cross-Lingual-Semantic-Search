@@ -1,0 +1,23 @@
+# NLP & Vector Search
+langchain>=0.2.2
+langchain-community>=0.2.1
+faiss-cpu>=1.7.4
+transformers>=4.38.2
+torch>=2.0.0
+sentence-transformers>=2.2.2
+
+# Evaluation & Utilities
+scikit-learn>=1.2.2
+numpy>=1.23.5
+tqdm
+
+# File format support
+python-docx
+pymupdf
+
+# Web app
+flask
+flask-cors
+
+# (optional – chỉ giữ nếu bạn thực sự dùng)
+matplotlib

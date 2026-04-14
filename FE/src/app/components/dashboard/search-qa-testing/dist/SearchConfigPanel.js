@@ -1,0 +1,70 @@
+"use strict";
+exports.__esModule = true;
+var card_1 = require("@/app/components/ui/card");
+var button_1 = require("@/app/components/ui/button");
+var input_1 = require("@/app/components/ui/input");
+var select_1 = require("@/app/components/ui/select");
+var slider_1 = require("@/app/components/ui/slider");
+var lucide_react_1 = require("lucide-react");
+function SearchConfigPanel(_a) {
+    var query = _a.query, topK = _a.topK, language = _a.language, model = _a.model, onQueryChange = _a.onQueryChange, onTopKChange = _a.onTopKChange, onLanguageChange = _a.onLanguageChange, onModelChange = _a.onModelChange;
+    return (React.createElement(card_1.Card, null,
+        React.createElement(card_1.CardHeader, null,
+            React.createElement(card_1.CardTitle, null, "Search Configuration")),
+        React.createElement(card_1.CardContent, { className: "space-y-4" },
+            React.createElement("div", null,
+                React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" }, "Query"),
+                React.createElement("div", { className: "flex space-x-2" },
+                    React.createElement(input_1.Input, { placeholder: "Enter your search query...", value: query, onChange: function (e) { return onQueryChange(e.target.value); }, className: "flex-1" }),
+                    React.createElement(button_1.Button, null,
+                        React.createElement(lucide_react_1.Search, { className: "w-4 h-4 mr-2" }),
+                        "Search"))),
+            React.createElement("div", { className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" },
+                React.createElement("div", null,
+                    React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" }, "Query Language"),
+                    React.createElement(select_1.Select, { value: language, onValueChange: onLanguageChange },
+                        React.createElement(select_1.SelectTrigger, null,
+                            React.createElement(select_1.SelectValue, null)),
+                        React.createElement(select_1.SelectContent, null,
+                            React.createElement(select_1.SelectItem, { value: "en" }, "English"),
+                            React.createElement(select_1.SelectItem, { value: "vi" }, "Vietnamese"),
+                            React.createElement(select_1.SelectItem, { value: "zh" }, "Chinese"),
+                            React.createElement(select_1.SelectItem, { value: "es" }, "Spanish"),
+                            React.createElement(select_1.SelectItem, { value: "fr" }, "French")))),
+                React.createElement("div", null,
+                    React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" }, "Embedding Model"),
+                    React.createElement(select_1.Select, { value: model, onValueChange: onModelChange },
+                        React.createElement(select_1.SelectTrigger, null,
+                            React.createElement(select_1.SelectValue, null)),
+                        React.createElement(select_1.SelectContent, null,
+                            React.createElement(select_1.SelectItem, { value: "bge-m3" }, "BGE-M3"),
+                            React.createElement(select_1.SelectItem, { value: "me5-large" }, "mE5-large"),
+                            React.createElement(select_1.SelectItem, { value: "labse" }, "LaBSE"),
+                            React.createElement(select_1.SelectItem, { value: "muse" }, "mUSE")))),
+                React.createElement("div", null,
+                    React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" }, "Reranker"),
+                    React.createElement(select_1.Select, { defaultValue: "none" },
+                        React.createElement(select_1.SelectTrigger, null,
+                            React.createElement(select_1.SelectValue, null)),
+                        React.createElement(select_1.SelectContent, null,
+                            React.createElement(select_1.SelectItem, { value: "none" }, "None"),
+                            React.createElement(select_1.SelectItem, { value: "cross-encoder" }, "Cross-Encoder"),
+                            React.createElement(select_1.SelectItem, { value: "colbert" }, "ColBERT"),
+                            React.createElement(select_1.SelectItem, { value: "bge-reranker" }, "BGE Reranker")))),
+                React.createElement("div", null,
+                    React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" }, "Vector Database"),
+                    React.createElement(select_1.Select, { defaultValue: "faiss" },
+                        React.createElement(select_1.SelectTrigger, null,
+                            React.createElement(select_1.SelectValue, null)),
+                        React.createElement(select_1.SelectContent, null,
+                            React.createElement(select_1.SelectItem, { value: "faiss" }, "FAISS"),
+                            React.createElement(select_1.SelectItem, { value: "milvus" }, "Milvus"),
+                            React.createElement(select_1.SelectItem, { value: "qdrant" }, "Qdrant"),
+                            React.createElement(select_1.SelectItem, { value: "weaviate" }, "Weaviate"))))),
+            React.createElement("div", null,
+                React.createElement("label", { className: "text-sm font-medium text-gray-700 dark:text-gray-300 mb-2 block" },
+                    "Top-K: ",
+                    topK[0]),
+                React.createElement(slider_1.Slider, { value: topK, onValueChange: onTopKChange, min: 1, max: 50, step: 1, className: "w-full" })))));
+}
+exports["default"] = SearchConfigPanel;

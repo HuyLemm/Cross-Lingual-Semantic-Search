@@ -1,0 +1,33 @@
+Total items in dataset : 7860
+Evaluated queries      : 7860
+Skipped (missing fields): 0
+
+Top-1:
+  accuracy_title   : 0.9510
+  accuracy_context : 0.8128
+  accuracy_total   : 0.8819
+
+Top-3:
+  accuracy_title   : 0.9704
+  accuracy_context : 0.8582
+  accuracy_total   : 0.9143
+
+Top-5:
+  accuracy_title   : 0.9754
+  accuracy_context : 0.8680
+  accuracy_total   : 0.9217
+
+Top-10:
+  accuracy_title   : 0.9790
+  accuracy_context : 0.8772
+  accuracy_total   : 0.9281
+
+Latency (ms):
+  Avg  : 3343.43
+  P50  : 3126.41
+  P90  : 4284.39
+  P95  : 4993.99
+
+Total wall time: 27928.86 s
+Avg per-query  : 3553.29 ms/query
+Throughput     : 0.28 queries/s

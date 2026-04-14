@@ -3,31 +3,31 @@ exports.__esModule = true;
 var react_1 = require("react");
 var button_1 = require("../app/components/ui/button");
 var lucide_react_1 = require("lucide-react");
-var ModelTestingWorkbench_1 = require("../app/components/workbench/ModelTestingWorkbench");
 var OverviewSummary_1 = require("../app/components/workbench/OverviewSummary");
-var DatasetGroundTruth_1 = require("../app/components/dashboard/DatasetGroundTruth");
-var DatasetEvaluation_1 = require("../app/components/dashboard/DatasetEvaluation");
+var QAValidation_1 = require("../app/components/dashboard/QAValidation");
+var QAEvaluation_1 = require("../app/components/dashboard/QAEvaluation");
+var Option1Evaluation_1 = require("../app/components/dashboard/Option1Evaluation");
+var Option2Evaluation_1 = require("../app/components/dashboard/Option2Evaluation");
 var ModelComparison_1 = require("../app/components/dashboard/ModelComparison");
-var EmbeddingAnalysis_1 = require("../app/components/dashboard/EmbeddingAnalysis");
-var RerankingAnalysis_1 = require("../app/components/dashboard/RerankingAnalysis");
 var IndexingChunking_1 = require("../app/components/dashboard/IndexingChunking");
 var VectorDatabaseEvaluation_1 = require("../app/components/dashboard/VectorDatabaseEvaluation");
 var ErrorAnalysis_1 = require("../app/components/dashboard/ErrorAnalysis");
 var ExperimentLogs_1 = require("../app/components/dashboard/ExperimentLogs");
 var Settings_1 = require("../app/components/dashboard/Settings");
+var SearchQATesting_1 = require("../app/components/dashboard/SearchQATesting");
+var DatasetManagement_1 = require("../app/components/dashboard/DatasetManagement");
 function App() {
     var _a = react_1.useState("workbench"), activeTab = _a[0], setActiveTab = _a[1];
     var _b = react_1.useState(false), darkMode = _b[0], setDarkMode = _b[1];
-    var _c = react_1.useState("arxiv-multilingual"), dataset = _c[0], setDataset = _c[1];
-    var _d = react_1.useState("exp-001"), experiment = _d[0], setExperiment = _d[1];
     var tabs = [
         { id: "workbench", label: "Experiment Playground", group: "control" },
         { id: "overview", label: "Evaluation Overview", group: "control" },
-        { id: "dataset", label: "Dataset Management", group: "data" },
-        { id: "dataset-evaluation", label: "Dataset Evaluation", group: "data" },
-        { id: "model", label: "Model Comparison", group: "model" },
-        { id: "embedding", label: "Embedding Analysis", group: "model" },
-        { id: "reranking", label: "Reranking Analysis", group: "model" },
+        { id: "dataset-management", label: "Dataset Management", group: "data" },
+        { id: "qa-validation", label: "QA Validation", group: "data" },
+        { id: "qa-evaluation", label: "QA Evaluation", group: "data" },
+        { id: "option1Eval", label: "Baseline Results", group: "model" },
+        { id: "option2Eval", label: "Advanced Results", group: "model" },
+        { id: "comparison", label: "Comparative Analysis", group: "model" },
         { id: "indexing", label: "Indexing & Chunking", group: "system" },
         { id: "vectordb", label: "Vector Database", group: "system" },
         { id: "error", label: "Error Analysis", group: "evaluation" },
@@ -41,19 +41,21 @@ function App() {
     var renderTabContent = function () {
         switch (activeTab) {
             case "workbench":
-                return React.createElement(ModelTestingWorkbench_1["default"], null);
+                return React.createElement(SearchQATesting_1["default"], null);
             case "overview":
                 return React.createElement(OverviewSummary_1["default"], null);
-            case "dataset":
-                return React.createElement(DatasetGroundTruth_1["default"], null);
-            case "dataset-evaluation":
-                return React.createElement(DatasetEvaluation_1["default"], null);
-            case "model":
+            case "dataset-management":
+                return React.createElement(DatasetManagement_1["default"], null);
+            case "qa-validation":
+                return React.createElement(QAValidation_1["default"], null);
+            case "qa-evaluation":
+                return React.createElement(QAEvaluation_1["default"], null);
+            case 'option1Eval':
+                return React.createElement(Option1Evaluation_1["default"], null);
+            case 'option2Eval':
+                return React.createElement(Option2Evaluation_1["default"], null);
+            case 'comparison':
                 return React.createElement(ModelComparison_1["default"], null);
-            case "embedding":
-                return React.createElement(EmbeddingAnalysis_1["default"], null);
-            case "reranking":
-                return React.createElement(RerankingAnalysis_1["default"], null);
             case "indexing":
                 return React.createElement(IndexingChunking_1["default"], null);
             case "vectordb":
@@ -65,7 +67,7 @@ function App() {
             case "settings":
                 return React.createElement(Settings_1["default"], null);
             default:
-                return React.createElement(ModelTestingWorkbench_1["default"], null);
+                return React.createElement(SearchQATesting_1["default"], null);
         }
     };
     return (React.createElement("div", { className: darkMode ? "dark" : "" },
@@ -80,8 +82,8 @@ function App() {
                                 React.createElement(lucide_react_1.Download, { className: "w-3 h-3 mr-2" }),
                                 "Export"),
                             React.createElement(button_1.Button, { variant: "ghost", size: "sm", onClick: function () { return setDarkMode(!darkMode); }, className: "h-8 w-8 p-0 dark:hover:bg-slate-700" }, darkMode ? (React.createElement(lucide_react_1.Sun, { className: "w-4 h-4" })) : (React.createElement(lucide_react_1.Moon, { className: "w-4 h-4" }))))))),
-            React.createElement("div", { className: "flex" },
-                React.createElement("aside", { className: "w-56 border-r border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-800 min-h-[calc(100vh-57px)]" },
+            React.createElement("div", { className: "flex h-[calc(100vh-57px)]" },
+                React.createElement("aside", { className: "w-56 border-r border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-800 sticky top-[57px] h-[calc(100vh-57px)] overflow-y-auto" },
                     React.createElement("nav", { className: "p-3 space-y-1" }, tabs.map(function (tab, index) {
                         var prevGroup = index > 0 ? tabs[index - 1].group : null;
                         var showDivider = tab.group !== prevGroup && index > 0;
@@ -91,6 +93,6 @@ function App() {
                                     ? "bg-slate-700 dark:bg-slate-600 text-white font-medium"
                                     : "text-gray-700 dark:text-slate-300 hover:bg-gray-100 dark:hover:bg-slate-700") }, tab.label)));
                     }))),
-                React.createElement("main", { className: "flex-1 bg-white dark:bg-slate-900" }, renderTabContent())))));
+                React.createElement("main", { className: "flex-1 bg-white dark:bg-slate-900 overflow-y-auto" }, renderTabContent())))));
 }
 exports["default"] = App;

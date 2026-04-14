@@ -1,0 +1,38 @@
+===== RETRIEVAL EVALUATION (Title + Context) =====
+
+Mode                : Title + Context
+
+Total items in dataset : 1087
+Evaluated queries      : 1087
+Skipped missing fields : 0
+
+Top-1:
+  accuracy_title   : 0.9704
+  accuracy_context : 0.9206
+  accuracy_total   : 0.9455
+
+Top-3:
+  accuracy_title   : 0.9866
+  accuracy_context : 0.9539
+  accuracy_total   : 0.9702
+
+Top-5:
+  accuracy_title   : 0.9915
+  accuracy_context : 0.9617
+  accuracy_total   : 0.9766
+
+Top-10:
+  accuracy_title   : 0.9925
+  accuracy_context : 0.9653
+  accuracy_total   : 0.9789
+
+Latency (ms):
+  Avg : 3266.68
+  P50 : 2788.37
+  P90 : 4574.85
+  P95 : 5714.90
+
+Runtime:
+  Total wall time (s)    : 3781.85
+  Avg per-query (ms)     : 3479.17
+  Throughput (queries/s) : 0.29

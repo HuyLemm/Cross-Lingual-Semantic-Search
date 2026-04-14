@@ -65,10 +65,9 @@ export function buildSummary(query) {
 
   // 1) load + dedupe (cached)
   const qas = getQAsCached({ dataset, model, experiment });
-
   const totalQAPairs = qas.length;
 
-  // 2) verified theo quality
+  // 2) verified theo quality (STRICT Option A)
   const verifiedQAs = applyQualityFilter(qas, quality);
   const verifiedQAPairs = verifiedQAs.length;
 
@@ -78,13 +77,24 @@ export function buildSummary(query) {
       ? 0
       : Number(((verifiedQAPairs / totalQAPairs) * 100).toFixed(1));
 
-  // 4) avg scores (trên verified)
+  // 4) avg scores (trên verified)  ✅ MATCH ModelSection
+  // Avg Bi-Encoder = avg( (sim_qc + sim_ac) / 2 )
+  // Avg Cross-Encoder = avg( ce_multi_prob )
   let avgBiEncoder = 0;
   let avgCrossEncoder = 0;
 
   if (verifiedQAPairs > 0) {
-    const sumBi = verifiedQAs.reduce((s, q) => s + (q.sim_qc || 0), 0);
-    const sumCE = verifiedQAs.reduce((s, q) => s + (q.ce_multi_prob || 0), 0);
+    const sumBi = verifiedQAs.reduce((s, q) => {
+      const qc = Number(q.sim_qc ?? 0);
+      const ac = Number(q.sim_ac ?? 0);
+      return s + (qc + ac) / 2;
+    }, 0);
+
+    const sumCE = verifiedQAs.reduce(
+      (s, q) => s + Number(q.ce_multi_prob ?? 0),
+      0,
+    );
+
     avgBiEncoder = Number((sumBi / verifiedQAPairs).toFixed(3));
     avgCrossEncoder = Number((sumCE / verifiedQAPairs).toFixed(3));
   }
@@ -92,10 +102,18 @@ export function buildSummary(query) {
   // 5) step1-only rate (reactive theo quality)
   const th = Number(quality || 0.7);
 
-  const step1OnlyCount = qas.filter(
-    (q) =>
-      q.verified === true && q.verified_step2 !== true && (q.sim_qc ?? 0) >= th,
-  ).length;
+  const step1OnlyCount = qas.filter((q) => {
+    const pass1 = q.verified === true;
+    const pass2 = q.verified_step2 === true;
+
+    const sim_qc = Number(q.sim_qc ?? 0);
+    const sim_ac = Number(q.sim_ac ?? 0);
+
+    // Stage1 pass = bi-encoder metrics pass
+    const stage1Pass = sim_qc >= th && sim_ac >= th;
+
+    return pass1 && !pass2 && stage1Pass;
+  }).length;
 
   const step1OnlyRate =
     totalQAPairs === 0
@@ -142,7 +160,8 @@ export function buildQAList(query) {
       (q) =>
         q.question?.toLowerCase().includes(s) ||
         q.answer?.toLowerCase().includes(s) ||
-        q.source_pdf?.toLowerCase().includes(s),
+        q.source_pdf?.toLowerCase().includes(s) ||
+        q.chunk_id?.toLowerCase().includes(s),
     );
   }
 
@@ -213,6 +232,10 @@ export function buildQAList(query) {
 
       sourceDocument: q.source_pdf,
 
+      chunk_id: q.chunk_id,
+      chunk_char_len: Number(q.chunk_char_len ?? 0),
+      chunk_preview: q.chunk_preview ?? "",
+
       sim_qc: Number(q.sim_qc ?? 0),
       sim_ac: Number(q.sim_ac ?? 0),
       verified: Boolean(q.verified),
@@ -222,11 +245,12 @@ export function buildQAList(query) {
     };
   });
 
+  // 7) response payload
   return {
-    total: qas.length,
     page: p,
     pageSize: ps,
-    quality: Number(quality), // ✅ trả về cho frontend dùng highlight màu + status
+    totalQAPairs: qas.length,
+    qualityThreshold: Number(quality),
     items,
   };
 }
@@ -240,7 +264,7 @@ export function buildDatasetOverview() {
   const MODELS = ["gpt", "gemini", "deepseek"];
   const LANGS = ["en", "vi"];
 
-  const expRoot = path.join(process.cwd(), "dataModel", "exp");
+  const expRoot = path.join(process.cwd(), "data_frontend", "exp");
 
   const expFolders = fs.existsSync(expRoot)
     ? fs.readdirSync(expRoot).filter((d) => d.startsWith("exp"))

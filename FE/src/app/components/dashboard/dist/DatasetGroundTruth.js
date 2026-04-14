@@ -89,11 +89,14 @@ function DatasetGroundTruth() {
         })
             .then(function (res) { return res.json(); })
             .then(function (data) {
+            var _a, _b;
             if (!isCurrent)
                 return; // 👈 ignore stale response
             setQAList(data.items || []);
-            setQaTotal(data.total || 0);
-            var maxPage = Math.max(1, Math.ceil((data.total || 0) / PAGE_SIZE));
+            // ✅ FIX: support both { totalQAPairs } or legacy { total }
+            var total = (_b = (_a = data.totalQAPairs) !== null && _a !== void 0 ? _a : data.total) !== null && _b !== void 0 ? _b : 0;
+            setQaTotal(total);
+            var maxPage = Math.max(1, Math.ceil(total / PAGE_SIZE));
             if (page > maxPage)
                 setPage(maxPage);
         })["catch"](function (err) {

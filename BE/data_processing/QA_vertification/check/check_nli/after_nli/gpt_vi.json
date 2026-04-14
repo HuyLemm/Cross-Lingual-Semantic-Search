@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Chính sách phát triển điện tái tạo Kinh nghiệm từ Canada",
+    "context": "Tỷ trọng điện từ thủy điện chiếm hơn 60% trong cơ cấu năng lượng của Canada. Đây là nguồn năng lượng tái tạo chủ lực của quốc gia này. Ngoài ra, điện gió chiếm 5,2% và điện mặt trời chiếm 1%. Các nguồn năng lượng này góp phần đa dạng hóa hệ thống điện.",
+    "question": "Nguồn năng lượng nào chiếm tỷ trọng lớn nhất trong cơ cấu điện của Canada?",
+    "answer": "tỷ trọng điện từ thủy điện chiếm trên 60%",
+    "check_human": "true"
+  },
+  {
+    "title": "Luật Công nghiệp Công nghệ số Đòn bẩy thể chế cho quá trình chuyển đổi số quốc gia",
+    "context": "Ngày 14/06/2025, tại Kỳ họp thứ 9, Quốc hội khóa XV, các đại biểu Quốc hội đã biểu quyết thông qua Luật Công nghiệp công nghệ số. Luật được thông qua với 441/445 đại biểu tán thành. Sự kiện này đánh dấu bước tiến quan trọng trong quá trình hoàn thiện khung pháp lý cho ngành công nghệ số.",
+    "question": "Luật Công nghiệp công nghệ số đã được Quốc hội thông qua với tỷ lệ tán thành như thế nào?",
+    "answer": "Luật Công nghiệp công nghệ số được thông qua với 441/445 đại biểu tán thành",
+    "check_human": "true"
+  },
+  {
+    "title": "Chụp ảnh màn hình “Chìa khóa” tăng trưởng cá nhân hóa trong kỷ nguyên ứng dụng di động",
+    "context": "Đáng chú ý nhất là bước tiến trên nền tảng Android 14, khi hệ điều hành này chính thức hỗ trợ giao diện lập trình ứng dụng (API) mới, cho phép ứng dụng ghi nhận động tác chụp màn hình ở cấp hệ thống. Với phương thức gọi lại ảnh chụp màn hình (callback onScreenCaptured), nhà phát triển có thể lập trình để hệ thống phản hồi linh hoạt - như hiển thị thông báo cá nhân hóa, hoặc gợi ý lưu nội dung ngay sau khi người dùng chụp ảnh màn hình. Quan trọng hơn, cơ chế này không yêu cầu truy cập hay gửi nội dung ảnh về máy chủ, đảm bảo tách biệt tuyệt đối giữa hành vi và dữ liệu cá nhân, phù hợp với các quy định như Quy định chung về Bảo vệ Dữ liệu của Liên minh châu Âu (GDPR) hay Đạo luật Quyền riêng tư Người tiêu dùng California (CCPA) của Mỹ. Việc khai thác ảnh chụp màn hình như một tín hiệu hành vi có giá trị không đồng nghĩa với việc xâm phạm quyền riêng tư của người dùng.",
+    "question": "Nền tảng Android 14 đã hỗ trợ việc ghi nhận hành vi chụp ảnh màn hình như thế nào để đảm bảo quyền riêng tư?",
+    "answer": "Android 14 chính thức hỗ trợ API mới, cho phép ứng dụng ghi nhận động tác chụp màn hình ở cấp hệ thống thông qua phương thức gọi lại (callback onScreenCaptured). Cơ chế này không yêu cầu truy cập hay gửi nội dung ảnh về máy chủ, đảm bảo tách biệt tuyệt đối giữa hành vi và dữ liệu cá nhân, phù hợp với các quy định về bảo vệ dữ liệu như GDPR và CCPA, qua đó không xâm phạm quyền riêng tư của người dùng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+    "context": "Tháng 12/2023, Thời báo New York (The New York Times - NYT) đã đệ đơn kiện OpenAI và Microsoft ra Tòa án Khu vực phía Nam New York, Hoa Kỳ. NYT cáo buộc họ vi phạm quyền tác giả khi sử dụng hàng triệu bài báo của NYT để huấn luyện các mô hình trí tuệ nhân tạo (AI) tạo sinh như ChatGPT và Bing Chat. Vụ kiện được yêu cầu xét xử trước bồi thẩm đoàn, mang số hiệu 1:23-cv-11195.",
+    "question": "Vụ kiện giữa The New York Times với OpenAI và Microsoft được khởi kiện vào thời gian nào và ở đâu?",
+    "answer": "Vụ kiện giữa The New York Times với OpenAI và Microsoft được đệ đơn vào tháng 12/2023 tại Tòa án Khu vực phía Nam New York, Hoa Kỳ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chuyển giao công nghệ tại Việt Nam Khó khăn, thách thức và đề xuất giải pháp",
+    "context": "Để cải thiện hoạt động chuyển giao công nghệ, cần hoàn thiện khung pháp lý và tăng cường hỗ trợ tài chính. Đồng thời, việc phát triển nguồn nhân lực và tổ chức trung gian cũng rất quan trọng. Các giải pháp này giúp nâng cao hiệu quả chuyển giao công nghệ. Qua đó thúc đẩy đổi mới sáng tạo và phát triển kinh tế.",
+    "question": "Những giải pháp nào được đề xuất để nâng cao hiệu quả chuyển giao công nghệ?",
+    "answer": "Bao gồm hoàn thiện pháp lý, tăng hỗ trợ tài chính, phát triển nhân lực và tổ chức trung gian công nghệ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chính sách quản lý gạo của nhà Nguyễn dưới triều vua Tự Đức (1848-1883)",
+    "context": "Trong 35 năm trị vì, vua Tự Đức đã ban hành nhiều đợt chẩn cấp cho dân gặp thiên tai. Tổng số lần chẩn cấp tiền và gạo lên tới 141 lần. Chỉ riêng năm 1864 ghi nhận 14 lần chẩn cấp. Đây là thời kỳ có số lần chẩn cấp trung bình cao nhất so với các triều trước.",
+    "question": "Trong thời gian trị vì của vua Tự Đức, tổng số lần chẩn cấp tiền và gạo là bao nhiêu?",
+    "answer": "Trong 35 năm trị vì, vua Tự Đức đã ban hành 141 lần chẩn cấp tiền và gạo.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chuẩn bị nguồn nhân lực cho việc tái khởi động chương trình điện hạt nhân tại Việt Nam",
+    "context": "Cơ quan pháp quy hạt nhân chịu trách nhiệm đảm bảo an toàn. Cơ quan này kiểm soát toàn bộ vòng đời của nhà máy. Bao gồm từ thiết kế, xây dựng đến vận hành và tháo dỡ. Đây là cơ quan quản lý độc lập.",
+    "question": "Nhiệm vụ của cơ quan pháp quy hạt nhân là gì?",
+    "answer": "chịu trách nhiệm kiểm soát an toàn toàn bộ vòng đời của nhà máy điện hạt nhân từ thiết kế đến vận hành và tháo dỡ",
+    "check_human": "true"
+  },
+  {
+    "title": "Vinfast Đổi mới sáng tạo thúc đẩy chuyển giao, ứng dụng công nghệ tiên tiến",
+    "context": "VinFast đã từng bước mở rộng thị trường ra quốc tế với các sản phẩm đạt tiêu chuẩn cao. Doanh nghiệp chú trọng xây dựng thương hiệu và nâng cao chất lượng sản phẩm. Việc áp dụng công nghệ tiên tiến giúp VinFast cạnh tranh với các hãng xe lớn trên thế giới. Đây là minh chứng cho hiệu quả của chiến lược đổi mới sáng tạo.",
+    "question": "Đổi mới sáng tạo giúp VinFast đạt được điều gì trên thị trường quốc tế?",
+    "answer": "Đổi mới sáng tạo giúp VinFast nâng cao chất lượng sản phẩm, xây dựng thương hiệu và cạnh tranh với các hãng xe lớn toàn cầu.",
+    "check_human": "true"
+  },
+  {
+    "title": "VMOST Journal of Social Sciences and Humanities hướng tới mục tiêu trở thành tạp chí khoa học uy tín của quốc gia và khu vực",
+    "context": "VMOST Journal of Social Sciences and Humanities là một ấn phẩm khoa học bằng tiếng Anh. Tạp chí tập trung vào các lĩnh vực khoa học xã hội và nhân văn. VMOST Journal of Social Sciences and Humanities là ấn phẩm bằng tiếng Anh trong các lĩnh vực khoa học xã hội và nhân văn của Tạp chí Khoa học và Công nghệ Việt Nam.",
+    "question": "VMOST Journal of Social Sciences and Humanities là ấn phẩm tiếng Anh thuộc lĩnh vực nào?",
+    "answer": "VMOST Journal of Social Sciences and Humanities là ấn phẩm bằng tiếng Anh trong các lĩnh vực khoa học xã hội và nhân văn của Tạp chí Khoa học và Công nghệ Việt Nam.",
+    "check_human": "true"
+  },
+  {
+    "title": "Viện Nghiên cứu Hạt nhân: 40 năm sử dụng hiệu quả lò phản ứng hạt nhân phục vụ phát triển kinh tế - xã hội",
+    "context": "Viện đã sản xuất nhiều loại thuốc phóng xạ phục vụ y học. Các sản phẩm như I-131 và Tc-99m được sử dụng rộng rãi. Viện đã cung cấp khoảng 17.500 Ci thuốc phóng xạ cho các bệnh viện. Điều này hỗ trợ chẩn đoán và điều trị cho hàng trăm nghìn bệnh nhân mỗi năm. :contentReference[oaicite:7]{index=7}",
+    "question": "Viện đã cung cấp bao nhiêu thuốc phóng xạ cho ngành y tế?",
+    "answer": "Khoảng 17.500 Ci thuốc phóng xạ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Những vấn đề pháp lý trong kỷ nguyên số",
+    "context": "Bài viết cho rằng việc tiếp cận các vấn đề này thông qua lăng kính của quyền con người phổ quát có thể trở thành nền tảng để giải quyết các xung đột số hiện có cũng như những xung đột tiềm ẩn, đồng thời ngăn ngừa tội phạm mạng. Từ đó, tác giả đề xuất một khung pháp lý chung dựa trên cách tiếp cận đó và thảo luận các kịch bản giải quyết các vấn đề về quyền tài phán. Sau cùng, nghiên cứu cho rằng nên tập trung vào việc phòng ngừa và giảm thiểu hậu quả tiêu cực từ hoạt động của tất cả các chủ thể pháp lý.",
+    "question": "Theo bài viết, cách tiếp cận dựa trên quyền con người phổ quát có vai trò gì trong việc giải quyết các vấn đề pháp lý trong kỷ nguyên số?",
+    "answer": "Theo bài viết, việc tiếp cận các vấn đề pháp lý trong kỷ nguyên số thông qua lăng kính của quyền con người phổ quát có thể trở thành nền tảng để giải quyết các xung đột số hiện có cũng như những xung đột tiềm ẩn, đồng thời ngăn ngừa tội phạm mạng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Hà Nam Xây dựng, quản lý và phát triển nhãn hiệu chứng nhận “Vải lai U trứng Kim Bảng”",
+    "context": "Sản phẩm vải lai U trứng Kim Bảng đã được đăng ký bảo hộ nhãn hiệu chứng nhận. Ngày 26/11/2024, Cục Sở hữu Trí tuệ đã cấp giấy chứng nhận đăng ký nhãn hiệu số 514085 cho sản phẩm này. Việc đăng ký bảo hộ giúp nâng cao vị thế và sức cạnh tranh của sản phẩm trên thị trường.",
+    "question": "Vải lai U trứng Kim Bảng được Cục Sở hữu Trí tuệ cấp giấy chứng nhận đăng ký nhãn hiệu số bao nhiêu?",
+    "answer": "Vải lai U trứng Kim Bảng được cấp giấy chứng nhận đăng ký nhãn hiệu số 514085.",
+    "check_human": "true"
+  },
+  {
+    "title": "Tính bảo mật trong cơ chế giải quyết tranh chấp thương mại bằng hòa giải ở Việt Nam và một số quốc gia dưới góc độ so sánh",
+    "context": "Hiện nay, giải quyết tranh chấp thương mại có thể được thực hiện bằng nhiều phương thức khác nhau như thương lượng, hòa giải, trọng tài hay tòa án. Điều này cũng đồng nghĩa, chủ thể trong tranh chấp thương mại được quyền lựa chọn một trong các phương thức phù hợp với điều kiện và hoàn cảnh của mình. Trong số các phương thức giải quyết tranh chấp thương mại nói trên, trọng tài và hòa giải là hai phương thức ngoài Tòa án được lựa chọn khá phổ biến ở nhiều quốc gia.",
+    "question": "Theo bài viết, những phương thức nào thường được sử dụng để giải quyết tranh chấp thương mại?",
+    "answer": "giải quyết tranh chấp thương mại có thể được thực hiện bằng nhiều phương thức khác nhau như thương lượng, hòa giải, trọng tài hay tòa án",
+    "check_human": "true"
+  },
+  {
+    "title": "Khoa học và công nghệ thúc đẩy tăng trưởng xanh tại Việt Nam",
+    "context": "Tăng trưởng xanh được hiểu là phát triển kinh tế gắn với bảo vệ môi trường. Nó yêu cầu sử dụng hiệu quả tài nguyên thiên nhiên. Đồng thời tăng khả năng ứng phó với biến đổi khí hậu.",
+    "question": "Tăng trưởng xanh được định nghĩa như thế nào trong mối quan hệ giữa kinh tế và môi trường?",
+    "answer": "Tăng trưởng xanh là phát triển kinh tế trong khi vẫn đảm bảo bảo vệ môi trường, sử dụng hiệu quả các nguồn tài nguyên thiên nhiên.",
+    "check_human": "true"
+  },
+  {
+    "title": "Xu hướng phát triển trí tuệ nhân tạo với chi phí thấp",
+    "context": "OpenAI đã giới thiệu phiên bản o3-mini vào ngày 03/02/2025. Phiên bản này được tối ưu hóa với mức phí vận hành chỉ bằng 50% so với phiên bản trước đó là o1-mini. Ngoài ra, o3-mini còn có tốc độ phản hồi nhanh và độ trễ thấp.",
+    "question": "Phiên bản AI nào của OpenAI có chi phí vận hành chỉ bằng 50% so với phiên bản o1-mini?",
+    "answer": "OpenAI đã trình làng o3-mini vào ngày 03/02/2025 - phiên bản được tối ưu hóa với mức phí vận hành chỉ bằng 50% so với phiên bản tiền nhiệm o1-mini",
+    "check_human": "true"
+  },
+  {
+    "title": "Mô hình 3 bên “mở rộng” trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển giao công nghệ",
+    "context": "Chương trình đào tạo kỹ sư cầu đường Pháp được Trường Đại học Giao thông Vận tải xây dựng từ năm 1995. Chương trình có sự hỗ trợ của Tổ chức Đại học Pháp ngữ và các trường đại học của Pháp. Đây là một trong những chương trình đào tạo kỹ sư chất lượng cao đầu tiên tại Việt Nam.",
+    "question": "Chương trình đào tạo kỹ sư cầu đường Pháp tại Trường Đại học Giao thông Vận tải được xây dựng từ năm nào?",
+    "answer": "Chương trình đào tạo kỹ sư cầu đường Pháp được Trường Đại học Giao thông Vận tải xây dựng từ năm 1995",
+    "check_human": "true"
+  },
+  {
+    "title": "Đổi mới sáng tạo Nền tảng thúc đẩy chuyển đổi số ngành ngân hàng",
+    "context": "ĐMST giúp các ngân hàng giảm chi phí, thích ứng với nhu cầu mới của thị trường và cung cấp dịch vụ tốt hơn. Điều này cho phép ngân hàng hoạt động hiệu quả hơn và nâng cao trải nghiệm khách hàng. Đồng thời, các ngân hàng vẫn tuân thủ các quy định ngày càng chặt chẽ của cơ quan quản lý.",
+    "question": "ĐMST giúp các ngân hàng đạt được những lợi ích gì về chi phí và dịch vụ?",
+    "answer": "ĐMST giúp các ngân hàng giảm chi phí, thích ứng với nhu cầu mới của thị trường và cung cấp dịch vụ tốt hơn.",
+    "check_human": "true"
+  },
+  {
+    "title": "7 công nghệ đáng chú ý năm 2024",
+    "context": "Vào cuối năm 2023, các cơ quan quản lý của Mỹ và Vương quốc Anh đã phê duyệt liệu pháp chỉnh sửa gen dựa trên CRISPR lần đầu tiên đối với bệnh thiếu máu hồng cầu lưỡi liềm và bệnh Beta thalassemia phụ thuộc truyền máu. CRISPR và các dẫn xuất của nó sử dụng một đoạn RNA ngắn có thể được lập trình để điều hướng enzyme cắt DNA như Cas9 đến một vị trí gen cụ thể. Chúng thường được sử dụng trong phòng thí nghiệm để vô hiệu hóa các gen khiếm khuyết và tạo ra những thay đổi nhỏ về trình tự gen.",
+    "question": "Khi nào và ở đâu liệu pháp chỉnh sửa gen dựa trên CRISPR lần đầu tiên được phê duyệt cho bệnh thiếu máu hồng cầu lưỡi liềm và Beta thalassemia?",
+    "answer": "Vào cuối năm 2023, các cơ quan quản lý của Mỹ và Vương quốc Anh đã phê duyệt liệu pháp chỉnh sửa gen dựa trên CRISPR lần đầu tiên đối với bệnh thiếu máu hồng cầu lưỡi liềm và bệnh Beta thalassemia phụ thuộc truyền máu.",
+    "check_human": "true"
+  },
+  {
+    "title": "“Tẩy xanh” - Mập mờ quảng cáo núp dưới vỏ bọc bảo vệ môi trường Nhìn từ thế giới tới Việt Nam",
+    "context": "“Tẩy xanh” là hành vi doanh nghiệp đưa ra thông tin sai lệch về môi trường. Điều này nhằm tạo hình ảnh tích cực không đúng thực tế. “Tẩy xanh” xảy ra khi doanh nghiệp đưa ra các tuyên bố về môi trường không chính xác, không kiểm chứng hoặc mang tính phóng đại nhằm đánh bóng hình ảnh thương hiệu.",
+    "question": "“Tẩy xanh” xảy ra khi doanh nghiệp thực hiện hành vi gì?",
+    "answer": "“Tẩy xanh” xảy ra khi doanh nghiệp đưa ra các tuyên bố về môi trường không chính xác, không kiểm chứng hoặc mang tính phóng đại nhằm đánh bóng hình ảnh thương hiệu",
+    "check_human": "true"
+  },
+  {
+    "title": "Công tác quản lý các tổ chức nghệ thuật biểu diễn ở Việt Nam trong bối cảnh hiện nay",
+    "context": "Nhà nước thực hiện quản lý nghệ thuật biểu diễn thông qua việc xây dựng thể chế pháp lý, ban hành chính sách hỗ trợ phát triển, cấp phép hoạt động và kiểm soát nội dung biểu diễn.",
+    "question": "Nhà nước quản lý hoạt động nghệ thuật biểu diễn thông qua những biện pháp nào?",
+    "answer": "Nhà nước quản lý thông qua việc xây dựng thể chế pháp lý, ban hành chính sách hỗ trợ phát triển, cấp phép hoạt động và kiểm soát nội dung biểu diễn.",
+    "check_human": "true"
+  },
+  {
+    "title": "10 sự kiện khoa học và công nghệ nổi bật năm 2024",
+    "context": "Ngày 6/12/2024, Chính phủ đã ban hành kế hoạch định hướng sắp xếp, tinh gọn tổ chức bộ máy của Chính phủ. Theo kế hoạch này, Chính phủ định hướng duy trì 8 bộ, cơ quan ngang bộ, đồng thời, sắp xếp, hợp nhất 14 bộ, cơ quan ngang bộ. Trong đó, có việc hợp nhất Bộ Khoa học và Công nghệ và Bộ Thông tin và Truyền thông. Mục đích của việc hợp nhất hai bộ này là để tối ưu hóa nguồn lực, tránh chồng chéo, trùng lặp nhiệm vụ và đồng bộ về mặt chính sách.",
+    "question": "Chính phủ đã ban hành kế hoạch định hướng sắp xếp, tinh gọn tổ chức bộ máy vào ngày nào?",
+    "answer": "Chính phủ đã ban hành kế hoạch định hướng sắp xếp, tinh gọn tổ chức bộ máy vào ngày 6/12/2024.",
+    "check_human": "true"
+  },
+  {
+    "title": "Quy định về phát triển khoa học, công nghệ và đổi mới sáng tạo: một số rào cản và khuyến nghị",
+    "context": "Nhà nước đảm bảo chi tối thiểu 2% tổng chi ngân sách hằng năm cho hoạt động khoa học và công nghệ.",
+    "question": "Nhà nước đảm bảo chi tối thiểu bao nhiêu phần trăm ngân sách cho khoa học và công nghệ?",
+    "answer": "Nhà nước đảm bảo chi tối thiểu 2% tổng chi ngân sách hằng năm cho khoa học và công nghệ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển vùng đất “Chín Rồng” dựa trên khoa học, công nghệ và đổi mới sáng tạo",
+    "context": "Bộ trưởng Huỳnh Thành Đạt đề nghị ngành KH&CN các tỉnh/thành phố vùng ĐBSCL cần tập trung thực hiện tốt nhiệm vụ trọng tâm đầu tiên. Đó là tiếp tục xây dựng, hoàn thiện hệ thống pháp luật, cơ chế, chính sách về KH,CN&ĐMST. Đặc biệt, phối hợp với các đơn vị trực thuộc Bộ đóng góp ý kiến trong việc sửa đổi Luật KH&CN 2013. Cần đổi mới mạnh mẽ và đồng bộ về tổ chức, cơ chế quản lý, cơ chế hoạt động, huy động mọi nguồn lực, giải pháp để triển khai thực hiện chiến lược, kế hoạch phát triển KH,CN&ĐMST phục vụ thiết thực, hiệu quả nhất các mục tiêu phát triển KT-XH của từng địa phương và cả vùng.",
+    "question": "Nhiệm vụ trọng tâm đầu tiên mà Bộ trưởng Huỳnh Thành Đạt đề nghị ngành KH&CN các tỉnh/thành phố vùng ĐBSCL cần thực hiện là gì?",
+    "answer": "Nhiệm vụ trọng tâm đầu tiên là tiếp tục xây dựng, hoàn thiện hệ thống pháp luật, cơ chế, chính sách về KH,CN&ĐMST, phối hợp đóng góp ý kiến sửa đổi Luật KH&CN 2013, và đổi mới mạnh mẽ, đồng bộ về tổ chức, cơ chế quản lý, cơ chế hoạt động, huy động mọi nguồn lực để thực hiện chiến lược phát triển KH,CN&ĐMST phục vụ mục tiêu KT-XH của vùng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đào tạo nhân lực khoa học và công nghệ trình độ cao từ hợp tác quốc tế Kinh nghiệm từ Viện Liên hiệp Nghiên cứu Hạt nhân Đubna",
+    "context": "Theo ý kiến riêng của tác giả bài viết, trước mắt những việc sau đây cần được làm ngay: Một là, trên cơ sở các thiết bị nghiên cứu hiện có tại các phòng thí nghiệm của Viện Đubna, cần xác định những hướng nghiên cứu nào Việt Nam cần ưu tiên tập trung. Hai là, khuyến khích một số nghiên cứu viên cao cấp của Việt Nam mỗi năm đến nghiên cứu tại Viện Đubna để thành lập và lãnh đạo nhóm nghiên cứu riêng của Việt Nam theo hướng nghiên cứu đã được lựa chọn. Ba là, về phía Nhà nước, cần xem các thiết bị nghiên cứu quy mô lớn của Viện Đubna cũng chính là của mình và cần khuyến khích cán bộ nghiên cứu của Việt Nam đến Đubna nghiên cứu.",
+    "question": "Để khai thác hiệu quả tiềm năng của Viện Đubna, tác giả bài viết đề xuất những hành động cụ thể nào cho Việt Nam?",
+    "answer": "Tác giả đề xuất Việt Nam cần xác định hướng nghiên cứu ưu tiên, khuyến khích nghiên cứu viên cao cấp thành lập và lãnh đạo nhóm nghiên cứu riêng tại Viện Đubna, và Nhà nước cần xem thiết bị của Viện Đubna là của mình để khuyến khích cán bộ nghiên cứu đến đó.",
+    "check_human": "true"
+  },
+  {
+    "title": "Khoa học và công nghệ với mục tiêu xây dựng quốc gia hạnh phúc trong kỷ nguyên mới",
+    "context": "Bài viết phân tích mối liên hệ chặt chẽ giữa khoa học và công nghệ với tăng trưởng kinh tế bền vững. Đổi mới sáng tạo và tiến bộ công nghệ được xác định là yếu tố quyết định nâng cao năng suất, chất lượng và sức cạnh tranh của nền kinh tế. Những đóng góp của khoa học và công nghệ đã cải thiện thu nhập, giảm nghèo và mở rộng tầng lớp trung lưu. Qua đó, đời sống vật chất của người dân được nâng cao rõ rệt.",
+    "question": "Khoa học và công nghệ tác động như thế nào đến tăng trưởng kinh tế và đời sống vật chất của người dân?",
+    "answer": "Khoa học và công nghệ nâng cao năng suất, thúc đẩy tăng trưởng bền vững, cải thiện thu nhập và giảm nghèo.",
+    "check_human": "true"
+  },
+  {
+    "title": "Giao thông tương lai Mô hình và giải pháp cho phát triển đô thị hiện đại",
+    "context": "Nhóm nghiên cứu đã xây dựng một bộ chỉ tiêu đánh giá hệ thống giao thông bền vững. Bộ chỉ tiêu này bao gồm các yếu tố như tốc độ, mật độ, thời gian chờ đợi, khả năng thông hành và mức độ phát thải. Các chỉ số này giúp đo lường mức độ bền vững của hệ thống giao thông.",
+    "question": "Những chỉ số nào được sử dụng để đánh giá hệ thống giao thông bền vững?",
+    "answer": "Các chỉ số gồm tốc độ, mật độ giao thông, thời gian chờ đợi, khả năng thông hành và mức độ phát thải.",
+    "check_human": "true"
+  },
+  {
+    "title": "Nghiên cứu khoa học xã hội và nhân văn: Những vấn đề có tính nguyên tắc",
+    "context": "Một nguyên tắc cốt lõi của nghiên cứu khoa học xã hội và nhân văn là giữ vững định hướng chính trị. Nguyên tắc này yêu cầu hoạt động nghiên cứu phải quán triệt đường lối, chủ trương của Đảng và chính sách, pháp luật của Nhà nước. Định hướng chính trị cần được thể hiện trong toàn bộ quá trình từ quản lý đến triển khai nghiên cứu. Đây là cơ sở bảo đảm nghiên cứu phục vụ phát triển đất nước.",
+    "question": "Nguyên tắc giữ vững định hướng chính trị trong nghiên cứu khoa học xã hội và nhân văn được hiểu như thế nào?",
+    "answer": "Đó là việc bảo đảm nghiên cứu tuân thủ đường lối của Đảng, chính sách pháp luật của Nhà nước trong mọi khâu thực hiện.",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển nguồn nhân lực tiêu chuẩn hóa thông qua giáo dục và đào tạo",
+    "context": "Trong xã hội hiện đại, tiêu chuẩn đóng vai trò quan trọng thúc đẩy tính tương tác, hiệu quả và đổi mới sáng tạo. Bằng cách thiết lập các khuôn khổ và giao thức chung, tiêu chuẩn tạo điều kiện thuận lợi cho sự hợp tác, giảm thiểu sự phức tạp và nâng cao trải nghiệm người dùng.",
+    "question": "Tiêu chuẩn có vai trò gì trong xã hội hiện đại?",
+    "answer": "Tiêu chuẩn thúc đẩy tính tương tác, hiệu quả và đổi mới sáng tạo trong xã hội.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đổi mới quản lý nhà nước về khoa học, công nghệ và đổi mới sáng tạo Góc nhìn từ Thành phố Đà Nẵng",
+    "context": "Một trong những nhiệm vụ quan trọng của quản lý nhà nước về khoa học và công nghệ là tạo điều kiện thuận lợi cho doanh nghiệp đổi mới sáng tạo. Các cơ chế hỗ trợ và chính sách ưu đãi giúp doanh nghiệp mạnh dạn đầu tư vào nghiên cứu và phát triển.",
+    "question": "Mục tiêu của việc tạo điều kiện thuận lợi cho doanh nghiệp đổi mới sáng tạo là gì?",
+    "answer": "Nhằm giúp doanh nghiệp mạnh dạn đầu tư vào nghiên cứu và phát triển.",
+    "check_human": "true"
+  },
+  {
+    "title": "Luật Năng lượng Nguyên tử Những vấn đề cơ bản cần sửa đổi",
+    "context": "Các nguyên tắc cơ bản về an toàn và an ninh của IAEA được chuyển thành các chính sách của Nhà nước. Những nguyên tắc này trở thành nền tảng để xây dựng các quy định pháp luật trong lĩnh vực NLNT. Từ đó, các yêu cầu về an toàn và khuyến cáo về an ninh được nội luật hóa trong hệ thống pháp luật quốc gia.",
+    "question": "Các nguyên tắc cơ bản về an toàn và an ninh của IAEA được chuyển thành gì trong hệ thống pháp luật quốc gia?",
+    "answer": "được chuyển thành các chính sách của Nhà nước và các nguyên tắc về bảo đảm an toàn và an ninh trong lĩnh vực NLNT",
+    "check_human": "true"
+  },
+  {
+    "title": "10 thành tựu khoa học thế giới nổi bật năm 2023",
+    "context": "Một thử nghiệm kéo dài 18 tháng cho thấy lecanemab làm chậm quá trình mất nhận thức 27% so với giả dược ở bệnh nhân Alzheimer. Một phương pháp khác là donanemab cho thấy khả năng làm chậm suy giảm nhận thức tới 35%. Cả hai liệu pháp đều nhắm vào amyloid trong não. Các kết quả này đã thuyết phục cơ quan quản lý ở Mỹ và Nhật Bản chấp thuận sử dụng.",
+    "question": "Lecanemab có hiệu quả như thế nào trong điều trị Alzheimer theo thử nghiệm gần đây?",
+    "answer": "Lecanemab làm chậm quá trình mất nhận thức 27% so với giả dược trong thử nghiệm kéo dài 18 tháng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chỉ số đổi mới sáng tạo toàn cầu năm 2024 Việt Nam tăng 2 bậc so với năm 2023",
+    "context": "Về cơ sở hạ tầng trong Chỉ số đổi mới sáng tạo toàn cầu, Việt Nam có sự cải thiện đáng kể trong năm 2024. Việt Nam xếp hạng 56 trong trụ cột cơ sở hạ tầng. Thứ hạng này tăng 14 bậc so với vị trí 70 của năm 2023.",
+    "question": "Thứ hạng của Việt Nam trong trụ cột cơ sở hạ tầng năm 2024 là bao nhiêu và thay đổi ra sao so với năm 2023?",
+    "answer": "Năm 2024 Việt Nam xếp hạng 56, tăng 14 bậc so với vị trí 70 năm 2023.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chế tạo thành công bộ chuẩn công tác kiểm định phương tiện đo áp suất",
+    "context": "Trong thực tế, nhiều thiết bị đo áp suất tại nhà máy rất khó tháo rời để đưa về phòng thí nghiệm. Điều này do không thể dừng hệ thống hoặc tắt điều khiển trong thời gian dài. Vì vậy, việc kiểm định và hiệu chuẩn tại chỗ trở nên cần thiết nhưng lại gặp nhiều khó khăn.",
+    "question": "Tại sao việc kiểm định phương tiện đo áp suất tại nhà máy lại gặp khó khăn?",
+    "answer": "phương tiện đo áp suất sử dụng trong các nhà máy công nghiệp rất khó để tháo rời khỏi hệ thống trong thời gian lâu",
+    "check_human": "true"
+  },
+  {
+    "title": "Kinh nghiệm phát triển điện hạt nhân của Hàn Quốc Bài học chiến lược cho Việt Nam",
+    "context": "Ngay từ đầu thập niên 1960, các chiến dịch truyền thông quy mô lớn đã được Hàn Quốc triển khai như: Triển lãm lưu động, phát hành tạp chí phổ thông, xây dựng các chương trình giáo dục cộng đồng và phổ biến kiến thức về năng lượng hạt nhân trên các phương tiện truyền thông đại chúng. Những nỗ lực này không chỉ giúp nâng cao hiểu biết của người dân về lợi ích và rủi ro của năng lượng hạt nhân mà còn góp phần xóa bỏ tâm lý e ngại, tạo sự đồng thuận rộng rãi trong xã hội. Sau những sự cố như Chernobyl (1986) và Fukushima (2011), Hàn Quốc vẫn duy trì được lòng tin của công chúng thông qua chính sách truyền thông nhất quán, minh bạch và kịp thời phản hồi các mối quan ngại.",
+    "question": "Từ thập niên 1960, Hàn Quốc đã triển khai các chiến dịch truyền thông quy mô lớn như thế nào về năng lượng hạt nhân?",
+    "answer": "Hàn Quốc đã triển khai các chiến dịch truyền thông như triển lãm lưu động, phát hành tạp chí phổ thông, xây dựng các chương trình giáo dục cộng đồng và phổ biến kiến thức về năng lượng hạt nhân trên các phương tiện truyền thông đại chúng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển nguồn gen cây Quao tại vùng Duyên hải miền Trung",
+    "context": "Việt Nam được đánh giá là một trong năm quốc gia chịu ảnh hưởng nghiêm trọng nhất của biến đổi khí hậu và nước biển dâng.",
+    "question": "Việt Nam được đánh giá là một trong bao nhiêu quốc gia chịu ảnh hưởng nghiêm trọng của biến đổi khí hậu?",
+    "answer": "Việt Nam được đánh giá là một trong năm quốc gia chịu ảnh hưởng nghiêm trọng nhất.",
+    "check_human": "true"
+  },
+  {
+    "title": "Các chủ nhân của Giải Nobel năm 2024",
+    "context": "Protein đóng vai trò quan trọng trong các quá trình sinh học của cơ thể sống. Chúng kiểm soát và thúc đẩy các phản ứng hóa học trong tế bào. Đồng thời, protein cũng có thể hoạt động như hormone, chất truyền tín hiệu và kháng thể. :contentReference[oaicite:14]{index=14}",
+    "question": "Protein có thể thực hiện những chức năng nào trong cơ thể sống?",
+    "answer": "Protein kiểm soát và thúc đẩy các phản ứng hóa học, đồng thời hoạt động như hormone, chất truyền tín hiệu và kháng thể.",
+    "check_human": "true"
+  },
+  {
+    "title": "Khoa học và công nghệ trong ứng phó hạn mặn tại Đồng bằng sông Cửu Long",
+    "context": "Trong những năm gần đây, trí tuệ nhân tạo đã trở thành một trong những công nghệ tiên tiến nhất. AI đang được ứng dụng mạnh mẽ trong nhiều lĩnh vực khác nhau, bao gồm cả y tế. Với khả năng phân tích dữ liệu lớn và tự động hóa quy trình, AI góp phần cải thiện chất lượng chăm sóc sức khỏe.",
+    "question": "Trí tuệ nhân tạo được mô tả là công nghệ như thế nào trong những năm gần đây?",
+    "answer": "trí tuệ nhân tạo đã trở thành một trong những công nghệ tiên tiến nhất",
+    "check_human": "true"
+  },
+  {
+    "title": "Phân lập và phát triển thành công chế phẩm vi sinh vật chống bệnh hại cho cây trồng",
+    "context": "Kết quả thử nghiệm cho thấy năng suất cà phê ở lô bón chế phẩm đạt 4,2 tấn/ha. Mức này cao hơn so với đối chứng là 3,6 tấn/ha. Điều này chứng minh hiệu quả của chế phẩm.",
+    "question": "Năng suất cà phê khi sử dụng chế phẩm vi sinh đạt bao nhiêu?",
+    "answer": "Năng suất cà phê ở lô bón chế phẩm đạt 4,2 tấn/ha, cao hơn so với đối chứng 3,6 tấn/ha.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đánh giá mức độ hài lòng về việc làm sau tốt nghiệp của cựu sinh viên Trường Đại học Đà Lạt",
+    "context": "Trong số cựu sinh viên có việc làm, 53,1% có việc làm trong vòng 6 tháng sau khi nhận bằng tốt nghiệp.",
+    "question": "Bao nhiêu phần trăm cựu sinh viên có việc làm trong vòng 6 tháng sau khi nhận bằng?",
+    "answer": "53,1% cựu sinh viên có việc làm trong vòng 6 tháng.",
+    "check_human": "true"
+  },
+  {
+    "title": "10 sự kiện khoa học và công nghệ nổi bật năm 2023",
+    "context": "Việt Nam đạt nhiều thành tựu trong lĩnh vực ghép tạng năm 2023. Một số ca ghép tạng được đánh giá là lịch sử. Những thành tựu này giúp Việt Nam trở thành điểm sáng trong khu vực.",
+    "question": "Thành tựu ghép tạng năm 2023 đã đưa Việt Nam đến vị thế nào?",
+    "answer": "Những thành tựu này giúp Việt Nam trở thành điểm sáng trong khu vực",
+    "check_human": "true"
+  },
+  {
+    "title": "Khai thác nguồn lực xây dựng các ngành công nghiệp văn hoá phục vụ phát triển kinh tế - xã hội của tỉnh Ninh Thuận hiện nay",
+    "context": "Công nghiệp văn hóa đóng góp vào GDP và tạo việc làm. Điều này cho thấy vai trò kinh tế của lĩnh vực này. Năm 2022, các ngành công nghiệp văn hóa Việt Nam đóng góp ước đạt 4,04% đối với GDP, tạo 1 triệu việc làm cho xã hội.",
+    "question": "Công nghiệp văn hóa Việt Nam đóng góp như thế nào cho nền kinh tế năm 2022?",
+    "answer": "Năm 2022, các ngành công nghiệp văn hóa Việt Nam đóng góp ước đạt 4,04% đối với GDP, tạo 1 triệu việc làm cho xã hội.",
+    "check_human": "true"
+  },
+  {
+    "title": "Sửa đổi Luật Báo chí Một số vấn đề đối với tạp chí khoa học",
+    "context": "Theo cơ quan quản lý, đã có tổng cộng 318 tạp chí khoa học được cấp phép hoạt động theo quy định của Luật Báo chí.",
+    "question": "Có bao nhiêu tạp chí khoa học đã được cấp phép theo quy định của Luật Báo chí?",
+    "answer": "Tổng cộng có 318 tạp chí khoa học đã được cấp phép hoạt động.",
+    "check_human": "true"
+  },
+  {
+    "title": "Lai Châu Đổi mới sáng tạo trong liên kết sản xuất và tiêu thụ sản phẩm OCOP",
+    "context": "Tính đến ngày 30/8/2024, tỉnh Lai Châu có 215 sản phẩm OCOP được chứng nhận đạt hạng 3-4 sao của 89 chủ thể. Trong số đó có 13 sản phẩm đạt hạng 4 sao và 12 điểm giới thiệu và bán sản phẩm OCOP trong và ngoài tỉnh.",
+    "question": "Tính đến ngày 30/8/2024, Lai Châu có bao nhiêu sản phẩm OCOP đạt hạng 3-4 sao?",
+    "answer": "Lai Châu có 215 sản phẩm OCOP đạt hạng 3-4 sao.",
+    "check_human": "true"
+  },
+  {
+    "title": "Sóc Trăng Nhiều giải pháp phát triển hoạt động khởi nghiệp đổi mới sáng tạo",
+    "context": "Ngày 16/07/2018, UBND tỉnh Sóc Trăng đã ban hành Quyết định số 1702/QĐ-UBND phê duyệt Đề án “Khởi nghiệp sáng tạo tỉnh Sóc Trăng giai đoạn 2018-2020, tầm nhìn đến năm 2025”.",
+    "question": "Quyết định nào của UBND tỉnh Sóc Trăng phê duyệt Đề án Khởi nghiệp sáng tạo giai đoạn 2018-2020?",
+    "answer": "Đó là Quyết định số 1702/QĐ-UBND ngày 16/07/2018 của UBND tỉnh Sóc Trăng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Hành trình chuyển đổi giải pháp thiết kế xây dựng để khai thác hiệu quả các mỏ dầu khí nhỏ, cận biên tại liên doanh Việt - Nga Vietsovpetro",
+    "context": "Tại lô 09-1, sản lượng khai thác dầu khí bắt đầu suy giảm sau khi đạt đỉnh vào giai đoạn 2002-2003. Trong khi đó các phát hiện dầu khí mới có trữ lượng thấp và địa chất phức tạp. Điều này đặt ra yêu cầu phải tối ưu chi phí xây dựng và vận hành công trình.",
+    "question": "Vì sao cần tối ưu chi phí xây dựng và vận hành trong khai thác dầu khí tại lô 09-1?",
+    "answer": "Các phát hiện dầu khí mới tại lô 09-1 có tài nguyên dầu khí thấp, địa chất phức tạp và phân bố rải rác nên cần tối ưu chi phí xây dựng và vận hành.",
+    "check_human": ""
+  },
+  {
+    "title": "Triển khai dịch vụ viễn thông sử dụng công nghệ vệ tinh quỹ đạo tầm thấp tại Việt Nam",
+    "context": "Tuy nhiên, dịch vụ viễn thông của mạng LEO như Starlink cũng có một số nhược điểm so với mạng mặt đất. Chi phí ban đầu cao đối với người dùng cuối là một vấn đề đáng kể. Thiết bị đầu cuối của Starlink, mạng LEO duy nhất hiện nay đang cung cấp dịch vụ đến người dùng cuối (B2C), có giá khoảng 500-600 USD, cộng thêm phí thuê bao hàng tháng (ước tính 50-100 USD), vượt xa khả năng chi trả của nhiều hộ gia đình nông thôn, vùng sâu, vùng xa ở Việt Nam.",
+    "question": "Nhược điểm về chi phí ban đầu của dịch vụ viễn thông LEO như Starlink đối với người dùng cuối tại Việt Nam là gì?",
+    "answer": "Chi phí ban đầu cao là nhược điểm của dịch vụ LEO như Starlink đối với người dùng cuối; thiết bị đầu cuối của Starlink có giá khoảng 500-600 USD và phí thuê bao hàng tháng ước tính 50-100 USD, vượt khả năng chi trả của nhiều hộ gia đình ở Việt Nam.",
+    "check_human": "true"
+  },
+  {
+    "title": "Bảo hộ nhãn hiệu liên quan đến NFT trong Metaverse tại Hoa Kỳ và một số gợi mở cho Việt Nam",
+    "context": "Đạo luật Lanham thiết lập cơ chế nhãn hiệu trên phạm vi toàn quốc tại Hoa Kỳ. Luật này đưa ra các tiêu chuẩn pháp lý chung về nhãn hiệu. Nó điều chỉnh việc bảo hộ nhãn hiệu trên toàn lãnh thổ.",
+    "question": "Đạo luật Lanham thiết lập điều gì về nhãn hiệu tại Hoa Kỳ?",
+    "answer": "thiết lập cơ chế nhãn hiệu trên phạm vi toàn quốc và các tiêu chuẩn pháp lý chung về nhãn hiệu.",
+    "check_human": "true"
+  },
+  {
+    "title": "Xác định và bảo vệ chủ quyền quốc gia trên biển của Việt Nam từ các công trình nghiên cứu khoa học",
+    "context": "Để hoàn thành hồ sơ xác định ranh giới ngoài thềm lục địa mở rộng, các nhà khoa học Việt Nam đã tiến hành thu thập và phân tích dữ liệu. Bộ hồ sơ tổng hợp đã được hoàn thành với sự tham gia của nhiều lực lượng. Hồ sơ này đã được Bộ Ngoại giao Việt Nam nộp lên Ủy ban Ranh giới ngoài thềm lục địa của Liên hợp quốc năm 2009.",
+    "question": "Hồ sơ xác định ranh giới thềm lục địa của Việt Nam được nộp lên LHQ khi nào?",
+    "answer": "Hồ sơ này đã được Bộ Ngoại giao Việt Nam nộp lên Ủy ban Ranh giới ngoài thềm lục địa của Liên hợp quốc năm 2009.",
+    "check_human": "true"
+  },
+  {
+    "title": "Kết nối tài chính xanh với thị trường carbon Công cụ hiện thực hóa mục tiêu phát thải ròng bằng 0 vào năm 2050",
+    "context": "Năm 2020, Vietcombank đã phát hành trái phiếu xanh đầu tiên để tài trợ cho các dự án năng lượng tái tạo và nông nghiệp bền vững. Tổng số tiền huy động đạt khoảng 3.000 tỷ đồng. Đây là một trong những bước tiến quan trọng trong phát triển tài chính xanh tại Việt Nam.",
+    "question": "Vietcombank đã huy động bao nhiêu vốn khi phát hành trái phiếu xanh đầu tiên năm 2020?",
+    "answer": "Vietcombank đã huy động khoảng 3.000 tỷ đồng thông qua việc phát hành trái phiếu xanh đầu tiên.",
+    "check_human": "true"
+  },
+  {
+    "title": "Truy xuất nguồn gốc các sản phẩm chủ lực của tỉnh Bình Dương",
+    "context": "Trung tâm Mã số, Mã vạch Quốc gia đã sử dụng hệ thống NBC-Trace để quản lý thông tin dữ liệu TXNG tại Bình Dương. Hệ thống này đảm bảo phù hợp với tiêu chuẩn TXNG quốc tế GS1, giúp hỗ trợ tiêu thụ và xuất khẩu hàng hóa. NBC-Trace còn là một giải pháp quản lý sản xuất tổng thể, cho phép tùy biến theo nhu cầu của khách hàng. Đặc biệt, nó có khả năng liên kết chuỗi cung ứng, tích hợp với hệ thống quản lý mã số, mã vạch và hệ sinh thái của các bên.",
+    "question": "Hệ thống NBC-Trace được sử dụng trong đề tài thí điểm tại Bình Dương có những yêu cầu hoặc đặc điểm nổi bật nào?",
+    "answer": "Hệ thống NBC-Trace đảm bảo phù hợp tiêu chuẩn TXNG quốc tế GS1, hỗ trợ tiêu thụ và xuất khẩu hàng hóa. Đây là giải pháp quản lý sản xuất tổng thể, cho phép tùy biến theo nhu cầu quản lý sản xuất của khách hàng. Ngoài ra, NBC-Trace có khả năng liên kết chuỗi cung ứng, tích hợp với hệ thống quản lý thông tin mã số, mã vạch sản phẩm và hệ sinh thái của các bên tham gia chuỗi cung ứng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Robot hỗ trợ dạy tiếng Anh “Made in Vietnam”",
+    "context": "Để thiết kế, chế tạo robot thông minh hình dạng giống người cần phải giải quyết được hai vấn đề chính. Về thiết kế chế tạo hệ thống phần cứng, cần giải quyết các bài toán về cơ khí, điện, điện tử và điều khiển hệ thống. Về phần mềm, robot cần đáp ứng các yêu cầu điều khiển chuyển động và xử lý các bài toán thực tế.",
+    "question": "Trong thiết kế robot, phần mềm cần đáp ứng yêu cầu gì?",
+    "answer": "robot cần đáp ứng các yêu cầu điều khiển chuyển động và xử lý các bài toán thực tế",
+    "check_human": "true"
+  },
+  {
+    "title": "Chỉ dẫn các hành động xây dựng hệ thống đổi mới sáng tạo trong doanh nghiệp hiệu quả",
+    "context": "Đổi mới sáng tạo trong doanh nghiệp dựa trên ba trụ cột chính. Các trụ cột này bao gồm chiến lược kinh doanh, các cấu phần thúc đẩy và các năng lực nội tại. Đây là nền tảng để xây dựng hệ thống đổi mới sáng tạo hiệu quả.",
+    "question": "Ba trụ cột chính của đổi mới sáng tạo trong doanh nghiệp là gì?",
+    "answer": "bao gồm chiến lược kinh doanh các cấu phần thúc đẩy đổi mới sáng tạo và các năng lực nội tại của doanh nghiệp",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển sâm Việt Nam Bài học từ Hàn Quốc",
+    "context": "Hàn Quốc đã đa dạng hóa các sản phẩm từ sâm để phục vụ nhiều đối tượng khách hàng. Các sản phẩm gồm dạng túi, cao cô đặc, bột, viên nang và kẹo. Điều này giúp sâm trở nên phổ biến hơn.",
+    "question": "Hàn Quốc đã làm gì để phổ biến sản phẩm sâm?",
+    "answer": "đa dạng hóa sản phẩm như dạng túi, bột, viên nang và kẹo",
+    "check_human": "true"
+  },
+  {
+    "title": "Định hướng sửa đổi, bổ sung chính sách, pháp luật về an toàn bức xạ",
+    "context": "Pháp lệnh An toàn và kiểm soát bức xạ năm 1996 là văn bản pháp luật đầu tiên về lĩnh vực này tại Việt Nam. Văn bản này thiết lập cơ chế quản lý nhà nước đối với an toàn và kiểm soát bức xạ. Đây được xem là nền tảng pháp lý ban đầu cho quản lý bức xạ tại Việt Nam.",
+    "question": "Pháp lệnh An toàn và kiểm soát bức xạ năm 1996 có vai trò gì đối với quản lý bức xạ tại Việt Nam?",
+    "answer": "Là văn bản pháp luật đầu tiên thiết lập cơ chế quản lý nhà nước về an toàn và kiểm soát bức xạ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Tận dụng cơ sở hạ tầng dầu khí vào phát triển các mỏ nhỏ, mỏ cận biên tại Liên doanh Việt - Nga Vietsovpetro",
+    "context": "Việc kết nối các mỏ nhỏ với hệ thống cơ sở hạ tầng dầu khí hiện hữu giúp tối ưu hóa nguồn lực. Điều này cho phép khai thác hiệu quả hơn các trữ lượng nhỏ phân tán. Đồng thời góp phần kéo dài thời gian hoạt động của các công trình dầu khí hiện có.",
+    "question": "Kết nối các mỏ nhỏ với hạ tầng dầu khí hiện hữu mang lại lợi ích gì cho hoạt động khai thác?",
+    "answer": "Việc kết nối các mỏ nhỏ với hệ thống cơ sở hạ tầng dầu khí hiện hữu giúp tối ưu hóa nguồn lực.",
+    "check_human": "true"
+  },
+  {
+    "title": "Công tác quản lý các tổ chức nghệ thuật biểu diễn ở Việt Nam trong bối cảnh hiện nay",
+    "context": "Quản lý nhà nước đối với nghệ thuật biểu diễn giữ vai trò định hướng, hỗ trợ và điều tiết hoạt động của các tổ chức nghệ thuật theo đúng mục tiêu và đường lối phát triển văn hóa của Đảng và Nhà nước.",
+    "question": "Quản lý nhà nước đối với nghệ thuật biểu diễn có vai trò gì?",
+    "answer": "Quản lý nhà nước có vai trò định hướng, hỗ trợ và điều tiết hoạt động của các tổ chức nghệ thuật theo mục tiêu và đường lối phát triển văn hóa của Đảng và Nhà nước.",
+    "check_human": "true"
+  },
+  {
+    "title": "Suy giảm tài nguyên biển Hiện trạng và giải pháp phát triển bền vững",
+    "context": "Việt Nam có bờ biển dài hơn 3.260 km và khoảng 4.000 hòn đảo lớn nhỏ với các hệ sinh thái ven biển phong phú như rạn san hô, thảm cỏ biển và rừng ngập mặn.",
+    "question": "Việt Nam có chiều dài bờ biển và số lượng đảo khoảng bao nhiêu?",
+    "answer": "Việt Nam có bờ biển dài hơn 3.260 km và khoảng 4.000 hòn đảo lớn nhỏ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Thúc đẩy nghiên cứu phát triển và sử dụng trí tuệ nhân tạo một cách có trách nhiệm ở Việt Nam",
+    "context": "Trí tuệ nhân tạo có trách nhiệm là cách tiếp cận phát triển AI theo chuẩn mực đạo đức và pháp lý. Mục tiêu là đảm bảo AI an toàn, đáng tin cậy và có đạo đức. Điều này giúp kiểm soát các rủi ro tiềm ẩn. Đồng thời nâng cao niềm tin của xã hội vào AI.",
+    "question": "Trí tuệ nhân tạo có trách nhiệm được hiểu như thế nào?",
+    "answer": "Là cách tiếp cận phát triển và sử dụng AI theo các quan điểm về đạo đức và pháp lý nhằm đảm bảo an toàn và đáng tin cậy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển công nghiệp dựa trên khoa học, công nghệ và đổi mới sáng tạo ở Thái Lan Gợi ý cho Việt Nam",
+    "context": "Đầu tư vào nghiên cứu và phát triển là yếu tố then chốt để thúc đẩy đổi mới sáng tạo.",
+    "question": "Yếu tố then chốt để thúc đẩy đổi mới sáng tạo là gì?",
+    "answer": "đầu tư vào nghiên cứu và phát triển là yếu tố then chốt thúc đẩy đổi mới sáng tạo",
+    "check_human": "true"
+  },
+  {
+    "title": "Khoa học và công nghệ hạt nhân trong giải quyết các thách thức toàn cầu",
+    "context": "Khoa học và công nghệ hạt nhân đóng vai trò quan trọng trong nhiều lĩnh vực. Các ứng dụng của công nghệ hạt nhân được sử dụng trong y học, nông nghiệp và công nghiệp. Khoa học và công nghệ hạt nhân đóng vai trò quan trọng trong việc giải quyết các thách thức toàn cầu.",
+    "question": "Khoa học và công nghệ hạt nhân đóng vai trò quan trọng trong việc giải quyết điều gì?",
+    "answer": "Khoa học và công nghệ hạt nhân đóng vai trò quan trọng trong việc giải quyết các thách thức toàn cầu.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đại học Quốc gia Hà Nội Tiên phong kiến tạo chính sách, phát huy các nguồn lực để đưa Nghị quyết số 57-NQ TW vào cuộc sống",
+    "context": "Trong việc triển khai thực hiện Nghị quyết số 57-NQ/TW, ĐHQGHN đã tiên phong hiện thực hóa các mô hình tổ chức khoa học và công nghệ tiên tiến trên thế giới. Ngày 13/01/2025, Giám đốc ĐHQGHN đã ban hành Quyết định số 189/QĐ-ĐHQGHN thành lập Công viên Công nghệ cao và Đổi mới sáng tạo. Công viên này có nhiệm vụ ươm tạo các nhà khoa học xuất sắc, nhóm nghiên cứu đạt chuẩn quốc tế, thúc đẩy hợp tác, thu hút đầu tư vào hoạt động nghiên cứu và triển khai. Đây là một chủ trương có ý nghĩa đặc biệt quan trọng, phù hợp với xu hướng phát triển khoa học, công nghệ và đổi mới sáng tạo của các nước tiên tiến trên thế giới.",
+    "question": "Đại học Quốc gia Hà Nội đã ban hành quyết định nào và vào ngày nào để thành lập Công viên Công nghệ cao và Đổi mới sáng tạo?",
+    "answer": "Đại học Quốc gia Hà Nội đã ban hành Quyết định số 189/QĐ-ĐHQGHN vào ngày 13/01/2025 để thành lập Công viên Công nghệ cao và Đổi mới sáng tạo.",
+    "check_human": "true"
+  },
+  {
+    "title": "Pin cát Bước đột phá mới trong lưu trữ năng lượng sạch và bền vững",
+    "context": "Tài liệu giới thiệu pin cát như một giải pháp lưu trữ năng lượng nhiệt thay thế cho pin hóa học truyền thống. Công nghệ này sử dụng cát hoặc đá nghiền để tích trữ nhiệt từ điện tái tạo trong thời gian dài. Cấu trúc đơn giản, vật liệu phổ biến và không độc hại là những đặc điểm nổi bật. Pin cát được xem là hướng đi bền vững trong bối cảnh chuyển dịch năng lượng xanh.",
+    "question": "Pin cát là gì và khác biệt cơ bản của công nghệ này so với pin hóa học truyền thống?",
+    "answer": "Pin cát lưu trữ năng lượng dưới dạng nhiệt bằng cát hoặc đá nghiền, không phụ thuộc vật liệu hiếm và có cấu trúc đơn giản.",
+    "check_human": ""
+  },
+  {
+    "title": "Kiểm tra, thanh tra trong quản lý nhà nước – tiếp cận từ góc độ pháp luật thanh tra",
+    "context": "Trong quản lý nhà nước, kiểm tra và thanh tra là hai hoạt động quan trọng nhằm bảo đảm pháp luật được thực thi đúng đắn. Hoạt động thanh tra được thực hiện bởi các cơ quan nhà nước có thẩm quyền nhằm phát hiện sai phạm, xử lý vi phạm và kiến nghị hoàn thiện cơ chế quản lý.",
+    "question": "Vai trò của hoạt động thanh tra trong quản lý nhà nước là gì?",
+    "answer": "Thanh tra giúp phát hiện sai phạm, xử lý vi phạm và kiến nghị hoàn thiện cơ chế quản lý.",
+    "check_human": "true"
+  },
+  {
+    "title": "Thực trạng pháp luật và tính pháp lý của tiền ảo ở Việt Nam hiện nay",
+    "context": "Pháp luật Việt Nam hiện nay chưa có quy định điều chỉnh tiền ảo hay thừa nhận tính pháp lý của loại tiền này. Trong khi đó các giao dịch liên quan đến tiền ảo ngày càng gia tăng. :contentReference[oaicite:12]{index=12}",
+    "question": "Pháp luật Việt Nam hiện nay quy định như thế nào về tiền ảo?",
+    "answer": "Pháp luật Việt Nam hiện nay chưa có quy định điều chỉnh và chưa thừa nhận tính pháp lý của tiền ảo. :contentReference[oaicite:13]{index=13}",
+    "check_human": "true"
+  },
+  {
+    "title": "Sự phát triển của công nghệ sinh học và hành vi phạm tội tiềm ẩn",
+    "context": "Sự phổ biến của công nghệ sinh học hiện nay tiềm ẩn nhiều nguy cơ bị lợi dụng cho mục đích xấu. Một trong những biểu hiện cụ thể là việc tự sản xuất các sản phẩm gây hại tại gia đình. Sự phổ biến của CNSH đã làm tăng cơ hội sử dụng chúng vào các mục đích xấu, chẳng hạn như việc “tự pha chế\" các sản phẩm ma túy giải trí.",
+    "question": "Sự phổ biến của công nghệ sinh học đã làm tăng cơ hội sử dụng vào mục đích xấu nào liên quan đến ma túy?",
+    "answer": "Sự phổ biến của CNSH đã làm tăng cơ hội sử dụng chúng vào các mục đích xấu, chẳng hạn như việc “tự pha chế\" các sản phẩm ma túy giải trí.",
+    "check_human": "true"
+  },
+  {
+    "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+    "context": "Lưu trữ tài liệu KH&CN đóng vai trò quan trọng trong việc bảo vệ và phát huy giá trị của nguồn tri thức khoa học. Các tài liệu KH&CN không chỉ mang giá trị cho nghiên cứu khoa học mà còn là công cụ hiệu quả trong hoạch định chính sách, phát triển công nghệ và đổi mới sáng tạo. Chính vì vậy, hệ thống lưu trữ tài liệu KH&CN phải đảm bảo tính bảo mật, khả năng truy xuất dễ dàng và chia sẻ hiệu quả.",
+    "question": "Theo bài viết, hệ thống lưu trữ tài liệu KH&CN cần đảm bảo những yêu cầu gì?",
+    "answer": "hệ thống lưu trữ tài liệu KH&CN phải đảm bảo tính bảo mật, khả năng truy xuất dễ dàng và chia sẻ hiệu quả",
+    "check_human": "true"
+  },
+  {
+    "title": "Viện Khoa học Thủy lợi Việt Nam: 65 năm phục vụ phát triển nông nghiệp và nông thôn",
+    "context": "Viện đã nghiên cứu các giải pháp tưới tiêu và cải tạo đất. Các nghiên cứu xác định nhu cầu nước và chế độ tưới cho cây trồng. Điều này góp phần nâng cao năng suất nông nghiệp. Đồng thời hỗ trợ phát triển nông nghiệp bền vững.",
+    "question": "Viện đóng góp gì cho lĩnh vực tưới tiêu và cải tạo đất?",
+    "answer": "Viện nghiên cứu nhu cầu nước, chế độ tưới và cải tạo đất, góp phần nâng cao năng suất nông nghiệp.",
+    "check_human": "true"
+  },
+  {
+    "title": "Bến Tre Đẩy mạnh nghiên cứu, triển khai các nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo phục vụ phát triển kinh tế - xã hội",
+    "context": "Ngành KH&CN Bến Tre đã triển khai khá tốt các nhiệm vụ khoa học và công nghệ. Trong 03 năm qua, Sở KH&CN tham mưu quản lý và triển khai 122 nhiệm vụ KH&CN. Các nhiệm vụ này gồm nhiều cấp khác nhau và đã đạt được một số kết quả tích cực.",
+    "question": "Trong 03 năm qua, Sở KH&CN Bến Tre đã triển khai bao nhiêu nhiệm vụ KH&CN?",
+    "answer": "Trong 03 năm qua, Sở KH&CN tham mưu quản lý, triển khai 122 nhiệm vụ KH&CN.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đổi mới mô hình tăng trưởng kinh tế Vấn đề huy động và sử dụng nguồn lực nội sinh",
+    "context": "Nguồn nhân lực dồi dào mang lại lợi thế cho Việt Nam trong phát triển kinh tế. Giá nhân công rẻ cũng được xem là một lợi thế cạnh tranh. Những yếu tố này góp phần thúc đẩy tăng trưởng.",
+    "question": "Nguồn nhân lực Việt Nam được đánh giá là có lợi thế gì trong phát triển kinh tế?",
+    "answer": "nguồn nhân lực dồi dào, giá nhân công rẻ… được đánh giá là một trong những lợi thế của nước ta trong phát triển kinh tế",
+    "check_human": "true"
+  },
+  {
+    "title": "Khai thác dữ liệu trong bảo trì thiết bị",
+    "context": "Dữ liệu bảo trì được thu thập liên tục từ thiết bị trong quá trình vận hành, bao gồm thông số kỹ thuật, trạng thái hoạt động và lịch sử sửa chữa. Những dữ liệu này hỗ trợ nhà quản lý và kỹ thuật viên xác định sớm các vấn đề tiềm ẩn. Nhờ đó, các quyết định bảo trì được đưa ra kịp thời và chính xác hơn. Dữ liệu trở thành yếu tố cốt lõi trong quản lý bảo trì hiện đại.",
+    "question": "Dữ liệu trong bảo trì thiết bị bao gồm những loại thông tin chính nào?",
+    "answer": "Bao gồm thông số kỹ thuật, trạng thái vận hành, lịch sử bảo trì và các sự kiện phát sinh.",
+    "check_human": ""
+  },
+  {
+    "title": "Xây dựng mô hình làng thông minh phát triển từ hội quán nông dân",
+    "context": "Đồng Tháp đặt mục tiêu đến năm 2025 xây dựng 7 “Làng thông minh” và đến năm 2030 nâng lên 14 mô hình nhằm thúc đẩy phát triển kinh tế số và nông thôn thông minh.",
+    "question": "Mục tiêu phát triển “Làng thông minh” tại Đồng Tháp đến năm 2030 là gì?",
+    "answer": "Đồng Tháp đặt mục tiêu xây dựng 14 “Làng thông minh” vào năm 2030.",
+    "check_human": "true"
+  },
+  {
+    "title": "Xâm phạm bản quyền âm nhạc trên môi trường mạng Góc nhìn từ các vụ tranh chấp",
+    "context": "Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh từ thời điểm tác phẩm được sáng tạo. Quyền này phát sinh khi tác phẩm được thể hiện dưới một hình thức vật chất nhất định. Việc đăng ký quyền tác giả không phải là thủ tục bắt buộc.",
+    "question": "Theo Luật Sở hữu trí tuệ, quyền tác giả phát sinh khi nào?",
+    "answer": "quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới một hình thức vật chất nhất định",
+    "check_human": "true"
+  },
+  {
+    "title": "Đông Nam Bộ Khoa học và công nghệ gắn với phát triển bền vững.",
+    "context": "Năm 2020, vùng Đông Nam Bộ đóng góp lớn vào nền kinh tế quốc gia. Khu vực này đóng góp 32% GDP cả nước và chiếm 44,7% tổng thu ngân sách nhà nước. Điều này cho thấy vai trò kinh tế quan trọng của vùng.",
+    "question": "Năm 2020, Đông Nam Bộ đóng góp bao nhiêu vào GDP và ngân sách nhà nước?",
+    "answer": "năm 2020, vùng Đông Nam Bộ đóng góp 32% GDP của cả nước, chiếm 44,7% tổng thu ngân sách nhà nước",
+    "check_human": "true"
+  },
+  {
+    "title": "Kinh nghiệm phát triển điện hạt nhân của Hàn Quốc Bài học chiến lược cho Việt Nam",
+    "context": "Hàn Quốc xác định điện hạt nhân là chương trình chiến lược quốc gia. Chương trình này nhận được sự ủng hộ rộng rãi. Điện hạt nhân là một chương trình chiến lược quốc gia, nhận được sự đồng thuận và ủng hộ mạnh mẽ từ Chính phủ, quốc hội và các cơ quan lập pháp.",
+    "question": "Điện hạt nhân được xác định như thế nào trong chiến lược của Hàn Quốc?",
+    "answer": "Điện hạt nhân là một chương trình chiến lược quốc gia, nhận được sự đồng thuận và ủng hộ mạnh mẽ từ Chính phủ, quốc hội và các cơ quan lập pháp.",
+    "check_human": "true"
+  },
+  {
+    "title": "Tăng cường hạ tầng chất lượng thông qua hoạt động đánh giá tác động quy định",
+    "context": "Thực hành quy định tốt (GRP) là việc áp dụng có hệ thống các công cụ, thể chế và thủ tục nhằm đảm bảo các quy định đạt hiệu quả, minh bạch và bền vững. GRP được sử dụng rộng rãi bởi nhiều tổ chức quốc tế và chính phủ. Một trong những công cụ quan trọng của GRP là đánh giá tác động quy định (RIA). RIA giúp nâng cao chất lượng các quy định hiện hành và quy định mới.",
+    "question": "GRP là gì và công cụ quan trọng của nó là gì?",
+    "answer": "GRP là việc áp dụng hệ thống công cụ và thủ tục để đảm bảo quy định hiệu quả và công cụ quan trọng của nó là RIA.",
+    "check_human": "true"
+  },
+  {
+    "title": "Hệ thống tiêu chuẩn quốc gia về môi trường, xã hội và quản trị - Khung chiến lược hướng tới phát triển bền vững",
+    "context": "Trong ESG, việc xác định và quản lý rủi ro là một nội dung quan trọng. Khung quản lý ESG nhấn mạnh việc xác định và quản lý cả rủi ro và cơ hội liên quan đến tổ chức. Khung quản lý ESG nhấn mạnh vào việc xác định và quản lý cả rủi ro và cơ hội trong hoạt động của tổ chức.",
+    "question": "Khung quản lý ESG nhấn mạnh việc quản lý những yếu tố nào trong hoạt động của tổ chức?",
+    "answer": "Khung quản lý ESG nhấn mạnh vào việc xác định và quản lý cả rủi ro và cơ hội.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ứng dụng 5G hiện đại hóa ngành nông nghiệp Kết quả từ một số nước châu Âu",
+    "context": "Công nghệ 5G được ứng dụng để giám sát chuỗi cung ứng. Hệ thống IoT giúp thu thập dữ liệu theo thời gian thực. Điều này đảm bảo chất lượng sản phẩm.",
+    "question": "Công nghệ IoT và 5G hỗ trợ chuỗi cung ứng như thế nào?",
+    "answer": "công nghệ IoT và 5G có thể hỗ trợ theo dõi từng khâu trong chuỗi cung ứng và đảm bảo chất lượng sản phẩm",
+    "check_human": "true"
+  },
+  {
+    "title": "Điểm lại những mốc son lịch sử trong chặng đường 65 năm thành lập Bộ Khoa học và Công nghệ",
+    "context": "Trong thời kỳ chiến tranh, hoạt động khoa học và kỹ thuật được điều chỉnh để đáp ứng yêu cầu vừa sản xuất vừa chiến đấu. Nhiều thành tựu kỹ thuật đã góp phần quan trọng vào thắng lợi của đất nước. Khoa học trở thành lực lượng hậu phương vững chắc.",
+    "question": "Khoa học và công nghệ đã đóng góp như thế nào trong thời kỳ chiến tranh bảo vệ Tổ quốc?",
+    "answer": "Khoa học và công nghệ hỗ trợ sản xuất, nâng cao tiềm lực kỹ thuật quân sự và góp phần quan trọng vào sự nghiệp kháng chiến.",
+    "check_human": ""
+  },
+  {
+    "title": "Viện Công nghệ Xạ hiếm: Làm chủ công nghệ lõi, nâng tầm tài nguyên chiến lược quốc gia",
+    "context": "Viện Công nghệ xạ hiếm nghiên cứu công nghệ vật liệu hạt nhân và xử lý chất thải phóng xạ. Các nghiên cứu tập trung vào chu trình nhiên liệu và xử lý an toàn chất thải. Viện đã triển khai các công nghệ chiết tách urani và chế tạo vật liệu. Những hoạt động này phục vụ chiến lược phát triển năng lượng nguyên tử.",
+    "question": "Viện Công nghệ xạ hiếm nghiên cứu những gì trong lĩnh vực hạt nhân?",
+    "answer": "Viện nghiên cứu chu trình nhiên liệu hạt nhân, chiết tách urani và công nghệ xử lý chất thải phóng xạ phục vụ phát triển năng lượng nguyên tử.",
+    "check_human": "true"
+  },
+  {
+    "title": "Liên giao hành đạo - cơ chế mở của mối quan hệ giữa các tổ chức Cao Đài hiện nay",
+    "context": "Sau năm 1975, nhất là thời kỳ Đổi mới, các tổ chức đạo Cao Đài được công nhận tư cách pháp nhân đã dẫn tới hình thành một cơ chế mới, cơ chế mở - Hội nghị Liên giao hành đạo giữa các tổ chức để duy trì các mối quan hệ, thực hiện đường hướng “Nước vinh - Đạo sáng” đã được đạo Cao Đài xác định. Sau ngày giải phóng miền Nam, nhất là từ thập niên đầu thế kỷ XXI, các chi phái Cao Đài sau khi được công nhận tư cách pháp nhân hình thành cơ chế Hội nghị Liên giao từ năm 2008 tồn tại cho đến ngày nay.",
+    "question": "Cơ chế mới nào đã hình thành trong mối quan hệ giữa các tổ chức Cao Đài sau năm 1975 và thời kỳ Đổi mới?",
+    "answer": "Sau năm 1975 và trong thời kỳ Đổi mới, các tổ chức đạo Cao Đài được công nhận tư cách pháp nhân đã dẫn tới hình thành cơ chế mở mới là Hội nghị Liên giao hành đạo giữa các tổ chức. Cơ chế này bắt đầu từ năm 2008 và tồn tại cho đến ngày nay, nhằm duy trì mối quan hệ và thực hiện đường hướng “Nước vinh - Đạo sáng”.",
+    "check_human": "true"
+  },
+  {
+    "title": "Một số vấn đề về vai trò của khoa học và công nghệ",
+    "context": "Vai trò của khoa học và công nghệ được phát huy thông qua các khâu tạo ra kết quả nghiên cứu, chuyển giao kết quả và ứng dụng khoa học công nghệ vào kinh tế - xã hội.",
+    "question": "Những khâu nào giúp phát huy vai trò của khoa học và công nghệ?",
+    "answer": "Vai trò của khoa học và công nghệ được phát huy qua các khâu tạo ra kết quả, chuyển giao và ứng dụng khoa học công nghệ.",
+    "check_human": "true"
+  },
+  {
+    "title": "Đào tạo nhân lực khoa học và công nghệ trình độ cao từ hợp tác quốc tế Kinh nghiệm từ Viện Liên hiệp Nghiên cứu Hạt nhân Đubna",
+    "context": "Viện Đubna đạt nhiều thành tựu trong vật lý hạt nhân. Các nhà khoa học đã tổng hợp thành công nhiều nguyên tố mới. Những thành tựu này chứng minh trình độ khoa học cao. Đồng thời nâng cao vị thế của Viện trên thế giới. :contentReference[oaicite:8]{index=8}",
+    "question": "Thành tựu nổi bật của Viện Đubna trong khoa học là gì?",
+    "answer": "Là việc tổng hợp thành công nhiều nguyên tố mới trong lĩnh vực vật lý hạt nhân.",
+    "check_human": "true"
+  },
+  {
+    "title": "Xung đột Nam Sudan (2011-2023) Mô hình đa đường cong và bản đồ xung đột",
+    "context": "Xung đột giữa Chính phủ Nam Sudan và các lực lượng chống đối diễn ra song song với xung đột sắc tộc. Hai loại xung đột này có diễn tiến tương đối độc lập. Không có xung đột nào bao trùm hoàn toàn xung đột còn lại.",
+    "question": "Mối quan hệ giữa xung đột chính trị và xung đột sắc tộc tại Nam Sudan được mô tả như thế nào?",
+    "answer": "Hai đường cong biểu thị cho hai dạng xung đột này tại Nam Sudan không có sự tương đồng về các giai đoạn cao trào hay lắng dịu và diễn tiến tương đối độc lập",
+    "check_human": "true"
+  },
+  {
+    "title": "Tối ưu hóa phát triển và khai thác cụm mỏ Hải Thạch - Mộc Tinh, Lô 05-2 và 05-3 bể Nam Côn Sơn",
+    "context": "Sự xâm nhập của cát vào các giếng khai thác, đặc biệt là ở các giếng khí có tầng nước đáy hoạt động mạnh, có thể gây ra nhiều vấn đề nghiêm trọng. Để giải quyết vấn đề này, Biển Đông POC đã phát triển một quy trình toàn diện bao gồm việc nghiên cứu, quản lý và giảm thiểu tối đa sự xâm nhập của cát vào giếng khai thác. Quy trình này bao gồm các bước: tiến hành thí nghiệm địa cơ học trên mẫu lõi từ vỉa khai thác để hiểu rõ hơn về đặc điểm của vỉa; xây dựng mô hình để phân tích, xác định điều kiện dễ sinh ra cát.",
+    "question": "Các bước đầu tiên trong quy trình của Biển Đông POC để hạn chế cát xâm nhập vào giếng khai thác là gì?",
+    "answer": "Các bước đầu tiên trong quy trình của Biển Đông POC để hạn chế cát xâm nhập bao gồm tiến hành thí nghiệm địa cơ học trên mẫu lõi từ vỉa khai thác và xây dựng mô hình để phân tích, xác định điều kiện dễ sinh ra cát.",
+    "check_human": "true"
+  },
+  {
+    "title": "Liệu pháp miễn dịch ung thư bằng tế bào T γδ",
+    "context": "Tế bào T γδ bình thường chỉ chiếm khoảng 1-10% tế bào T máu ngoại vi. Với số lượng hạn chế này, chúng khó thực hiện chức năng chống khối u tích cực. Vì vậy, việc mở rộng và kích hoạt tế bào T γδ là một thách thức trong ứng dụng lâm sàng. :contentReference[oaicite:4]{index=4}",
+    "question": "Tế bào T γδ chiếm khoảng bao nhiêu phần trăm trong tế bào T máu ngoại vi?",
+    "answer": "Tế bào T γδ bình thường chỉ chiếm khoảng 1-10% tế bào T máu ngoại vi.",
+    "check_human": "true"
+  },
+  {
+    "title": "Phát triển vùng đất “Chín Rồng” dựa trên khoa học, công nghệ và đổi mới sáng tạo",
+    "context": "Tại Hội nghị Giao ban KH&CN vùng ĐBSCL lần thứ 27, Bộ KH&CN và UBND tỉnh Bến Tre đã ký kết Chương trình phối hợp hoạt động KH,CN&ĐMST giai đoạn 2024-2030. Hoạt động này nhằm đẩy mạnh phát triển KH,CN&ĐMST phục vụ phát triển kinh tế - xã hội tỉnh Bến Tre. Chương trình này tuân theo Nghị quyết Đại hội đại biểu Đảng bộ tỉnh Bến Tre lần thứ XI nhiệm kỳ 2020-2025. Mục tiêu là phấn đấu xây dựng tỉnh Bến Tre trở thành tỉnh sinh thái, văn minh, hiện đại mang đậm bản sắc văn hóa sông nước vùng ĐBSCL, đồng thời là điểm sáng về KH,CN&ĐMST trong vùng.",
+    "question": "Tại Hội nghị Giao ban KH&CN vùng ĐBSCL lần thứ 27, Bộ KH&CN và UBND tỉnh Bến Tre đã ký kết chương trình gì?",
+    "answer": "Tại Hội nghị, Bộ KH&CN và UBND tỉnh Bến Tre đã ký kết Chương trình phối hợp hoạt động KH,CN&ĐMST giai đoạn 2024-2030. Hoạt động này nhằm đẩy mạnh phát triển KH,CN&ĐMST phục vụ phát triển kinh tế - xã hội tỉnh Bến Tre, hướng tới xây dựng tỉnh trở thành tỉnh sinh thái, văn minh, hiện đại và là điểm sáng về KH,CN&ĐMST trong vùng.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ứng dụng công nghệ học máy hỗ trợ giáo dục trẻ 0-36 tháng tuổi",
+    "context": "Các phương tiện truyền thông được sử dụng phổ biến trong giáo dục trẻ nhỏ. Những phương tiện này bao gồm tivi, internet và thiết bị di động. Trong đó, tivi và internet là hai phương tiện phổ biến nhất.",
+    "question": "Những phương tiện truyền thông nào được sử dụng phổ biến nhất trong giáo dục trẻ?",
+    "answer": "Trong đó, tivi và internet là hai phương tiện được sử dụng phổ biến nhất.",
+    "check_human": "true"
+  },
+  {
+    "title": "Tham gia thị trường tín chỉ carbon Việt Nam cần làm gì ",
+    "context": "Tín chỉ carbon là một thuật ngữ đề cập đến một đơn vị tín chỉ giao dịch trong kinh doanh. Đây là giấy phép về một tấn CO2 hoặc khối lượng khí nhà kính khác quy đổi tương đương một tấn CO2. Một tín chỉ carbon giới hạn một lượng phát thải là một tấn CO2.",
+    "question": "Một tín chỉ carbon giới hạn lượng phát thải là bao nhiêu?",
+    "answer": "Một tín chỉ carbon giới hạn một lượng phát thải là một tấn CO2.",
+    "check_human": "true"
+  },
+  {
+    "title": "Kỷ nguyên của công nghệ lượng tử",
+    "context": "Năm 2025 được UNESCO tuyên bố là Năm khoa học và công nghệ lượng tử quốc tế nhằm nâng cao nhận thức của công chúng về tầm quan trọng của lĩnh vực này.",
+    "question": "UNESCO đã tuyên bố năm nào là Năm khoa học và công nghệ lượng tử quốc tế?",
+    "answer": "UNESCO tuyên bố năm 2025 là Năm khoa học và công nghệ lượng tử quốc tế.",
+    "check_human": "true"
+  },
+  {
+    "title": "Những tiến bộ mới nhất về công nghệ in 3D",
+    "context": "Trong một thử nghiệm, cấu trúc kim loại mới được tạo ra bằng công nghệ in 3D cho thấy độ bền cao hơn đáng kể so với vật liệu truyền thống. Kết quả cho thấy nó mạnh hơn khoảng 50% so với hợp kim đúc magiê có mật độ tương tự. Điều này cho thấy tiềm năng lớn của cấu trúc vật liệu mới.",
+    "question": "Kết quả thử nghiệm cho thấy cấu trúc kim loại mới mạnh hơn bao nhiêu so với hợp kim đúc magiê?",
+    "answer": "Kết quả thử nghiệm cho thấy cấu trúc kim loại mới mạnh hơn khoảng 50% so với hợp kim đúc magiê có mật độ tương tự",
+    "check_human": "true"
+  },
+  {
+    "title": "Công cụ AI chẩn đoán bệnh tiểu đường, HIV và COVID từ mẫu máu Bước đột phá trong y học chính xác",
+    "context": "Mal-ID là công cụ AI được phát triển để chẩn đoán bệnh dựa trên dữ liệu miễn dịch. Công cụ này sử dụng nhiều mô hình học máy. Mal-ID là một công cụ AI được thiết kế để phân tích các trình tự gen mã hóa thụ thể của tế bào B (BCRs) và tế bào T (TCRs).",
+    "question": "Mal-ID được thiết kế để phân tích dữ liệu gì?",
+    "answer": "Mal-ID là một công cụ AI được thiết kế để phân tích các trình tự gen mã hóa thụ thể của tế bào B (BCRs) và tế bào T (TCRs).",
+    "check_human": "true"
+  },
+  {
+    "title": "TRIZ và khai thác sáng chế Công cụ giúp doanh nghiệp cải tiến sản phẩm và quy trình công nghệ",
+    "context": "Việc khai thác thông tin từ các bằng sáng chế giúp doanh nghiệp nhận diện xu hướng công nghệ và phát hiện các cơ hội đổi mới trong sản xuất.",
+    "question": "Khai thác thông tin từ bằng sáng chế mang lại lợi ích gì cho doanh nghiệp?",
+    "answer": "Nó giúp doanh nghiệp nhận diện xu hướng công nghệ và phát hiện các cơ hội đổi mới trong sản xuất.",
+    "check_human": "true"
+  },
+  {
+    "title": "ISO 20387 2018 và tầm quan trọng của quản lý ngân hàng sinh học",
+    "context": "ISO 20387:2018 là tiêu chuẩn quan trọng trong quản lý biobank. Nó đặt ra các yêu cầu nghiêm ngặt về hoạt động. Tiêu chuẩn này được xây dựng để đặt ra những yêu cầu khắt khe về năng lực, tính công bằng và sự nhất quán trong mọi hoạt động của tất cả các loại hình biobank.",
+    "question": "ISO 20387:2018 đặt ra yêu cầu gì đối với biobank?",
+    "answer": "Tiêu chuẩn này được xây dựng để đặt ra những yêu cầu khắt khe về năng lực, tính công bằng và sự nhất quán trong mọi hoạt động của tất cả các loại hình biobank.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ứng dụng hạt nano kim loại trong nuôi cấy mô thực vật giúp cây trồng khỏe mạnh, sạch bệnh và giữ nguyên đặc tính di truyền",
+    "context": "Công nghệ nano đặc biệt có ý nghĩa với các cây dược liệu và cây kinh tế cao. Việc nhân giống sạch bệnh giúp nâng cao giá trị thương mại của sản phẩm. Điều này hỗ trợ phát triển nông nghiệp bền vững.",
+    "question": "Ứng dụng nano kim loại mang lại lợi ích gì cho cây dược liệu và cây kinh tế?",
+    "answer": "Công nghệ nano giúp nhân giống sạch bệnh, nâng cao chất lượng và giá trị kinh tế của cây trồng.",
+    "check_human": ""
+  },
+  {
+    "title": "Lượng tử Công nghệ của tương lai",
+    "context": "Ngành công nghiệp lượng tử được dự đoán sẽ thống trị tương lai với sự ra đời của mạng thông tin liên lạc lượng tử có khả năng bảo mật gần như tuyệt đối. Ngoài ra, các cảm biến lượng tử với độ nhạy và chính xác siêu cao, cùng các siêu máy tính lượng tử cũng sẽ góp phần vào sự thống trị này. Công nghệ lượng tử cũng sẽ nắm giữ chìa khóa của Internet kết nối vạn vật (IoT) hay trí tuệ nhân tạo (AI)… là xu thế công nghệ của cuộc Cách mạng công nghiệp lần thứ tư.",
+    "question": "Những ứng dụng chính nào của công nghệ lượng tử được dự đoán sẽ thống trị tương lai?",
+    "answer": "Ngành công nghiệp lượng tử được dự đoán sẽ thống trị tương lai với sự ra đời của mạng thông tin liên lạc lượng tử có khả năng bảo mật gần như tuyệt đối, các cảm biến lượng tử với độ nhạy và chính xác siêu cao, và các siêu máy tính lượng tử. Công nghệ này cũng sẽ nắm giữ chìa khóa của Internet kết nối vạn vật (IoT) và trí tuệ nhân tạo (AI).",
+    "check_human": "true"
+  },
+  {
+    "title": "Kiểm soát chất lượng và chống hàng giả Góc nhìn từ Yến sào Khánh Hòa",
+    "context": "Hiện nay, thị trường đang chứng kiến sự bùng phát của nhiều sản phẩm mang danh “yến sào” nhưng thực chất là hàng giả, hàng nhái, kém chất lượng và không rõ nguồn gốc xuất xứ. Nhiều sản phẩm được sản xuất từ các nguyên liệu rẻ tiền như bột rau câu, lòng trắng trứng hoặc pha chế từ các chất không đạt tiêu chuẩn an toàn. Đáng lo ngại hơn, một số sản phẩm nước yến đóng lon, đóng lọ nhái hoàn toàn mẫu mã và tên gọi của những thương hiệu lớn như Yến sào Khánh Hòa, Sanest, Sanvinest…, gây nhầm lẫn nghiêm trọng cho người tiêu dùng. Các đối tượng làm hàng giả thường tận dụng các kênh phân phối trực tuyến như sàn thương mại điện tử, mạng xã hội, livestream… để đưa sản phẩm ra thị trường một cách ồ ạt và tránh sự kiểm soát.",
+    "question": "Tình trạng hàng giả, hàng nhái sản phẩm yến sào trên thị trường hiện nay được mô tả như thế nào?",
+    "answer": "Tình trạng hàng giả, hàng nhái sản phẩm yến sào trên thị trường hiện nay đang bùng phát với nhiều sản phẩm làm từ nguyên liệu rẻ tiền, nhái mẫu mã và tên gọi của các thương hiệu lớn như Yến sào Khánh Hòa, Sanest, Sanvinest, và được phân phối ồ ạt qua các kênh trực tuyến để tránh sự kiểm soát.",
+    "check_human": "true"
+  },
+  {
+    "title": "Kết quả và định hướng về hoạt động đo lường",
+    "context": "Hệ thống chuẩn đo lường quốc gia của Việt Nam đã được phát triển và hoàn thiện trong thời gian qua. Tính đến nay đã có 32 chuẩn đo lường quốc gia được phê duyệt trong quy hoạch phát triển chuẩn đo lường quốc gia. Những chuẩn này đóng vai trò quan trọng trong hội nhập quốc tế về đo lường.",
+    "question": "Số lượng chuẩn đo lường quốc gia đã được phê duyệt tại Việt Nam hiện nay là bao nhiêu?",
+    "answer": "Đã có 32 chuẩn đo lường quốc gia được phê duyệt trong quy hoạch phát triển chuẩn đo lường quốc gia.",
+    "check_human": "true"
+  },
+  {
+    "title": "Pin cát: Bước đột phá mới trong lưu trữ năng lượng sạch và bền vững",
+    "context": "Pin cát sử dụng cát hoặc đá nghiền để lưu trữ năng lượng dưới dạng nhiệt, bằng cách chuyển điện năng từ nguồn tái tạo thành nhiệt năng.",
+    "question": "Pin cát lưu trữ năng lượng bằng cách nào?",
+    "answer": "Pin cát lưu trữ năng lượng bằng cách chuyển điện năng thành nhiệt năng và giữ trong cát hoặc đá nghiền.",
+    "check_human": "true"
+  },
+  {
+    "title": "Bảo tồn và phát triển nguồn gen cá vồ cờ (Pangasius sanitwongsei) tại Việt Nam",
+    "context": "Đề tài đã xây dựng được 1 mô hình thử nghiệm nuôi thương phẩm cá vồ cờ. Mô hình này là nuôi đơn trong ao đất. Khối lượng khi thu hoạch của cá đạt ≥1,5 kg/con, với tổng sản lượng đạt >3 tấn.",
+    "question": "Mô hình thử nghiệm nuôi thương phẩm cá vồ cờ được xây dựng như thế nào và đạt kết quả ra sao về khối lượng và sản lượng?",
+    "answer": "Mô hình thử nghiệm nuôi thương phẩm cá vồ cờ được xây dựng dưới dạng nuôi đơn trong ao đất. Mô hình này đã đạt khối lượng cá khi thu hoạch ≥1,5 kg/con và tổng sản lượng đạt >3 tấn.",
+    "check_human": "true"
+  },
+  {
+    "title": "Điện hạt nhân ở Hàn Quốc và việc khởi động lại dự án điện hạt nhân ở Việt Nam",
+    "context": "Việc xem xét khởi động lại dự án điện hạt nhân ở Việt Nam được đặt ra trong bối cảnh nhu cầu năng lượng ngày càng tăng. Các nhà hoạch định chính sách đang cân nhắc nhiều yếu tố trước khi đưa ra quyết định. Điều này cho thấy tầm quan trọng của điện hạt nhân trong chiến lược năng lượng dài hạn.",
+    "question": "Việc xem xét khởi động lại dự án điện hạt nhân ở Việt Nam được đặt ra trong bối cảnh nào?",
+    "answer": "Việc xem xét khởi động lại dự án điện hạt nhân ở Việt Nam được đặt ra trong bối cảnh nhu cầu năng lượng ngày càng tăng.",
+    "check_human": "true"
+  }
+]

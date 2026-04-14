@@ -1,0 +1,40 @@
+✅ Test completed in 9017.35 seconds
+  → Saved TRUE samples to: test\results\run_2026-03-23_13-52-31\testtrue.json (n=3521)
+  → Saved FAIL samples to: test\results\run_2026-03-23_13-52-31\testfail.json (n=496)
+
+===== RETRIEVAL EVALUATION (Title + Context) =====
+Total items in dataset : 4017
+Evaluated queries      : 4017
+Skipped (missing fields): 0
+
+Top-1:
+  accuracy_title   : 0.7685
+  accuracy_context : 0.8042
+  accuracy_total   : 0.7864
+
+Top-3:
+  accuracy_title   : 0.8652
+  accuracy_context : 0.8604
+  accuracy_total   : 0.8628
+
+Top-5:
+  accuracy_title   : 0.8968
+  accuracy_context : 0.8759
+  accuracy_total   : 0.8864
+
+Top-10:
+  accuracy_title   : 0.9286
+  accuracy_context : 0.8859
+  accuracy_total   : 0.9073
+
+Latency (ms):
+  Avg  : 5840.30
+  P50  : 5032.10
+  P90  : 7810.40
+  P95  : 8255.20
+
+Total wall time: 25870.55 s
+Avg per-query  : 6080.30 ms/query
+Throughput     : 0.16 queries/s
+
+📄 Results saved in: test\results\run_2026-03-23_13-52-31

@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Platform economies and urban planning Airbnb and regulated deregulation in London",
+    "context": "Corporate control of platform data creates dependencies that may lead to technological lock-in for urban governance. This corporate path dependency risks establishing monopoly positions where cities become beholden to specific technological vendors. Such arrangements could fundamentally alter urban governance structures through private control of public regulatory functions.",
+    "question": "What long-term implications does corporate data control pose for urban governance according to the document?",
+    "answer": "Corporate data control risks technological lock-in, creating vendor monopolies that could fundamentally alter urban governance through private control of public regulatory functions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital marketing and public relations A way to promote public relations value",
+    "context": "Business intelligence, corporate communications management, and perceived customization mediate the relationship between digital marketing and public relations values. These variables translate digital strategies into enhanced organizational reputation and customer relationships. Mediation effects were confirmed through hypotheses H8-H10.",
+    "question": "How do business intelligence, corporate communications management, and perceived customization mediate the impact of digital marketing on public relations values?",
+    "answer": "These factors mediate by leveraging digital marketing to organize data (business intelligence), manage stakeholder communication (corporate communications), and customize messaging (perceived customization), thereby strengthening public relations outcomes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Determinants of Financial Inclusion in Southern Africa",
+    "context": "The results show a positive and significant relationship between race and financial inclusion. The coefficient race was significant at all levels with Black African as the reference category. Among the races, White individuals had the highest probability of financial inclusion (Exp(B)=9.626), followed by Coloureds (Exp(B)=3.354), and then Black Africans (Exp(B)=1.437).",
+    "question": "How does race influence financial inclusion probabilities according to the study's logit estimates?",
+    "answer": "White individuals had the highest probability of financial inclusion (Exp(B)=9.626), followed by Coloureds (Exp(B)=3.354), with Black Africans as the reference category showing the lowest probability among the racial groups studied.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social Protection in a Crisis - Argentina's Plan Jefes Y Jefas",
+    "context": "Jefes households are poorer on average, with a per capita household income of about 30 percent of the average for all economically active adults. Netting out the Jefes transfer payment reduces the per capita household income to 17 percent of the average for all economically active adults. Jefes participants and applicants tend to have similar characteristics, a finding examined more carefully later using a multivariate model.",
+    "question": "How did the per capita income of Jefes households compare to all economically active adults?",
+    "answer": "Jefes households had a per capita income of about 30% of the average for all economically active adults, reducing to 17% when excluding the transfer.",
+    "check_human": "true"
+  },
+  {
+    "title": "Measuring Outcomes of Digital Transformation in Public Administration Literature Review and Possible Steps Forward",
+    "context": "Indeed, the UN E-government Development Index is significantly driven by dimensions related to ICT infrastructure rather than factors measuring the outcomes of government digitalization (Alkhatri et al. 2017). As confirmed by some recent quantitative research, about 98 percent of the DESI rating, for instance, is determined by the past trends (Stavytskyy et al. 2019). International indices used to measure government digitalization (such as the UN E-Government Development Index) often concentrate only on e-services and are based on measuring the availability rather than the actual use or quality of such modes of service delivery.",
+    "question": "What does the UN E-Government Development Index primarily focus on according to the document?",
+    "answer": "The UN E-Government Development Index primarily focuses on ICT infrastructure and e-service availability rather than outcomes of government digitalization.",
+    "check_human": "true"
+  },
+  {
+    "title": "Small And Medium Scale Enterprises (SMEs) And Nigeria’s Economic Development",
+    "context": "Informal financing remains the primary funding source for Nigerian SMEs, including personal savings and loans from social networks. Formal financial institutions exhibit reluctance to extend credit to these enterprises, while microfinance options remain underdeveloped. This funding gap constrains SME growth and operational capacity.",
+    "question": "What are the primary sources of financing for SMEs in Nigeria according to the Institute of Development Administrator of Nigeria's findings?",
+    "answer": "Personal savings and borrowing from friends, families, and credit associations constitute the main informal financing sources for Nigerian SMEs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Not What it Said on the Tin Reflections on Three Decades of UK Public Management Reform",
+    "context": "Academic critiques of NPM are examined, particularly Lægreid and Christensen's argument that UK reforms prioritized cost-cutting at the expense of administrative quality. This aligns with broader concerns that managerialist approaches undermined Weberian bureaucratic values. Conversely, optimistic perspectives like Gore's NPR report and 'nudge' theory proponents suggested possible synergies between cost reduction and quality improvement.",
+    "question": "What is the core academic criticism of NPM's effects on administrative quality according to Christensen, Lægreid, and other scholars?",
+    "answer": "The standard academic criticism is that NPM's excessive focus on cost-cutting damaged traditional administrative functions, particularly bureaucracies' ability to handle cases consistently and equitably, threatening Weberian bureaucratic values.",
+    "check_human": "true"
+  },
+  {
+    "title": "Macroeconomic Policy, Exchange-Rate Dynamics, and Optimal Asset Accumulation",
+    "context": "Dual exchange rate systems generate persistent arbitrage opportunities through parallel market premiums. These premiums average 18-22% in developing economies with capital controls. The welfare cost of maintaining dual rates equals 0.7-1.3% of GDP through misallocated investment. Unified floating regimes eliminate these distortions but increase short-term volatility.",
+    "question": "What range of parallel market premiums do dual exchange rate systems typically create in developing economies?",
+    "answer": "Dual exchange rate systems generate parallel market premiums averaging 18-22% in developing economies with capital controls.",
+    "check_human": "true"
+  },
+  {
+    "title": "Lost for Words Amongst Disaster Risk Science Vocabulary",
+    "context": "The relationship between Disaster Risk Reduction (DRR) and Disaster Risk Management (DRM) varies culturally. The Latin American perspective, as articulated by Allan Lavell, positions DRR as a subset of DRM. This framework establishes DRM as the overarching system providing methodology and structure for DRR activities. Such cultural constructs influence how terminology is adopted and operationalized across different linguistic and professional contexts.",
+    "question": "How does the Latin American cultural perspective conceptualize the relationship between DRR and DRM?",
+    "answer": "Latin American perspectives position DRR as a subset of DRM, with DRM providing the overarching framework and methodology for risk reduction activities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Planning Goes Rural. Conceptualising the “New Village”",
+    "context": "In mid-2003, authorities in Zhejiang launched a pilot rural redevelopment program known as 'One Thousand Model Villages, Ten Thousand Renovated Villages.' The broad objectives of this program were to upgrade village public services and infrastructure and to remediate the problem, as they phrased it, of rural environments being 'dirty, chaotic, and backward.'",
+    "question": "What were the objectives of Zhejiang Province's rural redevelopment program?",
+    "answer": "Zhejiang's program aimed to upgrade public services/infrastructure and remediate 'dirty, chaotic, and backward' rural environments through model village construction and mass renovations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Dynamics of Poverty in Developing Countries: Review of Poverty Reduction Approaches",
+    "context": "Country-specific poverty reduction requires stable political and economic institutions according to the analysis. Developing nations often lack enforcement mechanisms for poverty policies and face governance challenges that undermine program effectiveness. The paper emphasizes that sustainable solutions necessitate strong local institutions capable of implementing context-appropriate strategies.",
+    "question": "What institutional prerequisites does the paper identify for effective poverty reduction in developing countries?",
+    "answer": "The paper identifies stable political environments, functional economic institutions, strong enforcement mechanisms, and locally adapted implementation capacity as essential prerequisites. Effective poverty reduction requires institutions that can develop and maintain context-specific strategies rather than universal approaches.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does Secular Education Impact Religiosity, Electoral Participation and the Propensity to Vote for Islamic Parties Evidence from an Education Reform in a Muslim Country",
+    "context": "While education significantly reduced women's propensity to vote for Islamic parties, it showed no effect on overall electoral participation. The study found no impact of increased education on women's likelihood to vote in elections, contrasting with previous research in developed countries that generally shows education increases voter turnout. This suggests contextual differences in how education affects political behavior in Muslim-majority countries.",
+    "question": "How did increased education affect women's electoral participation versus their party preferences?",
+    "answer": "Education reduced women's propensity to vote for Islamic parties by 50 percentage points but had no statistically significant impact on their overall propensity to vote in elections.",
+    "check_human": ""
+  },
+  {
+    "title": "Migration Policy, African Population Growth and Global Inequality",
+    "context": "Figure 2 compares world income distributions under UN population projections versus a skill-biased emigration scenario. Skill-selective migration reduces African population growth by strengthening education incentives, thereby decreasing density at lower income levels. This counteracts the inequality-increasing effect of baseline demographic projections where poorer nations' populations grow faster.",
+    "question": "How does the skill-biased emigration scenario alter the projected world income distribution compared to the UN baseline projections?",
+    "answer": "Differential emigration probabilities in favor of the highly educated and skilled increase the incentives to reduce fertility and invest in education, thereby reducing African population growth. This results in a less unequal world distribution of income than the UN projection, reversing in part the increase in world inequality implied by demographic changes as projected by the UN.",
+    "check_human": "true"
+  },
+  {
+    "title": "How Treatment Partners Help Social Analysis of an African Adherence Support Intervention",
+    "context": "Treatment partners worked to restore hope, or \"give hope,\" as they put it, through a number of deliberate strategies. They countered feelings of loneliness by spending time with patients. They reminded them that they were not alone. They counseled faith in God.",
+    "question": "What specific strategies did treatment partners use to restore hope in patients?",
+    "answer": "Treatment partners restored hope by spending time with patients to counter loneliness, reminding them they weren't alone, and counseling faith in God.",
+    "check_human": "true"
+  },
+  {
+    "title": "Population patterns of chronic health conditions, co-morbidity and healthcare use in Canada implications for policy and practice.",
+    "context": "People with one or more select chronic conditions are more likely to report having a regular medical doctor (92–96%, depending on the number of conditions they have) than are people with none of these conditions (82%). Among youth and adults who have a single select chronic condition, 89–95% have a regular medical doctor, higher than the national average of 86% (Figure 3).",
+    "question": "What percentage range of people with chronic conditions reported having a regular medical doctor?",
+    "answer": "92–96% of people with chronic conditions reported having a regular medical doctor.",
+    "check_human": "true"
+  },
+  {
+    "title": "Economic Development as Self-Discovery",
+    "context": "Bangladesh and Pakistan exhibit divergent export specializations despite similar economic circumstances. Bangladesh exports hats but few bedsheets, while Pakistan exports bedsheets but few hats. This illustrates how specialization patterns arise from historical accidents rather than predictable comparative advantage.",
+    "question": "What do the export differences between Bangladesh and Pakistan illustrate about specialization?",
+    "answer": "The export differences illustrate that specialization patterns arise from historical accidents and entrepreneurial serendipity rather than predictable comparative advantage.",
+    "check_human": "true"
+  },
+  {
+    "title": "Dipole polarizability of 120 Sn and nuclear energy density functionals",
+    "context": "Future work proposes systematic αD measurements across stable tin isotopes and relativistic Coulomb excitation studies of neutron-rich 124-134Sn at GSI. These investigations aim to elucidate neutron skin formation mechanisms in nuclei with similar structure but varying neutron excess.",
+    "question": "What future experimental studies are proposed to investigate the impact of neutron excess on dipole polarizability and neutron skin formation in tin isotopes?",
+    "answer": "Planned studies include systematic αD measurements of stable tin isotopes and relativistic Coulomb excitation of neutron-rich 124-134Sn at GSI to examine neutron skin dependence on neutron excess.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Health Technologies for Maternal and Child Health in Africa and Other Low- and Middle-Income Countries Cross-disciplinary Scoping Review With Stakeholder Consultation",
+    "context": "The literature highlights the following digital interventions: (1) nurse-delivered mobile phone ART counseling [158]; (2) SMS text message and voice reminders about ARTs [158]; and (3) mobile-assisted personal interviews to gather information regarding the prevention of HIV mother-to-child transmission, HIV prevalence, and ART have high levels of acceptability as successful and sustainable interventions [58]. However, these interventions also raise concerns about privacy and the accidental disclosure of HIV status.",
+    "question": "Which three digital interventions were identified for HIV management in maternal and child health?",
+    "answer": "Nurse-delivered mobile phone ART counseling, SMS/voice reminders about ARTs, and mobile-assisted personal interviews for HIV data collection.",
+    "check_human": "true"
+  },
+  {
+    "title": "Macroeconomic Policy and the Optimal Destruction of Vampires",
+    "context": "Zombification spillover effects necessitate negative interest rate policies in necromance-prone regions. Conventional monetary tools become ineffective when unemployment rates drop below 5% due to involuntary undeath transitions. The study recommends targeted holy water quantitative easing programs. These programs show 17% higher efficacy when administered by left-handed priests.",
+    "question": "What unconventional monetary policy is recommended for regions with zombification spillovers?",
+    "answer": "Negative interest rate policies and holy water quantitative easing programs are recommended for regions facing zombification spillovers.",
+    "check_human": "true"
+  },
+  {
+    "title": "Universal Health Coverage",
+    "context": "In many parts of the world, particularly in many low- and middle-income countries (LMICs), coverage, availability, and access to oral health care—including early diagnosis, prevention, and basic treatment—are grossly inadequate or completely lacking. Oral diseases are the fourth most expensive disease to treat. Out-of-pocket expenditure for dental treatment is a major drain on limited personal resources for the most vulnerable.",
+    "question": "What barriers to oral health care access exist in low- and middle-income countries according to the document?",
+    "answer": "Barriers to oral health care access in low- and middle-income countries include grossly inadequate or lacking coverage, availability, and access to early diagnosis, prevention, and basic treatment.",
+    "check_human": "true"
+  },
+  {
+    "title": "Internationalisation and migrant academics the hidden narratives of mobility",
+    "context": "Our article is based on 14 semi-structured interviews with migrant academics, working currently or recently in universities in Hong Kong, Hungary, Kazakhstan, Japan, Poland, Qatar, Spain, Turkey, UK and the USA. Their countries of origin were Austria, Colombia, Ghana, Guatemala, Mexico, Poland, Romania, Serbia, Portugal, UK and the USA. The sample was selected through personal and professional networking paying attention to gender, ethnicity, age and countries of origin and employment.",
+    "question": "Which countries were represented in the study's sample of migrant academics' current employment locations?",
+    "answer": "The migrant academics worked currently or recently in universities in Hong Kong, Hungary, Kazakhstan, Japan, Poland, Qatar, Spain, Turkey, UK and the USA.",
+    "check_human": "true"
+  },
+  {
+    "title": "Flood Resilience Building in Thailand Assessing Progress and the Effect of Leadership",
+    "context": "Disaster Resilience Leadership (DRL) was measured through seven self-assessed abilities: inspiring support, understanding local flood risks, representing cities nationally, cross-sector coordination, willingness to innovate, effective communication, and managing multiple workstreams. Respondents rated these abilities on a 1-5 scale, with Cronbach's alpha of .915 confirming internal consistency.",
+    "question": "What seven abilities were measured to assess Disaster Resilience Leadership in local government officials?",
+    "answer": "The seven abilities measured were: inspiring support for resilience strategies, understanding local flood risks, national representation, cross-sector coordination, willingness to innovate, effective communication, and managing multiple workstreams and relationships.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Government Information Platform Construction Technology, Challenges and Prospects",
+    "context": "In the process of the construction of digital government information platform, the challenge of technical standards and interoperability is particularly prominent. With the rapid development of technology, various emerging technologies such as cloud computing, big data and artificial intelligence are widely used in government information platforms. However, the diversity and complexity of these technologies also bring about problems of inconsistent technical standards and interoperability. Different technical standards and protocols make it difficult to exchange and share data between platforms.",
+    "question": "What interoperability challenges arise from inconsistent technical standards in digital government platforms?",
+    "answer": "Inconsistent technical standards and protocols create interoperability challenges that hinder data exchange and sharing between digital government platforms.",
+    "check_human": "true"
+  },
+  {
+    "title": "Cloud Computing of E-Government",
+    "context": "The paper concludes that cloud computing enables resource sharing and cost-effective E-government services while breaking down governmental collaboration barriers. Future research directions include detailed implementation frameworks for cloud-based E-government services, with particular emphasis on optimizing service selection and Jordan-specific case studies. This addresses the need for context-specific cloud adoption strategies.",
+    "question": "What future research directions does the paper identify regarding cloud computing implementation in E-government systems?",
+    "answer": "Future work will study detailed implementation of E-government services using cloud computing, provide suggestions for selecting effective cloud services, and focus specifically on Jordan's context.",
+    "check_human": "true"
+  },
+  {
+    "title": "The State of Food Security and Nutrition in the World 2022",
+    "context": "Geopolitical advantage in Agriculture 4.0 is determined by national capacities including arable land availability, freshwater resources, agricultural competitiveness, and farmer income growth. Countries possessing these attributes can potentially influence global food supply chains significantly. The document emphasizes that geopolitical positioning and adoption capacity of agro 4.0 measures directly determine nations' ability to combat food insecurity.",
+    "question": "What geopolitical factors determine a nation's capacity to implement Agriculture 4.0 effectively?",
+    "answer": "Key geopolitical factors include abundant arable land, freshwater resources, high agricultural competitiveness, and substantial growth in farmers' incomes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Transport of Passengers in Large Urban Agglomerations and Sustainable Development. Experience of Bucharest Municipality in Romania",
+    "context": "Table 5 shows trams recorded 1.11 personal accidents per million vehicle kilometers in 2017, compared to 0.33 for trolleys and 0.45 for buses. The number of tram accidents is relatively double or triple other categories. We subscribe to the idea that sustainable transport must be responsible and safe.",
+    "question": "How does the accident rate of trams compare to other RATB vehicles according to 2017 data?",
+    "answer": "Trams had 1.11 accidents per million kilometers in 2017, which is double or triple the rates of trolleys (0.33) and buses (0.45).",
+    "check_human": "true"
+  },
+  {
+    "title": "Labor Market Slack and Monetary Policy",
+    "context": "CBO has recently made substantial downward revisions to its assessments of the entire post-2008 trajectory for the potential labor force. In particular, CBO now judges that demographic and structural factors account for a larger share of the post-2008 decline in labor force participation than indicated by its previous analysis. Moreover, CBO has concluded that much of the cyclical decline in labor force participation has become irreversible.",
+    "question": "What two key adjustments did CBO make to its potential labor force assessments in recent revisions?",
+    "answer": "CBO increased the estimated share of post-2008 participation decline attributable to demographic/structural factors and concluded much cyclical decline has become irreversible.",
+    "check_human": "true"
+  },
+  {
+    "title": "Diffusion of industrial robotics and inclusive growth Labour market evidence from cross country data",
+    "context": "The results presented in Table 7 show that robot adoption has a significant and positive influence on income inequality in developing economies. This result is in line with the abovementioned finding concerning total employment, which suggests that only workers with middle or advanced levels of education can enjoy the job creation benefit of increased robot adoption in developing countries.",
+    "question": "How does robot adoption affect income inequality in developing economies according to Table 7?",
+    "answer": "Table 7 shows robot adoption has a significant positive influence on income inequality in developing economies.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Internet of Things Impact and Implications for Health Care Delivery",
+    "context": "The COVID-19 pandemic accelerated the adoption of IoT technologies as healthcare systems worldwide shifted toward virtual care models to maintain service delivery during lockdowns. Governments reduced implementation barriers to technology-supported health services, highlighting IoT's role in enabling remote monitoring and socially distanced care. This crisis underscored IoT's potential to complement traditional care during health emergencies while prompting policy reforms for sustained telehealth integration.",
+    "question": "How did the COVID-19 pandemic influence the adoption and policy support for IoT technologies in healthcare?",
+    "answer": "The pandemic accelerated IoT adoption by necessitating virtual care models, reducing implementation barriers, and prompting governments to support technology-driven services for remote monitoring and socially distanced healthcare delivery.",
+    "check_human": "true"
+  },
+  {
+    "title": "How is equity approached in universal health coverage An analysis of global and country policy documents in Benin and Senegal",
+    "context": "Document C18 WHO 2017 states: 'Considers equity in utilisation or service use relative to need as part of a normative set of goals embedded in the concept of UHC, together with financial protection and quality; equity in the distribution of health system resources as part of a set of intermediate objectives, together with efficiency, transparency and accountability' (p. 1).",
+    "question": "How does Document C18 distinguish between equity goals and intermediate objectives in UHC?",
+    "answer": "Document C18 distinguishes equity in service utilization as a UHC goal alongside financial protection and quality, while equity in health system resource distribution is classified as an intermediate objective.",
+    "check_human": "true"
+  },
+  {
+    "title": "Internationalisation and migrant academics the hidden narratives of mobility",
+    "context": "The sample was selected through personal and professional networking paying attention to gender, ethnicity, age and countries of origin and employment. They represented different career stages of mobility including PhD researchers, lecturers and assistant, associate and full professors. Nine of our participants were women and five were men. They were aged between late 20s to mid 60s.",
+    "question": "Which demographic factors were considered when selecting participants for the study on migrant academics?",
+    "answer": "The study selected participants through personal and professional networking while paying attention to gender, ethnicity, age, countries of origin and employment, and career stages of mobility.",
+    "check_human": "true"
+  },
+  {
+    "title": "Nexus between government debt, economic policy uncertainty, government spending, and governmental effectiveness in BRIC nations Evidence for linear and nonlinear assessments",
+    "context": "The asymmetric ARDL analysis demonstrated both long-run and short-run asymmetric relationships between institutional quality and the three examined factors. This nonlinear assessment revealed differential impacts of positive and negative shocks in government debt, economic policy uncertainty, and government spending on governmental effectiveness. The study emphasized that economic stability is indispensable for efficient institutional quality in BRIC nations.",
+    "question": "What did the asymmetric ARDL analysis reveal about the relationship between institutional quality and the examined macroeconomic factors?",
+    "answer": "The asymmetric ARDL revealed both long- and short-run asymmetric relationships between institutional quality and government debt, economic policy uncertainty, and government spending.",
+    "check_human": "true"
+  },
+  {
+    "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+    "context": "Metacognition involves conscious awareness and regulation of one's cognitive processes to improve knowledge acquisition. Critical thinking relies on these metacognitive mechanisms to identify errors and optimize problem-solving strategies. The interdependence between metacognition and critical thinking is central to developing autonomous learners in higher education.",
+    "question": "How does metacognition functionally support the development of critical thinking according to the document?",
+    "answer": "Metacognition supports critical thinking by enabling individuals to consciously monitor, evaluate, and regulate their cognitive processes during problem-solving, thereby identifying inefficiencies and implementing corrective measures.",
+    "check_human": "true"
+  },
+  {
+    "title": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam",
+    "context": "Ghana carefully studied a prior project’s failing to ensure that the Bui Dam project did not repeat past mistakes. This prior project was the Akosombo Dam, constructed by an Italian consortium from 1961 to 1965. Many Ghanaians nowadays particularly remember the resettlement of 80,000 people due to the project, with inadequate water supply and poor soil conditions.",
+    "question": "Which prior dam project did Ghana study to avoid repeating resettlement mistakes during the Bui Dam development?",
+    "answer": "Ghana studied the Akosombo Dam project, which involved the problematic resettlement of 80,000 people, to avoid repeating mistakes during the Bui Dam development.",
+    "check_human": "true"
+  },
+  {
+    "title": "Motor Development Embodied, Embedded, Enculturated, and Enabling.",
+    "context": "New motor skills enable cascades of development across psychological domains by creating novel learning opportunities. For instance, independent mobility facilitates spatial exploration, object manipulation enhances problem-solving, and walking correlates with language development. These enabling effects demonstrate motor skills' generative role in psychological growth.",
+    "question": "What mechanisms make motor development enabling for broader psychological development?",
+    "answer": "Motor development is enabling because new skills like independent mobility and object manipulation create opportunities for exploration, social interaction, and perceptual learning. These experiences instigate cascading developments in cognitive, linguistic, and social domains, linking motor milestones to psychological advancements.",
+    "check_human": "true"
+  },
+  {
+    "title": "Perceptions of the adult US population regarding the novel coronavirus outbreak",
+    "context": "Over 90% of our sample was aware of the COVID-19 mostly through the news (n = 522, 73%). The majority of participants wanted the CDC Director (n = 382, 53%) or the NIH Director (n = 117, 16%) to lead the COVID-19 response (Fig 1). However, only a small percentage of participants wanted the president (n = 91, 13%) or Congress (n = 5, 1%) to lead the response (Fig 1).",
+    "question": "According to the study, what percentage of participants preferred scientific leadership (CDC or NIH Directors) over political leadership (president or Congress) for the COVID-19 response?",
+    "answer": "69% of participants preferred scientific leadership (CDC or NIH Directors) over political leadership (president or Congress) for the COVID-19 response.",
+    "check_human": "true"
+  },
+  {
+    "title": "Mainstreaming Disaster Risk Reduction and Climate Change Adaptation in Comprehensive Development Planning of the Cities in Nueva Ecija in the Philippines",
+    "context": "All the respondents from City D have undergone trainings on the planning related to the formulation of CDP, LDRRMP, and LCCAP. Respondents from City A and City B have not attended any training on comprehensive development planning. Comparatively, only one respondent from City A, B, and E (20% of the five respondents) have attended a climate change action planning training.",
+    "question": "Which cities had personnel attend climate change action planning training according to the study?",
+    "answer": "Only one respondent each from City A, City B, and City E attended climate change action planning training.",
+    "check_human": "true"
+  },
+  {
+    "title": "Challenges and opportunities for improving energy efficiency in SMEs learnings from seven European projects",
+    "context": "The survey results about funds for investing in energy efficiency improvements show that 50% of SMEs in Cyprus use own funds, compared to 30% in Germany. In Ireland, 60% of SMEs rely on bank loans for energy efficiency investments, while in Spain 45% use government grants. These figures indicate significant national differences in funding sources for SME energy efficiency measures.",
+    "question": "According to survey results, what are the primary funding sources for energy efficiency investments in Cypriot and Irish SMEs?",
+    "answer": "50% of Cypriot SMEs use own funds for energy efficiency investments, while 60% of Irish SMEs rely on bank loans according to the survey results.",
+    "check_human": "true"
+  },
+  {
+    "title": "Environmental costs of political instability in Pakistan policy options for clean energy consumption and environment",
+    "context": "Empirical findings from the NARDL model reveal that political instability reduces clean energy consumption and deteriorates environmental quality in the long run. Conversely, political stability increases clean energy use and improves environmental outcomes in the short run. These results highlight the nonlinear dynamics between political factors and environmental indicators.",
+    "question": "What did the nonlinear ARDL approach reveal about the long-run impact of political instability on environmental quality?",
+    "answer": "The nonlinear ARDL approach revealed that political instability reduces clean energy consumption and damages environmental quality in the long run.",
+    "check_human": "true"
+  },
+  {
+    "title": "Measuring Health System Strengthening Application of the Balanced Scorecard Approach to Rank the Baseline Performance of Three Rural Districts in Zambia",
+    "context": "Seventy three percent of the facility managers said they did not have access to emergency ambulance services. The majority of the facilities had access to power either through electricity (54.8%) or solar energy (31%). Most health facilities had access to safe drinking water and improved type of pit latrines. Twenty one percent of the health facilities had no overnight bed capacity.",
+    "question": "What proportion of health facility managers reported lacking access to emergency ambulance services?",
+    "answer": "73% of health facility managers reported lacking access to emergency ambulance services.",
+    "check_human": "true"
+  },
+  {
+    "title": "Labor Market Distortions, Rural-Urban Inequality, and the Opening of China's Economy",
+    "context": "In the baseline scenario, agricultural employment declines at 1.5% per year, while urban employment grows at 3.8% per annum. The labor force grows at 1.1% per year, with rural labor force declining and urban labor force growing rapidly.",
+    "question": "What are the annual growth rates for agricultural and urban employment in the baseline scenario?",
+    "answer": "In the baseline scenario, agricultural employment declines at 1.5% per year while urban employment grows at 3.8% per annum.",
+    "check_human": "true"
+  },
+  {
+    "title": "Regional Economic Resilience European Experiences and Policy Issues",
+    "context": "Martin (2012) categorizes resilience theories into three distinct paradigms: engineering resilience focuses on equilibrium maintenance, ecological resilience examines system stress thresholds through adaptive cycles, and adaptive resilience emphasizes evolutionary stabilization in complex systems. These frameworks respectively align with macroeconomic equilibrium models, panarchy theories from ecology, and complexity-based evolutionary economic geography.",
+    "question": "What are the three theoretical paradigms of regional economic resilience identified by Martin (2012), and which disciplines do they primarily draw from?",
+    "answer": "Martin identifies engineering (equilibrium-focused) resilience from macroeconomic theory, ecological (panarchy-focused) resilience from ecology, and adaptive (complexity-focused) resilience from evolutionary economic geography.",
+    "check_human": "true"
+  },
+  {
+    "title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+    "context": "The dynamic process model comprises five core elements: preadversity adjustment, adversity exposure, resilience mechanisms, resilience resources, and positive outcomes. These elements form a sequential framework explaining adaptation pathways. Program designs should target specific elements within this process.",
+    "question": "What are the five core elements of the dynamic process model of psychological resilience?",
+    "answer": "The five elements are preadversity adjustment, adversity, resilience mechanisms, resources, and positive resilience outcomes.",
+    "check_human": "true"
+  },
+  {
+    "title": "How is equity approached in universal health coverage An analysis of global and country policy documents in Benin and Senegal",
+    "context": "Country-level analysis showed Benin and Senegal's UHC policies emphasized geographic resource allocation and financial contribution equity. Both countries prioritized service access in policy documents but implemented poverty-targeted interventions. Similar to global documents, most country policies used equity rhetorically without concrete implementation strategies or clear definitions.",
+    "question": "How do Benin and Senegal's approaches to equity in UHC policies compare in terms of focus and implementation?",
+    "answer": "Both countries emphasized geographic resource allocation and financial contribution equity in policy documents, but implemented interventions primarily targeting the poor. Their approaches showed similarity in rhetorical use of equity principles without operational clarity, mirroring global document limitations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Effects Of Technological Change And Institutional Reform On Production Growth In Chinese Agriculture",
+    "context": "The differences of the effects of institutional change on production growth explain the largest share of the differences in total production growth, ranging from 2.5% in Northeast to 44.4% in North. The contribution of technological change to production growth also has varied substantially among regions. Total factor productivity growth in the Northeast is mainly explained by technological change.",
+    "question": "Which region had the highest percentage contribution of institutional change to production growth?",
+    "answer": "The North region had the highest percentage contribution of institutional change to production growth at 44.4%.",
+    "check_human": "true"
+  },
+  {
+    "title": "Policies and Institutions for Disaster Risk Management in Nepal A Review",
+    "context": "At Province level, there will be Province Disaster Management Committee (PDMC) under the chairmanship of chief minister. The PDMC implements disaster-related policies in the province based on national plans, facilitates local preparedness activities, coordinates search and rescue operations, manages relief items, recommends emergency declarations to the Government of Nepal, and establishes Early Warning Systems. This structure aims to create effectiveness in preparedness and response activities across governance levels.",
+    "question": "What key functions does the Province Disaster Management Committee (PDMC) perform according to the Disaster Risk Reduction and Management Act (2017)?",
+    "answer": "The PDMC implements provincial disaster policies, coordinates search and rescue operations, manages relief items, recommends emergency declarations to the government, and establishes Early Warning Systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chatbots Security, privacy, data protection, and social aspects",
+    "context": "The first chatbot (called ELIZA 2) was developed in 1966 at the Massachusetts Institute of Technology (MIT). It answered some very simple decision tree questions. A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences. The gross procedure program of ELIZA and many following chatbots is the following: It reads and inspects the text for the presence of keywords.",
+    "question": "According to the study, where and when was the first chatbot ELIZA developed, and what technique did it use for processing user inputs?",
+    "answer": "The first chatbot ELIZA was developed in 1966 at the Massachusetts Institute of Technology (MIT) and used keyword matching and decision trees to process user inputs.",
+    "check_human": "true"
+  },
+  {
+    "title": "How far has the state ‘stepped back’ an exploratory study of the changing governance of higher education in China (1978–2018)",
+    "context": "The concept of university autonomy in China differs significantly from Western models, translated as 'zizhu' (self-mastery) rather than complete independence. Chinese universities operate under 'semi-dependence', balancing institutional initiatives with state support requirements. This cultural understanding facilitates scholar alignment between academic pursuits and national interests.",
+    "question": "How does the Chinese concept of 'zizhu' differ from Western notions of university autonomy?",
+    "answer": "'Zizhu' emphasizes self-mastery within state frameworks rather than complete independence, enabling universities to initiate agendas while supporting national interests.",
+    "check_human": "true"
+  },
+  {
+    "title": "Europeanization of Energy and Climate Policy",
+    "context": "The European Commission's post-2020 policy framework reflects institutional path dependencies favoring market integration over environmental effectiveness. Despite impact assessments showing long-term advantages of separate renewables and efficiency targets, the EC selectively emphasized short-term cost concerns to justify the single GHG target. This decision-making pattern demonstrates how core institutional beliefs about market functioning constrain policy options beyond cost-efficiency considerations.",
+    "question": "How do institutional path dependencies influence the European Commission's approach to post-2020 climate policy design?",
+    "answer": "Institutional path dependencies privileging market integration lead the EC to prioritize single market compatibility and short-term cost efficiency over environmental effectiveness. This manifests in selective interpretation of impact assessments and dismissal of long-term benefits associated with maintaining separate renewables and efficiency targets.",
+    "check_human": "true"
+  },
+  {
+    "title": "New public management as a global education policy its adoption and re-contextualization in a Southern European setting",
+    "context": "Today, around 30% of Spanish students in compulsory schooling are enrolled under the modality of publicly-funded private schools. Only 4% of students are, in fact, enrolled in fully private schools (MECD 2012). One of the milestones in the privatization of education process in Spain needs to be found in an ambitious education reform that was applied in 1990. This reform revolutionized the pedagogic methods – by mainstreaming constructivism – and expanded compulsory education for two more years.",
+    "question": "What percentage of Spanish students in compulsory schooling are enrolled in publicly-funded private schools, and what reform contributed to privatization?",
+    "answer": "Around 30% of Spanish students in compulsory schooling are enrolled in publicly-funded private schools, and the 1990 education reform that expanded compulsory education for two more years contributed to privatization.",
+    "check_human": "true"
+  },
+  {
+    "title": "Early Childhood Education and Care Access for Children from Disadvantaged Backgrounds Using a Framework to Guide Intervention",
+    "context": "ECEC attendance can serve as a focal point that favors integration of mothers within the community. Employment integration services or language courses associated with ECECs are promising avenues for community integration. Partnerships between ECECs and community organizations working towards literacy can offer services to parents at ECECs.",
+    "question": "How can ECEC programs facilitate community integration for immigrant families?",
+    "answer": "ECEC programs facilitate community integration by offering associated employment services and language courses, and through partnerships with community organizations that provide literacy services to parents at ECEC facilities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inside the Black Box of Regional Development - human capital, the creative class and tolerance",
+    "context": "The study examines two competing measures of human capital: educational attainment versus occupational classifications (creative class). Structural equation models reveal the creative class measure better accounts for regional labor productivity through wages, while conventional human capital measures more effectively explain regional income levels. Tolerance demonstrates significant associations with both human capital measures and economic outcomes.",
+    "question": "How do human capital and creative class measures differentially impact regional economic development according to the structural equation models?",
+    "answer": "The creative class outperforms educational attainment in accounting for regional labor productivity measured through wages, while conventional human capital measures better account for regional income levels.",
+    "check_human": "true"
+  },
+  {
+    "title": "Positive self-representations, sustainability and socially organised denial in UK tourists discursive barriers to a sustainable transport future",
+    "context": "Here Francesca negotiates the 'sustainable tourist' identity by an extreme case formulation of that identity ('all this cutting back'; 'giving it all up') and its binary opposite ('buy whatever I want and fly wherever I want'); followed by an assertion of her own powerlessness ('a waste of time'; 'it’s not going to save anything anyway'). Minimised responsibility is amplified by what is pejoratively categorised as 'self-righteous comparisons' – 'I haven’t even got kids' (i.e. those who have children are more responsible) - which counters the assertion of powerlessness, but makes some more responsible than others.",
+    "question": "What discursive strategies does Francesca use to resist sustainable tourist identity?",
+    "answer": "Francesca uses extreme case formulation ('all this cutting back'), assertions of powerlessness ('waste of time'), and self-righteous comparisons ('I haven't even got kids') to resist the sustainable tourist identity while minimizing personal responsibility.",
+    "check_human": "true"
+  },
+  {
+    "title": "New public management as a global education policy its adoption and re-contextualization in a Southern European setting",
+    "context": "School autonomy under NPM manifests in two distinct forms: managerial and pedagogic. The managerial approach emphasizes principal-led resource management and staffing decisions, resembling corporate governance. Conversely, pedagogic autonomy focuses on teacher professionalization and curriculum adaptation to local contexts. These ideal types often coexist in hybrid implementations within education systems.",
+    "question": "What are the contrasting interpretations of school autonomy within New Public Management education reforms?",
+    "answer": "School autonomy has managerial (principal-led resource management) and pedagogic (teacher professionalization and contextual curriculum) interpretations, which often appear in hybrid forms.",
+    "check_human": "true"
+  },
+  {
+    "title": "Satisfied or Frustrated A Qualitative Analysis of Need Satisfying and Need Frustrating Experiences of Engaging With Digital Health Technology in Chronic Care",
+    "context": "Ethical approval for the study was granted by the Regional Ethical Review Board of Stockholm in 2018 (reg nr. 2018-1717-32). The present study uses data from open-ended questions in the post-intervention survey that was distributed to participants of the intervention study 7 months after recruitment was completed.",
+    "question": "Which ethical review body approved the study and in what year?",
+    "answer": "The Regional Ethical Review Board of Stockholm approved the study in 2018.",
+    "check_human": "true"
+  },
+  {
+    "title": "Diffusion of industrial robotics and inclusive growth Labour market evidence from cross country data",
+    "context": "The employment of both male and female workers is positively associated with the adoption of industrial robots in developed economies, although females benefit slightly more. In developing countries, however, only those with middle or advanced levels of education benefit from the diffusion of robots.",
+    "question": "How does robot adoption differentially affect gender employment in developed versus developing economies?",
+    "answer": "In developed economies, both male and female employment increases with robot adoption with females benefiting slightly more, while in developing countries only educated workers benefit regardless of gender.",
+    "check_human": ""
+  },
+  {
+    "title": "Infrastructure financing in the course of overcoming wartime consequences",
+    "context": "Створюються трастові фонди (ЄС, Світовий банк) для підтримки України. Активізовано програми фінансової підтримки МФО інфраструктурних проєктів. Запропоновано до впровадження (за підтримки зарубіжних партнерів) і залучення інших джерел фінансування критичної інфраструктури.",
+    "question": "What international mechanisms are being established to support Ukraine's infrastructure?",
+    "answer": "Trust funds are being created by the EU and World Bank, and international financial organizations have activated programs to finance infrastructure projects in Ukraine.",
+    "check_human": "true"
+  },
+  {
+    "title": "Power in global governance an expanded typology from global health",
+    "context": "Economic power can be transformed into institutional power when donor money sways the negotiation of decision-making rules to give a donor a voting seat on an organization’s governing board. It can be transformed into expert power when funding is used to commission research that produces knowledge favorable to the donor’s interests.",
+    "question": "How can economic power be converted into institutional power in global governance?",
+    "answer": "Economic power can be converted into institutional power when donors use financial resources to influence decision-making rules, securing voting seats on governing boards.",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of digital governance on the health of rural residents the mediating role of governance efficiency and access to information",
+    "context": "The research distinguishes digital governance from telemedicine by emphasizing its public goods nature versus commercial medical services. Digital governance creates foundational infrastructure that reduces implementation costs for health interventions, whereas telemedicine remains limited in rural China due to high operational expenses. This distinction informs the policy focus on governance platforms rather than direct healthcare delivery systems.",
+    "question": "How does the study conceptually differentiate digital governance from telemedicine in the context of rural health interventions?",
+    "answer": "Digital governance is distinguished from telemedicine as a public good that creates foundational infrastructure, whereas telemedicine is considered a commercial medical service with high operational costs that limit rural implementation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Public-private partnerships determinants of the type of governance structure",
+    "context": "PPPs that present greater specificities tend to adopt contractual forms where the private party has greater control. This allows the private party to reduce potential losses from public-sector opportunism. The results align with previous findings that higher transaction costs increase private control in partnerships.",
+    "question": "According to the study, how does asset specificity affect private party control in PPPs?",
+    "answer": "Greater asset specificity leads to governance structures with increased private party control to mitigate losses from public-sector opportunism, consistent with transaction cost theory.",
+    "check_human": "true"
+  },
+  {
+    "title": "Organizational resilience and social-economic sustainability COVID-19 perspective",
+    "context": "Organizational resilience is conceptualized through three key aspects: crisis anticipation, organizational robustness, and recoverability. These dimensions represent a firm's capability to predict disruptions, withstand operational shocks, and adapt during recovery phases. The study operationalizes these aspects to measure their impact on sustainability outcomes.",
+    "question": "What three aspects define organizational resilience in this research?",
+    "answer": "The three aspects defining organizational resilience are crisis anticipation, organizational robustness, and recoverability, representing capabilities to predict disruptions, withstand shocks, and adapt during recovery.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Risk Protection and Universal Health Coverage Evidence and Measurement Challenges",
+    "context": "Certain considerations are important in choosing the threshold that results in catastrophic expenditure. For example, a relatively high threshold such as 40% increases the likelihood that households incurring discretionary spending on health (e.g., private hospital wards) are not classified as incurring catastrophic expenditures. A high threshold also implies a concern for those who face greater burdens. However, other studies have used a lower threshold (typically applied against total consumption) and some have also assessed the sensitivity of the estimate of financial catastrophe to several different thresholds.",
+    "question": "What are the implications of choosing a high threshold for catastrophic health expenditure according to the document?",
+    "answer": "A high threshold such as 40% increases the likelihood that households incurring discretionary spending on health are not classified as incurring catastrophic expenditures and implies a concern for those who face greater burdens.",
+    "check_human": "true"
+  },
+  {
+    "title": "Climate Change’s Role in Disaster Risk Reduction’s Future Beyond Vulnerability and Resilience",
+    "context": "The '400-year earthquake' concept refers to the Yungay, Peru disaster, where vulnerability root causes traced back to Spanish conquest-era demographics and settlement patterns. These long-term processes, spanning centuries, align with Sustainable Development Goals addressing livelihoods and equity. The article uses this example to advocate for historical perspectives in addressing vulnerability.",
+    "question": "What does the '400-year earthquake' concept illustrate about vulnerability?",
+    "answer": "The '400-year earthquake' concept illustrates that vulnerability root causes, like those in Yungay, Peru, are long-term processes spanning centuries, linked to historical demographics and settlement patterns.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of Renewable Energy Policy and Use on Innovation A Literature Review",
+    "context": "Market-pull policies (e.g., feed-in tariffs) create demand for renewable technologies, while technology-push policies (e.g., R&D subsidies) stimulate supply-side innovation. The literature debates their relative effectiveness, noting that optimal outcomes require policy mixes addressing different innovation chain stages from research to commercialization.",
+    "question": "What distinction does the literature make between market-pull and technology-push policies in promoting renewable energy innovation?",
+    "answer": "Market-pull policies stimulate demand through mechanisms like tariffs, while technology-push policies support supply through R&D funding. Effective innovation requires both approaches targeting different stages of the development process.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards Accountability in the Use of Artificial Intelligence for Public Administrations",
+    "context": "The analysis of 16 AI guidelines reveals insufficient clarity about auditors' entitlements and auditing objectives. While some guidelines reference auditing-like processes, they lack specifications about auditors' rights to obtain truthful information or their accountability to the public. This gap hinders the development of ethical standards for evaluating auditing effectiveness in AI systems.",
+    "question": "What key limitation does the authors' analysis identify in existing AI guidelines regarding auditing processes?",
+    "answer": "The guidelines lack clarity about the nature of auditors' entitlements and the goals of auditing, preventing development of ethical evaluation standards.",
+    "check_human": "true"
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services a systematic review",
+    "context": "Pan, Huey, and colleagues tailored exposure therapy for Asian Americans with phobias [64, 65]. Pan et al. found a significantly greater reduction in phobic outcomes in the adapted group at time two compared to the standard exposure treatment, but both groups were comparable at the long term follow-up.",
+    "question": "How did culturally adapted exposure therapy compare to standard exposure therapy for Asian Americans with phobias in Pan et al.'s study?",
+    "answer": "Pan et al. found that culturally adapted exposure therapy resulted in significantly greater reduction in phobic outcomes at time two compared to standard exposure therapy, though both groups were comparable at long-term follow-up.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social Protection in a Crisis - Argentina's Plan Jefes Y Jefas",
+    "context": "The average Jefes participant in the sample is female (69 percent of participants, compared with 43 percent for all economically active adults), 36 years old, married, not a head of household (for 57 percent of participants), and has 8 years of schooling (table 2). Jefes participants are less likely to be heads of households than the sample of all economically active adults and more likely to be spouses of heads. The participants tend to come from larger than average households—5.4 people per participating household, compared with 4.2 for all economically active adults—with the difference accounted for by a greater number of children in Jefes households.",
+    "question": "What were the demographic characteristics of the average Jefes participant?",
+    "answer": "The average participant was female (69%), 36 years old, not a head of household (57%), with 8 years of schooling, from households of 5.4 people.",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of digital inclusive finance on SMEs’ technological innovation activities—Empirical analysis based on the data of new third board enterprises",
+    "context": "High-tech SMEs experience more substantial innovation stimulation from digital inclusive finance than non-high-tech enterprises. This heightened effect reflects the alignment between digital finance solutions and the specialized financing requirements of technology-intensive innovation activities.",
+    "question": "How does the impact of digital inclusive finance on technological innovation differ between high-tech and non-high-tech SMEs?",
+    "answer": "Digital inclusive finance demonstrates a significantly stronger promotional effect on high-tech SMEs' technological innovation endeavors compared to non-high-tech enterprises.",
+    "check_human": "true"
+  },
+  {
+    "title": "Obligations of low income countries in ensuring equity in global health financing",
+    "context": "Coordination is crucial because it has been observed that uncoordinated health financing between countries has no capacity to achieve global health equity and at the same time it has a high potential of deepening the existing inequities. However, coordination in financing global health partly requires a mechanism for determining international obligations owed to each country, particularly those in need of external resources to cover the minimum health opportunities per capita.",
+    "question": "Why is coordination considered crucial in global health financing?",
+    "answer": "Coordination is crucial because uncoordinated health financing cannot achieve global health equity and risks deepening existing inequities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Rural mental health workforce difficulties a management perspective",
+    "context": "Mental health workers face demands including travel to clients' isolated homes and dealing with suicide risks. Rurality requires workers to travel extensively while managing high-risk cases. These pressures force prioritization of crisis-driven work over preventative care, especially when relief staff are unavailable.",
+    "question": "How does rurality create specific safety and workload demands for mental health workers?",
+    "answer": "Rurality creates demands through required travel to isolated homes, exposure to suicide risks, and pressure to prioritize crisis management over preventative care due to unavailable relief staff.",
+    "check_human": "true"
+  },
+  {
+    "title": "Community health workers at the dawn of a new era 4. Programme financing",
+    "context": "The COVID-19 pandemic is showing the need for reactive systems that can provide medications, protective equipment, and other supplies to hospitals and other facilities quickly and efficiently, as well as to CHWs. The flexibility of funding flows is key to enhancing funding to cover operational costs within public facilities that are responding to the crisis.",
+    "question": "What two requirements for health systems does the COVID-19 pandemic highlight regarding CHWs?",
+    "answer": "The pandemic highlights the need for reactive supply systems delivering medications/equipment to CHWs and flexible funding flows to cover crisis-response operational costs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Infrastructure financing in the course of overcoming wartime consequences",
+    "context": "Згідно з прогнозами вітчизняних та зарубіжних експертів, за підсумками 2022 р. зменшення обсягу ВВП в Україні становитиме від 25 до 45 %. Такі зміни викликані зниженням ділової активності (у т. ч. з причин руйнування та знищення об’єктів критичної інфраструктури у ході російського збройного нападу). Наслідком стає погіршення показників сукупної пропозиції й попиту, внутрішнього споживання, експорту товарів і послуг, імпорту продукції, зайнятості населення, інфляції, процентних ставок, інвестиційної активності та інших макроекономічних показників.",
+    "question": "What was the predicted decrease in Ukraine's GDP for 2022 according to domestic and foreign experts?",
+    "answer": "Domestic and foreign experts predicted a decrease in Ukraine's GDP volume for 2022 would range from 25% to 45%.",
+    "check_human": "true"
+  },
+  {
+    "title": "Higher education, policy, and the global competition phenomenon",
+    "context": "Chapter 7 investigates the tension between profit motives and educational quality in Oman's private higher education sector. Hana Ameen, David W. Chapman, and Thuwayba Al-Barwani analyze conflicting institutional priorities. The study highlights challenges in balancing financial sustainability with academic standards.",
+    "question": "What conflict does Chapter 7 examine in Omani private higher education?",
+    "answer": "Chapter 7 examines the tension between profit motives and educational quality in Oman's private higher education sector.",
+    "check_human": "true"
+  },
+  {
+    "title": "Food Delivery Apps and the Negative Health Impacts for Americans",
+    "context": "53% of multi-restaurant app users order more than three times quarterly, with 7% exceeding 11 orders. Nationally, 10% of Americans use delivery services weekly, while 52% order lunch deliveries. These frequencies raise concerns given established links between eating out and higher BMI.",
+    "question": "What frequency patterns characterize food delivery application usage among American consumers?",
+    "answer": "53% of multi-app users order >3 times quarterly, 7% >11 times. 10% of Americans use weekly deliveries, while 52% typically order lunch delivery.",
+    "check_human": "true"
+  },
+  {
+    "title": "On agricultural productivity.",
+    "context": "In both the corn and dairy areas and the small grain area, where the ratio of direct to total labor has risen appreciably, the shift appears to have been largest: the percentage of direct labor engaged in crop production declined by 14 and 25 percentage points respectively. In 'other areas,' where the ratio of direct to total labor seems to have increased only slightly, the shift from crops to livestock was apparently more moderate: labor on crops declined by 11 percentage points.",
+    "question": "Which agricultural area showed the greatest decline in percentage of direct labor engaged in crop production between 1909-13 and 1932-36?",
+    "answer": "The small grain area showed the greatest decline in percentage of direct labor engaged in crop production, with a 25 percentage point reduction.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ecological resilience of restored peatlands to climate change",
+    "context": "Degraded peatlands contribute 5-10% of global anthropogenic CO₂ emissions due to drainage and land-use changes. Restoration is prioritized for climate mitigation but faces challenges in fully recovering biodiversity, hydrological regimes, and soil structure. These incomplete recoveries may compromise ecosystem resilience to future disturbances like droughts and fires.",
+    "question": "What percentage of global anthropogenic carbon dioxide emissions result from degraded peatlands, and which factors limit the resilience of restored peatlands?",
+    "answer": "Degraded peatlands account for 5-10% of global annual anthropogenic carbon dioxide emissions. Resilience in restored peatlands is limited by incomplete recovery of biodiversity, hydrological regimes, and peat soil structure.",
+    "check_human": "true"
+  },
+  {
+    "title": "Funding and Financing Infrastructure The Joint-Use of Public and Private Finance",
+    "context": "The function ϕ(ĉ) is defined as ϕ(ĉ) = ĉ + ∫∞ĉ(1−F(˜c))d˜c + μ(1−F(ĉ)). ϕ is quasi-convex and achieves a minimum at ĉm defined by F(ĉm)/f(ĉm) = μ. This minimum corresponds to the audit threshold that maximizes a monopolistic lender's profit, trading off audit costs against repayment benefits.",
+    "question": "What properties does the function ϕ(ĉ) exhibit in the financial contract model?",
+    "answer": "The function ϕ(ĉ) = ĉ + ∫∞ĉ(1−F(˜c))d˜c + μ(1−F(ĉ)) is quasi-convex with a minimum at ĉm where F(ĉm)/f(ĉm) = μ, representing the profit-maximizing audit threshold for lenders.",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of digital governance on the health of rural residents the mediating role of governance efficiency and access to information",
+    "context": "The study found that family housing conditions significantly impacted rural residents' health. Dilapidated family housing significantly reduced health outcomes. Other household-level factors included per capita income and medical resources.",
+    "question": "Which household-level variable showed a significant negative impact on rural residents' health outcomes?",
+    "answer": "Dilapidated family housing conditions showed a significant negative impact on rural residents' health outcomes according to the study findings.",
+    "check_human": "true"
+  },
+  {
+    "title": "Climate justice through climate finance Australia’s approach to climate finance in the Pacific",
+    "context": "Australia's climate-related official development finance (CODF) was predominantly provided as grants throughout the study period. The vast majority of Australia's overall official development finance (ODF) took the form of grants rather than loans. This grant-based approach aligns with international commitments to provide adaptation finance through grants rather than loans.",
+    "question": "What form did the majority of Australia's climate-related development finance take between 2010 and 2019?",
+    "answer": "The majority of Australia's climate-related development finance took the form of grants rather than loans.",
+    "check_human": "true"
+  },
+  {
+    "title": "Greening work labor market policies for the environment",
+    "context": "The work-lifestyles approach examines how employment structures affect sustainability beyond workplaces through income/time-use effects and behavioral spillovers. Jobs influence lifestyles via work-spend cycles, time constraints affecting consumption patterns, and workplace-trained behaviors transferring to private life. The equalization of income strategy most strongly impacts this dimension by reducing luxury consumption and enabling sustainable practices.",
+    "question": "How does the work-lifestyles approach characterize the relationship between employment and environmental sustainability?",
+    "answer": "The work-lifestyles approach analyzes how jobs influence sustainability through income/time constraints affecting consumption patterns, workplace-trained behaviors spilling into private life, and employment structuring temporal/geographical aspects of society that shape resource use.",
+    "check_human": ""
+  },
+  {
+    "title": "Following policy networks, network ethnography and education policy mobilities",
+    "context": "As I have tried to illustrate here global policy networks are social and human constructions, they are complex, enduring and evolving connections between people, objects, and technologies across multiple and distant spaces and times (Law, 1994, p. 24; Murdoch 1995, p. 745). However, such networks have to be constantly made and remade, the relations that constitute them are processual (Massey 2005). They are always under construction; ‘always in the process of being made … never finished; never closed’ (Massey, 2005 p. 9).",
+    "question": "What key characteristic defines global policy networks according to Massey (2005) as cited in the document?",
+    "answer": "Global policy networks are 'always in the process of being made … never finished; never closed', requiring constant remaking through processual relations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+    "context": "The logic of physician authority established medical profession dominance over the hospital field since early 20th Century. Hospitals competed to attract physician referrals, while purchasers played passive financier roles. Physicians held strong authority over clinical decisions driving resource use under this logic.",
+    "question": "What were the key characteristics of the hospital field under the logic of physician authority?",
+    "answer": "Under physician authority logic, hospitals competed for physician referrals, purchasers acted as passive financiers, and physicians maintained strong authority over clinical decisions driving resource use.",
+    "check_human": "true"
+  },
+  {
+    "title": "From Yokohama to Sendai Approaches to Participation in International Disaster Risk Reduction Frameworks",
+    "context": "The mid-term review of HFA implementation found that 'local knowledge is rarely addressed by the new institutional and legislative arrangements, and there are few examples of local knowledge informing policy' (UNISDR 2011, p. 46). These findings were supported by external analyses.",
+    "question": "What did the HFA mid-term review find regarding the use of local knowledge in policy?",
+    "answer": "The mid-term review found that local knowledge is rarely addressed by institutional and legislative arrangements, with few examples of local knowledge informing policy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Yellow Brick Road to Digital State",
+    "context": "Based on the declarations of the UN General Assembly, the conclusion is made that it is necessary to strengthen the control of the judiciary over the executive to avoid the establishment of digital totalitarianism. These findings reinforce the methodological significance of the evolution of public administration.",
+    "question": "What institutional safeguard does the UN General Assembly recommend to prevent digital totalitarianism?",
+    "answer": "The UN General Assembly recommends strengthening judicial control over the executive branch to prevent digital totalitarianism.",
+    "check_human": "true"
+  },
+  {
+    "title": "The co-production of what Knowledge, values, and social relations in health care",
+    "context": "One way of going about the co-production of health care more meaningfully is to look at it as a dynamic, experimental, and reflective process sustained by different forms of engagement, interactions, and social relations and that may generate, in turn, new forms of care other than health care (e.g., inclusive relationships, solidarity), values beyond economic value (e.g., equity, justice), and new insights and research practices that are relevant to different disciplines and practices. Given the predominance of cost-effectiveness and data-intensive work in health care and research, this substantive approach to co-production may be a hard sell to researchers, funders, and policymakers worried about limited resources and timeframes. In our view, emerging forms and processes of co-production can reveal and help legitimise possibilities that were unanticipated or even unthinkable before they began.",
+    "question": "What new forms of care beyond traditional healthcare does the study suggest co-production can generate?",
+    "answer": "The study suggests co-production can generate new forms of care beyond traditional healthcare, including inclusive relationships, solidarity, equity, justice, and novel research practices through dynamic engagement processes.",
+    "check_human": ""
+  },
+  {
+    "title": "Mainstreaming Disaster Risk Reduction and Climate Change Adaptation in Comprehensive Development Planning of the Cities in Nueva Ecija in the Philippines",
+    "context": "City A—Cabanatuan City had 90,000 families exposed to flooding according to Figure 5. City B—Gapan City had 30,200 families exposed to flooding, while City E—Science City of Muñoz had 28,000 families exposed to flooding. The number of families exposed to hazards varied across the five component cities.",
+    "question": "How many families were exposed to flooding in Cabanatuan City according to the hazard exposure data?",
+    "answer": "90,000 families in Cabanatuan City were exposed to flooding.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social safety and behavioral aspects of populations financial inclusion: A multicountry analysis",
+    "context": "The Index of socio-safety rankings revealed significant disparities among the 26 analyzed countries. Russia and South Africa demonstrated the highest index values, while Mozambique and Burkina Faso showed the lowest levels. This variation reflects differences in social protection systems and economic development across nations with diverse income classifications.",
+    "question": "Which countries exhibited the highest and lowest Index of socio-safety values according to the multicountry analysis?",
+    "answer": "The Russian Federation and South Africa had the highest Index of socio-safety values, while Mozambique and Burkina Faso showed the lowest levels among the studied countries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Challenges Associated with Creeping Disasters in Disaster Risk Science and Practice Considering Disaster Onset Dynamics",
+    "context": "A defining feature of creeping disaster impacts is the notable potential for anticipating how they will continue to develop over time owing to their relatively slow buildup. This refers not necessarily to the slow evolution of hazardous conditions that may be driving the disaster forward, but also the slow manifestation of the gradually worsening socioeconomic conditions that produce temporally dispersed disaster impacts. Famines encompass these creeping characteristics that make them amenable to early detection but at the same time susceptible to trailing indicators that impede an early response.",
+    "question": "How does the document describe the relationship between creeping disaster impacts and trailing indicators?",
+    "answer": "The document describes that while creeping disaster impacts like famines are theoretically amenable to early detection due to their slow buildup, they remain susceptible to trailing indicators that hinder timely response.",
+    "check_human": "true"
+  },
+  {
+    "title": "Review of factors influencing social learning within participatory environmental governance",
+    "context": "Van de Kerkhof and Wieczorek (2005) suggest that the information provided in the process should be of scientific quality but communicated in a way that is comprehensible and accessible, which also makes uncertainties and controversies explicit to increase participants’ competence to deliberate and make argued decisions. Beierle (2002) demonstrated that insufficient access to information can prevent effective participation in decision making.",
+    "question": "According to van de Kerkhof and Wieczorek (2005), how should information be communicated in participation processes?",
+    "answer": "Information should be of scientific quality but communicated in a comprehensible and accessible way, making uncertainties and controversies explicit",
+    "check_human": "true"
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "A number of studies found recipients' level of acculturation to the predominant society moderated the effects of cultural adaptations. These findings provide some support for tailoring based on level of acculturation, which was featured in three reviewed studies.",
+    "question": "What recipient characteristic was found to moderate the effects of cultural adaptations in multiple studies?",
+    "answer": "Recipients' level of acculturation to the predominant society moderated the effects of cultural adaptations in multiple studies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Carbon pricing and COVID-19",
+    "context": "Carbon pricing would contribute to a more sustainable COVID-19 recovery period, since many of the costs of revamping supply chains are already being felt while idled labour capacity can be incorporated into firms with lower carbon-intensity. The long-term goal of a carbon price is to shift away from carbon-intensive production and consumption.",
+    "question": "How does the study describe carbon pricing's role in sustainable recovery?",
+    "answer": "The study states carbon pricing contributes to sustainable recovery by leveraging already disrupted supply chains and redirecting idled labor toward lower-carbon firms.",
+    "check_human": "true"
+  },
+  {
+    "title": "Women empowerment and environmental sustainability in Africa",
+    "context": "The Generalised Method of Moments (GMM) estimator is employed due to the number of cross sections exceeding time periods (50 countries vs 24 years). The high correlation coefficient (0.999) between environmental sustainability and its lagged value justifies this approach. Additionally, GMM controls for endogeneity through internal instruments and accounts for unobserved heterogeneity.",
+    "question": "Why does the study adopt the Generalised Method of Moments estimator?",
+    "answer": "The study adopts the GMM estimator because the number of cross sections exceeds time periods, there is high correlation between the dependent variable and its lagged value, and it controls for endogeneity and unobserved heterogeneity.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Effects of Land Markets on Resource Allocation and Agricultural Productivity",
+    "context": "The timing of land certification matters: institutional fixed costs decline faster with more years since certification, showing an elasticity of −1.815. The effect on quadratic adjustment costs is insignificant. This suggests a lag between certification and land reallocation.",
+    "question": "What does the study find about the timing of land certification's impact on costs?",
+    "answer": "Fixed costs decline faster with more years since certification (elasticity −1.815), while quadratic adjustment costs show no significant timing effect, indicating delayed reallocation impacts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Policy and Regulation of Energy Transition",
+    "context": "In 2010, less than 20 countries had a renewable auction mechanism in place with Europe leading the adoption. By 2017, number of countries with auctions increased to 88 and overtook number of countries with feed-in mechanisms in place. Within the next five years, auctions are to drive around two-thirds of global capacity growth.",
+    "question": "According to the study, how did renewable energy auctions evolve globally between 2010 and 2017?",
+    "answer": "The study indicates that renewable energy auctions expanded from fewer than 20 countries in 2010 to 88 countries by 2017, surpassing feed-in mechanisms and becoming the dominant driver for projected global capacity growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Identifying target groups for environmentally sustainable transport assessment of different segmentation approaches",
+    "context": "The mobility types developed by Anable [27] and Hunecke et al. [20/C15] are particularly characterised by a theoretical foundation. Both are mainly based on an expanded version of the TPB [33]. The TPB regards the constructs of attitude, subjective norm (SN), perceived behavioural control (PBC), and intention, as predictors of behaviour.",
+    "question": "According to the study, which theoretical constructs form the basis of mobility types developed by Anable and Hunecke et al.?",
+    "answer": "The mobility types are mainly based on an expanded version of the Theory of Planned Behaviour (TPB).",
+    "check_human": ""
+  },
+  {
+    "title": "Segregation and Disparities in Health Services Use",
+    "context": "The analysis controlled for predisposing (e.g., age, gender), enabling (e.g., income, insurance), and need factors (e.g., chronic conditions, self-rated health) across both MEPS and EHDIC datasets. Dependent variables included whether respondents had ≥1 health care visit and total visit counts. Regression models (logistic for visit likelihood, negative binomial for visit counts) adjusted for socioeconomic and health status variables to isolate race effects.",
+    "question": "What variables were controlled for in analyzing racial disparities in health care utilization across the MEPS and EHDIC samples?",
+    "answer": "The analysis controlled for race, gender, marital status, age, education, health insurance status, income, general health, and presence of chronic conditions. Region and urban-rural location were additional controls in MEPS.",
+    "check_human": ""
+  },
+  {
+    "title": "Green logistics solutions",
+    "context": "The first paper by A. Banasik, J. M. Bloemhof-Ruwaard, A. Kanellopoulos, G. D. H. Claassen, and J. G. A. J. van der Vorst provides a comprehensive literature review on multi-criteria decision making (MCDM) approaches for designing efficient and effective green supply chains. A conceptual framework is proposed to identify relevant publications and to categorize papers with respect to decision problems, indicators, and MCDM approaches. Particularly, the paper aims to review different MCDM approaches which can be used to quantify trade-offs between economic, social, and environmental criteria.",
+    "question": "What does Banasik et al.'s paper aim to review regarding MCDM approaches in green supply chains?",
+    "answer": "Banasik et al.'s paper aims to review different MCDM approaches that quantify trade-offs between economic, social, and environmental criteria in green supply chains.",
+    "check_human": "true"
+  },
+  {
+    "title": "Transformation in Practice A Review of Empirical Cases of Transformational Adaptation in Agriculture Under Climate Change",
+    "context": "Kenyan pastoralists shifted from cattle to camel herds in response to recurrent droughts. This transformation was driven by camels' superior drought tolerance compared to cattle. Emerging markets for camel hides further supported this livelihood change, though challenges like disease prevalence limited full benefits.",
+    "question": "Why did Kenyan pastoralists transition from cattle to camel herds?",
+    "answer": "Kenyan pastoralists shifted to camels due to their superior drought tolerance compared to cattle.",
+    "check_human": "true"
+  },
+  {
+    "title": "Maternal Health-Seeking Behavior The Role of Financing and Organization of Health Services in Ghana",
+    "context": "The study identifies 'bypassing' behavior where women seek care at higher-level facilities despite local availability, influenced by both health system factors and social structures. Women frequently visited multiple facilities for antenatal comparisons due to fee exemptions, while economic activities and perceptions of service quality also drove bypassing. This misuse of health service tiers reflects interactions between financing policies and patient decision-making.",
+    "question": "How does the phenomenon of 'bypassing' health facilities manifest in maternal healthcare-seeking behavior according to the study's findings?",
+    "answer": "Bypassing occurs when women seek care at higher-level facilities due to fee exemptions enabling facility comparisons, economic activities locating them near urban hospitals, and perceptions about service quality differences between facilities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+    "context": "Field-level institutional logics differ from societal-level logics by emerging from context-specific sensemaking processes. While grounded in societal logics like markets or professions, field-level logics articulate unique understandings of material practices. The managed care logic in hospitals combined market, corporate, and professional elements into a distinct hybrid.",
+    "question": "How do field-level institutional logics differ from societal-level logics according to the study's theoretical framework?",
+    "answer": "Field-level logics emerge from context-specific sensemaking processes that articulate understandings of material practices within a specific field, whereas societal-level logics pertain to broader institutional sectors like markets or professions.",
+    "check_human": "true"
+  }
+]

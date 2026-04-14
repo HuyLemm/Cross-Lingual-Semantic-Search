@@ -7,7 +7,7 @@ import path from "path";
  * ========================================================= */
 
 export function getAvailableExperiments() {
-  const expRoot = path.join(process.cwd(), "dataModel", "exp");
+  const expRoot = path.join(process.cwd(), "data_frontend", "exp");
 
   if (!fs.existsSync(expRoot)) return [];
 
@@ -36,6 +36,11 @@ export function getAvailableExperiments() {
   });
 
   return experiments;
+}
+
+export function normText(s) {
+  if (!s) return "";
+  return String(s).trim().toLowerCase().split(/\s+/).join(" ");
 }
 
 export function normalizeModel(raw) {
@@ -68,8 +73,13 @@ export function dedupeContent(qas) {
   const seen = new Set();
 
   return qas.filter((q) => {
-    const key = `${q.source_pdf?.toLowerCase()}||${q.question?.toLowerCase()}`;
+    const qq = normText(q.question);
+    const aa = normText(q.answer);
+    if (!qq || !aa) return false;
+
+    const key = `${qq}||${aa}`;
     if (seen.has(key)) return false;
+
     seen.add(key);
     return true;
   });
@@ -79,7 +89,7 @@ export function dedupeContent(qas) {
  * 1. COUNT DOCUMENTS
  * ========================================================= */
 export function countDocuments({ dataset }) {
-  const base = path.join(process.cwd(), "data");
+  const base = path.join(process.cwd(), "data_articles");
 
   const enDir = path.join(base, "articles_en");
   const viDir = path.join(base, "articles_vi");
@@ -104,7 +114,7 @@ export function loadTotalQAs({
   model = "all",
   experiment = "all",
 }) {
-  const base = path.join(process.cwd(), "dataModel", "exp");
+  const base = path.join(process.cwd(), "data_frontend", "exp");
   if (!fs.existsSync(base)) return [];
 
   /* ======================= LOAD EXP FOLDERS ======================= */
@@ -171,14 +181,17 @@ export function applyQualityFilter(qas, quality) {
   }
 
   return qas.filter((q) => {
+    // ✅ verified definition
     const pass1 = q.verified === true;
     const pass2 = q.verified_step2 === true;
     if (!pass1 || !pass2) return false;
 
-    const sim = q.sim_qc ?? 0;
-    const ce = q.ce_multi_prob ?? 0;
+    // ✅ strict 3-metric threshold
+    const sim_qc = Number(q.sim_qc ?? 0);
+    const sim_ac = Number(q.sim_ac ?? 0);
+    const ce = Number(q.ce_multi_prob ?? 0);
 
-    return sim >= threshold && ce >= threshold;
+    return sim_qc >= threshold && sim_ac >= threshold && ce >= threshold;
   });
 }
 
@@ -249,7 +262,7 @@ export function computeFullMetrics(qas) {
  * GET EXPERIMENT LIST BY MODEL + DATASET (LANG)
  * ========================================================= */
 export function getExperimentsByModel(model = "all", dataset = "all") {
-  const base = path.join(process.cwd(), "dataModel", "exp");
+  const base = path.join(process.cwd(), "data_frontend", "exp");
   if (!fs.existsSync(base)) return [];
 
   const exps = fs.readdirSync(base).filter((d) => d.startsWith("exp"));

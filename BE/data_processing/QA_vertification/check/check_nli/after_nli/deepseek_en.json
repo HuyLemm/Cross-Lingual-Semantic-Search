@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+    "context": "Metacognition involves conscious awareness and regulation of one's cognitive processes to improve knowledge acquisition. Critical thinking relies on these metacognitive mechanisms to identify errors and optimize problem-solving strategies. The interdependence between metacognition and critical thinking is central to developing autonomous learners in higher education.",
+    "question": "How does metacognition functionally support the development of critical thinking according to the document?",
+    "answer": "Metacognition supports critical thinking by enabling individuals to consciously monitor, evaluate, and regulate their cognitive processes during problem-solving, thereby identifying inefficiencies and implementing corrective measures.",
+    "check_human": "true"
+  },
+  {
+    "title": "Review of factors influencing social learning within participatory environmental governance",
+    "context": "The 11 factors identified as influencing social learning are described as highly interconnected, with these interconnections denoting the causes of learning outcomes. The review argues that understanding these interdependencies between participatory settings (cause) and social learning (effect) can improve evaluations of participation processes. Clear factor definitions are proposed as reference points for future research.",
+    "question": "How does the review characterize the relationships among the 11 factors influencing social learning?",
+    "answer": "The 11 factors are highly interconnected, with these interconnections denoting the causes of social learning outcomes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Is Green Growth Possible",
+    "context": "Ward et al's model projects that Australia's material extraction would initially decline before resurging later this century despite efficiency gains. They argue this resurgence occurs because resource efficiency improvements eventually approach physical limits that cannot be surpassed. Continued GDP growth then drives resource use back up after temporary decoupling.",
+    "question": "What does Ward et al's model project about long-term material extraction trends in Australia?",
+    "answer": "Ward et al's model projects Australia's material extraction would initially decline but later resurge due to physical limits on efficiency gains being reached under continued GDP growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Shared Health Governance",
+    "context": "The Shared Health Governance (SHG) framework proposes an alternative model of social cooperation for health justice. It allocates responsibilities, resources, and sovereignty across multiple societal actors including governments, NGOs, private sectors, communities, and individuals. SHG emphasizes ethical commitments and policy alignment between common good and self-interest to achieve concurrent individual and societal health objectives.",
+    "question": "What are the core components and objectives of the Shared Health Governance framework as described in the document?",
+    "answer": "SHG sets out moral responsibilities, motivational aspirations, institutional arrangements, and implementation roles to achieve health justice. Its objectives include creating conditions for all individuals to realize central health capabilities through fair resource distribution, shared sovereignty in decision-making, and alignment between societal and individual health interests.",
+    "check_human": ""
+  },
+  {
+    "title": "The OPtimising HEalth LIterAcy (Ophelia) process study protocol for using health literacy profiling and community engagement to create and implement health reform",
+    "context": "Ethics approval for the study has been obtained from the Human Research Ethics Committee of Deakin University and from four of the participating sites. Approval to conduct the study at the remaining four sites was included within the Deakin University approval process. Written informed consent will be obtained from all participants.",
+    "question": "How was ethics approval managed for the Ophelia Victoria study across participating sites?",
+    "answer": "Ethics approval was obtained from Deakin University's Human Research Ethics Committee and four participating sites, with the remaining four sites covered under Deakin's approval, and written informed consent is required from all participants.",
+    "check_human": "true"
+  },
+  {
+    "title": "Governance and Poverty Reduction Evidence from Newly Decentralized Indonesia.",
+    "context": "Law No. 22/1999 granted district governments authority over public works, health, education, agriculture, transportation, industry, trade, investment, environment, land, cooperatives, and labor matters. This decentralization policy emphasized district-level governance by transferring all authorities not explicitly reserved for central or provincial governments. The wide-ranging powers marked a significant shift in Indonesia's governance structure following regional autonomy reforms.",
+    "question": "Which areas of governance were transferred to district governments under Indonesia's Law No. 22/1999?",
+    "answer": "District governments received authority over public works, health, education, agriculture, transportation, industry, trade, investment, environment, land, cooperatives, and labor matters under Law No. 22/1999.",
+    "check_human": "true"
+  },
+  {
+    "title": "Data governance and citizen participation in the digital welfare state",
+    "context": "Dutch social domain data projects fail to meet FAIR (findable, accessible, interoperable, reusable), FACT (fair, accurate, confidential, transparent), and ROBUST (resilient, open, beneficial, secure) technical standards. They also violate the SHARED (Sustainable, Harmonious, Affective, Relevant, Empowering, Diverse) principle for human-oriented data governance.",
+    "question": "Which four data governance standards do Dutch social policy data projects fail to satisfy?",
+    "answer": "Dutch social policy data projects fail to satisfy the FAIR, FACT, ROBUST, and SHARED data governance standards.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Inclusion and Inclusive Growth A Review of Recent Empirical Evidence",
+    "context": "Sub-Saharan Africa shows unique financial inclusion patterns with 12% of adults using mobile money accounts—double the global average. Within this group, half use mobile money exclusively while half maintain both mobile and traditional accounts. Kenya leads with 58% mobile money adoption, followed by Somalia, Tanzania, and Uganda at approximately 35%, though regional disparities exist within East Africa.",
+    "question": "How does mobile money account penetration in Sub-Saharan Africa differ from global patterns based on the empirical evidence?",
+    "answer": "12% of Sub-Saharan African adults use mobile money accounts—six times the global average of 2%—with half being mobile-money-only users. Kenya shows the highest penetration at 58%, followed by Somalia, Tanzania, and Uganda at approximately 35%.",
+    "check_human": ""
+  },
+  {
+    "title": "Emerging challenges in implementing universal health coverage in Asia.",
+    "context": "China's benefit package lacks sufficient coverage of outpatient services critical for non-communicable diseases (NCDs). Local authorities decide packages based on resources but lack capacity for proper costing. This limited outpatient coverage may have increased financial risk for patients.",
+    "question": "What limitation in China's benefit package design affects non-communicable disease management?",
+    "answer": "China's benefit package has limited coverage of outpatient services essential for non-communicable diseases, potentially increasing financial risk for patients.",
+    "check_human": "true"
+  },
+  {
+    "title": "Effective Coverage A Metric for Monitoring Universal Health Coverage",
+    "context": "Box 2 provides recommendations on the major considerations for tracking effective coverage. These include first, reviewing existing evidence on disease burden, affordable interventions and social priorities; second, developing strategies to measure needs, use, and quality; and third, building system capacity for continuous monitoring. Among these considerations, building capacity for data collection and use remains the most substantial hurdle in broadly using effective coverage.",
+    "question": "What three main recommendations does Box 2 provide for tracking effective coverage?",
+    "answer": "Box 2 recommends (1) reviewing evidence on disease burden and priorities, (2) developing measurement strategies for need/use/quality, and (3) building system capacity for continuous monitoring.",
+    "check_human": "true"
+  },
+  {
+    "title": "Contending Geo-Logics Energy Security, Resource Ontologies, and the Politics of Expert Knowledge in Estonia",
+    "context": "The historical significance of oil shale extraction to Estonia’s economy cannot be understated. Having accounted for approximately 90 per cent of electricity production and 60–75 per cent of primary energy supply (TPES) to date, the sole indigenous fossil fuel is central to the state’s economic competitiveness, its social stability, and its ideologies of national sovereignty. As a major feedstock for thermal power stations and a key raw material for the chemical industry, the organic-rich sedimentary rock continues to provide the population with remarkably low electricity prices, industry with lucrative revenues, and the government with decent dividends.",
+    "question": "What quantitative roles does oil shale play in Estonia's primary energy supply and electricity production?",
+    "answer": "Oil shale accounts for approximately 90 per cent of Estonia's electricity production and 60–75 per cent of its primary energy supply (TPES).",
+    "check_human": "true"
+  },
+  {
+    "title": "Mitigating Emissions in India Accounting for the Role of Real Income, Renewable Energy Consumption and Investment in Energy",
+    "context": "The Johansen cointegration test shows that the null hypothesis of no cointegration was rejected. Thus indicating 2 cointegration vectors. Thus, suggesting cointegration among the variables over the sampled period.",
+    "question": "How many cointegration vectors were identified by the Johansen test in the study?",
+    "answer": "The Johansen cointegration test identified 2 cointegration vectors among the variables over the sampled period.",
+    "check_human": "true"
+  },
+  {
+    "title": "Subsidies and agricultural productivity in the EU",
+    "context": "Table A.3 presents robustness checks by excluding the ESIF variable from the regression models. The results indicate that the main findings on CAP subsidy impacts remain qualitatively and quantitatively similar regardless of ESIF inclusion. This confirms that omitted variable bias from structural funds does not drive the core results about CAP subsidy effects.",
+    "question": "How did the study test the robustness of its findings regarding CAP subsidy impacts?",
+    "answer": "The study tested robustness by excluding the ESIF variable from regressions and found that main results on CAP subsidy effects remained qualitatively and quantitatively similar.",
+    "check_human": "true"
+  },
+  {
+    "title": "Flourishing in Resonance: Joint Resilience Building Through Music and Motion",
+    "context": "Since risks are multifaceted, resilience cannot be conceived to be single-sided. It is complex and multidimensional, altered by personal, material, social, and cultural assets among significant loss (Ungar, 2006; Ryan et al., 2008; Robertson and Cooper, 2013; Lenette et al., 2015). It is contextual, situated in everyday personal practices and therefore considered vital in the process of adaptation to change and in dealing with adversity (Wagnild and Collins, 2009; Lenette et al., 2013).",
+    "question": "According to the study, what factors influence the complexity and multidimensionality of resilience?",
+    "answer": "Resilience is complex and multidimensional, altered by personal, material, social, and cultural assets among significant loss.",
+    "check_human": "true"
+  },
+  {
+    "title": "The migration ban policy cycle a comparative analysis of restrictions on the emigration of women domestic workers",
+    "context": "Nepal’s migration ban has gone through several changes, including the introduction of country-specific bans and migration bans for women under a certain age or working in certain sectors. In its latest iteration, the total ban was lifted in 2015 with a new age restriction of 24 years for 8 destination countries. However, in 2017 the Nepal Parliament’s International Relations and Labour Committee instructed the government to re-implement the ban on women migrating for domestic work to Gulf States.",
+    "question": "What age restriction did Nepal impose on women migrating for domestic work to certain countries in 2015?",
+    "answer": "In 2015, Nepal imposed an age restriction requiring women to be at least 24 years old to migrate for domestic work to eight destination countries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Controlling molecular transport in minimal emulsions",
+    "context": "Minimal emulsions are simplified systems produced via microfluidic tools to study molecular transport fundamentals. These controlled emulsions reduce complexity by fixing parameters like droplet size and spacing, enabling precise microenvironment control. The approach allows quantitative analysis of transport kinetics between droplets in water-in-fluorinated-oil systems, which are critical for biotechnological applications.",
+    "question": "What are minimal emulsions and how do they facilitate the study of molecular transport mechanisms?",
+    "answer": "Minimal emulsions are controlled emulsions produced using microfluidic tools that simplify an emulsion down to its minimal set of relevant parameters. They enable fundamental studies of molecular transport by allowing precise control over droplet size, spacing, and microenvironment.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Main Drivers of Competitiveness in the EU-28 Countries",
+    "context": "The role of innovation in economic growth appeared in a wide range of papers, but Florida (2002) highlighted the link between knowledge and economic development by introducing creative classes to measure human capital, which has creative capabilities. This approach emphasized innovation's connection to growth through human capital measurement.",
+    "question": "How did Florida (2002) conceptualize the measurement of human capital in relation to economic development?",
+    "answer": "Florida (2002) introduced creative classes to measure human capital, which has creative capabilities, highlighting the link between knowledge and economic development.",
+    "check_human": "true"
+  },
+  {
+    "title": "Machine learning, social learning and the governance of self-driving cars",
+    "context": "Musk’s framing is one of near-perfect consequentialism. He imagines the issue as one of relative risk: the acceptability of self-driving cars should be determined merely in comparison to the safety of conventional, human-driven cars. He is attempting to restrict the debate to technological outcomes rather than processes or purposes. In legitimizing only the probabilistic risk quantity, he is ignoring concerns about risk quality.",
+    "question": "What aspect of risk assessment does Elon Musk's framing of self-driving car safety overlook?",
+    "answer": "Musk's framing overlooks concerns about risk quality such as control, trust, fairness, catastrophic potential, novelty, and uncertainty by focusing solely on probabilistic risk quantity.",
+    "check_human": ""
+  },
+  {
+    "title": "Motor Development Embodied, Embedded, Enculturated, and Enabling.",
+    "context": "Walking development illustrates embodiment through improvements in managing biomechanical forces. Novice walkers exhibit short, wide steps with balance difficulties, while experienced walkers develop efficient gait patterns, joint coordination, and pendular mechanisms. These changes reflect embodied learning to control dynamic equilibrium and propulsive forces.",
+    "question": "How do gait patterns in novice versus experienced walkers exemplify the embodied nature of motor development?",
+    "answer": "Novice walkers display short, irregular steps with wide stances due to poor balance control, while experienced walkers show longer, narrower strides with efficient joint coordination and pendular mechanics. These improvements demonstrate how embodied learning optimizes force management and biomechanical constraints.",
+    "check_human": "true"
+  },
+  {
+    "title": "The role of conservation agriculture in sustainable agriculture",
+    "context": "Widespread infestations of the root knot nematode (Meloidogyne graminicola) on rice were found when direct-seeded rice was grown instead of puddled rice in Bangladesh. This issue surfaced when rice cultivation shifted from anaerobic to aerobic systems.",
+    "question": "What pest problem emerged in Bangladesh when direct-seeded rice replaced puddled rice systems?",
+    "answer": "Widespread infestations of the root knot nematode (Meloidogyne graminicola) occurred in Bangladesh when direct-seeded rice replaced puddled rice systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Temperature regulation and technology",
+    "context": "Moisture transport materials have been developed to take moisture away from the skin by wicking and to transport it to the outer surface of the garment. This reduces the risk of 'after chill' which would have greater health impact in the elderly. Technically, this is achieved by producing double layer garments with wicking materials on the inside and absorbing materials on the outside.",
+    "question": "How do moisture transport materials help prevent health risks in elderly populations?",
+    "answer": "Moisture transport materials help prevent health risks in elderly populations by wicking moisture away from the skin to reduce the risk of 'after chill' through double-layer garment construction.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Once the need for a technological system has been established, it is important to commit adequate time and resources to thoroughly consider different options in terms of which system(s) to choose. Visiting other healthcare settings that have implemented similar technology can prove very helpful. Once available commercial systems have been appraised, it is appropriate to reflect on whether to build a customized system tailored to local needs, whether to customize an existing system, or whether to use an 'off-the-shelf' standardized solution.",
+    "question": "What activities are important when considering different options for health information technology systems?",
+    "answer": "Important activities include committing adequate time and resources to thoroughly consider options, visiting other healthcare settings with similar implementations, and appraising commercial systems before deciding between customized or standardized solutions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Internationalisation and migrant academics the hidden narratives of mobility",
+    "context": "Our article is based on 14 semi-structured interviews with migrant academics, working currently or recently in universities in Hong Kong, Hungary, Kazakhstan, Japan, Poland, Qatar, Spain, Turkey, UK and the USA. Their countries of origin were Austria, Colombia, Ghana, Guatemala, Mexico, Poland, Romania, Serbia, Portugal, UK and the USA. The sample was selected through personal and professional networking paying attention to gender, ethnicity, age and countries of origin and employment.",
+    "question": "Which countries were represented in the study's sample of migrant academics' current employment locations?",
+    "answer": "The migrant academics worked currently or recently in universities in Hong Kong, Hungary, Kazakhstan, Japan, Poland, Qatar, Spain, Turkey, UK and the USA.",
+    "check_human": "true"
+  },
+  {
+    "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+    "context": "Using the agent-based model AgriPoliS, we investigate the impact of a regime switch in agricultural policy on structural change under various framework conditions. The policy switch takes place from the old policy Agenda 2000 to a specific form of decoupled support: the introduction of a single area payment scheme (SAP), which attaches a uniform hectare payment to all agricultural land. AgriPoliS is adjusted to the agricultural structure of the Hohenlohe region, a family-farming region in southwest Germany.",
+    "question": "What policy regime switch does the AgriPoliS model analyze in the Hohenlohe region?",
+    "answer": "The AgriPoliS model analyzes a switch from the Agenda 2000 policy to a decoupled single area payment scheme (SAP) that provides uniform hectare payments across all agricultural land.",
+    "check_human": "true"
+  },
+  {
+    "title": "Operational definition of disaster risk-reduction literacy",
+    "context": "The operational definition states that 'gensai' literacy emerges from citizens' experience to minimize disasters. It connects awareness, knowledge, and techniques as essential components. This literacy enables individuals to habitually obtain disaster-related information and guarantee safety through accurate judgments during disasters.",
+    "question": "How does the operational definition characterize the origin and functional components of 'gensai' literacy?",
+    "answer": "The operational definition characterizes 'gensai' literacy as emerging from citizens' disaster experience, functionally connecting awareness, knowledge, and techniques to enable safety through informed judgments.",
+    "check_human": "true"
+  },
+  {
+    "title": "Challenges Associated with Creeping Disasters in Disaster Risk Science and Practice Considering Disaster Onset Dynamics",
+    "context": "A defining feature of creeping disaster impacts is the notable potential for anticipating how they will continue to develop over time owing to their relatively slow buildup. This refers not necessarily to the slow evolution of hazardous conditions that may be driving the disaster forward, but also the slow manifestation of the gradually worsening socioeconomic conditions that produce temporally dispersed disaster impacts. Famines encompass these creeping characteristics that make them amenable to early detection but at the same time susceptible to trailing indicators that impede an early response.",
+    "question": "How does the document describe the relationship between creeping disaster impacts and trailing indicators?",
+    "answer": "The document describes that while creeping disaster impacts like famines are theoretically amenable to early detection due to their slow buildup, they remain susceptible to trailing indicators that hinder timely response.",
+    "check_human": "true"
+  },
+  {
+    "title": "Migration and health a global public health research priority",
+    "context": "A conceptual framework for advancing migration health research includes two focus areas: examining health across migrant typologies and understanding migration-health interactions. Essential components involve research principles (human rights, ethics, interdisciplinarity) and multi-level stewardship functions. The framework advocates integrating migration into health systems research rather than exceptionalizing migrants, to achieve health equity for all populations.",
+    "question": "What are the key components of the conceptual framework for advancing migration and health research?",
+    "answer": "The framework includes examining health across migrant typologies, understanding migration-health interactions, applying human rights and ethical research principles, and implementing multi-level stewardship functions to integrate migration into health systems research.",
+    "check_human": "true"
+  },
+  {
+    "title": "Recent developments in using digital technology in mathematics education",
+    "context": "Interactive environments, such as social media platforms, create opportunities for students to reorganise their knowledge in the course of the social interaction (Engelbrecht & Oates, 2022). The role of the internet in student collaboration as part of the process of developing students into independent learners, is addressed by Engelbrecht and Oates (2022). A variety of social learning networks, such as learning management systems, personal learning environments and social media are employed in this collaborative learning process.",
+    "question": "According to Engelbrecht and Oates (2022), what opportunity do interactive environments like social media platforms create for students?",
+    "answer": "Interactive environments create opportunities for students to reorganise their knowledge in the course of social interaction.",
+    "check_human": "true"
+  },
+  {
+    "title": "Human Capital Redistribution in the USA The Migration of the College-bound",
+    "context": "Employment growth 1993–2007 shows insignificant coefficients as a push factor for high quality students (0.0997 coefficient with 0.429 standard error). This contrasts with low quality students where employment growth shows a positive significant coefficient (0.609 with 0.555 standard error) as a push factor.",
+    "question": "How does employment growth as a push factor differ between high and low quality students?",
+    "answer": "Employment growth shows insignificant effects as a push factor for high quality students (coefficient 0.0997), while being positive and significant for low quality students (coefficient 0.609).",
+    "check_human": "true"
+  },
+  {
+    "title": "Scientific careers and the mobility of European researchers an analysis of international mobility by career stage",
+    "context": "The European Higher Education Area (EHEA) and European Research Area (ERA) policies form the contextual backdrop for this study. These initiatives promote researcher mobility as essential for creating integrated academic labor markets and enhancing scientific collaboration. The MORE survey series provides critical data for policymakers to understand mobility patterns and remove barriers to researcher movement within Europe.",
+    "question": "What policy frameworks inform the study's examination of researcher mobility in Europe?",
+    "answer": "The study is contextualized within the European Higher Education Area (EHEA) and European Research Area (ERA) policy frameworks that promote researcher mobility as fundamental to European academic integration.",
+    "check_human": "true"
+  },
+  {
+    "title": "Joint Task Force for Clinical Trial Competency and Clinical Research Professional Workforce Development",
+    "context": "Duke University utilized the JTF Framework to restructure clinical research job titles from 80 to 12 distinct classifications. This reorganization created consistent professional progression pathways across departments. The new system defined three competency levels: Fundamental, Skilled, and Advanced.",
+    "question": "How did Duke University apply the JTF Framework to clinical research positions?",
+    "answer": "Duke University restructured job titles from 80 to 12 classifications and defined three competency levels (Fundamental, Skilled, Advanced) using the JTF Framework.",
+    "check_human": "true"
+  },
+  {
+    "title": "Chatbots Security, privacy, data protection, and social aspects",
+    "context": "Malicious chatbots operating on social platforms pose significant risks through conversational biases and opinion manipulation. These social bots can influence political elections, commercial transactions, and public discourse by mimicking human interaction patterns. The paper notes particular concern about chatbots' increasing ability to understand emotions and sentiment, making them harder to detect. Platform operators face challenges in automatically identifying and labeling such automated accounts under regulations like California's B.O.T. Act.",
+    "question": "What social risks do malicious chatbots pose according to the paper's analysis of conversational biases?",
+    "answer": "Malicious chatbots can manipulate opinions in political elections, commercial transactions, and public discourse by mimicking human interactions, with increased risk as they develop emotion recognition capabilities that make detection harder.",
+    "check_human": "true"
+  },
+  {
+    "title": "Measuring governance at health facility level developing and validation of simple governance tool in Zambia",
+    "context": "Community participation was better in rural health facilities because of the existence of traditional structures which made it easy to organize community members. This was not the case in peri urban areas were communities were more heterogeneous and hence difficulty to organize.",
+    "question": "Why did rural health facilities demonstrate better community participation compared to peri-urban areas?",
+    "answer": "Rural health facilities demonstrated better community participation due to the existence of traditional structures that made it easier to organize community members.",
+    "check_human": "true"
+  },
+  {
+    "title": "Lifelong learning participation in a changing policy context An interdisciplinary theory",
+    "context": "Based on this exploration, Boeren reveals that ‘disadvantaged groups’ (e.g. people living in rural areas, with low levels of qualification, or from lower socioeconomic backgrounds) are largely underrepresented in lifelong learning participation.",
+    "question": "Which groups does Boeren identify as underrepresented in lifelong learning participation?",
+    "answer": "Boeren identifies disadvantaged groups such as people living in rural areas, those with low qualification levels, and individuals from lower socioeconomic backgrounds as underrepresented in lifelong learning participation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequality and Happiness When Perceived Social Mobility and Economic Reality Do Not Match",
+    "context": "To explore the link between perceptions of fairness, social mobility, inequality, and happiness empirically we use data from the World Values Survey 1997-2001 and estimate a happiness function. We employ Gini coefficients to measure income inequality, four different proxies for individuals’ perceived fairness of the income generating process, and the interaction of inequality with these proxies. We employ measures of institutional quality to approximate actual social mobility.",
+    "question": "What data sources and measures did the study use to analyze the relationship between fairness perceptions and happiness?",
+    "answer": "The study used data from the World Values Survey 1997-2001, Gini coefficients for income inequality, four proxies for perceived fairness, and measures of institutional quality to approximate actual social mobility.",
+    "check_human": "true"
+  },
+  {
+    "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+    "context": "A recent survey revealed that nearly 89% of American college students use Chat GPT to complete homework tasks, with 53% using the tool for writing papers. Additionally, 48% of students use Chat GPT during exams and 22% use Chat GPT to generate paper outlines. However, it is difficult for teachers to determine whether students are using Chat GPT, which has a negative impact on students’ over-reliance on this tool.",
+    "question": "What percentage of American college students use Chat GPT for homework tasks according to the survey?",
+    "answer": "Nearly 89% of American college students use Chat GPT to complete homework tasks.",
+    "check_human": "true"
+  },
+  {
+    "title": "Vertical Interplay among Scale-dependent Environmental and Resource Regimes",
+    "context": "National-level regimes use formal legally-defined rules and sharp property rights distinctions. Lower-level regimes depend on informal rules evolving into social practices and complex property rights structures. These differences create scale dependencies in policy instruments.",
+    "question": "What distinguishes policy instruments in national-level regimes from those in lower-level regimes?",
+    "answer": "National regimes use formal legal rules and clear property rights distinctions, whereas lower-level regimes rely on informal social practices and complex property structures.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Macroeconomics of Poverty Reduction",
+    "context": "Economic crises disproportionately affect the poor due to their limited risk-coping mechanisms. The poor lack assets, credit access, and labor mobility to buffer income shocks. Severe consumption declines during crises can create long-term nutritional and health consequences that perpetuate poverty.",
+    "question": "Why do recessions and economic crises have asymmetric effects on the poor?",
+    "answer": "The poor face asymmetric crisis impacts due to limited assets, credit access, and labor mobility, with consumption declines potentially causing long-term health and nutritional damage that sustains poverty.",
+    "check_human": "true"
+  },
+  {
+    "title": "Review on Restructuring of Malaysia Electricity Supply Industry",
+    "context": "In pool market model, all energy supply is controlled and coordinated by a single pool operator, who is normally known as independent market operator (IMO). The IMO will consider the electricity bids and offers from these two entities to dispatch them in an economic manner depending on submitted bidding price and MW capacity. The IMO is responsible for both market settlement including scheduling and dispatch, also the transmission system management as well as transmission pricing and security aspects.",
+    "question": "What are the primary responsibilities of the Independent Market Operator (IMO) in the pool market model?",
+    "answer": "The Independent Market Operator (IMO) manages market settlement, scheduling, dispatch, transmission system management, pricing, and security aspects while coordinating energy bids based on price and capacity.",
+    "check_human": "true"
+  },
+  {
+    "title": "Managing e‐Government value positions and relationships",
+    "context": "Danish local authorities were studied due to their decentralized structure, welfare state responsibilities, and senior managers' key role in digitalization. Post-2007 reforms granted sufficient size to handle complex tasks while maintaining autonomy. Municipalities independently commission IT systems rather than executing central government mandates.",
+    "question": "Why were Danish local authorities selected for investigating e-Government values and what structural characteristics make them distinctive?",
+    "answer": "Danish local authorities were selected due to their decentralized structure, welfare state responsibilities, and managerial autonomy in IT commissioning. Distinctive characteristics include post-2007 reform-granted operational scale and independence from central government directives.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequities in Health Care Services Caused by the Adoption of Digital Health Technologies Scoping Review",
+    "context": "A study pointed out that access to home-based telemedicine was inequitably distributed in the United States owing to the limited reach of fixed broadband in rural areas. In rural areas with multiple health barriers, the unequal distribution of health information is more complex and, therefore, may exacerbate rather than narrow the gap.",
+    "question": "How does internet infrastructure in rural areas affect access to telemedicine services?",
+    "answer": "Limited fixed broadband infrastructure in rural areas creates inequitable distribution of home-based telemedicine services, exacerbating health information access gaps.",
+    "check_human": "true"
+  },
+  {
+    "title": "Research, part of a Special Feature on Urban Water Governance Political ecology of inter-basin water transfers in Turkish water governance",
+    "context": "Nearly 75% of the Turkish population lives in urban areas, representing a significant increase in the proportion of urban population compared to the 1980s, when approximately 43% of the total population was urban (TUIK 2012). Moreover, a greater amount of the urban population is living in large metropolitan areas, in particular Istanbul, Ankara, and Izmir.",
+    "question": "What was Turkey's urban population percentage during the 1980s?",
+    "answer": "Approximately 43% of Turkey's total population was urban during the 1980s.",
+    "check_human": "true"
+  },
+  {
+    "title": "Moving from ideas to action - developing health financing systems towards universal coverage in Africa",
+    "context": "Inefficiencies related to suboptimal performance of health workers were discussed as resulting from low motivation due to inadequate remuneration and lack of financial and non-financial incentives. Health workers are often poorly paid with uncompetitive salary scales compared to other sectors. Additionally, lack of clear career development paths and poor working conditions were seen as de-motivating factors.",
+    "question": "What factors were identified as contributing to low motivation among health workers in Africa?",
+    "answer": "Factors included inadequate remuneration, uncompetitive salary scales, lack of career development paths, and poor working conditions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Equity-Oriented Monitoring in the Context of Universal Health Coverage",
+    "context": "Four characteristic patterns of inequality across household wealth quintiles for coverage of births attended by skilled health personnel in four countries are shown: Bangladesh (mass deprivation), Gambia (queuing), Jordan (complete coverage), and Viet Nam (marginal exclusion). Mass deprivation occurs when coverage among the poorest quintile is low, with limited improvement across quintiles. Queuing describes a situation where coverage increases incrementally with each wealth quintile. Marginal exclusion occurs when coverage is high except among the poorest quintile, while complete coverage shows minimal inequality across quintiles.",
+    "question": "What four patterns of inequality are illustrated using coverage of births attended by skilled health personnel?",
+    "answer": "The four patterns are mass deprivation (Bangladesh), queuing (Gambia), complete coverage (Jordan), and marginal exclusion (Viet Nam).",
+    "check_human": "true"
+  },
+  {
+    "title": "Transcending systems thinking in education reform implications for policy-makers and school leaders",
+    "context": "Scott's scientific forestry analogy illustrates how 18th century standardization created simplified 'abstract forests' that ignored ecosystem complexity, leading to long-term ecological damage. Similarly, UK education reforms create 'abstract schools' through standardized targets and data, potentially eroding educational diversity and quality while producing unforeseen consequences.",
+    "question": "What parallel does Scott's scientific forestry analogy draw with UK education reforms?",
+    "answer": "Scott's analogy compares education standardization to scientific forestry's creation of simplified 'abstract forests' that ignore complexity, leading to long-term damage similar to how abstract school models based on targets erode educational diversity and produce unforeseen consequences.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does quality influence utilization of primary health care Evidence from Haiti",
+    "context": "We constructed two composite measures of quality for all Haitian facilities using the 2013 Service Provision Assessment survey. Infrastructure of healthcare facilities was measured using the service readiness index (SRI) from the WHO general service readiness measure. Service delivery quality was quantified using a measure adapted from the Primary Health Care Performance Initiative (PHCPI) framework.",
+    "question": "What two composite measures of quality were used to assess Haitian health facilities?",
+    "answer": "The two composite measures were infrastructure quality measured by the service readiness index (SRI) and service delivery quality measured using the Primary Health Care Performance Initiative (PHCPI) framework.",
+    "check_human": "true"
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services: a systematic review",
+    "context": "Seventeen of the 31 retained studies observed at least one significant effect in favor of a culturally adapted service. However there were also findings that favored the control group or showed no difference. Researchers did not find consistent evidence supporting implementation of any specific type of adaptation nor increased efficacy with any particular cultural group.",
+    "question": "How many of the 31 studies showed at least one significant effect favoring culturally adapted services?",
+    "answer": "Seventeen of the 31 retained studies observed at least one significant effect in favor of a culturally adapted service.",
+    "check_human": "true"
+  },
+  {
+    "title": "Small and Medium Enterprises in the Context of Regional Development and Innovations",
+    "context": "The conclusion identifies the absence of young entrepreneur support (under age 30) in surveyed regional programs as a critical gap. Recommendations emphasize supplementing regional programs with provisions for young entrepreneur follow-up and support. This adjustment is presented as essential for achieving federal subprogram objectives and requires program harmonization regarding goals, targets, and implementation timelines.",
+    "question": "What key demographic does the conclusion identify as lacking support in regional SME programs?",
+    "answer": "The conclusion identifies young entrepreneurs under age 30 as lacking support in regional SME programs, recommending supplemental provisions for this demographic.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+    "context": "Third, we assessed cognitive skills at three time points (at the beginning of the pre-kindergarten year, at the end of the pre-kindergarten year, and at the end of kindergarten); this allowed for the examination of transactional developmental influences during the pre-kindergarten year, and it allowed for the examination of the shared and unique impact of growth in cognitive skills during the pre-kindergarten year on academic achievement at the end of kindergarten. Fourth, in these developmental models, we included controls for children's developing language skills, in order to verify that associations were not simply due to the common factor of advancing language ability.",
+    "question": "How did the study's three assessment time points facilitate analysis of cognitive skill development?",
+    "answer": "The three assessment time points allowed examination of transactional developmental influences during pre-kindergarten and the shared/unique impact of cognitive skill growth on kindergarten academic achievement.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Health Coaching for Type 2 Diabetes Randomized Controlled Trial of Healthy at Home",
+    "context": "The study investigated a digital health coaching intervention for individuals with type 2 diabetes mellitus. The intervention, called Healthy at Home, was designed as a low-tech program using phone calls and SMS messaging. It aimed to improve clinical outcomes through lifestyle and behavioral changes. The study focused on under-resourced patients with type 2 diabetes.",
+    "question": "What was the primary purpose of the Healthy at Home digital health coaching study?",
+    "answer": "The purpose was to evaluate a low-tech digital health coaching program designed to improve clinical outcomes for under-resourced patients with type 2 diabetes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Systems thinking in practice the current status of the six WHO building blocks for health system strengthening in three BHOMA intervention districts of Zambia a baseline qualitative study",
+    "context": "Male community members were more likely to participate in health facility initiatives and were well informed about services. In contrast, most female participants were not aware of health facility activities. When asked about health service ownership, most respondents including women said services were community-owned despite low female participation.",
+    "question": "What gender disparity was observed in community participation in health services?",
+    "answer": "Male community members participated more actively in health initiatives and were better informed about services, while most female participants lacked awareness of health facility activities despite acknowledging community ownership.",
+    "check_human": "true"
+  },
+  {
+    "title": "COMMUNICATIVE COMPETENCES IN ENHANCING OF REGIONAL COMPETITIVENESS IN THE LABOUR MARKET",
+    "context": "Ukraine ranked 47th globally (25th in Europe) in EF EPI's 2018 English proficiency index, with a low score of 50.91. Regression analysis revealed a positive correlation (y = 9.11x + 99.126) between EF EPI scores and nominal GDP across 85 countries, though only 0.2% of GDP variation was explained. Higher proficiency correlated with improved social-economic indicators like life expectancy and research investment.",
+    "question": "What was Ukraine's position in the 2018 EF EPI ranking, and how does foreign language proficiency correlate with national economic indicators?",
+    "answer": "Ukraine ranked 47th globally (25th in Europe) with a low proficiency score of 50.91. A weak positive correlation exists between EF EPI scores and GDP, though proficiency also associates with higher life expectancy, income, and research expenditure.",
+    "check_human": "true"
+  },
+  {
+    "title": "Development of the Indonesian Government's Digital Transformation",
+    "context": "There are 4 domains for assessing the maturity level of SPBE, namely: (1) SPBE internal policy; (2) SPBE governance; (3) SPBE management; (4) SPBE services. Furthermore, the index value representing the maturity level of SPBE implementation is categorized into the following predicates:",
+    "question": "What four domains are used to assess SPBE maturity levels?",
+    "answer": "The four domains for assessing SPBE maturity levels are SPBE internal policy, SPBE governance, SPBE management, and SPBE services.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Choice of Environmental Policy Instruments Energy Efficiency and Redistribution",
+    "context": "Third, households buy eco-friendly goods in our framework because it pays for them in terms of lower energy costs. Our results do not rely on altruistic or ‘green’ sentiments. By contrast, previous contributions refer to ‘green’ preferences of consumers (e.g. Eriksson, 2004; Rodriguez-Ibeas, 2007) and ignore the role of energy taxes, and likewise water charges.",
+    "question": "According to the study, what distinguishes household motivations for purchasing eco-friendly goods from previous contributions?",
+    "answer": "Households buy eco-friendly goods because it pays for them in terms of lower energy costs, not due to altruistic or ‘green’ sentiments, unlike previous contributions that refer to ‘green’ preferences.",
+    "check_human": "true"
+  },
+  {
+    "title": "Policy options for alcohol price regulation the importance of modelling population heterogeneity.",
+    "context": "Price elasticities were estimated using iterative three-stage least-squares regression. We undertook elasticity analyses for the 16 different categories of alcohol, estimating a separate 16x16 matrix for moderate drinkers vs. hazardous/harmful drinkers, and by gender. The sample was of sufficient size to estimate a matrix containing both own-price elasticities and cross-price elasticities.",
+    "question": "Which statistical method and analytical framework did the study employ to estimate alcohol demand elasticities?",
+    "answer": "The study used iterative three-stage least-squares regression to estimate 16x16 elasticity matrices for different drinker types and genders, capturing both own-price and cross-price elasticities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Defining sustainable transport in rural tourism experiences from the New Forest",
+    "context": "Social practice theory conceptualizes visitor travel through three interdependent elements: materials (transport infrastructure), competences (skills like reading timetables), and meanings (motivations like family bonding). The theory posits that practices persist through repeated performance and change only when these elements reconfigure. This framework shifts focus from individual behavior to structural contexts influencing rural mobility patterns.",
+    "question": "How does social practice theory define the constituent elements of visitor travel practices in rural tourism contexts?",
+    "answer": "Social practice theory defines visitor travel practices through three elements: materials (transport infrastructure), competences (skills and knowledge), and meanings (motivations and beliefs), which are interdependent and require reconfiguration to change practices.",
+    "check_human": "true"
+  },
+  {
+    "title": "Migration and health a global public health research priority",
+    "context": "The consultation stressed the necessity of interdisciplinary approaches combining anthropology, demography, sociology, public health, and epidemiology to understand complex migration-health relationships. It identified capacity gaps in lower-income countries and advocated for regional research networks. The document calls for curriculum development to train future researchers and donor engagement to support migration health research agendas.",
+    "question": "Why does migration and health research require interdisciplinary approaches according to the consultation findings?",
+    "answer": "Interdisciplinary approaches are required to understand complex migration-health relationships through diverse methodological perspectives and address knowledge gaps across multiple disciplines.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Health Interventions for Delivery of Mental Health Care Systematic and Comprehensive Meta-Review",
+    "context": "Figure S1 presents a four-dimensional representation of total literature (X axis), curated secondary literature (Y axis), primary literature curated elsewhere (Z axis), and participant number (sphere size). These dimensions are collapsed across digital health interventions and expressed as percentages. An interactive graphic version is available at a specified Netlify URL.",
+    "question": "How does Figure S1 visually represent different literature categories and participant numbers?",
+    "answer": "Figure S1 represents total literature on the X axis, secondary literature on the Y axis, primary literature on the Z axis, and participant numbers through sphere size, with all dimensions expressed as percentages across interventions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Segregation and Disparities in Health Services Use",
+    "context": "Respondents in the EHDIC sample were in poorer health than respondents in the MEPS. They were more likely to report that they were in fair or poor health (32% vs. 18%), and more likely to report that they had been told by a physician or health care professional they had a chronic condition (1.42 vs. 0.77). The EHDIC sample was 59% Black compared with 15% for the MEPS full sample.",
+    "question": "According to the study, how did self-reported health status and chronic conditions differ between the EHDIC and MEPS samples?",
+    "answer": "EHDIC respondents were more likely to report fair or poor health (32% vs. 18%) and had a higher average number of chronic conditions (1.42 vs. 0.77) compared to MEPS respondents.",
+    "check_human": "true"
+  },
+  {
+    "title": "Education Policy and Crime",
+    "context": "Only the Chicago CPC was not evaluated using randomized trials; however, Reynolds, et al. (2001) use a strong design of matching treated children with other comparison children based on age of kindergarten entry, eligibility for and participation in government funded programs, and neighborhood and family poverty. Children from the matched comparison sample would also have been eligible for the program had they lived in a neighborhood with a center.",
+    "question": "How was the Chicago Child Parent Center (CPC) program evaluated since it was not a randomized trial?",
+    "answer": "The Chicago CPC was evaluated by matching treated children with comparison children based on kindergarten entry age, program eligibility/participation, and neighborhood/family poverty.",
+    "check_human": "true"
+  },
+  {
+    "title": "Evidence links increases in public health spending to declines in preventable deaths.",
+    "context": "The analysis acknowledged several limitations, including potential unmeasured confounding factors despite robust statistical controls. The thirteen-year observation period might underestimate long-term effects of public health interventions on chronic disease mortality. The focus on mortality outcomes omitted other potential health indicators affected by public health activities. These constraints suggest the estimated effects might represent conservative measurements of public health spending impacts.",
+    "question": "What were the principal methodological limitations identified in the study's analysis of public health spending effects?",
+    "answer": "Limitations included potential unmeasured confounders, possible underestimation of long-term effects due to the 13-year study period, and exclusion of non-mortality health indicators.",
+    "check_human": "true"
+  },
+  {
+    "title": "Effects of Climate Change Variability on Agricultural Productivity",
+    "context": "In particular, climate change contributes to the decline in pollinators, including honeybees, and a damage of harmonization between pollinator activity and flowering [57,58]. The production of honey has an extensively affected by the warming aspect of climate change. Honey bee development cycle can be influenced by climate change and it is generally agreed that each race of honey bees grows at its own rate [59].",
+    "question": "According to the document, what two impacts does climate change have on honeybees?",
+    "answer": "Climate change contributes to the decline in honeybee populations and damages the harmonization between pollinator activity and flowering.",
+    "check_human": "true"
+  },
+  {
+    "title": "Trade liberalisation and the nutrition transition mapping the pathways for public health nutritionists",
+    "context": "Article 20 of the GATT allows governments to enforce barriers to trade that protect human health. Rulings in favour of protection of health as an 'interpretive principle' for WTO agreements have also been observed during trade disputes.",
+    "question": "Which GATT provision permits trade barriers for human health protection?",
+    "answer": "Article 20 of the GATT permits governments to enforce trade barriers that protect human health.",
+    "check_human": "true"
+  },
+  {
+    "title": "Greening work labor market policies for the environment",
+    "context": "Climate decommodification reduces workers' dependence on environmentally harmful employment through universal basic services and alternative income sources. By delinking livelihoods from ecologically destructive jobs, it enables workforce transitions while maintaining social security. This strategy supports the occupation dimension by facilitating shifts to sustainable sectors without income loss.",
+    "question": "How does climate decommodification strategy contribute to sustainable employment transitions?",
+    "answer": "Climate decommodification enables sustainable employment transitions by providing universal basic services and alternative incomes, reducing workers' dependence on environmentally harmful jobs while maintaining social security during sectoral shifts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving health workforce recruitment and retention in rural and remote regions of Nigeria.",
+    "context": "Nigeria's health expenditure as a percentage of GDP declined from 5% in 2002 to 3.9% in 2005 despite deteriorating health conditions. This funding contraction occurs alongside systemic health policy failures, as evidenced by the country's disproportionately poor health indices relative to its health worker salaries. The article contrasts Nigeria's health outcomes with lower-income Asian nations that achieve better results with similar expenditure constraints.",
+    "question": "How did Nigeria's health expenditure as a percentage of GDP change between 2002 and 2005, and what paradox does this reveal about health outcomes?",
+    "answer": "Health expenditure declined from 5% to 3.9% of GDP. The paradox is that Nigeria's health outcomes are disproportionately poorer than countries with similar health funding levels, indicating systemic health policy failures.",
+    "check_human": "true"
+  },
+  {
+    "title": "The effectiveness of government expenditure on education and health care in the Caribbean",
+    "context": "The insignificance of the education expenditure variable may be a consequence of the government spending a majority of the money on secondary and tertiary education. The greater the portion of resources devoted to tertiary education relative to primary education, the lesser the primary and secondary enrollment rates. Another source of this insignificant relationship between expenditure and school enrollments may be that most of the expenditure budget is devoted to salaries and wages rather than supplies and equipment for pupils.",
+    "question": "Why might public expenditure on education be insignificant for school enrollment rates?",
+    "answer": "Public expenditure on education may be insignificant because resources are primarily allocated to tertiary education and teacher salaries rather than supplies and equipment needed for pupil enrollment.",
+    "check_human": "true"
+  },
+  {
+    "title": "Placing dynamic content in caches with small population",
+    "context": "A traditional improvement over LRU is the so-called score-gated LRU, whereby the content requests are filtered using a threshold on the content score. The high-score requests follow the LRU rule, while the low-score ones are never cached. In the context of our model we may use the age-based scores Sm(β1) to perform score-gated LRU using the function.",
+    "question": "How does score-gated LRU modify traditional LRU caching behavior?",
+    "answer": "Score-gated LRU filters content requests using a threshold on age-based scores, where high-score requests follow LRU rules while low-score requests are never cached.",
+    "check_human": "true"
+  },
+  {
+    "title": "From Yokohama to Sendai Approaches to Participation in International Disaster Risk Reduction Frameworks",
+    "context": "The Hyogo Framework for Action established national reporting systems but lacked mechanisms to track local-level implementation. While it mentioned community participation, its implementation tools focused on regional and national scales without assessing community impacts. This oversight contrasts with Yokohama's emphasis on community-level disaster assessment plans.",
+    "question": "What limitation in the Hyogo Framework's implementation approach affected community-level disaster risk reduction?",
+    "answer": "The Hyogo Framework lacked reporting tools to assess implementation at local levels, focusing instead on regional and national scales despite mentioning community participation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Ten key considerations for the successful implementation and adoption of large-scale health information technology.",
+    "context": "Implementation strategies need to be tailored to organizational circumstances and systems, whether they involve 'phased' or 'big-bang' implementation approaches. Organizations should avoid running parallel paper and electronic systems wherever possible, as this tends to increase workloads for end-users and may introduce new threats to patient safety. Other planning factors include prioritizing functionality that benefits the greatest number of users early and maintaining open communication channels.",
+    "question": "What implementation strategies are recommended when planning health information technology deployments?",
+    "answer": "Recommended strategies include tailoring approaches to organizational circumstances using 'phased' or 'big-bang' methods, avoiding parallel paper/electronic systems, prioritizing widely beneficial functionality early, and maintaining open communication channels.",
+    "check_human": "true"
+  },
+  {
+    "title": "Technology and labor regulations theory and evidence",
+    "context": "Increasing labor regulation v has a direct positive effect on welfare by reducing poverty probability but raises tax payments, which reduces welfare. It also raises low-skill wages but lowers high-skill wages, creating different effects on the two worker types. The model shows that average ex-ante expected welfare increases with v at low regulation levels.",
+    "question": "What are the mixed effects of increasing labor regulation v on welfare according to the model?",
+    "answer": "Increasing labor regulation v directly improves welfare by reducing poverty probability but raises tax payments, lowers high-skill wages, and increases low-skill wages, leading to differing effects on worker types.",
+    "check_human": "true"
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "According to the Agency for Statistics of Kazakhstan, the wages of social workers was 541 USD in 2012, 540 USD in 2013, and 350 USD in 2014. At the same time, the average monthly nominal wage per employee amounted to 679 USD in 2012, 717 USD in 2013, and 668 USD in 2014. That is an average of 30 percent lag in payment of social workers from the nationwide salaries over the past three years.",
+    "question": "What salary disparity existed between social workers and national averages in Kazakhstan during 2012-2014?",
+    "answer": "Social workers in Kazakhstan experienced a 30 percent salary lag compared to national averages, earning 541 USD in 2012, 540 USD in 2013, and 350 USD in 2014 while national averages were 679 USD, 717 USD, and 668 USD respectively.",
+    "check_human": "true"
+  },
+  {
+    "title": "Patient-Centered Digital Health Records and Their Effects on Health Outcomes Systematic Review",
+    "context": "The review highlighted that digital health records with active features (e.g., messaging, appointment scheduling) showed more beneficial effects. Conversely, patients with high disease burden and studies of higher methodological quality demonstrated fewer positive outcomes. This suggests contextual and quality factors influence efficacy.",
+    "question": "What associations did the systematic review find between digital health record features, disease burden, and study quality on outcomes?",
+    "answer": "Beneficial effects were more frequent for records with active features but less common among patients with high disease burden and in high-quality studies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Placing dynamic content in caches with small population",
+    "context": "Global caches aggregating requests from L local caches demonstrate accelerated popularity learning. The aggregated request stream enables L-times faster tracking of popularity changes compared to isolated local caches. This acceleration improves hit rates but may dilute locally correlated traffic patterns, creating a tradeoff between learning speed and locality preservation.",
+    "question": "What are the advantages and disadvantages of global cache request aggregation compared to local caching for popularity estimation?",
+    "answer": "Global caches learn L-times faster through request aggregation, improving hit rates, but may wash out local traffic correlations that could otherwise enhance caching accuracy in localized contexts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Small and medium enterprises and sustainable business models: Exploring enabling factors for adoption",
+    "context": "The qualitative nature of the research represents a limit in the generalizability of the results. Future studies could expand the research through quantitative methods and international samples to confirm the findings.",
+    "question": "What limitation arises from the qualitative methodology used in the study?",
+    "answer": "The qualitative methodology limits the generalizability of the results, necessitating future quantitative studies for broader validation.",
+    "check_human": "true"
+  },
+  {
+    "title": "Not What it Said on the Tin Reflections on Three Decades of UK Public Management Reform",
+    "context": "Complaints to the Parliamentary Ombudsman about 'maladministration' focus on poor categorization, careless case-handling, unfair rule application, delay, and rudeness. These complaints particularly increased in social security and welfare departments where casework directly involves fairness and consistency issues. Figure 1 shows the bulk of the thirty-year increase came from these highly public-facing departments.",
+    "question": "Which government departments accounted for most of the increase in maladministration complaints?",
+    "answer": "Social security and welfare benefit departments accounted for the bulk of the increase in maladministration complaints to the Parliamentary Ombudsman over thirty years.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Impact of Intergovernmental Transfers on Education Outcomes and Poverty Reduction",
+    "context": "Table 1 tests discontinuities in pretreatment covariates using quadratic specifications. The F-statistic tests the joint null hypothesis of no discontinuities in any covariate. Across neighborhood sizes from 2% to 6%, the p-values range from 0.31 to 0.95, failing to reject the null.",
+    "question": "What did Table 1's discontinuity tests reveal about pretreatment covariates?",
+    "answer": "Table 1's discontinuity tests failed to reject the null hypothesis of no discontinuities in pretreatment covariates, with p-values ranging from 0.31 to 0.95.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social innovation and sustainability; how to disentangle the buzzword and its application in the field of agriculture and rural development",
+    "context": "The document highlights that the fuzziness of social innovation neutralizes its critical potential despite its rootedness in critiques of traditional innovation paradigms. This ambiguity allows diverse actors to use the term to legitimize conflicting agendas, such as incremental reforms versus radical societal transformations in sustainability debates.",
+    "question": "How does the document characterize the relationship between the fuzziness of social innovation and its critical potential?",
+    "answer": "The fuzziness of social innovation hides its value-loadedness and neutralizes its critical potential, even though it originates from critiques of traditional innovation paradigms, allowing it to be used to promote divergent agendas.",
+    "check_human": ""
+  },
+  {
+    "title": "Identifying target groups for environmentally sustainable transport assessment of different segmentation approaches",
+    "context": "There are four basic classes of variables that have been used to segment the population: /C15 travel behaviour /C15 spatial variables /C15 socio-demographic variables /C15 attitudinal variables. A behaviour-based approach defines the population segments by their actual travel behaviour, for example trip frequency, mode choice, or trip purpose.",
+    "question": "What are the four basic classes of variables used to segment the population in transport research?",
+    "answer": "The four basic classes of variables are travel behaviour, spatial variables, socio-demographic variables, and attitudinal variables.",
+    "check_human": "true"
+  },
+  {
+    "title": "Study of Aromatic and Medicated Plants in Uttrakhand, India With Focus on Role in Employment Generation and Supply Chain Management",
+    "context": "Table 2 shows USA as the top importer of Indian herbals in 2012-2013 with USD 107.75 million in herbals and USD 28.35 million in Ayush products. Japan followed with USD 12.96 million in herbals and USD 16.68 million in Ayush exports.",
+    "question": "Which country was the largest importer of Indian herbals in 2012-2013?",
+    "answer": "The USA was the largest importer of Indian herbals in 2012-2013, purchasing USD 107.75 million worth of herbals.",
+    "check_human": "true"
+  },
+  {
+    "title": "Energy Burden and the Need for Integrated Low-Income Housing and Energy Policy",
+    "context": "Utility rate design can be implemented, which addresses real income and includes percentage-of-income payment plans, arrearage forgiveness programs, and subsidized rates. These programs are designed to reduce the energy burden for low-income households. Some utilities have implemented these types of programs with positive results.",
+    "question": "What three specific utility rate design approaches are proposed to reduce energy burden for low-income households?",
+    "answer": "The proposed utility rate design approaches include percentage-of-income payment plans, arrearage forgiveness programs, and subsidized rates.",
+    "check_human": "true"
+  },
+  {
+    "title": "Government digital initiatives and firm digital innovation Evidence from China",
+    "context": "Following prior research, we employed a three-step process of text-mining to code firm digital innovation, government digital initiative intensity, and managerial digital attention. First, we derived a set of keywords related to digital technologies. Second, we adopted six major groups of digital elements and 49 basic terms developed by Eremina et al. (2019).",
+    "question": "How did the study operationalize the measurement of digital innovation and government initiatives through text mining?",
+    "answer": "The study operationalized measurement through a three-step text-mining process using keywords related to digital technologies and adopting six major groups of digital elements with 49 basic terms from prior research.",
+    "check_human": "true"
+  },
+  {
+    "title": "Using the World Health Organization health system building blocks through survey of healthcare professionals to determine the performance of public healthcare facilities",
+    "context": "Health workforce challenges included staff motivation (49%) and restroom availability (47%), contributing to a 55% overall score. Medical products/technologies scored 58%, with deficiencies in drug supplies (56%) and diagnostic technologies (58%). These scores indicate systemic resource management issues below WHO standards.",
+    "question": "What workforce-related and medical resource challenges were identified through the WHO building blocks assessment?",
+    "answer": "Health workforce scored 55% with low motivation (49%) and restroom availability (47%). Medical products/technologies scored 58% due to insufficient drug supplies (56%) and outdated diagnostic technologies (58%).",
+    "check_human": "true"
+  },
+  {
+    "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+    "context": "Whether due to measurement difficulties or a true lack of differentiation at this developmental stage, researchers have found it difficult to empirically separate these components during early childhood. For this reason, researchers often conceptualize this set of executive function skills as a group (e.g., Hughes & Ensor, 2007; Wiebe, Espy, & Charak, 2008). Furthermore, whereas developmental researchers studying early childhood have sometimes focused on the motivational and behavioral benefits of executive function skills for school readiness (McClelland et al., 2007), educational researchers studying older children have documented a central role for both working memory and attention control in academic learning.",
+    "question": "Why do researchers often conceptualize executive function skills as a group during early childhood?",
+    "answer": "Researchers conceptualize executive function skills as a group due to measurement difficulties or a true lack of differentiation at this developmental stage.",
+    "check_human": "true"
+  },
+  {
+    "title": "Cultural adaptations to augment health and mental health services a systematic review",
+    "context": "Burrow-Sanchez et al. 2015 [77] Latinos (Adolescents) N =70. Culturally Adapted (CA): Culturally tailored cognitive behavioral therapy (CBT). Standard (STD): Standard CBT. ○ No significant difference in reduction of past-90-day drug use (p = .66).",
+    "question": "What were the findings regarding culturally adapted CBT versus standard CBT for Latino adolescents in Burrow-Sanchez et al.'s 2015 study?",
+    "answer": "Burrow-Sanchez et al.'s 2015 study found no significant difference in reduction of past-90-day drug use between culturally adapted CBT and standard CBT for Latino adolescents.",
+    "check_human": "true"
+  },
+  {
+    "title": "Service utilization in community health centers in China a comparison analysis with local hospitals",
+    "context": "Of the CHCs' six main functions, only medical treatment can bring an economic yield. The other five functions have economic yields that are not obvious and they have 'welfare' features.",
+    "question": "Which of the CHCs' six main functions are considered to have 'welfare' features?",
+    "answer": "The five functions other than medical treatment have 'welfare' features with economic yields that are not obvious.",
+    "check_human": "true"
+  },
+  {
+    "title": "Towards Principles–Based Approaches to Governance of Health–Related Research Using Personal Data",
+    "context": "This article assesses and advocates a principles-based approach, contrasting this with traditional rule-based approaches, and proposes a model of principled proportionate governance. It is suggested that the approach not only serves as the basis for good governance in contemporary data linkage but also that it provides a platform to assess legal reforms such as the draft Data Protection Regulation. The model of principled proportionate governance is presented as a response to the limitations of existing governance devices like consent and anonymisation.",
+    "question": "What governance model do the authors propose as an alternative to traditional rule-based approaches?",
+    "answer": "The authors propose a model of principled proportionate governance as an alternative to traditional rule-based approaches.",
+    "check_human": "true"
+  },
+  {
+    "title": "Transport and Economic Development",
+    "context": "Chicago's emergence as a major economic hub in the 19th century was directly tied to its role as a convergence point for railroads and Great Lakes shipping. This transport function enabled the city to process and export agricultural goods while distributing manufactured products, linking the American interior to eastern and European markets. The city's growth exemplifies how transport networks can determine urban economic specialization.",
+    "question": "How did Chicago's transport function contribute to its economic development in the 19th century?",
+    "answer": "Chicago's position as a convergence point for railroads and Great Lakes shipping allowed it to become a key agricultural processing center and distributor of manufactured goods, linking the American interior to eastern and European markets.",
+    "check_human": "true"
+  },
+  {
+    "title": "Foreign Aid and the Quest for Poverty Reduction Is Aid to Agriculture Effective",
+    "context": "Consequently, policymakers should pay more attention to the level of development in the recipient countries when they allocate resources to these sectors, especially the agricultural sector, if the immediate objective is poverty reduction. Our results show that aid given to the agricultural sector is effective in reducing poverty both directly and indirectly through growth and a policy variable representing pro-poor expenditure.",
+    "question": "What policy consideration does the study recommend for aid allocation targeting poverty reduction?",
+    "answer": "Policymakers should pay more attention to the level of development in recipient countries when allocating resources to sectors, especially agriculture, for poverty reduction.",
+    "check_human": "true"
+  },
+  {
+    "title": "Strengthening health system to improve immunization for migrants in China",
+    "context": "Fourth, a certain number of people moved to other places because they violated the local family planning policy and were not able to live in their hometowns any more. Migrant adults violating the family planning policies definitely had to bring children with them.",
+    "question": "Why did migrant adults who violated family planning policies need to relocate with their children?",
+    "answer": "They were unable to remain in their hometowns after violating policies and therefore had to bring their children during migration.",
+    "check_human": "true"
+  },
+  {
+    "title": "Examining health facility financing in Kenya in the context of devolution",
+    "context": "Health facilities reported discrepancies between the value of approved claims and the payments received for the Linda Mama free maternity scheme. They noted that what was reflected on the NHIF system differed from the money transferred to hospital accounts. This created a need for reconciliation between the system and actual account transfers.",
+    "question": "What discrepancy did health facilities report between NHIF system records and actual fund transfers?",
+    "answer": "Health facilities reported discrepancies between approved claims shown on the NHIF system and the actual payments transferred to their accounts.",
+    "check_human": "true"
+  },
+  {
+    "title": "The carbon emissions of Chinese cities",
+    "context": "Lanzhou’s total carbon emissions are comparable to Guangzhou. However, its population is around 3 million and less than half of Guangzhou’s. Therefore, the per capita carbon emissions differed by more than a factor of two between them. Lanzhou’s economy mainly depends on heavy industry, and its energy efficiency technologies lag behind those of more developed regions.",
+    "question": "Why did Lanzhou have higher per capita carbon emissions than Guangzhou despite comparable total emissions?",
+    "answer": "Lanzhou had higher per capita carbon emissions than Guangzhou due to its smaller population (around 3 million) and heavy reliance on energy-intensive heavy industries with less advanced energy efficiency technologies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Privacy principles, risks and harms",
+    "context": "The ISO 29100 standard defines 'privacy compliance' as verifying that processing meets safeguards through periodic audits. Principle 11 specifies using internal or third-party auditors to demonstrate adherence to data protection regulations. This principle focuses exclusively on information privacy safeguards within ICT systems.",
+    "question": "What does the ISO 29100 standard's privacy compliance principle require organizations to demonstrate?",
+    "answer": "The ISO 29100 standard's privacy compliance principle requires organizations to verify and demonstrate through periodic audits that their processing meets data protection and privacy safeguards in information and communication technology systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Does institutional quality matter for environmental sustainability",
+    "context": "We find heterogenous findings related to economic growth and environmental sustainability relationship. We find that a positive change in economic growth reduces CO₂ emissions (improves environmental sustainability) in the UK, the USA, Canada and Germany. However, a one unit increase in economic growth (EG_POS) increases CO₂ emissions by 2.025 and 2.294 units in France and Japan respectively, worsening environmental sustainability.",
+    "question": "How did positive economic growth shocks differentially affect CO₂ emissions between continental European and Anglo-Saxon G7 countries according to the study?",
+    "answer": "Positive economic growth shocks reduced CO₂ emissions in the UK, USA, Canada and Germany but increased emissions by 2.025 units in France and 2.294 units in Japan.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of Environmental Regulation on Green Technology Adoption by Farmers Microscopic Investigation Evidence From Pig Breeding in China",
+    "context": "Command mandatory regulation mainly includes the formulation of technical standards, emission standards and the intensity of supervision and punishment. The mandatory regulation of the government can force farmers to adopt green technology by setting technical standards and emission standards. At the same time, the mandatory regulation of supervision and punishment can increase the cost of farmers’ non-green production and force farmers to adopt green technology.",
+    "question": "How does command mandatory regulation influence farmers' adoption of green technology according to the hypotheses?",
+    "answer": "Command mandatory regulation forces farmers to adopt green technology through technical standards, emission standards, and increased costs of non-green production via supervision and punishment.",
+    "check_human": "true"
+  },
+  {
+    "title": "Shared Health Governance",
+    "context": "PST thus offers some intellectual resources that support an SHG view. Although PST cannot define what would constitute a fair share, nor what constitutes a reasonable definition of health justice, it can buttress the idea that individuals in a society have a political obligation to one another. This political obligation could involve supporting laws or norms that strive to foster health capabilities.",
+    "question": "How does the document describe the relationship between Political Society Theory (PST) and Shared Health Governance?",
+    "answer": "The document states that PST supports SHG by reinforcing the concept of mutual political obligations among individuals to uphold health capability-fostering laws or norms, though PST cannot define fair shares or health justice specifics.",
+    "check_human": "true"
+  },
+  {
+    "title": "Introducing Technical & Vocational Education and Training (TVET) in the Secondary Schools in Nepal Opportunities and Challenges",
+    "context": "In the New Education Plan (BS 2028), efforts were made to launch vocational education in schools introducing pre-vocational (class 6 and 7) and vocational subjects (class 9-10). However, that did not continue for a long period. The author mentions being one of the products of this New Education Plan implemented during the Panchayat Era.",
+    "question": "How did the New Education Plan of BS 2028 structure vocational education before its discontinuation?",
+    "answer": "The New Education Plan of BS 2028 introduced pre-vocational subjects for classes 6 and 7 and vocational subjects for classes 9-10 before being discontinued after a short period.",
+    "check_human": "true"
+  },
+  {
+    "title": "On agricultural productivity.",
+    "context": "The conclusion states that productivity gains between 1900-1930 were primarily driven by reduced labor hours per acre rather than yield improvements. Mechanization in crop production accounted for most efficiency gains, while livestock productivity saw limited progress due to slower technological adoption. The sharp productivity rise in 1937-38 was attributed to increased yields, particularly for cotton and tobacco.",
+    "question": "What were the main drivers of agricultural productivity growth between 1900-1930 and during the late 1930s according to the study's conclusion?",
+    "answer": "From 1900-1930, productivity growth was driven by reduced labor hours per acre through mechanization. In the late 1930s, yield increases for cotton and tobacco were primary contributors.",
+    "check_human": "true"
+  },
+  {
+    "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+    "context": "Furthermore, the processing models can generate customized learning plans for individual students based on their performance and feedback. These plans may include additional practice activities, assessments, or reading materials designed to support the student’s learning goals. By providing students with these customized learning plans, these models have the potential to help students develop self-directed learning skills and take ownership of their learning process.",
+    "question": "Which components are included in the customized learning plans generated by NLP models?",
+    "answer": "Customized learning plans include additional practice activities, assessments, or reading materials designed to support the student’s learning goals.",
+    "check_human": "true"
+  },
+  {
+    "title": "Community health workers at the dawn of a new era 4. Programme financing",
+    "context": "In April 2001, the heads of state of African Union countries met and pledged to set a target of allocating at least 15% of their annual budget to improve the health sector [66]. Progress toward this goal has been disappointing [40].",
+    "question": "What budget allocation target did African Union countries pledge for health sector improvement in 2001?",
+    "answer": "African Union countries pledged to allocate at least 15% of their annual budget to improve the health sector.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Risk Protection and Universal Health Coverage Evidence and Measurement Challenges",
+    "context": "Two primary concepts measure the lack of financial risk protection: catastrophic health expenditure and impoverishment. Catastrophic expenditure occurs when out-of-pocket payments force households to forgo essential goods, while impoverishment pushes households below the poverty line. The document emphasizes that headcount indicators alone are insufficient and recommends supplementary measures of financial hardship intensity for comprehensive analysis.",
+    "question": "What are the two main concepts used to measure the absence of financial risk protection in health systems?",
+    "answer": "The two main concepts are catastrophic health expenditure, where out-of-pocket payments disproportionately burden household resources, and impoverishment, where health expenses push households below the poverty line.",
+    "check_human": "true"
+  }
+]

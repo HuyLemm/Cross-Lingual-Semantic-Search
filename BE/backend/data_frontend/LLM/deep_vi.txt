@@ -1,0 +1,43 @@
+ Running test on 16595 samples
+
+[test] Loading context model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+[16595/16595 | 100.0%] avg_latency=5985.6ms
+
+✅ Test completed in 104363.27 seconds
+  → Saved TRUE samples to: test\results\run_2026-02-23_22-07-23\testtrue.json (n=13672)
+  → Saved FAIL samples to: test\results\run_2026-02-23_22-07-23\testfail.json (n=2923)
+
+===== RETRIEVAL EVALUATION (Title + Context) =====
+Total items in dataset : 16595
+Evaluated queries      : 16595
+Skipped (missing fields): 0   
+
+Top-1:
+  accuracy_title   : 0.6592
+  accuracy_context : 0.6938
+  accuracy_total   : 0.6765
+
+Top-3:
+  accuracy_title   : 0.7695
+  accuracy_context : 0.7689
+  accuracy_total   : 0.7692
+
+Top-5:
+  accuracy_title   : 0.8083
+  accuracy_context : 0.7944
+  accuracy_total   : 0.8013
+
+Top-10:
+  accuracy_title   : 0.8501
+  accuracy_context : 0.8206
+  accuracy_total   : 0.8354
+
+Latency (ms):
+  Avg  : 5985.60
+  P50  : 4503.29
+  P90  : 11282.39
+  P95  : 12204.60
+
+Total wall time: 104363.27 s
+Avg per-query  : 6288.84 ms/query
+Throughput     : 0.16 queries/s

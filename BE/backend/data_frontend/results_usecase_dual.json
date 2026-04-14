@@ -1,0 +1,2872 @@
+{
+  "TRUE_THRESHOLD": 0.7,
+  "K_VALUES": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "retrieval_top_k": 50,
+  "engines": [
+    "LLM",
+    "BGE"
+  ],
+  "cases": [
+    {
+      "id": 1,
+      "usecase": "Single word",
+      "query": "gà",
+      "expected_context": "chicken",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 8949.03,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections",
+      "top1_source_file": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections.pdf",
+          "title": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections",
+          "faiss_score": 0.27567056797175626,
+          "snippet": "(xviii) chicken house (xix) livestock kraal (xx) poultry kraal (xxi) storage house"
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Human Capital Redistribution in the USA The Migration of the College-bound.pdf",
+          "title": "Human Capital Redistribution in the USA The Migration of the College-bound",
+          "faiss_score": 0.20201563060079558,
+          "snippet": "Migration: Chicken or Egg? Southern Economic Journal. 1971; 37:295–306. Nelson, JP."
+        },
+        {
+          "rank": 3,
+          "score": 1.0,
+          "source_file": "On agricultural productivity..pdf",
+          "title": "On agricultural productivity.",
+          "faiss_score": 0.15473080385763005,
+          "snippet": "Lewis and R. Struble, Dairying, National Research Project Report A-14 (U. Department 6f Agriculture, 1941), p. \"Hours per chicken."
+        },
+        {
+          "rank": 4,
+          "score": 1.0,
+          "source_file": "The Principal Role of Organic Fertilizer on Soil Properties and Agricultural Productivity -A Review.pdf",
+          "title": "The Principal Role of Organic Fertilizer on Soil Properties and Agricultural Productivity -A Review",
+          "faiss_score": 0.1541726175141501,
+          "snippet": "Chicken litters, which consists of chicken manure mixed with sawdust, was an organic fertiliz­ er that has been shown to better condition soil for harvest than synthesized fertilizers. Common form of animal manure includes farmyard manure or farm slurry. Farmyard manure also contains plant materials..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Tiềm năng ứng dụng của CRISPR Cas trong chọn tạo giống vật nuôi.pdf",
+          "title": "Tiềm năng ứng dụng của CRISPR Cas trong chọn tạo giống vật nuôi",
+          "faiss_score": 0.25012738977633225,
+          "snippet": "Lee,  S. Song, et al. (2020), “Generation of myostatinknockout chickens mediated by D10ACas9 nickase”, FASEB J., 34(4), pp.56885696, DOI: 10.1096/fj.201903035R. Mukae, K."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Yếu tố đạo giáo trong lễ hội ông Bổn của người Hoa Phước Kiến ở thành phố Thủ Dầu Một, tỉnh Bình Dương.pdf",
+          "title": "Yếu tố đạo giáo trong lễ hội ông Bổn của người Hoa Phước Kiến ở thành phố Thủ Dầu Một, tỉnh Bình Dương",
+          "faiss_score": 0.24260373433367977,
+          "snippet": "Với Lí tộc, họ quan niệm Ông Bổn vốn là người phàm, nên lễ phẩm có đồ mặn như heo, gà, vịt… bên cạnh các món ăn đặc trưng của người Hoa như các loại đồ khô (mì, miến, nấm…), bánh tổ, bánh bông lan và đồ mã. - Lúc này đoàn kiệu Ông xếp thành hai hàng, chừa lối cho Thầy Pháp tiến vào, niệm chú, đọc ki..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Effects of Climate Change Variability on Agricultural Productivity.pdf",
+          "title": "Effects of Climate Change Variability on Agricultural Productivity",
+          "faiss_score": 0.21559961947890935,
+          "snippet": "(2014) Impact of Hot Climate on Poultry Production System-A Review Journal of Poultry Science and Technology 2(4): 56-63. Rosegrant MW, Fernandez M, Sinha A (2009) Looking into the future for agriculture and AKST. In: McIntyre BD, Herren HR, Wakhungu J, Watson RT (Eds.), International Assessment of ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Effects of Climate Change Variability on Agricultural Productivity.pdf",
+          "title": "Effects of Climate Change Variability on Agricultural Productivity",
+          "faiss_score": 0.19315810657801882,
+          "snippet": "Elijah OA, Adedapo A (2006) The effect of climate on poultry produc­ tivity in Ilorin Kwara State, Nigeria. International journal of poultry Science 5(11): 1061-1068. Bhadauria P, Kataria JM, Majumdar S, Bhanja SK, Divya, et al. (2014) Impact of Hot Climate on Poultry Production System-A Review Jour..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Chính sách quản lý gạo của nhà Nguyễn dưới triều vua Tự Đức (1848-1883).pdf",
+          "title": "Chính sách quản lý gạo của nhà Nguyễn dưới triều vua Tự Đức (1848-1883)",
+          "faiss_score": 0.18912014246795134,
+          "snippet": "Khâm định Đại Nam Hội điển sự lệ. Thuận Hóa. Nội các triều Nguyễn. Khâm định Đại Nam Hội điển sự lệ."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Sản xuất giống cá dìa tại Thừa Thiên Huế.pdf",
+          "title": "Sản xuất giống cá dìa tại Thừa Thiên Huế",
+          "faiss_score": 0.1866006963439208,
+          "snippet": "Trần Nguyên Ngọc1 Trần Thị Bách Thảo2 Phan Toàn5 Bùi Nguyên Bình6 1Trường Đại học Nông Lâm"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "usecase": "Single word",
+      "query": "gà",
+      "expected_context": "chicken",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 12949.76,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections",
+      "top1_source_file": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections.pdf",
+          "title": "The Gender Gap in Agricultural Productivity The Role of Market Imperfections",
+          "faiss_score": 0.0001323223114013672,
+          "snippet": "(xviii) chicken house (xix) livestock kraal (xx) poultry kraal (xxi) storage house"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "source_file": "Tiềm năng ứng dụng của CRISPR Cas trong chọn tạo giống vật nuôi.pdf",
+          "title": "Tiềm năng ứng dụng của CRISPR Cas trong chọn tạo giống vật nuôi",
+          "faiss_score": 0.34521484375,
+          "snippet": "Do vậy, một số loài chim, điển hình như gà, từ lâu đã được sử dụng làm đối tượng trong thử nghiệm hệ thống CRISPR/Cas. Ví dụ, gây mất chức năng gen G0S2 bằng CRISPR/Cas9 được chứng minh làm giảm khả năng tích lũy lipid ở gà nhưng ảnh hưởng không đáng kể đến các tính trạng khác. Tương tự, cá thể gà đ..."
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "source_file": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam.pdf",
+          "title": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam",
+          "faiss_score": 0.054107666015625,
+          "snippet": "Herein, an advanced Google News Archive search was conducted for this paper (with the keywords ‘Bui Dam’ and ‘Ghana’) for the time period January 2006 until May 2015, yielding more than 60 results. The remainder of this paper is organized as follows. In the next section we discuss the engagement of ..."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam.pdf",
+          "title": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam",
+          "faiss_score": 0.034698486328125,
+          "snippet": "Findings outlined in this paper are based upon a set of semi-structured interviews carried out from April to September 2015, a systematic review of reports and the scholarly literature on the topic at hand (including grey literature on the Bui Dam, e.g. Fink (2005) ), as well as an holistic examinat..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Monetary Policy Uncertainty and Economic Fluctuations.pdf",
+          "title": "Monetary Policy Uncertainty and Economic Fluctuations",
+          "faiss_score": 0.002216339111328125,
+          "snippet": "+ (n∗−1) bn∗−1,g] \u0000I −ΦQ g \u0001 = 1 n∗δ′ 1,gQQ g h\u0000I −ΛQ g \u0001 + \u0010 I − \u0000ΛQ g \u00012\u0011 + . + \u0010 I − \u0000ΛQ g \u0001n∗−1\u0011i \u0000I −ΛQ g \u0001−1 \u0000I −ΛQ g \u0001 \u0000QQ g \u0001−1 = 1 n∗δ′ 1,gQQ g h (n∗−1)I − \u0010 ΛQ g + \u0000ΛQ g \u00012 + . + \u0000ΛQ g \u0001n∗−1\u0011i \u0000QQ g \u0001−1 = 1 n∗δ′ 1,gQQ g h (n∗−1)I −ΛQ g \u0010 I − \u0000ΛQ\u0001n∗−1\u0011 \u0000I −ΛQ\u0001−1i \u0000QQ g \u0001−1 = 1 n∗δ′ 1,gQQ g ..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam.pdf",
+          "title": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam",
+          "faiss_score": 0.0013942718505859375,
+          "snippet": "Table A  Interview overview No. Interviewee Organization Interview code 1 Scholar British university T12052015 2 Representative Ghana Dams Dialogue T16052015 3 Consultant Involved in various Chinese-led dam projects mostly South-east Asia T19052015 4 Leading new social media activist in Ghana N/A T2..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Implications of Climate Change for Ghana's Economy.pdf",
+          "title": "Implications of Climate Change for Ghana's Economy",
+          "faiss_score": 0.0009326934814453125,
+          "snippet": "(2002) ‘A Standard Computable General Equilibrium (CGE) Model in GAMS’. Washington, DC: International Food Policy Research Institute. National Development Planning Commission (NDPC) (2010) Ghana Shared Growth and Development Agenda, 2010-2013. Ghana’s Medium Term Development Agenda."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam.pdf",
+          "title": "Safeguards, Financing, and Employment in Chinese Infrastructure Projects in Africa The Case of Ghana's Bui Dam",
+          "faiss_score": 0.000690460205078125,
+          "snippet": "(2014) ‘The Africa-China relationship: challenges and opportunities’, Canadian Journal of African Studies/ La Revue Canadienne Des Études Africaines 48(1): 145–69 <http://www.tandfonline.com/doi/abs/10.1080/00083968.2014.946298?journalCode=rcas20>. Websites Public Utilities Regulatory Commission (PU..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Seed treatments for sustainable agriculture-A review.pdf",
+          "title": "Seed treatments for sustainable agriculture-A review",
+          "faiss_score": 0.0005660057067871094,
+          "snippet": "Food Sci. Technol., 31: 341-343. Sitton, J.W., Borsa, J., Schultz, T.R. and Maguire, J.O."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Modern contraceptive use among reproductive-aged women in Ghana prevalence, predictors, and policy implications.pdf",
+          "title": "Modern contraceptive use among reproductive-aged women in Ghana prevalence, predictors, and policy implications",
+          "faiss_score": 0.0005421638488769531,
+          "snippet": "J Fam Plann Reprod Health Care. 2013; https://doi.org/10.1136/jfprhc-2012-100464. Ghana Statistical Service (GSS), Ghana Health Service (GHS) & ICF International. Report of the Ghana demographic and health survey."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "usecase": "Two words",
+      "query": "trí tuệ",
+      "expected_context": "artificial intelligence",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3637.03,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Các nhà khoa học xã hội nên định hướng bản thân như thế nào trong kỷ nguyên trí tuệ nhân tạo",
+      "top1_source_file": "Các nhà khoa học xã hội nên định hướng bản thân như thế nào trong kỷ nguyên trí tuệ nhân tạo .pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Các nhà khoa học xã hội nên định hướng bản thân như thế nào trong kỷ nguyên trí tuệ nhân tạo .pdf",
+          "title": "Các nhà khoa học xã hội nên định hướng bản thân như thế nào trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.3266203975110391,
+          "snippet": "Alam, et al. (2023), “Impact of artificial intelligence on human loss in decision making, laziness and safety in education”, Humanit. Commun., 10(1), DOI: 10.1057/s41599-023-01787-8. [8] M.T."
+        },
+        {
+          "rank": 2,
+          "score": 0.5848742127418518,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.5141522909060994,
+          "snippet": "F., and Dunn, D. Critical thinking: A model of intelligence for solving real-world problems. Intellig. doi: 10.3390/jintelligence 9020022 Halpern, D."
+        },
+        {
+          "rank": 3,
+          "score": 0.49880701303482056,
+          "source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+          "title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students",
+          "faiss_score": 0.3477487278649643,
+          "snippet": "2020;11(1):1266–77. Topol E. High-performance medicine: the convergence of human and artifi­ cial intelligence. Nat Med."
+        },
+        {
+          "rank": 4,
+          "score": 0.4562408924102783,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.4586461227989432,
+          "snippet": "New York: Prentice-Hall. Flavell, J. “Metacognitive aspects of problem solving,” in The Nature of Intelligence. Resnik (Hillsdale, N.J: Erlbaum), 231–235."
+        },
+        {
+          "rank": 5,
+          "score": 0.4389529824256897,
+          "source_file": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families..pdf",
+          "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+          "faiss_score": 0.3150564824897557,
+          "snippet": "Intelligence 2005;35 Blair C, Razza RP. Relating effortful control, executive function, and false-belief understanding to emerging math and literacy ability in kindergarten. Child Development 2007;78:647–663. [PubMed: 17381795] Bodrova, E.; Leong, DJ."
+        },
+        {
+          "rank": 6,
+          "score": 0.4000599682331085,
+          "source_file": "Transcending systems thinking in education reform implications for policy-makers and school leaders.pdf",
+          "title": "Transcending systems thinking in education reform implications for policy-makers and school leaders",
+          "faiss_score": 0.40983035944022883,
+          "snippet": "‘Métis’ (from Greek) denotes a quality combining ‘practical wisdom’ and ‘cunning intelligence’. The concept of ‘métis’ derives from the Greek mythology and presents an ‘array of practical skills and acquired intelligence in responding to a constantly changing natural and human environment’ (Scott 19..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.4648500478428896,
+          "snippet": "doi: 10.3390/jintelligence 9020022 Halpern, D. F., and Dunn, D. Thought and Knowledge. An Introduction to Critical Thinking."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.404237492876576,
+          "snippet": "doi: 10.1006/ceps.1994.1033 Schroyens, W. Knowledge and thought: an introduction to critical thinking. Psychol. 52, 163–164."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Motor Development Embodied, Embedded, Enculturated, and Enabling..pdf",
+          "title": "Motor Development Embodied, Embedded, Enculturated, and Enabling.",
+          "faiss_score": 0.3860029894631777,
+          "snippet": "2: Cognition, Perception, and Language, ed. Kuhn D, Siegler RS, pp. New York: Wiley 5th ed. Bisi MC, Stagni R."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Residents, customers or citizens Tracing the idea of youthful participation in the context of administrative reforms in Finnish public administration.pdf",
+          "title": "Residents, customers or citizens Tracing the idea of youthful participation in the context of administrative reforms in Finnish public administration",
+          "faiss_score": 0.3845185156593936,
+          "snippet": "Bäcklund, P. Tietämisen politiikka. Kokemuksellinen tieto kunnan hallinnassa. (Politics of Knowing."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "usecase": "Two words",
+      "query": "trí tuệ",
+      "expected_context": "artificial intelligence",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 3274.88,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policie",
+      "top1_source_file": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation.pdf",
+          "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+          "faiss_score": 0.03515625,
+          "snippet": "Russel, S., and P. Artificial intelligence: a modern approach. Englewood Cliffs, New Jersey, USA. Sahrbacher, C., H."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Responsible Digital Transformation for a Sustainable Society.pdf",
+          "title": "Responsible Digital Transformation for a Sustainable Society",
+          "faiss_score": 0.00494384765625,
+          "snippet": "https://doi.org/10.1007/ s10796-020-10042-3. Meske, C., Bunde, E., Schneider, J., & Gersch, M. Explain­ able artificial intelligence: Objectives, stakeholders, and future research opportunities. Information systems management, 39(1), 53–63."
+        },
+        {
+          "rank": 3,
+          "score": 1.0,
+          "source_file": "Responsible Digital Transformation for a Sustainable Society.pdf",
+          "title": "Responsible Digital Transformation for a Sustainable Society",
+          "faiss_score": 0.0027904510498046875,
+          "snippet": "Smart mobil­ ity: Contradictions in value co-creation. Information Systems Frontiers, 25(3). https://doi.org/10.1007/s10796-020-10055-y Shneiderman, B. Human-centered artificial intelligence: Reli­ able, safe & trustworthy."
+        },
+        {
+          "rank": 4,
+          "score": 1.0,
+          "source_file": "Responsible Digital Transformation for a Sustainable Society.pdf",
+          "title": "Responsible Digital Transformation for a Sustainable Society",
+          "faiss_score": 0.0016937255859375,
+          "snippet": "https://www.mck­ insey.com/capabilities/mckinsey-digital/our-insights/ women-in-tech-the-best-bet-to-solve-europes-talent-shortage#/. Dennehy, D., Griva, A., Pouloudi, N., Dwivedi, Y. K., Mäntymäki, M., & Pappas, I. Artificial Intelligence (AI) and Informa­ tion Systems: Perspectives to responsible ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.6474379301071167,
+          "source_file": "Outlining Traceability A Principle for Operationalizing Accountability in Computing Systems.pdf",
+          "title": "Outlining Traceability A Principle for Operationalizing Accountability in Computing Systems",
+          "faiss_score": 0.0012063980102539062,
+          "snippet": "[94] Jessica Fjeld, Nele Achten, Hannah Hilligoss, Adam Nagy, and Madhulika Srikumar. Principled artiﬁcial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. Berkman Klein Center Research Publication 2020-1 (2020). [95] Mary Flanagan, Daniel C."
+        },
+        {
+          "rank": 6,
+          "score": 0.6405049562454224,
+          "source_file": "Economic policy for country’s digitalization a case study.pdf",
+          "title": "Economic policy for country’s digitalization a case study",
+          "faiss_score": 0.023193359375,
+          "snippet": "Studies in Computational Intelligence, 826, 435-442. https://doi.org/10.1007/978-3-030-13397-9_51 Kirillova, E. A., Pavlyuk, A. V., Mikhaylova, I."
+        },
+        {
+          "rank": 7,
+          "score": 0.5629544258117676,
+          "source_file": "Research, part of a Special Feature on Resilience Through Multi-scalar Collaboration Governance for Resilience CALFED as a Complex Adaptive Network for Resource Management.pdf",
+          "title": "Research, part of a Special Feature on Resilience Through Multi-scalar Collaboration Governance for Resilience CALFED as a Complex Adaptive Network for Resource Management",
+          "faiss_score": 0.0029811859130859375,
+          "snippet": "McKelvey, B. Energising order-creating networks of distributed intelligence: improving the corporate brain. International Journal of Innovation Management 5:181–212. Medd, W."
+        },
+        {
+          "rank": 8,
+          "score": 0.4389529824256897,
+          "source_file": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families..pdf",
+          "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+          "faiss_score": 0.00469970703125,
+          "snippet": "Intelligence 2005;35 Blair C, Razza RP. Relating effortful control, executive function, and false-belief understanding to emerging math and literacy ability in kindergarten. Child Development 2007;78:647–663. [PubMed: 17381795] Bodrova, E.; Leong, DJ."
+        },
+        {
+          "rank": 9,
+          "score": 0.2070479691028595,
+          "source_file": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs..pdf",
+          "title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+          "faiss_score": 0.01971435546875,
+          "snippet": "Resilience in relation to personality and intelligence. International Journal of Methods in Psychiatric Research, 14, 29–42. http:// dx.doi.org/10.1002/mpr.15 Hardy, S. E., Concato, J., & Gill, T."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Triết lý đạo đức của Lão Tử và sự ứng dụng để xây dựng cuộc sống hạnh phúc trong thời đại ngày nay.pdf",
+          "title": "Triết lý đạo đức của Lão Tử và sự ứng dụng để xây dựng cuộc sống hạnh phúc trong thời đại ngày nay",
+          "faiss_score": 0.814453125,
+          "snippet": "Oxford University Press. Trương Bồi Canh (2003). Trí tuệ đích thực thi. Từ Tế Văn Hóa Chí Nghiệp, Thành phố Đài Bắc."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "usecase": "Phrase",
+      "query": "tìm kiếm ngữ nghĩa",
+      "expected_context": "semantic search",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3463.7,
+      "best_score@1": 0.6236,
+      "best_score@3": 0.6236,
+      "best_score@5": 0.6236,
+      "best_score@10": 0.6236,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.6236,
+      "top1_title": "Grand Challenges in Digital Health",
+      "top1_source_file": "Grand Challenges in Digital Health.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.6235703825950623,
+          "source_file": "Grand Challenges in Digital Health.pdf",
+          "title": "Grand Challenges in Digital Health",
+          "faiss_score": 0.30443653779825974,
+          "snippet": "Kostkova P, Diallo G, Jawaheer G. User profiling for semantic browsing in medical digital libraries. The Proceedings of the 5th European Semantic Web Conference (ESWC’08). Tenerife: Lecture Notes in Computer Science (2008)."
+        },
+        {
+          "rank": 2,
+          "score": 0.5777771472930908,
+          "source_file": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development.pdf",
+          "title": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development",
+          "faiss_score": 0.32939470880739763,
+          "snippet": "WM 2005, Kaiserlautern, Germany: Springer. Schmidt, A. Enabling learning on demand in semantic work environments: The learning in process approach In J. Rech, B."
+        },
+        {
+          "rank": 3,
+          "score": 0.5612519383430481,
+          "source_file": "Telemedicine in Low- and Middle-Income Countries During the COVID-19 Pandemic A Scoping Review.pdf",
+          "title": "Telemedicine in Low- and Middle-Income Countries During the COVID-19 Pandemic A Scoping Review",
+          "faiss_score": 0.3276876781076798,
+          "snippet": "We developed the search strategy from the three main concepts of “telemedicine,” “COVID-19,” and “lowand middle-income countries.” Based on test searches we selected synonyms Medical Subject heading (MeSH) terms and additional keywords and altered the ﬁnal search string to match the syntax requireme..."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt.pdf",
+          "title": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt",
+          "faiss_score": 0.514423620337973,
+          "snippet": "Theo Chu Xuân Diên: “Tục ngữ là những câu nói ngắn gọn, có ý nghĩa hàm súc do nhân dân lao động sáng tạo nên và lưu truyền qua nhiều thế kỉ” (Chu Xuân Diên, Lương Văn Đang, Phương Tri, 1993: 244). Theo Hoàng Tiến Tựu thì: “Tục ngữ là thể loại văn học dân gian nhằm đúc kết kinh nghiệm, tri thức, nêu ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.48545345475553425,
+          "snippet": "thành ngữ là một phần câu có sẵn, nó là bộ phận của câu mà nhiều người quen dùng nhưng tự nhiên nó không diễn được ý trọn vẹn. Về hình thức ngữ pháp, mỗi thành ngữ là một nhóm từ, chưa phải là một câu hoàn chỉnh” (Vũ Ngọc Phan, 2020: 30). Hồ Lê (1976) cho rằng, thành ngữ là những tổ hợp từ có tính c..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt.pdf",
+          "title": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt",
+          "faiss_score": 0.46639545152526307,
+          "snippet": "Vì vậy, khảo sát trên tư liệu thành ngữ, tục ngữ còn cho phép chúng ta thấy được các giá trị nhân sinh cao đẹp. Thành ngữ được xác định là loại cụm từ có cấu tạo cố định, biểu thị một ý nghĩa hoàn chỉnh. Nghĩa của thành ngữ có thể bắt nguồn trực tiếp từ nghĩa đen của các từ tạo nên nó nhưng thường t..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt.pdf",
+          "title": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt",
+          "faiss_score": 0.4618492299960489,
+          "snippet": "Tục ngữ trước hết là một hiện tượng văn hoá tinh thần đồng thời là một thể loại văn học dân gian, một hiện tượng ngôn ngữ. Do vậy, tục ngữ là đối tượng nghiên cứu của nhiều ngành khoa học dẫn tới tình trạng có nhiều hướng tiếp cận, song song đó là các quan niệm khác nhau về tục ngữ. Theo Chu Xuân Di..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.45749774576754093,
+          "snippet": "2 Nội dung diễn giải các đơn vị thành ngữ, tục ngữ cải biên được chúng tôi tham khảo từ các trường hợp, tình huống sử dụng trên mạng xã hội và trên các phương tiện thông tin đại chúng. Phùng Thị Ngọc Ánh 125 Khỏe như voi; Chết như ngả rạ; Sướng như tiên (có cấu trúc A như B) được cải biên thành một ..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.43627349749485766,
+          "snippet": "Theo chúng tôi: tục ngữ cải biên là một sản phẩm cải biên có kế thừa các yếu tố về hình thức hoặc nội dung của tục ngữ gốc mà vẫn mang những đặc điểm cơ bản của tục ngữ như: Câu ngắn gọn, thường có vần điệu, đúc kết tri thức, kinh nghiệm sống và đạo đức thực tiễn của nhân dân, kết hợp với ngữ liệu c..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.4247914000622469,
+          "snippet": "Hoàng Văn Hành (2008: 10) cho rằng: “Thành ngữ là những tổ hợp từ đặc biệt, biểu thị những khái niệm bóng bẩy” Nguyễn Thiện Giáp (2008: 209) trong Giáo trình ngôn ngữ học quan niệm “thành ngữ là những cụm từ trong cơ cấu cú pháp và ngữ nghĩa của chúng có những thuộc tính đặc biệt, chỉ có ở cụm từ ..."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "usecase": "Phrase",
+      "query": "tìm kiếm ngữ nghĩa",
+      "expected_context": "semantic search",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 2463.45,
+      "best_score@1": 0.5699,
+      "best_score@3": 0.5699,
+      "best_score@5": 0.5699,
+      "best_score@10": 0.5699,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.5699,
+      "top1_title": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Sc",
+      "top1_source_file": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Scoping Review.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.5698673725128174,
+          "source_file": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Scoping Review.pdf",
+          "title": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Scoping Review",
+          "faiss_score": 0.0004992485046386719,
+          "snippet": "Search Strategy The search strategy sourced both published and unpublished studies. An initial limited search of MEDLINE and CINAHL Plus was undertaken to identify relevant articles. The words in the titles and abstracts of relevant articles and their index terms were used to develop a full search s..."
+        },
+        {
+          "rank": 2,
+          "score": 0.5683224201202393,
+          "source_file": "Digital Technologies for Health Workforce Development in Low- and Middle-Income Countries A Scoping Review.pdf",
+          "title": "Digital Technologies for Health Workforce Development in Low- and Middle-Income Countries A Scoping Review",
+          "faiss_score": 0.0004355907440185547,
+          "snippet": "designing a structured search process to locate and select relevant documentation and agreeing on methods for critically appraising extracting and presenting the data."
+        },
+        {
+          "rank": 3,
+          "score": 0.5498871803283691,
+          "source_file": "Cultural adaptations to augment health and mental health services a systematic review.pdf",
+          "title": "Cultural adaptations to augment health and mental health services a systematic review",
+          "faiss_score": 0.000293731689453125,
+          "snippet": "Search strategy The final strategy was iterative; the search results guided refinement of the search terms. The original database search of MEDLINE, PsycINFO, CINAHL, and EMBASE was performed in August and September 2011. A combination of keywords and database-specific subject headings were used to ..."
+        },
+        {
+          "rank": 4,
+          "score": 0.5333031415939331,
+          "source_file": "The multiple meanings of global health governance a call for conceptual clarity.pdf",
+          "title": "The multiple meanings of global health governance a call for conceptual clarity",
+          "faiss_score": 6.401538848876953e-05,
+          "snippet": "Given variation in terms used in the GHG literature, Boolean tools of adjacency or proximity searches were used to retrieve relevant results, as well as a truncation of the term governance (governa* and a list of Boolean OR operators to ensure inclusion of govern, governs, governed, and governing), ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.5283464193344116,
+          "source_file": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa.pdf",
+          "title": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa",
+          "faiss_score": 0.0001634359359741211,
+          "snippet": "items the study would manually search for information sources. The search queries included a string of search terms summarised in Table 2. 2.2.3 Selection process. DistillerSR© software was used for article screening."
+        },
+        {
+          "rank": 6,
+          "score": 0.5261904001235962,
+          "source_file": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Scoping Review.pdf",
+          "title": "Strategies to Facilitate Improved Recruitment, Development, and Retention of the Rural and Remote Medical Workforce A Scoping Review",
+          "faiss_score": 0.00033283233642578125,
+          "snippet": "The initial search query was developed for Medline (Ovid, including in-process and other non-indexed citation) with the advantage of using the MeSH terms to index the citations and a shared platform with Embase for a quicker translation of search strategy. Sources of unpublished studies and grey lit..."
+        },
+        {
+          "rank": 7,
+          "score": 0.5224308967590332,
+          "source_file": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa.pdf",
+          "title": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa",
+          "faiss_score": 0.0010118484497070312,
+          "snippet": "2.2.2 Search strategy. The search strategy or query execution [16] utilised Boolean operators (OR & AND). The dynamic nature of the search strategy required the authors to change the search terms and strategy, for example, if digital databases did not yield the expected search PLOS ONE Systemic revi..."
+        },
+        {
+          "rank": 8,
+          "score": 0.5188795328140259,
+          "source_file": "Health System Resilience What Are We Talking About A Scoping Review Mapping Characteristics and Keywords.pdf",
+          "title": "Health System Resilience What Are We Talking About A Scoping Review Mapping Characteristics and Keywords",
+          "faiss_score": 0.0002434253692626953,
+          "snippet": "For the peer-reviewed literature, searches were conducted in the PubMed, Web of Science, and Global Health databases. The gray literature search followed the methodology of Godin et al24 for a reproducible search. A keyword search Table 1. Search Terms"
+        },
+        {
+          "rank": 9,
+          "score": 0.5163116455078125,
+          "source_file": "Interventions at the Transition from Prison to the Community for Prisoners with Mental Illness A Systematic Review.pdf",
+          "title": "Interventions at the Transition from Prison to the Community for Prisoners with Mental Illness A Systematic Review",
+          "faiss_score": 0.0002002716064453125,
+          "snippet": "Method Search Strategy The following electronic databases were searched in January 2017: PsycInfo, Medline, EMBASE, CINAHL, CENTRAL, ASSIA, BNI, Criminal Justice, OpenGrey, BASE Search. A common set of search terms relating to population, setting, transition period and design was used in each databa..."
+        },
+        {
+          "rank": 10,
+          "score": 0.5136860609054565,
+          "source_file": "Research progress on digital health literacy of older adults A scoping review.pdf",
+          "title": "Research progress on digital health literacy of older adults A scoping review",
+          "faiss_score": 0.00012934207916259766,
+          "snippet": "Make a choice from all the information you ﬁnd? Use the proper words or search query to ﬁnd the information you are looking for? Find the exact information you are looking for? Decide whether the information is reliable or not?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "usecase": "Multi-keyword",
+      "query": "mô hình học sâu",
+      "expected_context": "deep learning model",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3598.32,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Governance of artificial intelligence and personal health information",
+      "top1_source_file": "Governance of artificial intelligence and personal health information.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.4623929449247211,
+          "snippet": "(2018), note that “to bring deep models built from EHR [electronic health records] data into real use, users often need to understand the mechanisms by which models operate. Such a level of model transparency is still challenging to achieve” (p. Deep learning is a “black box” (Pasquale, 2015), with ..."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.3446216033489906,
+          "snippet": "However, as large amounts of PHI data must be processed to train deep learning models (Xiao et al., 2018), developing these models will likely rely on the reuse of a variety of PHI data that are collected for other purposes (such as providing a health-care service or payment for services). Is a deep..."
+        },
+        {
+          "rank": 3,
+          "score": 0.7622025012969971,
+          "source_file": "Going green with artificial intelligence The path of technological change towards the renewable energy transition.pdf",
+          "title": "Going green with artificial intelligence The path of technological change towards the renewable energy transition",
+          "faiss_score": 0.3945044653763327,
+          "snippet": "Deep learning models are data hungry, requiring large amounts of training data to learn meaningful representations and achieve good performance. The availability of large datasets from various sources such as social media, e-commerce, scientific experiments, etc., has fueled the application of deep ..."
+        },
+        {
+          "rank": 4,
+          "score": 0.5142884254455566,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.3268269481310516,
+          "snippet": "F., and Dunn, D. Critical thinking: A model of intelligence for solving real-world problems. Intellig. doi: 10.3390/jintelligence 9020022 Halpern, D."
+        },
+        {
+          "rank": 5,
+          "score": 0.35791170597076416,
+          "source_file": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation.pdf",
+          "title": "Research, part of a Special Feature on Empirical based agent-based modeling Agent-based Analysis of Agricultural Policies an Illustration of the Agricultural Policy Simulator AgriPoliS, its Adaptation",
+          "faiss_score": 0.3268567660677902,
+          "snippet": "Moreover, when building the model, we do not know the way in which, or to what extent, certain assumptions influence model output. At the same time, the model itself is so complex that even simple interactions between parts of the model can lead to model behavior that cannot be anticipated in advanc..."
+        },
+        {
+          "rank": 6,
+          "score": 0.3510153293609619,
+          "source_file": "Workforce Agility Development and Validation of a Multidimensional Measure.pdf",
+          "title": "Workforce Agility Development and Validation of a Multidimensional Measure",
+          "faiss_score": 0.3520317231643955,
+          "snippet": "Particularly, Sherehiy (2008) often used three-dimensional framework has been the target of critics as it did not show a good model fit in the original study. Other models such as the model of Petermann and Zacher (2021) lack a measurement and have not been empirically tested. Petermann and Zacher (..."
+        },
+        {
+          "rank": 7,
+          "score": 0.3139253258705139,
+          "source_file": "The World Distribution of Household Wealth.pdf",
+          "title": "The World Distribution of Household Wealth",
+          "faiss_score": 0.37656926008935365,
+          "snippet": "The full model is described by Topping & Odderskær (2004) and unless noted below the values for parameters in the model are taken from Topping & Odderskær (2004). Hence, only the key differences between the agent-based model and the implementations of more traditional models are briefly described he..."
+        },
+        {
+          "rank": 8,
+          "score": 0.30193549394607544,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.3279744119309512,
+          "snippet": "In addition to the above Drigas and Mitsea’s model establishes different levels where metacognition could be used in a complex sequence from stimuli to transcendental ideas in which each of the pillars could manifest a different facet of the process metacognitive"
+        },
+        {
+          "rank": 9,
+          "score": 0.2996447682380676,
+          "source_file": "The World Distribution of Household Wealth.pdf",
+          "title": "The World Distribution of Household Wealth",
+          "faiss_score": 0.4002156432036461,
+          "snippet": "The properties of the model system are briefly described below. The model consists of two separate but interacting models, a landscape simulation and the skylark model. The skylark model is an agent-based model describing skylark behaviour as a set of states linked by transitions, requiring the land..."
+        },
+        {
+          "rank": 10,
+          "score": 0.2728736400604248,
+          "source_file": "Impacts of air pollutants from rural Chinese households under the rapid residential energy transition.pdf",
+          "title": "Impacts of air pollutants from rural Chinese households under the rapid residential energy transition",
+          "faiss_score": 0.4107872309535788,
+          "snippet": "This model was developed with the three principles of embedding as many components and processes as possible, building as a meta-model capable of emulating the sensitivity of models with higher resolution or superior complexity, and comprising as a dynamic model of the Earth system29. The model outp..."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "usecase": "Multi-keyword",
+      "query": "mô hình học sâu",
+      "expected_context": "deep learning model",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 2078.12,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Governance of artificial intelligence and personal health information",
+      "top1_source_file": "Governance of artificial intelligence and personal health information.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.05194091796875,
+          "snippet": "individual, measurable characteristics). Deep learning is a subset of machine learning that relies on massive amounts of raw data to enhance model performance. Deep learning is already widely applied across a range of domains, including healthcare. In the United States context, PHI refers to Protect..."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.045440673828125,
+          "snippet": "(2018), note that “to bring deep models built from EHR [electronic health records] data into real use, users often need to understand the mechanisms by which models operate. Such a level of model transparency is still challenging to achieve” (p. Deep learning is a “black box” (Pasquale, 2015), with ..."
+        },
+        {
+          "rank": 3,
+          "score": 0.7622025012969971,
+          "source_file": "Going green with artificial intelligence The path of technological change towards the renewable energy transition.pdf",
+          "title": "Going green with artificial intelligence The path of technological change towards the renewable energy transition",
+          "faiss_score": 0.17529296875,
+          "snippet": "Deep learning models are data hungry, requiring large amounts of training data to learn meaningful representations and achieve good performance. The availability of large datasets from various sources such as social media, e-commerce, scientific experiments, etc., has fueled the application of deep ..."
+        },
+        {
+          "rank": 4,
+          "score": 0.6883124709129333,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.66650390625,
+          "snippet": "- Huấn luyện (Training): Đây là giai đoạn cốt lõi, nơi mô hình AI được “dạy” bằng cách xử lý lượng lớn dữ liệu qua học sâu (deep learning), sử dụng thuật toán như transformer để điều chỉnh tham số (parameters). Trong quá trình này, mô hình “ghi nhớ” và mã hóa thông tin từ dữ liệu huấn luyện vào cấu ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.6495763659477234,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.01061248779296875,
+          "snippet": "(2014), “Big data deep learning: challenges and perspectives”, IEEE Access, Vol. 514-525. Chiasson, M., Davidson, E. and Winter, J."
+        },
+        {
+          "rank": 6,
+          "score": 0.6336923837661743,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.56396484375,
+          "snippet": "Công cụ này hỗ trợ phân tích, phân loại dữ liệu, dự đoán nhu cầu sử dụng dựa trên hành vi người dùng, giúp nâng cao hiệu quả tìm kiếm và truy xuất thông tin. Học sâu (deep learning) là một nhánh Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam Nguyễn Thị Vân Nga,..."
+        },
+        {
+          "rank": 7,
+          "score": 0.6086317300796509,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.00391387939453125,
+          "snippet": "smart 7 Artificial intelligence machine learning artificial intelligence neural network deep learning 4 Online social network"
+        },
+        {
+          "rank": 8,
+          "score": 0.5695939064025879,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.07763671875,
+          "snippet": "and Sun, J. (2018), “Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review”, Journal of the American Medical Informatics Association, Vol. 1419-1428."
+        },
+        {
+          "rank": 9,
+          "score": 0.5217736959457397,
+          "source_file": "The Internet of Things Impact and Implications for Health Care Delivery.pdf",
+          "title": "The Internet of Things Impact and Implications for Health Care Delivery",
+          "faiss_score": 0.0163421630859375,
+          "snippet": "Lu N, Li T, Ren X, Miao H. A deep learning scheme for motor imagery classification based on restricted boltzmann machines. IEEE Trans Neural Syst Rehabil Eng 2017 Jun;25(6):566-576. [doi: 10.1109/TNSRE.2016.2601240] [Medline: 27542114] 63."
+        },
+        {
+          "rank": 10,
+          "score": 0.5031364560127258,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.002368927001953125,
+          "snippet": "(2017), “Deep learning for healthcare: review, opportunities and challenges”, Briefings in Bioinformatics, available at: https://academic.oup.com/bib/ advance-articleabstract/doi/10.1093/bib/bbx044/3800524? (accessed 25 May 2018). Montgomery, K., Chester, J. and Kopp, K."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "usecase": "Statement",
+      "query": "Transformer được dùng trong NLP",
+      "expected_context": "Transformers are used in NLP",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3531.74,
+      "best_score@1": 0.3352,
+      "best_score@3": 0.3352,
+      "best_score@5": 0.3352,
+      "best_score@10": 0.3352,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.3352,
+      "top1_title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+      "top1_source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.3351997137069702,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.22175170596101493,
+          "snippet": "Public Health 17:2438. doi: 10.3390/ijerph17072438 Mueller, B., and Renken, U. Helping employees to be digital transformers: the Olympus.connect case. Paper Presented at the 38th International Conference on Information Systems, Seoul."
+        },
+        {
+          "rank": 2,
+          "score": 0.25727275013923645,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.21589979994334216,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "source_file": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại.pdf",
+          "title": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại",
+          "faiss_score": 0.26674707567071604,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 11 năm 2025 thiện hoạt tính xúc tác điện hóa của cảm biến."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Gặp gỡ một số nhà khoa học trẻ tiêu biểu tuổi Thìn.pdf",
+          "title": "Gặp gỡ một số nhà khoa học trẻ tiêu biểu tuổi Thìn",
+          "faiss_score": 0.2572215687568698,
+          "snippet": "Phương pháp mới này có ý nghĩa quan trọng trong việc phát triển các thiết bị chip điện tử dùng trong công nghệ nano, hệ thống vi cơ điện và lĩnh vực tự động hóa. Một thành tựu ấn tượng khác của PGS.TS Lê Thanh Long là anh có nhiều sáng kiến hữu ích được ứng dụng trong thực tế, trong đó có 5 sáng kiế..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại.pdf",
+          "title": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại",
+          "faiss_score": 0.2518593145862418,
+          "snippet": "DIGITAL TRANSFORMATION Số 11 năm 2025 thiện hoạt tính xúc tác điện hóa của cảm biến. Nhờ đó, nhóm đã phát triển thành công phiên bản thứ 2 là cảm biến CuBTC/AuPs có tín hiệu dòng đo mạnh hơn rõ rệt, giúp phát hiện glyphosate ở nồng độ rất thấp (chỉ 4,4 × 10⁻¹¹ M). Khả năng áp dụng thực tế cao Theo P..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước.pdf",
+          "title": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước",
+          "faiss_score": 0.24966199856851992,
+          "snippet": "Hình chiếu đứng và hình chiếu ngang nhóm máy tạo họa tiết. Khoa học - Công nghệ và Đổi mới sáng tạo Số 1+2 năm 2024 83 năng hỗ trợ cho máy chính như: vận chuyển sản phẩm, hỗ trợ gia công, tăng độ chính xác cho máy chính, hút bụi, làm mát… Hệ thống điều khiển được lặp đặt tại các tủ điện cục bộ, dễ d..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.23017056933661073,
+          "snippet": "doi: 10.14744/ejmi. 2020.54709 Tekic, Z., and Koroteev, D. From disruptively digital to proudly analog: a holistic typology of digital transformation strategies. 62, 683–693."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Chuyển đổi số Thách thức và lời giải cho bài toán chống buôn lậu hàng giả và bảo vệ quyền sở hữu trí tuệ.pdf",
+          "title": "Chuyển đổi số Thách thức và lời giải cho bài toán chống buôn lậu hàng giả và bảo vệ quyền sở hữu trí tuệ",
+          "faiss_score": 0.2288512192177098,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 đại, thậm chí thuê chuyên gia trình độ công nghệ cao để thực hiện hành vi gian lận."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Hành trình chinh phục các mỏ cận biên của ngành dầu khí Việt Nam.pdf",
+          "title": "Hành trình chinh phục các mỏ cận biên của ngành dầu khí Việt Nam",
+          "faiss_score": 0.2274419004383844,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 12 năm 2025 Tám là, số hóa quy trình thiết kế: Phát triển phần mềm Bocad to S3D để tích hợp mô hình kết cấu vào mô hình 3D của dự án; phát triển các macro AutoLISP tự động hóa bản vẽ; giảm thời gian thiết kế, giảm lỗi nhập liệu và t..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.22636910461697193,
+          "snippet": "Digital transformation strategies. 57, 339–343. doi: 10.1007/s12599-015-0401-5 McDonald, G., Jackson, D., Vickers, M. H., and Wilkes, L."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "usecase": "Statement",
+      "query": "Transformer được dùng trong NLP",
+      "expected_context": "Transformers are used in NLP",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 2759.14,
+      "best_score@1": 0.4334,
+      "best_score@3": 0.4334,
+      "best_score@5": 0.4334,
+      "best_score@10": 0.4334,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.4334,
+      "top1_title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+      "top1_source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.4333944022655487,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.00731658935546875,
+          "snippet": "J., and Rahman, M. From ChatGPT-3 to GPT-4: a signiﬁcant advancement in ai-driven NLP tools. Technol. doi: 10.52631/jeet.v1i1.188 Roose, K."
+        },
+        {
+          "rank": 2,
+          "score": 0.2962879538536072,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.005218505859375,
+          "snippet": "NLP models are rapidly becoming relevant to higher education, as they have the potential to transform teaching and learning by enabling personalized learning, on-demand support, and other innovative approaches (Odden et al., 2021). In higher education, NLP models have signiﬁcant relevance for suppor..."
+        },
+        {
+          "rank": 3,
+          "score": 0.27180784940719604,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.097900390625,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người."
+        },
+        {
+          "rank": 4,
+          "score": 0.26833677291870117,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.35791015625,
+          "snippet": "DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người. Trong nghiên cứu xã hội, phương pháp xử lý ngôn ngữ tự nhiên được dùng để phân tích khối lượng lớn văn bản, ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.2590895891189575,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.03460693359375,
+          "snippet": "Trong lưu trữ, NLP giúp trích xuất thông tin, phân loại theo chủ đề và xây dựng hệ thống tìm kiếm thông minh có khả năng hiểu ngữ cảnh truy vấn. Công nghệ hỗ trợ chuyển đổi văn bản hình ảnh hoặc tài liệu quét thành văn bản số (Optical Character Recognition - OCR), ứng dụng hiệu quả trong hoạt động s..."
+        },
+        {
+          "rank": 6,
+          "score": 0.25727275013923645,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.13427734375,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 7,
+          "score": 0.22503527998924255,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.00399017333984375,
+          "snippet": "Most NLP is now based on language models produced by machine learning RNN, as the advantage is that RNN is able to effectively use data from previous steps32 and to model sequencedata.AnRNNtreatseachwordofasentenceasaseparateinputoccurringattime‘t’andalsousestheactivationvalueat‘t−1’asaninputin addi..."
+        },
+        {
+          "rank": 8,
+          "score": 0.2212788313627243,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.00064849853515625,
+          "snippet": "Overall, NLP models are a powerful tool for improving the quality of education by providing students with personalized learning experiences and automating administrative tasks, while institutions must tackle the previously mentioned challenges to safeguard high-quality education for their students. ..."
+        },
+        {
+          "rank": 9,
+          "score": 0.20516400039196014,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.07476806640625,
+          "snippet": "Conclusion In this article, I discussed the challenges and opportunities regarding natural language processing (NLP) models like Chat GPT and Google Bard and how they will transform teaching and learning in higher education. The article highlights the potential beneﬁts of using NLP models for person..."
+        },
+        {
+          "rank": 10,
+          "score": 0.19081993401050568,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.01146697998046875,
+          "snippet": "responds or performs a predefined action. One of the most widely used standalone human-like chatbots based on AIML is Mitsuku.26 It applies NLP with heuristic patterns and supervised ML. Mitsuku is a multi-lingual chatbot, but the new data are sent to the human manager for verification, and only acc..."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "usecase": "Negative statement",
+      "query": "Transformer không phải CNN",
+      "expected_context": "Transformers are not CNN",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 4181.58,
+      "best_score@1": 0.3313,
+      "best_score@3": 0.3313,
+      "best_score@5": 0.3313,
+      "best_score@10": 0.3313,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.3313,
+      "top1_title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+      "top1_source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.33131876587867737,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.1850270247928005,
+          "snippet": "doi: 10.1177/1745691616635593 Kane, G. C., Palmer, D., Phillips, A. N., Kiron, D., and Buckley, N. Strategy, Not Technology, Drives Digital Transformation."
+        },
+        {
+          "rank": 2,
+          "score": 0.2523877024650574,
+          "source_file": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025.pdf",
+          "title": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025",
+          "faiss_score": 0.23791879074007063,
+          "snippet": "Nguồn: CNN. KHOA HỌC VÀ CÔNG NGHỆ NƯỚC NGOÀI 49 S . T I D SCIENCE . TECHNOLOGY ."
+        },
+        {
+          "rank": 3,
+          "score": 0.23720614612102509,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.26084201162209847,
+          "snippet": "Public Health 17:2438. doi: 10.3390/ijerph17072438 Mueller, B., and Renken, U. Helping employees to be digital transformers: the Olympus.connect case. Paper Presented at the 38th International Conference on Information Systems, Seoul."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Chuyển đổi số Thách thức và lời giải cho bài toán chống buôn lậu hàng giả và bảo vệ quyền sở hữu trí tuệ.pdf",
+          "title": "Chuyển đổi số Thách thức và lời giải cho bài toán chống buôn lậu hàng giả và bảo vệ quyền sở hữu trí tuệ",
+          "faiss_score": 0.26338681855520274,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 đại, thậm chí thuê chuyên gia trình độ công nghệ cao để thực hiện hành vi gian lận."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Nguy cơ tội phạm sử dụng công nghệ deepfake trong giao dịch ngân hàng.pdf",
+          "title": "Nguy cơ tội phạm sử dụng công nghệ deepfake trong giao dịch ngân hàng",
+          "faiss_score": 0.22917113200803785,
+          "snippet": "CÔNG NGHỆ, SẢN PHẨM VÀ ĐỜI SỐNG 59 Số 1 năm 2025 (trang cộng đồng trực tuyến) chia sẻ các video giả mạo sử dụng công nghệ GANs để hoán đổi khuôn mặt của người nổi tiếng trong các video giả mạo. Mặc dù mục đích ban đầu của các video này gây tranh cãi và lo ngại, nhưng nó nhanh chóng thu hút sự chú ý ..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Phát triển nguồn nhân lực chất lượng cao Nền tảng chiến lược cho khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.pdf",
+          "title": "Phát triển nguồn nhân lực chất lượng cao Nền tảng chiến lược cho khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+          "faiss_score": 0.22690967877906168,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION PHÁT TRIỂN NGUỒN NHÂN LỰC CHẤT LƯỢNG CAO: NỀN TẢNG CHIẾN LƯỢC CHO KHOA HỌC, CÔNG NGHỆ, ĐỔI MỚI SÁNG TẠO VÀ CHUYỂN ĐỔI SỐ PGS.TS. Hoàng Sĩ Hồng1, TS. Phạm Ngọc Minh2, ThS."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Thanh Hóa Triển khai hiệu quả phong trào “Bình dân học vụ số” gắn với xây dựng xã hội học tập và học tập suốt đời.pdf",
+          "title": "Thanh Hóa Triển khai hiệu quả phong trào “Bình dân học vụ số” gắn với xây dựng xã hội học tập và học tập suốt đời",
+          "faiss_score": 0.2166584811098645,
+          "snippet": "TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 8 năm 2025 riêng TP Thanh Hóa; “Chợ số - Nông thôn số”; “Gia đình số”; “Mỗi công dân - một danh tính số”; “Lớp học số cơ bản”; “Chắp cánh công nghệ”… đã phát huy tác dụng rõ nét, tạo thành những điểm sáng lan tỏa kỹ năng số tại cộng đồng dân cư, vù..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "TP. Huế Thúc đẩy chuyển đổi số nhằm hiện thực hoá Nghị quyết 57.pdf",
+          "title": "TP. Huế Thúc đẩy chuyển đổi số nhằm hiện thực hoá Nghị quyết 57",
+          "faiss_score": 0.21515213042091724,
+          "snippet": "TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 11 năm 2025 lý theo hướng tinh giản, hoạt động hiệu quả và vận hành thực chất. Tăng cường công tác kiểm tra, giám sát việc triển khai các nhiệm vụ KH&CN, bảo đảm sử dụng ngân sách đầu tư đúng trọng tâm, tránh tình trạng phân tán nguồn lực, gây lãng..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Vai trò của đối tượng chính sách trong chính sách khoa học, công nghệ và đổi mới sáng tạo.pdf",
+          "title": "Vai trò của đối tượng chính sách trong chính sách khoa học, công nghệ và đổi mới sáng tạo",
+          "faiss_score": 0.21438567861487043,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Một là, loại bỏ những thành phần không có phẩm chất phù hợp hiện đang tồn tại trong ĐTCS, đồng thời loại bỏ những mục tiêu chính sách và công cụ chính sách không có ĐTCS tương ứng. Đây cũng là loại bỏ các thành phần không phát huy được vai trò và các mục tiêu, côn..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Phát triển hệ thống đổi mới sáng tạo quốc gia và chuyển đổi số trong chặng đường sắp tới.pdf",
+          "title": "Phát triển hệ thống đổi mới sáng tạo quốc gia và chuyển đổi số trong chặng đường sắp tới",
+          "faiss_score": 0.21170206760058627,
+          "snippet": "TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION hiện Nghị quyết số 20-NQ/TW ngày 01/11/2012 của Ban Chấp hành Trung ương Đảng khóa XI về phát triển khoa học và công nghệ phục vụ sự nghiệp công nghiệp hóa trong điều kiện kinh tế thị trường định hướng xã hội và hội nhập quốc tế; Nghị quyết số 57NQ/TW..."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "usecase": "Negative statement",
+      "query": "Transformer không phải CNN",
+      "expected_context": "Transformers are not CNN",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 3425.55,
+      "best_score@1": 0.3313,
+      "best_score@3": 0.3313,
+      "best_score@5": 0.3313,
+      "best_score@10": 0.3313,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.3313,
+      "top1_title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+      "top1_source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.33131876587867737,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.00010228157043457031,
+          "snippet": "doi: 10.1177/1745691616635593 Kane, G. C., Palmer, D., Phillips, A. N., Kiron, D., and Buckley, N. Strategy, Not Technology, Drives Digital Transformation."
+        },
+        {
+          "rank": 2,
+          "score": 0.2523877024650574,
+          "source_file": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025.pdf",
+          "title": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025",
+          "faiss_score": 0.0007152557373046875,
+          "snippet": "Nguồn: CNN. KHOA HỌC VÀ CÔNG NGHỆ NƯỚC NGOÀI 49 S . T I D SCIENCE . TECHNOLOGY ."
+        },
+        {
+          "rank": 3,
+          "score": 0.16473209857940674,
+          "source_file": "The migration ban policy cycle a comparative analysis of restrictions on the emigration of women domestic workers.pdf",
+          "title": "The migration ban policy cycle a comparative analysis of restrictions on the emigration of women domestic workers",
+          "faiss_score": 2.110004425048828e-05,
+          "snippet": "Availability of data and materials Data sharing is not applicable to this article as no datasets were generated or analysed during the current study. Declaration Competing interests The authors declare that they have no competing interests. Author details 1Senior Research Associate, Canada Excellenc..."
+        },
+        {
+          "rank": 4,
+          "score": 0.10695220530033112,
+          "source_file": "Strengthening Delivery of Health Services Using Digital Devices.pdf",
+          "title": "Strengthening Delivery of Health Services Using Digital Devices",
+          "faiss_score": 4.267692565917969e-05,
+          "snippet": "In addition, Vasudevan’s effort on this publication was supported in part by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number 1KL2TR002554. Disclaimer: The content is solely the responsibility of the authors and does not necessarily rep..."
+        },
+        {
+          "rank": 5,
+          "score": 0.053177300840616226,
+          "source_file": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences.pdf",
+          "title": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences",
+          "faiss_score": 3.069639205932617e-05,
+          "snippet": "London: Springer International. Keen, Andrew. The Internet is NOT the Answer. New York: Atlantic Books."
+        },
+        {
+          "rank": 6,
+          "score": 0.04892568290233612,
+          "source_file": "Part II Policy instruments for sustainable road transport.pdf",
+          "title": "Part II Policy instruments for sustainable road transport",
+          "faiss_score": 3.349781036376953e-05,
+          "snippet": "Finally, we are indebted to our external reviewer, Moshe Givoni, from the Transport Studies Unit at Oxford University, for helpful comments and suggestions that improved this paper. Any remaining errors or shortcomings are our own. Any views or conclusions expressed in this paper do not represent th..."
+        },
+        {
+          "rank": 7,
+          "score": 0.04786881431937218,
+          "source_file": "Transformation in Practice A Review of Empirical Cases of Transformational Adaptation in Agriculture Under Climate Change.pdf",
+          "title": "Transformation in Practice A Review of Empirical Cases of Transformational Adaptation in Agriculture Under Climate Change",
+          "faiss_score": 4.947185516357422e-05,
+          "snippet": "In terms of selection bias in the search method, the key bias is likely to be the inconsistent use of the terms “transformation,” “transformative,” and “transformational” across the literature. Beyond the eight additional cases that we found via colleagues’ recommendations, there may well be a much ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.0004897117614746094,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Quy trình huấn luyện AI - nơi phát sinh cáo buộc vi phạm quyền tác giả NYT cho rằng, việc bị đơn sử dụng trái phép nội dung của họ đã tạo ra các sản phẩm cạnh tranh trực tiếp, gây suy yếu mô hình kinh doanh của tờ báo. OpenAI và Microsoft phản bác rằng, hành vi củ..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Kinh tế vũ trụ Cơ hội và thách thức cho Việt Nam.pdf",
+          "title": "Kinh tế vũ trụ Cơ hội và thách thức cho Việt Nam",
+          "faiss_score": 0.00047278404235839844,
+          "snippet": "DIGITAL TRANSFORMATION DIỄN ĐÀN KHOA HỌC VÀ CÔNG NGHỆ 19 S . T I D SCIENCE . TECHNOLOGY ."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "The Effect of Business Development Services on Small Medium Enterprises (SMEs) Performance.pdf",
+          "title": "The Effect of Business Development Services on Small Medium Enterprises (SMEs) Performance",
+          "faiss_score": 0.00045299530029296875,
+          "snippet": "Cross Loadings Construct / Items 1 2 3 4 5 6 7 MA1 .900 .436 .435 .518 .152 .174 .322 MA2 .787 .467 .508 .502 .203 .027 .150 MA3 .912 .431 .474 .496 .187 .227 .325 MA4 .766 .441 .465 .477 .320 .136 .186 INFR1 .544 .926 .527 .593 .256 .179 .165 INFR2 .499 .929 .505 .594 .209 .197 .193 INFR3 .470 .925..."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "usecase": "Question",
+      "query": "Học máy là gì?",
+      "expected_context": "What is machine learning?",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3678.52,
+      "best_score@1": 0.5934,
+      "best_score@3": 0.5934,
+      "best_score@5": 0.5934,
+      "best_score@10": 0.5934,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.5934,
+      "top1_title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+      "top1_source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.5933574438095093,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.32690974379759236,
+          "snippet": "- Huấn luyện (Training): Đây là giai đoạn cốt lõi, nơi mô hình AI được “dạy” bằng cách xử lý lượng lớn dữ liệu qua học sâu (deep learning), sử dụng thuật toán như transformer để điều chỉnh tham số (parameters). Trong quá trình này, mô hình “ghi nhớ” và mã hóa thông tin từ dữ liệu huấn luyện vào cấu ..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4557254910469055,
+          "source_file": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development.pdf",
+          "title": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development",
+          "faiss_score": 0.35532039049492586,
+          "snippet": "Bush, M. D., & Mott, J. The transformation of learning with technology: Learnercentricity, content and tool malleability, and network effects. Educational Technology, 49(3), 3–20."
+        },
+        {
+          "rank": 3,
+          "score": 0.4489416182041168,
+          "source_file": "Metacognitive Strategies and Development of Critical Thinking in Higher Education.pdf",
+          "title": "Metacognitive Strategies and Development of Critical Thinking in Higher Education",
+          "faiss_score": 0.34010153608974075,
+          "snippet": "It is presented as a methodology which facilitates joint knowledge acquisition and skill learning. It is also good for working on daily problems via relevant situations, considerably reducing the distance between learning context and personal/professional life and aiding the connection between theor..."
+        },
+        {
+          "rank": 4,
+          "score": 0.4417276382446289,
+          "source_file": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development.pdf",
+          "title": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development",
+          "faiss_score": 0.3834856711502795,
+          "snippet": "This provides a clear picture to learning, as students are able to understand how the knowledge is developed and organised in the course. In addition, it can help students to learn concepts and principles, to develop cognitive skills, to make choices and to develop attitudes and values that will be ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.42956313490867615,
+          "source_file": "Recent developments in using digital technology in mathematics education.pdf",
+          "title": "Recent developments in using digital technology in mathematics education",
+          "faiss_score": 0.31923815292730595,
+          "snippet": "We focus on a number of important topics in this field, including the evolvement of STEAM and critical making as well as the process of redefining learning spaces in the transformation of the mathematics classroom. We also address the increasing use of computer algebra systems and dynamic geometry p..."
+        },
+        {
+          "rank": 6,
+          "score": 0.4190579950809479,
+          "source_file": "Recent developments in using digital technology in mathematics education.pdf",
+          "title": "Recent developments in using digital technology in mathematics education",
+          "faiss_score": 0.314889230473371,
+          "snippet": "Xavier (Eds.) “Tecnologias Digitais e Educação Matemática: antes, durante e depois da pandemia” (Digital technologies and mathematics education: Before, during and after the pandemic). Editora LF. * Frey, T. Hyper-individualized learning for a hyper-individualized future."
+        },
+        {
+          "rank": 7,
+          "score": 0.3585646152496338,
+          "source_file": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development.pdf",
+          "title": "Course Curricular Design and Development of the M.Sc. Programme in the Field of Ict in Education for Sustainable Development",
+          "faiss_score": 0.39892053292552104,
+          "snippet": "When relating Grundy’s curriculum typology and the three Habermasian knowledgeconstitutive interests to ICTs in education, several points may arise. First, the emergence of ICTs as learning technologies have coincided with a growing awareness and recognition of alternative theories for learning that..."
+        },
+        {
+          "rank": 8,
+          "score": 0.3575664162635803,
+          "source_file": "Review of factors influencing social learning within participatory environmental governance.pdf",
+          "title": "Review of factors influencing social learning within participatory environmental governance",
+          "faiss_score": 0.3392077115907076,
+          "snippet": "23 Gerlak and Heikkila (2011) Examine how the framework helps diagnose the specific types of learning processes and products that emerge in this setting, as well as the factors that influence these learning processes. Survey and interviews, Case study, ecosystem restoration program, USA Structure: c..."
+        },
+        {
+          "rank": 9,
+          "score": 0.3451243042945862,
+          "source_file": "ICT use in the teaching of mathematics Implications for professional development of pre-service teachers in Ghana.pdf",
+          "title": "ICT use in the teaching of mathematics Implications for professional development of pre-service teachers in Ghana",
+          "faiss_score": 0.3659786137445426,
+          "snippet": "“At the beginning of the academic year training is organized particularly for fresh teachers to become computer literate to equip them to be able to set their questions key in students’ results and get information from the internet.” Although responses from the teachers were high for course on multi..."
+        },
+        {
+          "rank": 10,
+          "score": 0.3370639681816101,
+          "source_file": "OpenCourseWare, Global Access and the Right to Education Real Access or Marketing Ploy..pdf",
+          "title": "OpenCourseWare, Global Access and the Right to Education Real Access or Marketing Ploy.",
+          "faiss_score": 0.3301700800532982,
+          "snippet": "Pence, J. Transforming college culture through resource-based learning. Farmer & F. Mech (Eds.), Information Literacy: developing students as independent learners (pp."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "usecase": "Question",
+      "query": "Học máy là gì?",
+      "expected_context": "What is machine learning?",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 2222.52,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+      "top1_source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.99951171875,
+          "snippet": "Học máy (Machine learning - ML) là một trong những phương pháp trí tuệ nhân tạo nổi bật ứng dụng trong nghiên cứu khoa học xã hội. Tuy nhiên, sự phát triển ngày càng phức tạp của các mô hình này cũng đặt ra nhiều thách thức, bao gồm vấn đề về khả năng diễn giải, sự thiên lệch và các cân nhắc đạo đức..."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.99462890625,
+          "snippet": "Mô hình học máy trong phân tích hành vi xã hội Học máy (Machine learning - ML) là một trong những phương pháp AI nổi bật ứng dụng trong nghiên cứu KHXH vì nó cho phép phát hiện các mẫu và mối quan hệ trong dữ liệu lớn mà các phương pháp thống kê truyền thống khó nhận diện. Nhiều công trình nghiên cứ..."
+        },
+        {
+          "rank": 3,
+          "score": 1.0,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.9921875,
+          "snippet": "Trong những năm gần đây, công nghệ AI không chỉ giúp tự động hóa các quy trình lưu trữ mà còn cải thiện đáng kể khả năng truy xuất quản lý và phân tích dữ liệu. Cụ thể, học máy (machine learning) là công nghệ AI giúp máy tính cải thiện hiệu suất mà không cần lập trình lại. Công cụ này hỗ trợ phân tí..."
+        },
+        {
+          "rank": 4,
+          "score": 1.0,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.99169921875,
+          "snippet": "Tác động này đặc biệt rõ rệt trong các lĩnh vực như: Giáo dục, giao thông, hành vi tiêu dùng... Bằng cách xử lý các tập dữ liệu lớn, mô hình học máy có thể nhận diện những hành vi phức tạp mà các phương pháp truyền thống có thể bỏ qua. Học máy (Machine learning - ML) là một trong những phương pháp t..."
+        },
+        {
+          "rank": 5,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.446533203125,
+          "snippet": "Notes 1. Machine learning, a subset of artificial intelligence, enables many functions of modern industrial societies – from searching the Web, voice and facial recognition, smart appliances, to driverless cars. A key limitation of traditional machine learning has been its inability to manage data i..."
+        },
+        {
+          "rank": 6,
+          "score": 1.0,
+          "source_file": "From transparency to accountability of intelligent systems Moving beyond aspirations.pdf",
+          "title": "From transparency to accountability of intelligent systems Moving beyond aspirations",
+          "faiss_score": 0.0135345458984375,
+          "snippet": "Boulder, CO: Westview Press, p. e7-22 Rebecca Williams et al. https://doi.org/10.1017/dap.2021.37 Published online by Cambridge University Press Royal Society (2017) Machine Learning: The Power and Promise of Computers that Learn by Example."
+        },
+        {
+          "rank": 7,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.006389617919921875,
+          "snippet": "individual, measurable characteristics). Deep learning is a subset of machine learning that relies on massive amounts of raw data to enhance model performance. Deep learning is already widely applied across a range of domains, including healthcare. In the United States context, PHI refers to Protect..."
+        },
+        {
+          "rank": 8,
+          "score": 1.0,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.005062103271484375,
+          "snippet": "It tries to understand the queries and provide appropriate responses. If, at any point, the conversation crosses its current knowledge, it deflects the conversation or passes it to human operators. However, modern chatbots are simultaneously learning from the conversation using machine learning algo..."
+        },
+        {
+          "rank": 9,
+          "score": 1.0,
+          "source_file": "Machine learning, social learning and the governance of self-driving cars.pdf",
+          "title": "Machine learning, social learning and the governance of self-driving cars",
+          "faiss_score": 0.004364013671875,
+          "snippet": "The machine is trained by extracting patterns from vast datasets, a process referred to as ‘rule learning’, ‘rule induction’ or ‘rule extraction’. For engineers, the gains in efficiency are clear. Lipson and Kurman (2016: 8) claim: ‘The fact that deep-learning software ‘learns’ by looking at the wor..."
+        },
+        {
+          "rank": 10,
+          "score": 1.0,
+          "source_file": "Data governance and citizen participation in the digital welfare state.pdf",
+          "title": "Data governance and citizen participation in the digital welfare state",
+          "faiss_score": 0.004314422607421875,
+          "snippet": "Een Machine-Learning onderzoek [Predicting early school dropout. Machine learning research]. Vrije Universiteit Amsterdam. Available at https://beta.vu.nl/nl/Images/stageverslag-kuijer_ tcm235-543677.pdf (accessed 26 January 2019)."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "usecase": "How question",
+      "query": "Transformer hoạt động như thế nào?",
+      "expected_context": "How do transformers work?",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3564.67,
+      "best_score@1": 0.0,
+      "best_score@3": 0.0,
+      "best_score@5": 0.0,
+      "best_score@10": 0.0,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.0,
+      "top1_title": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước",
+      "top1_source_file": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.0,
+          "source_file": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước.pdf",
+          "title": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước",
+          "faiss_score": 0.316915750755073,
+          "snippet": "Hình chiếu đứng và hình chiếu ngang nhóm máy tạo họa tiết. Khoa học - Công nghệ và Đổi mới sáng tạo Số 1+2 năm 2024 83 năng hỗ trợ cho máy chính như: vận chuyển sản phẩm, hỗ trợ gia công, tăng độ chính xác cho máy chính, hút bụi, làm mát… Hệ thống điều khiển được lặp đặt tại các tủ điện cục bộ, dễ d..."
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "source_file": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025.pdf",
+          "title": "Điểm lại chân dung các chủ nhân của Giải Nobel 2025",
+          "faiss_score": 0.2571582583615739,
+          "snippet": "Bằng cách tinh chỉnh và đo lường tất cả các tính chất khác nhau của mạch, họ đã kiểm soát và khám phá các hiện tượng phát sinh khi có dòng điện đi qua. Quan trọng hơn, tập hợp các hạt mang điện di chuyển qua chất siêu dẫn tạo thành một hệ thống mà hành xử như thể chúng là một hạt duy nhất lấp đầy to..."
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.2550281763155637,
+          "snippet": "COTTON 118.1 458.7 12 853620 AUTOMATIC CIRCUIT BREAKERS VOLTAGE NOT EXCEEDING 1,000 VOLTS 82.4 0.0 13 170111 CANE SUGAR"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Telehealth and digital health innovations A mixed landscape of access.pdf",
+          "title": "Telehealth and digital health innovations A mixed landscape of access",
+          "faiss_score": 0.22129333841813295,
+          "snippet": "Available from: https://apnews.com/article/coronavirus-pandemic-business-storms-hurricanes-power-outagesb3c24506953822a7f1cced1757db5c87. Accessed 23 Jan 2023. Placa TJ, Garcia RJ. Viable transformation of an electric utility?"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại.pdf",
+          "title": "Cảm biến giúp phát hiện nhanh thuốc diệt cỏ độc hại",
+          "faiss_score": 0.21860391361005566,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 11 năm 2025 thiện hoạt tính xúc tác điện hóa của cảm biến."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Gặp gỡ một số nhà khoa học trẻ tiêu biểu tuổi Thìn.pdf",
+          "title": "Gặp gỡ một số nhà khoa học trẻ tiêu biểu tuổi Thìn",
+          "faiss_score": 0.21193468911310934,
+          "snippet": "Phương pháp mới này có ý nghĩa quan trọng trong việc phát triển các thiết bị chip điện tử dùng trong công nghệ nano, hệ thống vi cơ điện và lĩnh vực tự động hóa. Một thành tựu ấn tượng khác của PGS.TS Lê Thanh Long là anh có nhiều sáng kiến hữu ích được ứng dụng trong thực tế, trong đó có 5 sáng kiế..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Kỹ thuật hạt nhân trong sản xuất pin năng lượng.pdf",
+          "title": "Kỹ thuật hạt nhân trong sản xuất pin năng lượng",
+          "faiss_score": 0.21040764093818887,
+          "snippet": "51 Số 08 năm 2024 Từ pin năng lượng đến pin hạt nhân Các loại pin thông thường hiện nay cung cấp năng lượng cho đồng hồ, đèn chiếu sáng, đồ chơi và các thiết bị điện khác dựa trên phản ứng ôxy hóa khử, trong đó các electron (hay điện tử) được chuyển từ điện cực này sang điện cực khác thông qua chất ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Việt Nam chế tạo thành công hệ thống thiết bị hiệu chuẩn kiểm định thước vạch, thước cuộn có phạm vi đo đến 30 m.pdf",
+          "title": "Việt Nam chế tạo thành công hệ thống thiết bị hiệu chuẩn kiểm định thước vạch, thước cuộn có phạm vi đo đến 30 m",
+          "faiss_score": 0.2048513064832002,
+          "snippet": "Hệ băng máy sẽ được đặt trên bệ bê tông chắc chắn để giảm rung động, đảm bảo độ cứng, vững của hệ thống. Việc căn chỉnh độ thẳng khi lắp đặt băng máy cũng được thực hiện bằng các thiết bị đo có độ chính xác cao như: Máy cân bằng laser, nivô điện tử, v, v. để đảm bảo đường truyền tia laser thẳng trên..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Digital Twin conceptual framework for improving critical infrastructure resilience.pdf",
+          "title": "Digital Twin conceptual framework for improving critical infrastructure resilience",
+          "faiss_score": 0.20468976533825692,
+          "snippet": "As the core component in the Digital Twin concept, the replica always needs to stay in sync with the real infrastructure. When cloning and decoupling the virtual replica or parts thereof from the real system it is available for a variety of analytics and research without influencing the real system ..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.20268518883758457,
+          "snippet": "NOT EXCEEDING 1,000 V 51.1 0.0 18 850440 ELECTRIC STATIC CONVERTERS (INCL POWER SUPPLIES, RECTIFIERS AND INVERTERS) 48.3 0.0 19 611592 SOCKS AND STOCKINGS COTTON 46.4 11.2 20 620463"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "usecase": "How question",
+      "query": "Transformer hoạt động như thế nào?",
+      "expected_context": "How do transformers work?",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 2692.53,
+      "best_score@1": 0.0,
+      "best_score@3": 0.0,
+      "best_score@5": 0.0,
+      "best_score@10": 0.0,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.0,
+      "top1_title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+      "top1_source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.0,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.261474609375,
+          "snippet": "- Huấn luyện (Training): Đây là giai đoạn cốt lõi, nơi mô hình AI được “dạy” bằng cách xử lý lượng lớn dữ liệu qua học sâu (deep learning), sử dụng thuật toán như transformer để điều chỉnh tham số (parameters). Trong quá trình này, mô hình “ghi nhớ” và mã hóa thông tin từ dữ liệu huấn luyện vào cấu ..."
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "source_file": "Bức tranh tổng quan về nghiên cứu phát triển trí tuệ nhân tạo toàn cầu.pdf",
+          "title": "Bức tranh tổng quan về nghiên cứu phát triển trí tuệ nhân tạo toàn cầu",
+          "faiss_score": 0.0328369140625,
+          "snippet": "Trong những năm gần đây, mức sử dụng tính toán của các mô hình AI đáng chú ý đã tăng theo cấp số nhân. Xu hướng này thể hiện rõ rệt trong 5 năm trở lại đây. Sự gia tăng nhanh chóng về nhu cầu tính toán này có ý nghĩa quan trọng. Năm 2017, mô hình AI Transformer cần lượng tính toán khoảng 7.400 petaF..."
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "source_file": "Bức tranh tổng quan về nghiên cứu phát triển trí tuệ nhân tạo toàn cầu.pdf",
+          "title": "Bức tranh tổng quan về nghiên cứu phát triển trí tuệ nhân tạo toàn cầu",
+          "faiss_score": 0.0272674560546875,
+          "snippet": "Năm 2017, mô hình AI Transformer cần lượng tính toán khoảng 7.400 petaFLOP, hiện nay mô hình AI Gemini Ultra của Google, một trong những mô hình AI nền tảng hiện đại nhất, cần lượng tính toán là 50 tỷ petaFLOP. Những tiến bộ đáng kể về năng lực của trí tuệ nhân tạo Báo cáo Chỉ số AI 2024 cũng cung c..."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo.pdf",
+          "title": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo",
+          "faiss_score": 0.02484130859375,
+          "snippet": "DIGITAL TRANSFORMATION Số 7 năm 2025 chuyển có thể được hệ thống Agentic AI phân tích để dự đoán hao mòn và sự cố sản xuất, từ đó tránh được thời gian ngừng hoạt động ngoài kế hoạch và các chi phí liên quan. Công ty khởi nghiệp AI của Đức - Juna.ai, đang triển khai các Agentic AI để vận hành các nhà..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.0163421630859375,
+          "snippet": "Họ lập luận thu thập là “tạm thời” (transient), không vi phạm và tỷ lệ NYT chỉ 1,23% không đáng kể so với hàng tỷ nguồn khác. - Mục đích “biến đổi” (transformative): Việc sử dụng dữ liệu nhằm mục đích phân tích và trích rút mẫu ngôn ngữ, không phải tái bản hay sao chép nội dung. Trích xuất đầu ra củ..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo.pdf",
+          "title": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo",
+          "faiss_score": 0.00963592529296875,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 7 năm 2025 chuyển có thể được hệ thống Agentic AI phân tích để dự đoán hao mòn và sự cố sản xuất, từ đó tránh được thời gian ngừng hoạt động ngoài kế hoạch và các chi phí liên quan."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Môi giới công nghệ Cơ hội và thách thức trong kỷ nguyên số.pdf",
+          "title": "Môi giới công nghệ Cơ hội và thách thức trong kỷ nguyên số",
+          "faiss_score": 0.009521484375,
+          "snippet": "DIGITAL TRANSFORMATION dự đoán nhu cầu công nghệ tiềm năng; khớp nối đối tác tự động (AI tự động so khớp giữa các đơn vị cung - cầu công nghệ dựa trên tiêu chí kỹ thuật, tài chính và chiến lược đổi mới, giúp rút ngắn 30-50% thời gian tìm kiếm đối tác); cá nhân hóa dịch vụ môi giới (Big Data cho phép..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Đột phá phát triển S.T.I.D Nhận thức và tiếp cận mới.pdf",
+          "title": "Đột phá phát triển S.T.I.D Nhận thức và tiếp cận mới",
+          "faiss_score": 0.00809478759765625,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION dụng (App), một đội ngũ kỹ thuật hỗ trợ, nhưng hàng chục nghìn hộ sử dụng, có thể nhân rộng ra toàn quốc mà vẫn duy trì được chất lượng. Không những thế, vì có nhiều người dùng, hệ thống thu thập được nhiều thông tin hơn và ngày càng thông minh hơn, trồng rau hiệu..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Hậu Giang Ứng dụng GIS trong quản lý chất thải nguy hại.pdf",
+          "title": "Hậu Giang Ứng dụng GIS trong quản lý chất thải nguy hại",
+          "faiss_score": 0.007038116455078125,
+          "snippet": "DIGITAL TRANSFORMATION Số 7 năm 2025 đó, hệ thống còn hỗ trợ quy hoạch và tối ưu hóa hệ thống thu gom, cũng như tuyến đường vận chuyển tối ưu, hạn chế sự tiếp xúc của CTNH với khu dân cư, giúp tiết kiệm chi phí và thời gian vận chuyển. Đồng thời, tác vụ khác của hệ thống còn hỗ trợ chức năng thống k..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Môi giới công nghệ Cơ hội và thách thức trong kỷ nguyên số.pdf",
+          "title": "Môi giới công nghệ Cơ hội và thách thức trong kỷ nguyên số",
+          "faiss_score": 0.005405426025390625,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION dự đoán nhu cầu công nghệ tiềm năng; khớp nối đối tác tự động (AI tự động so khớp giữa các đơn vị cung - cầu công nghệ dựa trên tiêu chí kỹ thuật, tài chính và chiến lược đổi mới, giúp rút ngắn 30-50% thời gian tìm kiếm đối tác); cá nh..."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "usecase": "Why question",
+      "query": "Tại sao transformer tốt cho NLP?",
+      "expected_context": "Why are transformers effective for NLP?",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3572.01,
+      "best_score@1": 0.4222,
+      "best_score@3": 0.4222,
+      "best_score@5": 0.4222,
+      "best_score@10": 0.4222,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.4222,
+      "top1_title": "Identifying the Right Policies for Increasing the Efficiency of the Renewable Energy Transition with a Novel Fuzzy Decis",
+      "top1_source_file": "Identifying the Right Policies for Increasing the Efficiency of the Renewable Energy Transition with a Novel Fuzzy Decision-Making Model.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.42221373319625854,
+          "source_file": "Identifying the Right Policies for Increasing the Efficiency of the Renewable Energy Transition with a Novel Fuzzy Decision-Making Model.pdf",
+          "title": "Identifying the Right Policies for Increasing the Efficiency of the Renewable Energy Transition with a Novel Fuzzy Decision-Making Model",
+          "faiss_score": 0.2375019520951195,
+          "snippet": "The main contribution is that a new method (RATGOS) is created while considering geometric mean in proportional concepts. On the other side, a new methodology (TOPDEMATEL) is also proposed to overcome criticisms in DEMATEL. It is concluded that technological development plays the most important role..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4100414514541626,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.3024177869048451,
+          "snippet": "J., and Rahman, M. From ChatGPT-3 to GPT-4: a signiﬁcant advancement in ai-driven NLP tools. Technol. doi: 10.52631/jeet.v1i1.188 Roose, K."
+        },
+        {
+          "rank": 3,
+          "score": 0.3603113293647766,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.26847488627873584,
+          "snippet": "NLP models are rapidly becoming relevant to higher education, as they have the potential to transform teaching and learning by enabling personalized learning, on-demand support, and other innovative approaches (Odden et al., 2021). In higher education, NLP models have signiﬁcant relevance for suppor..."
+        },
+        {
+          "rank": 4,
+          "score": 0.34534576535224915,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.289450247781307,
+          "snippet": "Discussion 2.1. The emergence of NLP in academia Natural Language Processing (NLP) models have been in development since the 1950s (Jones, 1994) but it was not until the past decade that they gained signiﬁcant attention and advancement, particularly with the development of deep learning techniques a..."
+        },
+        {
+          "rank": 5,
+          "score": 0.3322716951370239,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.2630429423781197,
+          "snippet": "Overall, NLP models are a powerful tool for improving the quality of education by providing students with personalized learning experiences and automating administrative tasks, while institutions must tackle the previously mentioned challenges to safeguard high-quality education for their students. ..."
+        },
+        {
+          "rank": 6,
+          "score": 0.28561776876449585,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.31625311461454997,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 7,
+          "score": 0.2819848656654358,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.3104727156575499,
+          "snippet": "Most NLP is now based on language models produced by machine learning RNN, as the advantage is that RNN is able to effectively use data from previous steps32 and to model sequencedata.AnRNNtreatseachwordofasentenceasaseparateinputoccurringattime‘t’andalsousestheactivationvalueat‘t−1’asaninputin addi..."
+        },
+        {
+          "rank": 8,
+          "score": 0.26512694358825684,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.23065011961790682,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người."
+        },
+        {
+          "rank": 9,
+          "score": 0.2592109143733978,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.280143852343147,
+          "snippet": "Trong lưu trữ, NLP giúp trích xuất thông tin, phân loại theo chủ đề và xây dựng hệ thống tìm kiếm thông minh có khả năng hiểu ngữ cảnh truy vấn. Công nghệ hỗ trợ chuyển đổi văn bản hình ảnh hoặc tài liệu quét thành văn bản số (Optical Character Recognition - OCR), ứng dụng hiệu quả trong hoạt động s..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Rạng Đông Đổi mới sáng tạo và chuyển giao công nghệ trong kỷ nguyên mới.pdf",
+          "title": "Rạng Đông Đổi mới sáng tạo và chuyển giao công nghệ trong kỷ nguyên mới",
+          "faiss_score": 0.31607841726638286,
+          "snippet": "Thành quả của chuyển đổi số là phương tiện để Rạng Đông thúc đẩy nhanh chuyển đổi kép: Số song hành với Xanh. Sản xuất Led SMD hiện đại, tự động tại Công ty Cổ phần Bóng đèn Phích nước Rạng Đông. ĐỘNG LỰC CHÍNH CHO PHÁT TRIỂN 68 Số đặc biệt \"Đổi mới sáng tạo đưa đất nước bước vào kỷ nguyên mới - kỷ ..."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "usecase": "Why question",
+      "query": "Tại sao transformer tốt cho NLP?",
+      "expected_context": "Why are transformers effective for NLP?",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 7999.67,
+      "best_score@1": 0.41,
+      "best_score@3": 0.41,
+      "best_score@5": 0.41,
+      "best_score@10": 0.41,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.41,
+      "top1_title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+      "top1_source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.4100414514541626,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.0007643699645996094,
+          "snippet": "J., and Rahman, M. From ChatGPT-3 to GPT-4: a signiﬁcant advancement in ai-driven NLP tools. Technol. doi: 10.52631/jeet.v1i1.188 Roose, K."
+        },
+        {
+          "rank": 2,
+          "score": 0.3603113293647766,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0027370452880859375,
+          "snippet": "NLP models are rapidly becoming relevant to higher education, as they have the potential to transform teaching and learning by enabling personalized learning, on-demand support, and other innovative approaches (Odden et al., 2021). In higher education, NLP models have signiﬁcant relevance for suppor..."
+        },
+        {
+          "rank": 3,
+          "score": 0.34534576535224915,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0010652542114257812,
+          "snippet": "Discussion 2.1. The emergence of NLP in academia Natural Language Processing (NLP) models have been in development since the 1950s (Jones, 1994) but it was not until the past decade that they gained signiﬁcant attention and advancement, particularly with the development of deep learning techniques a..."
+        },
+        {
+          "rank": 4,
+          "score": 0.3322716951370239,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0010318756103515625,
+          "snippet": "Overall, NLP models are a powerful tool for improving the quality of education by providing students with personalized learning experiences and automating administrative tasks, while institutions must tackle the previously mentioned challenges to safeguard high-quality education for their students. ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.3193874657154083,
+          "source_file": "Social innovation and sustainability; how to disentangle the buzzword and its application in the field of agriculture and rural development.pdf",
+          "title": "Social innovation and sustainability; how to disentangle the buzzword and its application in the field of agriculture and rural development",
+          "faiss_score": 0.00010228157043457031,
+          "snippet": "that is better than existing approaches (i.e. more effective efﬁ cient sustainable"
+        },
+        {
+          "rank": 6,
+          "score": 0.28675591945648193,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0171051025390625,
+          "snippet": "Conclusion In this article, I discussed the challenges and opportunities regarding natural language processing (NLP) models like Chat GPT and Google Bard and how they will transform teaching and learning in higher education. The article highlights the potential beneﬁts of using NLP models for person..."
+        },
+        {
+          "rank": 7,
+          "score": 0.28561776876449585,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.023773193359375,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 8,
+          "score": 0.2819848656654358,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.0025615692138671875,
+          "snippet": "Most NLP is now based on language models produced by machine learning RNN, as the advantage is that RNN is able to effectively use data from previous steps32 and to model sequencedata.AnRNNtreatseachwordofasentenceasaseparateinputoccurringattime‘t’andalsousestheactivationvalueat‘t−1’asaninputin addi..."
+        },
+        {
+          "rank": 9,
+          "score": 0.2765352427959442,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0005974769592285156,
+          "snippet": "Finally, universities should invest in training their faculty to use and adapt to the technology, as well as provide resources and support for students to use the models eﬀectively. In summary, universities should consider the opportunities and challenges of using NLP models in higher education whil..."
+        },
+        {
+          "rank": 10,
+          "score": 0.26512694358825684,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.029754638671875,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "usecase": "Long query",
+      "query": "Giải thích cách transformer xử lý văn bản",
+      "expected_context": "Explain how transformers process text",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3613.41,
+      "best_score@1": 0.369,
+      "best_score@3": 0.369,
+      "best_score@5": 0.369,
+      "best_score@10": 0.369,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.369,
+      "top1_title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+      "top1_source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.3689969778060913,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.31998304151127926,
+          "snippet": "This innovative natural language processing technology aims to achieve language algorithm models that are more akin to human expression of thought (Finnie-Ansley et al., 2022). Subsequently, in 2019, OpenAI released the GPT-2 model, which is based on the core ideas of the GPT-1 model but employs mor..."
+        },
+        {
+          "rank": 2,
+          "score": 0.31606730818748474,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.3098807543118418,
+          "snippet": "It uses the logic of “big data + big computing power + algorithm = intelligent model,” which can extract valuable information from massive text data, and through training, generate more complex and humanized works to output answers and feedback in the form of text, So as to realize multi-round human..."
+        },
+        {
+          "rank": 3,
+          "score": 0.26963138580322266,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.3157814301808758,
+          "snippet": "If such a wordisfound,thesentenceistransformedaccordingtoaruleassociatedwiththekeyword;ifnot,acontent-freeremarkor,undercertainconditions, earlier transformation is retrieved. After that, the answer (based on computed or retrieved text and decision tree probability) is printed out. Finding the right..."
+        },
+        {
+          "rank": 4,
+          "score": 0.22527556121349335,
+          "source_file": "From transparency to accountability of intelligent systems Moving beyond aspirations.pdf",
+          "title": "From transparency to accountability of intelligent systems Moving beyond aspirations",
+          "faiss_score": 0.2786374755207851,
+          "snippet": "Once we are able to answer these questions,thisin turnwill inform what preciselyisrequired in termsof the other concepts suchastransparency or explainabilityinaparticular instance,andthesupportingsociotechnical infrastructureneededtorealizethis. Mapping the Concepts In order to begin this process of..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Đổi mới sáng tạo Nền tảng thúc đẩy chuyển đổi số ngành ngân hàng.pdf",
+          "title": "Đổi mới sáng tạo Nền tảng thúc đẩy chuyển đổi số ngành ngân hàng",
+          "faiss_score": 0.4907192554185734,
+          "snippet": "Về bản chất, CĐS bao gồm việc tích hợp các công nghệ số vào mọi lĩnh vực của một tổ chức, thay đổi cơ bản cách thức hoạt động và mang lại giá trị. Quá trình chuyển đổi này không chỉ đơn thuần là áp dụng các công cụ mới mà còn đòi hỏi phải suy nghĩ lại về các quy trình, chiến lược và văn hóa để duy t..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Một số kinh nghiệm trong công tác cán bộ của Đảng Cộng sản Trung Quốc hiện nay.pdf",
+          "title": "Một số kinh nghiệm trong công tác cán bộ của Đảng Cộng sản Trung Quốc hiện nay",
+          "faiss_score": 0.42863072523632023,
+          "snippet": "các văn bản qui định liên quan đã ngày càng được cụ thể hoá một cách hợp lý nội dung về kỷ luật, giám sát việc lựa chọn, bổ nhiệm cán bộ, đồng thời quy định chặt chẽ những vấn đề có thể phát sinh, có tính quy chuẩn và khả thi hơn, thúc đẩy tăng cường hoàn thiện các quy định, quy trình trong công tác..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative.pdf",
+          "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+          "faiss_score": 0.4181800396796761,
+          "snippet": "Guided by this emergent theoretical focus on the processes of theorization and representation, we reanalyzed our texts in the effort to further develop and elaborate on our content analysis. In particular, we expanded our coding framework to more explicitly examine changing meanings associated with ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Quy định đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp quốc gia sẽ được sửa đổi thế nào .pdf",
+          "title": "Quy định đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp quốc gia sẽ được sửa đổi thế nào",
+          "faiss_score": 0.4081391244567653,
+          "snippet": "Bên cạnh những vấn đề chính nêu trên, một số bất cập khác như giải thích từ ngữ, phát ngôn của tổ chức chủ trì và chủ nhiệm về kết quả nghiên cứu, xử lý khi phát hiện vi phạm liên quan đến nhiệm vụ… cũng cần được điều chỉnh cho phù hợp với thực tế triển khai, tạo sự thống nhất và đồng bộ với các văn..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.40625517252549576,
+          "snippet": "doi: 10.14744/ejmi. 2020.54709 Tekic, Z., and Koroteev, D. From disruptively digital to proudly analog: a holistic typology of digital transformation strategies. 62, 683–693."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "TỔNG MỤC LỤC 2025.pdf",
+          "title": "TỔNG MỤC LỤC 2025",
+          "faiss_score": 0.3874874854047098,
+          "snippet": "8 45 147 Vũ Trọng Đại Định nghĩa lại ngành xuất bản trong thời đại số. 8 49 CHUYỂN ĐỔI SỐ 148 Nguyễn Lan Phương, Vũ Văn Hưng Dữ liệu và hạ tầng số: Nền tảng vững chắc cho phát triển trí tuệ nhân tạo. 9 39 149 Bùi Chi, Trương Thảo Dương Chụp ảnh màn hình: “Chìa khóa” tăng trưởng cá nhân hóa trong kỷ ..."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "usecase": "Long query",
+      "query": "Giải thích cách transformer xử lý văn bản",
+      "expected_context": "Explain how transformers process text",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 10078.75,
+      "best_score@1": 0.2697,
+      "best_score@3": 0.2697,
+      "best_score@5": 0.2697,
+      "best_score@10": 0.2697,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.2697,
+      "top1_title": "Neo-liberal State and Child Welfare Policy in Nigeria",
+      "top1_source_file": "Neo-liberal State and Child Welfare Policy in Nigeria.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.26971739530563354,
+          "source_file": "Neo-liberal State and Child Welfare Policy in Nigeria.pdf",
+          "title": "Neo-liberal State and Child Welfare Policy in Nigeria",
+          "faiss_score": 5.918741226196289e-05,
+          "snippet": "The transcribed data was compared to the notes taken during the interviews to ensure that the original meaning of what respondents said was retained. After the transcription process, the researcher generated themes that were in line with the formulated research objective with the help of thematic an..."
+        },
+        {
+          "rank": 2,
+          "score": 0.26963138580322266,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.0022525787353515625,
+          "snippet": "If such a wordisfound,thesentenceistransformedaccordingtoaruleassociatedwiththekeyword;ifnot,acontent-freeremarkor,undercertainconditions, earlier transformation is retrieved. After that, the answer (based on computed or retrieved text and decision tree probability) is printed out. Finding the right..."
+        },
+        {
+          "rank": 3,
+          "score": 0.25282496213912964,
+          "source_file": "Chatbots Security, privacy, data protection, and social aspects.pdf",
+          "title": "Chatbots Security, privacy, data protection, and social aspects",
+          "faiss_score": 0.00399017333984375,
+          "snippet": "It answered some very simple decision tree questions. A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences.21 The gross procedure program of ELIZA and many following chatbots is the following: It reads and inspects the text for the prese..."
+        },
+        {
+          "rank": 4,
+          "score": 0.23303988575935364,
+          "source_file": "Examining health facility financing in Kenya in the context of devolution.pdf",
+          "title": "Examining health facility financing in Kenya in the context of devolution",
+          "faiss_score": 0.0002415180206298828,
+          "snippet": "The data was analysed using a thematic analysis approach, which involves a process of systematic sifting, sorting, coding and charting data into key issues and themes [15]. One researcher (AK) first familiarized herself with data by reading and re-reading the transcripts. She developed codes from th..."
+        },
+        {
+          "rank": 5,
+          "score": 0.230913445353508,
+          "source_file": "Digital Health Competencies Among Health Care Professionals Systematic Review.pdf",
+          "title": "Digital Health Competencies Among Health Care Professionals Systematic Review",
+          "faiss_score": 0.0004239082336425781,
+          "snippet": "The items that emerged were grouped into categories and, when needed, into subcategories through a content analysis [22]. In the content analysis, the researchers adopted a systematic coding and categorizing approach to textual information extracted from the studies to merge patterns, and structure ..."
+        },
+        {
+          "rank": 6,
+          "score": 0.20038536190986633,
+          "source_file": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa.pdf",
+          "title": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa",
+          "faiss_score": 6.657838821411133e-05,
+          "snippet": "items the study would manually search for information sources. The search queries included a string of search terms summarised in Table 2. 2.2.3 Selection process. DistillerSR© software was used for article screening."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.07330322265625,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.034942626953125,
+          "snippet": "Họ lập luận thu thập là “tạm thời” (transient), không vi phạm và tỷ lệ NYT chỉ 1,23% không đáng kể so với hàng tỷ nguồn khác. - Mục đích “biến đổi” (transformative): Việc sử dụng dữ liệu nhằm mục đích phân tích và trích rút mẫu ngôn ngữ, không phải tái bản hay sao chép nội dung. Trích xuất đầu ra củ..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Chuẩn mực đạo đức báo chí trong môi trường truyền thông số và gợi ý cho Việt Nam.pdf",
+          "title": "Chuẩn mực đạo đức báo chí trong môi trường truyền thông số và gợi ý cho Việt Nam",
+          "faiss_score": 0.005138397216796875,
+          "snippet": "thông qua việc lựa chọn dữ liệu điện tử từ cơ sở dữ liệu tư nhân hoặc công cộng (đầu vào) xác định mức độ quan trọng của các đặc điểm dữ liệu đã chọn trước hoặc không được chọn xử lý và cấu trúc các tập dữ liệu liên quan thành một cấu trúc ngữ nghĩa (quá trình) và xuất bản văn bản cuối cùng trên nền..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo.pdf",
+          "title": "Đại chiến pháp lý giữa New York Times và Open AI trong kỷ nguyên trí tuệ nhân tạo",
+          "faiss_score": 0.0038852691650390625,
+          "snippet": "- Trích xuất/Lọc (Extract): Dữ liệu thô được xử lý, lọc bỏ các phần không cần thiết (như quảng cáo, liên kết lỗi) và chuẩn bị cho huấn luyện thông qua tokenization (phân tách thành đơn vị ngôn ngữ) và embedding (chuyển đổi thành vector toán học). NYT lập luận rằng, ngay cả sau lọc, dữ liệu có quyền ..."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "usecase": "Keyword style",
+      "query": "transformer nlp attention",
+      "expected_context": "transformer nlp attention",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3813.16,
+      "best_score@1": 0.498,
+      "best_score@3": 0.498,
+      "best_score@5": 0.498,
+      "best_score@10": 0.498,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.498,
+      "top1_title": "Government digital initiatives and firm digital innovation Evidence from China",
+      "top1_source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.4979512095451355,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.24096762430613736,
+          "snippet": "Attention to attention. Organization Science 22(5), 1286-1296. Ocasio, W., Laamanen, T., Vaara, E., 2018. Communication and attention dynamics: An attentionbased view of strategic change."
+        },
+        {
+          "rank": 2,
+          "score": 0.48683416843414307,
+          "source_file": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs..pdf",
+          "title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+          "faiss_score": 0.236301859229611,
+          "snippet": "attention and interpretation therapy (e.g. Schroeder & Varkey a scenario-based approach (e.g."
+        },
+        {
+          "rank": 3,
+          "score": 0.4765264093875885,
+          "source_file": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families..pdf",
+          "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+          "faiss_score": 0.2047520769055317,
+          "snippet": "Attention set-shifting has shown unique associations with reading among students in elementary school (Van der Sluis, de Jong, & van der Leij, 2006). Research with students who have mathematical difficulties has revealed that many have trouble controlling their attention focus and inhibiting irrelev..."
+        },
+        {
+          "rank": 4,
+          "score": 0.461338609457016,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.270162000892606,
+          "snippet": "Trong lưu trữ, NLP giúp trích xuất thông tin, phân loại theo chủ đề và xây dựng hệ thống tìm kiếm thông minh có khả năng hiểu ngữ cảnh truy vấn. Công nghệ hỗ trợ chuyển đổi văn bản hình ảnh hoặc tài liệu quét thành văn bản số (Optical Character Recognition - OCR), ứng dụng hiệu quả trong hoạt động s..."
+        },
+        {
+          "rank": 5,
+          "score": 0.44603803753852844,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.21745525072779515,
+          "snippet": "The attention-based view (ABV) How decision makers allocate their attention is a critical issue in strategic management research (Ocasio, 2011). In the organizational context, attention is defined as noticing, encoding, interpreting, and focusing one’s time and effort on the repertoire of organizati..."
+        },
+        {
+          "rank": 6,
+          "score": 0.4368646740913391,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.26126006717682365,
+          "snippet": "DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người. Trong nghiên cứu xã hội, phương pháp xử lý ngôn ngữ tự nhiên được dùng để phân tích khối lượng lớn văn bản, ..."
+        },
+        {
+          "rank": 7,
+          "score": 0.4268653094768524,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.23940067029095882,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 8,
+          "score": 0.4181126356124878,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.17453096398059426,
+          "snippet": "Additionally, attention is considered the first step of a tripartite informationprocessing sequence involving attention, interpretation, and action (Abrahamson and Fombrun, 1994), and acquiring sufficient information involves this sequence. Firms’ executives need information to make decisions, and t..."
+        },
+        {
+          "rank": 9,
+          "score": 0.39814525842666626,
+          "source_file": "Digital Health Competencies Among Health Care Professionals Systematic Review.pdf",
+          "title": "Digital Health Competencies Among Health Care Professionals Systematic Review",
+          "faiss_score": 0.17592920541262924,
+          "snippet": "However, increased attention is required when considering the competencies to assess patients’ needs, attitudes, barriers, facilitators, and potential benefits of being trained by health care professionals in the safe and appropriate use of technology and electronic information for health issues [47..."
+        },
+        {
+          "rank": 10,
+          "score": 0.3915640115737915,
+          "source_file": "Workforce Agility Development and Validation of a Multidimensional Measure.pdf",
+          "title": "Workforce Agility Development and Validation of a Multidimensional Measure",
+          "faiss_score": 0.2251412323712202,
+          "snippet": "Reflection This dimension concerns questioning current behaviors, reflecting the collaboration and constantly looking for improvements in the work. User centricity This dimension concerns constantly integrating the customer in the project and collecting and including feedback of the customer. It fur..."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "usecase": "Keyword style",
+      "query": "transformer nlp attention",
+      "expected_context": "transformer nlp attention",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 5398.6,
+      "best_score@1": 0.4868,
+      "best_score@3": 0.4868,
+      "best_score@5": 0.4868,
+      "best_score@10": 0.4868,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.4868,
+      "top1_title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+      "top1_source_file": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs..pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.48683416843414307,
+          "source_file": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs..pdf",
+          "title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+          "faiss_score": 0.0013513565063476562,
+          "snippet": "attention and interpretation therapy (e.g. Schroeder & Varkey a scenario-based approach (e.g."
+        },
+        {
+          "rank": 2,
+          "score": 0.4765264093875885,
+          "source_file": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families..pdf",
+          "title": "The Development of Cognitive Skills and Gains in Academic School Readiness for Children from Low-Income Families.",
+          "faiss_score": 0.0009927749633789062,
+          "snippet": "Attention set-shifting has shown unique associations with reading among students in elementary school (Van der Sluis, de Jong, & van der Leij, 2006). Research with students who have mathematical difficulties has revealed that many have trouble controlling their attention focus and inhibiting irrelev..."
+        },
+        {
+          "rank": 3,
+          "score": 0.461338609457016,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.00345611572265625,
+          "snippet": "Trong lưu trữ, NLP giúp trích xuất thông tin, phân loại theo chủ đề và xây dựng hệ thống tìm kiếm thông minh có khả năng hiểu ngữ cảnh truy vấn. Công nghệ hỗ trợ chuyển đổi văn bản hình ảnh hoặc tài liệu quét thành văn bản số (Optical Character Recognition - OCR), ứng dụng hiệu quả trong hoạt động s..."
+        },
+        {
+          "rank": 4,
+          "score": 0.44603803753852844,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.0005035400390625,
+          "snippet": "The attention-based view (ABV) How decision makers allocate their attention is a critical issue in strategic management research (Ocasio, 2011). In the organizational context, attention is defined as noticing, encoding, interpreting, and focusing one’s time and effort on the repertoire of organizati..."
+        },
+        {
+          "rank": 5,
+          "score": 0.4268653094768524,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.01348114013671875,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 6,
+          "score": 0.4181126356124878,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.0021991729736328125,
+          "snippet": "Additionally, attention is considered the first step of a tripartite informationprocessing sequence involving attention, interpretation, and action (Abrahamson and Fombrun, 1994), and acquiring sufficient information involves this sequence. Firms’ executives need information to make decisions, and t..."
+        },
+        {
+          "rank": 7,
+          "score": 0.409628689289093,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.0004477500915527344,
+          "snippet": "Towards an attention‐based view of the firm. Strategic Management Journal 18(S1), 187-206. Ocasio, W., 2011. Attention to attention."
+        },
+        {
+          "rank": 8,
+          "score": 0.40392589569091797,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.0007181167602539062,
+          "snippet": "The first principle, focused attention, represents the selective focus of decision makers’ attention. The second, situated attention, represents decision makers’ focused attention prompted by the situations in which they find themselves. The third principle, the structural distribution of attention,..."
+        },
+        {
+          "rank": 9,
+          "score": 0.40000176429748535,
+          "source_file": "Motor Development Embodied, Embedded, Enculturated, and Enabling..pdf",
+          "title": "Motor Development Embodied, Embedded, Enculturated, and Enabling.",
+          "faiss_score": 0.0004839897155761719,
+          "snippet": "China 20:1–34 [PubMed: 22003558] Eppler MA. 1995 Development of manipulatory skills and the deployment of attention. Infant Behav. Dev 18:391–405 Feinman S, Roberts D, Hsieh KF, Sawyer D, Swanson D."
+        },
+        {
+          "rank": 10,
+          "score": 0.3977058231830597,
+          "source_file": "Government digital initiatives and firm digital innovation Evidence from China.pdf",
+          "title": "Government digital initiatives and firm digital innovation Evidence from China",
+          "faiss_score": 0.00021147727966308594,
+          "snippet": "Prior research 6 has demonstrated that attention allocation can profoundly influence a firm’s behavior, including innovation (Yadav et al., 2007), headquarter-subsidiary relationships (Ambos et al., 2010), and for-profit social enterprises balancing multiple goals (Stevens et al., 2015). Regarding t..."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "usecase": "Noisy query",
+      "query": "transformer hoạt động nlp",
+      "expected_context": "how transformer work nlp",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 4249.9,
+      "best_score@1": 0.0,
+      "best_score@3": 0.0,
+      "best_score@5": 0.0,
+      "best_score@10": 0.0,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.0,
+      "top1_title": "Economic Development as Self-Discovery",
+      "top1_source_file": "Economic Development as Self-Discovery.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.28224340790628505,
+          "snippet": "COTTON 118.1 458.7 12 853620 AUTOMATIC CIRCUIT BREAKERS VOLTAGE NOT EXCEEDING 1,000 VOLTS 82.4 0.0 13 170111 CANE SUGAR"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "source_file": "Mạng 6G và khả năng khai thác ở các dải tần mmWave và THz.pdf",
+          "title": "Mạng 6G và khả năng khai thác ở các dải tần mmWave và THz",
+          "faiss_score": 0.24861496618018913,
+          "snippet": "Công nghệ bán dẫn tiết kiệm năng lượng, khả năng mW dựa trên InP GaAs, SiGe và CMOS. Kiến trúc ăng ten, thấu kính và định dạng búp sóng. Vật liệu siêu cấu trúc để chặn, hấp thụ, tăng cường hoặc uốn cong sóng điện từ ở tần số THz. Giảm tỷ lệ công suất đỉnh trên công suất trung bình (PAPR)."
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "source_file": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước.pdf",
+          "title": "Chế tạo dây chuyền sản xuất gỗ nhựa tự động hóa cao bằng nguồn lực trong nước",
+          "faiss_score": 0.24617500435249703,
+          "snippet": "Hình chiếu đứng và hình chiếu ngang nhóm máy tạo họa tiết. Khoa học - Công nghệ và Đổi mới sáng tạo Số 1+2 năm 2024 83 năng hỗ trợ cho máy chính như: vận chuyển sản phẩm, hỗ trợ gia công, tăng độ chính xác cho máy chính, hút bụi, làm mát… Hệ thống điều khiển được lặp đặt tại các tủ điện cục bộ, dễ d..."
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "source_file": "Việt Nam chế tạo thành công hệ thống thiết bị hiệu chuẩn kiểm định thước vạch, thước cuộn có phạm vi đo đến 30 m.pdf",
+          "title": "Việt Nam chế tạo thành công hệ thống thiết bị hiệu chuẩn kiểm định thước vạch, thước cuộn có phạm vi đo đến 30 m",
+          "faiss_score": 0.24141382925541388,
+          "snippet": "Hệ băng máy sẽ được đặt trên bệ bê tông chắc chắn để giảm rung động, đảm bảo độ cứng, vững của hệ thống. Việc căn chỉnh độ thẳng khi lắp đặt băng máy cũng được thực hiện bằng các thiết bị đo có độ chính xác cao như: Máy cân bằng laser, nivô điện tử, v, v. để đảm bảo đường truyền tia laser thẳng trên..."
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "source_file": "Trung tâm Chiếu xạ Hà Nội Làm chủ công nghệ máy gia tốc cyclotron, cung cấp dược chất phóng xạ để đồng hành cùng bệnh nhân ung thư.pdf",
+          "title": "Trung tâm Chiếu xạ Hà Nội Làm chủ công nghệ máy gia tốc cyclotron, cung cấp dược chất phóng xạ để đồng hành cùng bệnh nhân ung thư",
+          "faiss_score": 0.2370792450399313,
+          "snippet": "TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Lắp đặt và vận hành máy gia tốc cyclotron tại Trung tâm Chiếu xạ Hà Nội. KHOA HỌC - CÔNG NGHỆ & 32 S ."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "5G kết nối vệ tinh Khai thác sức mạnh tích hợp công nghệ viễn thông di động - vệ tinh.pdf",
+          "title": "5G kết nối vệ tinh Khai thác sức mạnh tích hợp công nghệ viễn thông di động - vệ tinh",
+          "faiss_score": 0.23071116416806586,
+          "snippet": "TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION 5G KẾT NỐI VỆ TINH: KHAI THÁC SỨC MẠNH TÍCH HỢP CÔNG NGHỆ VIỄN THÔNG DI ĐỘNG - VỆ TINH Vệ tinh thế hệ tiếp theo được thiết kế để hoạt động như các tháp di động trong không gian. Ảnh: ST."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.2274930459874643,
+          "snippet": "SYNTHETIC FIBRES 51.5 2.8 17 853690 OTHER APPARATUS FOR SWITCHING, PROTECTING OR CONNECTING ELECTRIC CIRCUITS NOT EXCEEDING 1,000 V 51.1 0.0 18 850440"
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Mạng 6G và khả năng khai thác ở các dải tần mmWave và THz.pdf",
+          "title": "Mạng 6G và khả năng khai thác ở các dải tần mmWave và THz",
+          "faiss_score": 0.21678895688231134,
+          "snippet": "thiết kế mã hoá kênh mới để cân đối hiệu suất phổ nhằm đạt hiệu quả sử dụng năng lượng tốt hơn các ăng ten mới theo nguyên tắc thiết kế từ thấu kính quang học có khả năng cần ít công suất RF hơn các cách tiếp cận mới để quản lý búp sóng ăng ten và cân bằng kênh các thiết kế mới về phần cao tần để nâ..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.21141590117640646,
+          "snippet": "NOT EXCEEDING 1,000 V 51.1 0.0 18 850440 ELECTRIC STATIC CONVERTERS (INCL POWER SUPPLIES, RECTIFIERS AND INVERTERS) 48.3 0.0 19 611592 SOCKS AND STOCKINGS COTTON 46.4 11.2 20 620463"
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Economic Development as Self-Discovery.pdf",
+          "title": "Economic Development as Self-Discovery",
+          "faiss_score": 0.20819122235926818,
+          "snippet": "FOR VOLTAGE NOT EXCEEDING 1, 000 VOLTS 215.4 18.0 21 940320 METAL FURNITURE NOT FOR OFFICE USE 206.2 14.5 22 731816 IRON OR STEEL 203.0 13.7 23 847150 DIGITAL PROCESSING UNITS WITH OR WITHOUT REST OF SYSTEM 202.2 1245.3 24 940360"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "usecase": "Noisy query",
+      "query": "transformer hoạt động nlp",
+      "expected_context": "how transformer work nlp",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 10871.8,
+      "best_score@1": 0.441,
+      "best_score@3": 0.441,
+      "best_score@5": 0.441,
+      "best_score@10": 0.441,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.441,
+      "top1_title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+      "top1_source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.4410223066806793,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.0033245086669921875,
+          "snippet": "J., and Rahman, M. From ChatGPT-3 to GPT-4: a signiﬁcant advancement in ai-driven NLP tools. Technol. doi: 10.52631/jeet.v1i1.188 Roose, K."
+        },
+        {
+          "rank": 2,
+          "score": 0.3216315507888794,
+          "source_file": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo trong nghiên cứu khoa học xã hội",
+          "faiss_score": 0.1812744140625,
+          "snippet": "T I D SCIENCE . TECHNOLOGY . INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 Xử lý ngôn ngữ tự nhiên (Natural Language Processing - NLP) là một nhánh của AI, giúp máy tính có thể “hiểu”, phân tích và tạo ra ngôn ngữ của con người."
+        },
+        {
+          "rank": 3,
+          "score": 0.29643914103507996,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.12213134765625,
+          "snippet": "INNOVATION . DIGITAL TRANSFORMATION Số 10 năm 2025 của học máy, dùng mạng nơ-ron để xử lý các tài liệu phức tạp như văn bản không cấu trúc hoặc hình ảnh, nhằm cải thiện độ chính xác trong phân tích và tìm kiếm. Xử lý ngôn ngữ tự nhiên (NLP) cho phép máy tính hiểu và xử lý ngôn ngữ con người. Trong l..."
+        },
+        {
+          "rank": 4,
+          "score": 0.2927478551864624,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.120361328125,
+          "snippet": "Trong lưu trữ, NLP giúp trích xuất thông tin, phân loại theo chủ đề và xây dựng hệ thống tìm kiếm thông minh có khả năng hiểu ngữ cảnh truy vấn. Công nghệ hỗ trợ chuyển đổi văn bản hình ảnh hoặc tài liệu quét thành văn bản số (Optical Character Recognition - OCR), ứng dụng hiệu quả trong hoạt động s..."
+        },
+        {
+          "rank": 5,
+          "score": 0.27360156178474426,
+          "source_file": "Carbon taxes a review of experience and policy design considerations.pdf",
+          "title": "Carbon taxes a review of experience and policy design considerations",
+          "faiss_score": 0.0210113525390625,
+          "snippet": "PROJECT NUMBER NREL/TP-6A2-47312 5e. TASK NUMBER SAO9.2034 5f. WORK UNIT NUMBER 7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES) National Renewable Energy Laboratory 1617 Cole Blvd."
+        },
+        {
+          "rank": 6,
+          "score": 0.2618436813354492,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.013427734375,
+          "snippet": "NLP models are rapidly becoming relevant to higher education, as they have the potential to transform teaching and learning by enabling personalized learning, on-demand support, and other innovative approaches (Odden et al., 2021). In higher education, NLP models have signiﬁcant relevance for suppor..."
+        },
+        {
+          "rank": 7,
+          "score": 0.20548312366008759,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.00260162353515625,
+          "snippet": "Chat GPT has created tremendous speculation among stakeholders in academia, not the least of whom are researchers and teaching staﬀ(Biswas, 2023). Chat GPT is a Natural Language Processing (NLP) model developed by OpenAI that uses a large dataset to generate text responses to student queries, feedba..."
+        },
+        {
+          "rank": 8,
+          "score": 0.20506030321121216,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0260009765625,
+          "snippet": "Conclusion In this article, I discussed the challenges and opportunities regarding natural language processing (NLP) models like Chat GPT and Google Bard and how they will transform teaching and learning in higher education. The article highlights the potential beneﬁts of using NLP models for person..."
+        },
+        {
+          "rank": 9,
+          "score": 0.1992858648300171,
+          "source_file": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính.pdf",
+          "title": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính",
+          "faiss_score": 0.000583648681640625,
+          "snippet": "Gruetzemacher (2022), \"The power of natural language processing\", Harvard Business Review, https://hbr.org/2022/04/the-power-ofnatural-language-processing, truy cập 5/6/2024. IBM (2024), \"What is NLP (natural language processing)?\", IBM, https://www.ibm.com/topics/natural-language-processing, truy c..."
+        },
+        {
+          "rank": 10,
+          "score": 0.19743558764457703,
+          "source_file": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse.pdf",
+          "title": "Exploring the opportunities and challenges of NLP models in higher education is Chat GPT a blessing or a curse",
+          "faiss_score": 0.0014667510986328125,
+          "snippet": "It can simulate conversations with students to provide feedback, answer questions, and provide support (OpenAI, 2023). It has the potential to aid students in staying engaged with the course material and feeling more connected to their learning experience. However, the rapid implementation of these ..."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "usecase": "Paraphrase",
+      "query": "mô hình hiểu ngữ cảnh văn bản",
+      "expected_context": "model for understanding text context",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3744.85,
+      "best_score@1": 0.5837,
+      "best_score@3": 0.5837,
+      "best_score@5": 0.5837,
+      "best_score@10": 0.5837,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.5837,
+      "top1_title": "Review of factors influencing social learning within participatory environmental governance",
+      "top1_source_file": "Review of factors influencing social learning within participatory environmental governance.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.5837134718894958,
+          "source_file": "Review of factors influencing social learning within participatory environmental governance.pdf",
+          "title": "Review of factors influencing social learning within participatory environmental governance",
+          "faiss_score": 0.46149960362952214,
+          "snippet": "Context A clear definition of what “context” entails is difficult because the characteristics defining context are almost endless (O’Toole and Meier 2015). Context consists of the features of the type of issue, pre-existing relationships, and the institutional setting (Beierle and Cayford 2002). Fur..."
+        },
+        {
+          "rank": 2,
+          "score": 0.5322869420051575,
+          "source_file": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative.pdf",
+          "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+          "faiss_score": 0.4202103044758619,
+          "snippet": "Theoretically Grounded Narrative Analysis This expanded formal coding of our texts then formed a basis for a narrative analysis of change in environmental sensemaking and institutional logics over the event life course. We grouped the 29 codes 14 in our final coding framework into theoretical constr..."
+        },
+        {
+          "rank": 3,
+          "score": 0.5264951586723328,
+          "source_file": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems.pdf",
+          "title": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems",
+          "faiss_score": 0.390963747739132,
+          "snippet": "Model Note, once more, that in this paper the words framework and model are used with the following meaning. The framework can contain a model, but also other components proposed by this paper, such as policies, guidelines and procedures. The authors have defined a model for the implementation of DF..."
+        },
+        {
+          "rank": 4,
+          "score": 0.5000869035720825,
+          "source_file": "Ten building blocks for sustainable water governance an integrated method to assess the governance of water.pdf",
+          "title": "Ten building blocks for sustainable water governance an integrated method to assess the governance of water",
+          "faiss_score": 0.38824349999932845,
+          "snippet": "Discourses frame certain problems; that is to say, they distinguish some aspects of a situation rather than others. .] As such, discourse provides the tools with which problems are constructed. Discourses at the same time from the context in which phenomena are understood and thus predetermines the ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.4057612121105194,
+          "source_file": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative.pdf",
+          "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+          "faiss_score": 0.41845269274895047,
+          "snippet": "In so doing, the use of extracted cues is a mechanism by which social actors can develop simplified, abstract models of a more complicated environment. Our model of evolving theorization from exemplars has similarities with Hannan, Polos, and Carroll’s (2007) model of categorization of organizationa..."
+        },
+        {
+          "rank": 6,
+          "score": 0.0,
+          "source_file": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt.pdf",
+          "title": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt",
+          "faiss_score": 0.6092010056036687,
+          "snippet": "Nghĩa của thành ngữ có thể bắt nguồn trực tiếp từ nghĩa đen của các từ tạo nên nó nhưng thường thông qua một số phép chuyển nghĩa như ẩn dụ, so sánh,... “Theo cách hiểu thông thường thì thành ngữ là một loại tổ hợp cố định, bền vững về hình thái - cấu trúc, hoàn chỉnh, bóng bẩy về ý nghĩa, được sử d..."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Bàn về quy định khung kiến trúc tổng thể quốc gia số trong Dự thảo Luật Chuyển đổi số.pdf",
+          "title": "Bàn về quy định khung kiến trúc tổng thể quốc gia số trong Dự thảo Luật Chuyển đổi số",
+          "faiss_score": 0.6058068080903299,
+          "snippet": "Mục đích của mô hình được sử dụng như ngôn ngữ chung giúp các bên hiểu và nói cùng một “thuật ngữ” trong thiết kế kiến trúc. Nó giúp trả lời câu hỏi: “Các khái niệm và chức năng tối thiểu của miền này là gì?”. Mô hình tham chiếu là “bản đồ khái niệm” cấp cao, giúp mọi bên liên quan hiểu rõ cấu trúc ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt.pdf",
+          "title": "Ý niệm cảm xúc trong thành ngữ, tục ngữ tiếng Việt",
+          "faiss_score": 0.58834027931225,
+          "snippet": "Nhìn chung, trong ngôn ngữ học tri nhận, khái niệm \"ý niệm\" đóng vai trò trung tâm để giúp chúng ta hiểu cách ngôn ngữ và tư duy được kết nối với nhau và cách ý nghĩa được xây dựng thông qua hệ thống ý niệm của con người” (Rashidova, Sarvinoz, 2024: 39). Ý niệm có mối quan hệ chiếu xạ với nhau, sự c..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.5850340314877923,
+          "snippet": "Trong tục ngữ là những câu lưu truyền kinh nghiệm đời sống, kinh nghiệm xã hội, lịch sử... Như vậy, các nhà nghiên cứu đã khá thống nhất khi cho rằng, tục ngữ là một câu hoàn chỉnh và có sự phân định ranh giới giữa thành ngữ và tục ngữ dựa vào các yếu tố như ý nghĩa, cấu trúc, chức năng. Bên cạnh đó..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam.pdf",
+          "title": "Thành ngữ, tục ngữ cải biên trong ngôn ngữ mạng của nhóm Gen Z ở Hàn Quốc và Việt Nam",
+          "faiss_score": 0.5805754034168525,
+          "snippet": "Theo chúng tôi: tục ngữ cải biên là một sản phẩm cải biên có kế thừa các yếu tố về hình thức hoặc nội dung của tục ngữ gốc mà vẫn mang những đặc điểm cơ bản của tục ngữ như: Câu ngắn gọn, thường có vần điệu, đúc kết tri thức, kinh nghiệm sống và đạo đức thực tiễn của nhân dân, kết hợp với ngữ liệu c..."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "usecase": "Paraphrase",
+      "query": "mô hình hiểu ngữ cảnh văn bản",
+      "expected_context": "model for understanding text context",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 5237.39,
+      "best_score@1": 0.483,
+      "best_score@3": 0.483,
+      "best_score@5": 0.483,
+      "best_score@10": 0.483,
+      "hit@1": 0,
+      "hit@3": 0,
+      "hit@5": 0,
+      "hit@10": 0,
+      "top1_score": 0.483,
+      "top1_title": "Managing e‐Government value positions and relationships",
+      "top1_source_file": "Managing e‐Government value positions and relationships.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 0.4830465316772461,
+          "source_file": "Managing e‐Government value positions and relationships.pdf",
+          "title": "Managing e‐Government value positions and relationships",
+          "faiss_score": 0.00014090538024902344,
+          "snippet": "Information Systems Journal published by John Wiley & Sons Ltd 25, 531–571 the hermeneutic circle, contextualisation, interaction between researchers and subjects, abstraction and generalisation, dialogical reasoning, multiple interpretation and suspicion. In choosing a case-based research strategy ..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4551360011100769,
+          "source_file": "Context and Mechanisms in Administrative Reform Processes Performance Management Within Italian Local Government.pdf",
+          "title": "Context and Mechanisms in Administrative Reform Processes Performance Management Within Italian Local Government",
+          "faiss_score": 0.00016868114471435547,
+          "snippet": "This same narrative structure also provides an account on how the trajectory of the episode has been influenced by events which take place in the surrounding context. Thus, observations about the episode are explained by employing a case-oriented research style according to which the causal relation..."
+        },
+        {
+          "rank": 3,
+          "score": 0.43531161546707153,
+          "source_file": "Maternal Health-Seeking Behavior The Role of Financing and Organization of Health Services in Ghana.pdf",
+          "title": "Maternal Health-Seeking Behavior The Role of Financing and Organization of Health Services in Ghana",
+          "faiss_score": 0.00017404556274414062,
+          "snippet": "5; 2013 72 3.3 Text Analysis Texts that were transcribed from interviews and group discussions with the women were analysed using selective coding method. Selective in the sense that those interesting, diverse and rival comments in the conversation were brought under related broad themes formulated ..."
+        },
+        {
+          "rank": 4,
+          "score": 0.4315151572227478,
+          "source_file": "Internationalisation and migrant academics the hidden narratives of mobility.pdf",
+          "title": "Internationalisation and migrant academics the hidden narratives of mobility",
+          "faiss_score": 0.00029587745666503906,
+          "snippet": "We were interested in not only the ‘what’ (themes and contents), but also the ‘who’, ‘when’ and ‘why’ (Riessman 2008, 53–76; Wengraf 2001), opening the research and analytical process to questions of relationships, context, complexity, power and the diversity of knowledges and knowers (Merrill and W..."
+        },
+        {
+          "rank": 5,
+          "score": 0.4049040675163269,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.00821685791015625,
+          "snippet": "retrieval and sorting models by accurately understanding the semantic meaning and intent of questions providing organized and coherent human-like feedback and modifying answers based on user feedback (see Table 1) (Deng and Lin"
+        },
+        {
+          "rank": 6,
+          "score": 0.37852197885513306,
+          "source_file": "Defining and Measuring Chronic Conditions Imperatives for Research, Policy, Program, and Practice.pdf",
+          "title": "Defining and Measuring Chronic Conditions Imperatives for Research, Policy, Program, and Practice",
+          "faiss_score": 0.00025916099548339844,
+          "snippet": "Our conceptual model provides a framework for more consistently applying lists of selected conditions to multiple data systems. For the OASH list of selected chronic conditions, the model explicitly documented data elements that were used to identify the selected conditions and how the data were col..."
+        },
+        {
+          "rank": 7,
+          "score": 0.32786500453948975,
+          "source_file": "Digital Twin conceptual framework for improving critical infrastructure resilience.pdf",
+          "title": "Digital Twin conceptual framework for improving critical infrastructure resilience",
+          "faiss_score": 0.0002715587615966797,
+          "snippet": "g., reflecting structural updates of buildings), process changes (e. g., after a new political law has been passed), or by changing the operational mode of the system (e. g., reflecting a shutdown in the event of an attack). In order to match these use cases and requirements, various model types may..."
+        },
+        {
+          "rank": 8,
+          "score": 0.29828327894210815,
+          "source_file": "Internationalisation and migrant academics the hidden narratives of mobility.pdf",
+          "title": "Internationalisation and migrant academics the hidden narratives of mobility",
+          "faiss_score": 0.0002472400665283203,
+          "snippet": "High Educ (2018) 76:537–554 541 All interviews were conducted in English and transcribed and coded, drawing on thematic and dialogic analysis. We were interested in not only the ‘what’ (themes and contents), but also the ‘who’, ‘when’ and ‘why’ (Riessman 2008, 53–76; Wengraf 2001), opening the resea..."
+        },
+        {
+          "rank": 9,
+          "score": 0.2865280508995056,
+          "source_file": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems.pdf",
+          "title": "Towards a Digital Forensic Readiness Framework for Public Key Infrastructure systems",
+          "faiss_score": 0.0016679763793945312,
+          "snippet": "The model has following phases: 1. Scenario definition (Scenario phase); 2. Identification of possible sources of evidence (Sources phase); 3. Defining procedures for pre-incident collection, storage and manipulation with data representing possible evidence"
+        },
+        {
+          "rank": 10,
+          "score": 0.2661200761795044,
+          "source_file": "Trajectories of Administrative Reform Institutions, Timing and Choices in France and Spain.pdf",
+          "title": "Trajectories of Administrative Reform Institutions, Timing and Choices in France and Spain",
+          "faiss_score": 0.0001055598258972168,
+          "snippet": "Trajectories are often expressed in an abstract and sometimes rather teleological way. The approach does not show a preference for actors or their institutional constraints. This article seeks to identify the speciﬁc mechanisms that link administrative institutions and actor choices in context – i.e..."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "usecase": "Synonym",
+      "query": "AI",
+      "expected_context": "artificial intelligence",
+      "engine": "LLM",
+      "num_results": 50,
+      "latency_ms": 3672.61,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificia",
+      "top1_source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+          "title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students",
+          "faiss_score": 0.5688224502558165,
+          "snippet": "Artificial intelligence (AI) has become indispensable in healthcare, aiming to enhance patient outcomes and streamline healthcare services. Through the utilization of machine learning algorithms, natural language pro­ cessing, and computer vision, AI facilitates the analysis of intricate medical dat..."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+          "title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students",
+          "faiss_score": 0.5493940468220491,
+          "snippet": "In addition, artificial intelligence (AI) is one of the trending applications of digital transformation and com­ prises many healthcare technologies that transform nurses’ roles and enhance patient care [19, 20]. Artificial intelligence (AI) refers to the application of computers and technology to r..."
+        },
+        {
+          "rank": 3,
+          "score": 1.0,
+          "source_file": "Khoa học và công nghệ trong ứng phó hạn mặn tại Đồng bằng sông Cửu Long.pdf",
+          "title": "Khoa học và công nghệ trong ứng phó hạn mặn tại Đồng bằng sông Cửu Long",
+          "faiss_score": 0.5402782263950343,
+          "snippet": "DIỄN ĐÀN KHOA HỌC VÀ CÔNG NGHỆ 15 Số 11 năm 2024 Trong những năm gần đây, trí tuệ nhân tạo (Artificial Intelligence - AI) đã trở thành một trong những công nghệ tiên tiến nhất và đang được ứng dụng mạnh mẽ trong nhiều lĩnh vực khác nhau, bao gồm cả y tế. Với khả năng phân tích dữ liệu lớn, học hỏi t..."
+        },
+        {
+          "rank": 4,
+          "score": 1.0,
+          "source_file": "Responsible Digital Transformation for a Sustainable Society.pdf",
+          "title": "Responsible Digital Transformation for a Sustainable Society",
+          "faiss_score": 0.5147490992796838,
+          "snippet": "Artificial Intelligence (AI) and Informa­ tion Systems: Perspectives to responsible AI. Information Sys­ tems Frontiers, 25(1), 1–7. Information Systems Frontiers (2023) 25:945–953 Ilias O. Pappas  is a Professor of Information Systems at the Depart­ ment of Information Systems, University of Agder ..."
+        },
+        {
+          "rank": 5,
+          "score": 1.0,
+          "source_file": "Thúc đẩy nghiên cứu phát triển và sử dụng trí tuệ nhân tạo một cách có trách nhiệm ở Việt Nam.pdf",
+          "title": "Thúc đẩy nghiên cứu phát triển và sử dụng trí tuệ nhân tạo một cách có trách nhiệm ở Việt Nam",
+          "faiss_score": 0.4532367512493244,
+          "snippet": "Mục tiêu của cách tiếp cận đối với AI có trách nhiệm là hướng đến việc phát triển và sử dụng AI theo cách an toàn, đáng tin cậy và có đạo đức. Với cách tiếp cận AI có trách nhiệm, các chuyên gia đều hy vọng rằng việc hình thành một khuôn khổ quản trị được áp dụng rộng rãi bao gồm các thông THÚC ĐẨY ..."
+        },
+        {
+          "rank": 6,
+          "score": 1.0,
+          "source_file": "Machine learning, social learning and the governance of self-driving cars.pdf",
+          "title": "Machine learning, social learning and the governance of self-driving cars",
+          "faiss_score": 0.4531627290855621,
+          "snippet": "On the screen behind him were the words ‘AI [artificial intelligence] is the solution to self-driving’ (Recode, 2017). The gamification of driving The reduction of the driving task to a solvable machine learning problem follows a set of high-profile achievements in artificial intelligence. AI has lo..."
+        },
+        {
+          "rank": 7,
+          "score": 0.6713727116584778,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.5070260622921461,
+          "snippet": "Artiﬁcial intelligence (AI) plays a crucial role in the ﬁeld of education. On the one hand, AI provides abundant information resources such as online learning and virtual laboratories, enabling students to learn in a broader and more open environment. Additionally, technological advancements have gi..."
+        },
+        {
+          "rank": 8,
+          "score": 0.6471586227416992,
+          "source_file": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching.pdf",
+          "title": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+          "faiss_score": 0.5947701669148235,
+          "snippet": "Artiﬁcial intelligence: implications for the future of work. 62, 917-926. doi: 10.1002/ajim.23037 Ienca, M. Don’t pause giant AI for the wrong reasons."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính.pdf",
+          "title": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính",
+          "faiss_score": 0.6766446370532867,
+          "snippet": "KHOA HỌC VÀ CÔNG NGHỆ NƯỚC NGOÀI 52 Số 07 năm 2024 Công nghệ trí tuệ nhân tạo Trí tuệ nhân tạo (AI) là một lĩnh vực khoa học liên quan đến việc phát triển máy tính và máy móc có thể suy luận, học hỏi và hoạt động theo cách của con người hoặc liên quan đến dữ liệu có quy mô vượt quá những gì con ngườ..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính.pdf",
+          "title": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính",
+          "faiss_score": 0.5584817022340091,
+          "snippet": "AI có thể là một công cụ hữu ích trong việc tối ưu hóa các quy trình và nhiệm vụ khác nhau trong nhiều ngành, chẳng hạn như chăm sóc sức khỏe, tài chính, tiếp thị, an ninh mạng... Theo các nhà nghiên cứu, AI chia thành 4 giai đoạn phát triển, bao gồm: AI ở cấp độ phản ứng: AI có khả năng hạn chế chỉ..."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "usecase": "Synonym",
+      "query": "AI",
+      "expected_context": "artificial intelligence",
+      "engine": "BGE",
+      "num_results": 50,
+      "latency_ms": 4634.07,
+      "best_score@1": 1.0,
+      "best_score@3": 1.0,
+      "best_score@5": 1.0,
+      "best_score@10": 1.0,
+      "hit@1": 1,
+      "hit@3": 1,
+      "hit@5": 1,
+      "hit@10": 1,
+      "top1_score": 1.0,
+      "top1_title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificia",
+      "top1_source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+      "top_candidates": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "source_file": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students.pdf",
+          "title": "Digital proficiency assessing knowledge, attitudes, and skills in digital transformation, health literacy, and artificial intelligence among university nursing students",
+          "faiss_score": 0.671875,
+          "snippet": "Artificial intelligence (AI) has become indispensable in healthcare, aiming to enhance patient outcomes and streamline healthcare services. Through the utilization of machine learning algorithms, natural language pro­ cessing, and computer vision, AI facilitates the analysis of intricate medical dat..."
+        },
+        {
+          "rank": 2,
+          "score": 1.0,
+          "source_file": "Governance of artificial intelligence and personal health information.pdf",
+          "title": "Governance of artificial intelligence and personal health information",
+          "faiss_score": 0.1094970703125,
+          "snippet": "Keywords – Big data, Governance, Artificial intelligence, Deep learning, Personal health information 1. Introduction and motivation Artificial intelligence (AI) technologies increasingly enable innovations from searching the internet to voice and facial recognition, smart appliances, and even to dri..."
+        },
+        {
+          "rank": 3,
+          "score": 1.0,
+          "source_file": "Towards Accountability in the Use of Artificial Intelligence for Public Administrations.pdf",
+          "title": "Towards Accountability in the Use of Artificial Intelligence for Public Administrations",
+          "faiss_score": 0.05706787109375,
+          "snippet": "Using procurement instruments to ensure trustworthy AI. https://assets.mofoprod.net/network/documents/Using_procurement_ instruments_to_ensure_trustworthy_AI.pdf [2] Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García, Ser..."
+        },
+        {
+          "rank": 4,
+          "score": 1.0,
+          "source_file": "Responsible Digital Transformation for a Sustainable Society.pdf",
+          "title": "Responsible Digital Transformation for a Sustainable Society",
+          "faiss_score": 0.0185394287109375,
+          "snippet": "https://www.mck­ insey.com/capabilities/mckinsey-digital/our-insights/ women-in-tech-the-best-bet-to-solve-europes-talent-shortage#/. Dennehy, D., Griva, A., Pouloudi, N., Dwivedi, Y. K., Mäntymäki, M., & Pappas, I. Artificial Intelligence (AI) and Informa­ tion Systems: Perspectives to responsible ..."
+        },
+        {
+          "rank": 5,
+          "score": 0.7644820213317871,
+          "source_file": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors.pdf",
+          "title": "Preparing Workplaces for Digital Transformation An Integrative Review and Framework of Multi-Level Factors",
+          "faiss_score": 0.50048828125,
+          "snippet": "artiﬁcial intelligence (AI) and automation robotics cloud computing and the Internet of Things (IoT)"
+        },
+        {
+          "rank": 6,
+          "score": 0.5288540720939636,
+          "source_file": "Going green with artificial intelligence The path of technological change towards the renewable energy transition.pdf",
+          "title": "Going green with artificial intelligence The path of technological change towards the renewable energy transition",
+          "faiss_score": 0.0177154541015625,
+          "snippet": "doi: 10.1002/er. Cowls, J., Tsamados, A., Taddeo, M., & Floridi, L. A definition, benchmark and database of AI for social good initiatives. Nature Machine Intelligence, 3(2), 111–115."
+        },
+        {
+          "rank": 7,
+          "score": 0.0,
+          "source_file": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính.pdf",
+          "title": "Những công nghệ mới nổi thúc đẩy sự phát triển mạnh mẽ của khoa học máy tính",
+          "faiss_score": 0.91015625,
+          "snippet": "AI có thể là một công cụ hữu ích trong việc tối ưu hóa các quy trình và nhiệm vụ khác nhau trong nhiều ngành, chẳng hạn như chăm sóc sức khỏe, tài chính, tiếp thị, an ninh mạng... Theo các nhà nghiên cứu, AI chia thành 4 giai đoạn phát triển, bao gồm: AI ở cấp độ phản ứng: AI có khả năng hạn chế chỉ..."
+        },
+        {
+          "rank": 8,
+          "score": 0.0,
+          "source_file": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam.pdf",
+          "title": "Trí tuệ nhân tạo và tương lai của lưu trữ tài liệu khoa học và công nghệ tại Việt Nam",
+          "faiss_score": 0.79345703125,
+          "snippet": "Trong những năm gần đây, công nghệ AI không chỉ giúp tự động hóa các quy trình lưu trữ mà còn cải thiện đáng kể khả năng truy xuất quản lý và phân tích dữ liệu. Cụ thể, học máy (machine learning) là công nghệ AI giúp máy tính cải thiện hiệu suất mà không cần lập trình lại. Công cụ này hỗ trợ phân tí..."
+        },
+        {
+          "rank": 9,
+          "score": 0.0,
+          "source_file": "Ứng dụng trí tuệ nhân tạo và dữ liệu lớn trong bảo vệ môi trường Bài học quốc tế và gợi ý cho Việt Nam.pdf",
+          "title": "Ứng dụng trí tuệ nhân tạo và dữ liệu lớn trong bảo vệ môi trường Bài học quốc tế và gợi ý cho Việt Nam",
+          "faiss_score": 0.75634765625,
+          "snippet": "ứng dụng AI giúp giảm 12% mức độ ô nhiễm không khí tại Bắc Kinh trong mùa đông. Ấn Độ có hệ thống SAFAR (System of air quality and weather forecasting and research) sử dụng AI để cung cấp dữ liệu theo thời gian thực và dự báo xu hướng ô nhiễm trong 3 ngày. Ngoài ra, AI được tích hợp vào hệ thống phâ..."
+        },
+        {
+          "rank": 10,
+          "score": 0.0,
+          "source_file": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo.pdf",
+          "title": "Agentic AI Biên giới tiếp theo của trí tuệ nhân tạo",
+          "faiss_score": 0.54541015625,
+          "snippet": "GenAI là lựa chọn của bạn. Bạn cần AI để tự động hóa các quy trình phức tạp hoặc quản lý nhiệm vụ? Agentic AI chính là câu trả lời. Biết loại AI nào phù hợp với nhu cầu sẽ giúp người dùng tiết kiệm thời gian, tiền bạc và tài nguyên."
+        }
+      ]
+    }
+  ]
+}

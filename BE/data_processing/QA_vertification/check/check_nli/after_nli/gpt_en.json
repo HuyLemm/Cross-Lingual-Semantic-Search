@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Study on the impact of digital transformation on green competitive advantage The role of green innovation and government regulation",
+    "context": "Digital transformation enables small and medium enterprises (SMEs) to reduce reliance on resources and energy, thereby minimizing environmental impact and helping them achieve green competitive advantages. :contentReference[oaicite:5]{index=5}",
+    "question": "How does digital transformation help SMEs achieve green competitive advantages?",
+    "answer": "Digital transformation reduces reliance on resources and energy, lowers environmental impact, and supports sustainable competitive advantages.",
+    "check_human": "true"
+  },
+  {
+    "title": "Foreign Aid and the Quest for Poverty Reduction Is Aid to Agriculture Effective",
+    "context": "Agricultural growth not only favors the poor directly but also expands the poverty reducing effects of other sectors.",
+    "question": "What additional impact does agricultural growth have besides directly benefiting the poor?",
+    "answer": "it expands the poverty reducing effects of other sectors",
+    "check_human": "true"
+  },
+  {
+    "title": "Decreasing patient cost and travel time through pediatric rheumatology telemedicine visits",
+    "context": "Telemedicine reduced the need for expenses such as food, lodging and travel when compared to in-person visits.",
+    "question": "How did telemedicine influence additional costs such as meals or lodging for families?",
+    "answer": "telemedicine reduced the need for expenses such as meals, lodging and travel",
+    "check_human": "true"
+  },
+  {
+    "title": "Macroeconomic Policy and Elections in OECD Democracies",
+    "context": "The study investigates the behavior of monetary policy around elections. It finds some evidence of expansionary monetary policy during election years. These patterns are described as political monetary cycles. However, the statistical strength of the evidence is limited.",
+    "question": "What type of political cycle is observed in monetary policy?",
+    "answer": "The study finds evidence of expansionary monetary policy in election years.",
+    "check_human": ""
+  },
+  {
+    "title": "State-Level Renewable Energy Policy Implementation How and Why Do Stakeholders Participate",
+    "context": "Stakeholders in renewable energy policy include utilities, regulatory agencies, environmental groups, consumer advocates, electricity generators, and private citizens. These actors increasingly seek to influence how Renewable Portfolio Standards are implemented. Their involvement reflects the fact that renewable energy policy decisions can change both the technical structure of the electricity system and the distribution of benefits and costs. Stakeholder participation therefore plays an important role in policy implementation.",
+    "question": "Who are the key stakeholders involved in Renewable Portfolio Standard implementation?",
+    "answer": "Key stakeholders include utilities, regulatory agencies, environmental groups, consumer advocates, electricity generators, and private citizens.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Inclusion and Inclusive Growth: A Review of Recent Empirical Evidence",
+    "context": "Financial inclusion means that adults have access to and can effectively use financial services such as payments, savings accounts, loans, and insurance. :contentReference[oaicite:10]{index=10}",
+    "question": "What does financial inclusion mean?",
+    "answer": "Financial inclusion refers to adults having access to and being able to use financial services such as payments, savings accounts, loans, and insurance.",
+    "check_human": "true"
+  },
+  {
+    "title": "Data Governance and Citizen Participation in the Digital Welfare State",
+    "context": "Predictive analytics in social policy is often used to detect fraud risks or identify vulnerable groups in need of services.",
+    "question": "For what purposes is predictive analytics used in social policy?",
+    "answer": "to detect fraud risks and identify vulnerable groups who may need services",
+    "check_human": "true"
+  },
+  {
+    "title": "Reducing Alert Burden in Electronic Health Records State of the Art Recommendations from Four Health Systems",
+    "context": "Processing electronic health record alerts requires clinician time and attention. One study analyzing nearly 26,000 drug-drug interaction alerts found that clinicians spent a median time of about 8 seconds processing each alert. This processing time contributes to the cumulative cost of alerts in healthcare systems.",
+    "question": "What was the median time clinicians spent processing drug-drug interaction alerts in the study?",
+    "answer": "The median time spent processing drug-drug interaction alerts was about 8 seconds.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Role of Bike Sharing in Promoting Transport Resilience",
+    "context": "Bike sharing is becoming increasingly popular in cities around the world. With flexibility and multiple social, environmental and economic benefits, it can act as a viable alternative during public transit disruptions. This makes bike sharing useful for improving urban transport resilience.",
+    "question": "Why can bike sharing serve as an alternative mode during public transit disruptions?",
+    "answer": "Bike sharing can serve as an alternative because of its flexibility and its social, environmental and economic benefits.",
+    "check_human": "true"
+  },
+  {
+    "title": "Study on Introduction of Cashless Economy in India 2016 Benefits & Challenge’s",
+    "context": "The paper lists several benefits of a cashless economy. It says this system helps curb black money and counterfeit fake currency. It also states that digital payments help fight against terrorism and reduce cash-related robbery. In addition, the paper says a cashless economy can improve economic growth.",
+    "question": "What benefits of a cashless economy are identified in the paper?",
+    "answer": "The paper identifies benefits such as curbing black money, reducing counterfeit currency, helping fight terrorism, reducing cash-related robbery, and improving economic growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Transport Infrastructure for Sustainable Development",
+    "context": "Environmental problems caused by economic growth have led to the development of the concept of sustainable development.",
+    "question": "Why was the concept of sustainable development developed?",
+    "answer": "The concept of sustainable development was developed to address environmental problems caused by economic growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Exploring socioeconomic inequalities and access to elite postgraduate education among English graduates",
+    "context": "Results show clear socioeconomic differences in access to Russell Group postgraduate degrees. Graduates from advantaged backgrounds are more likely to attend elite institutions for taught and research postgraduate study. However, these differences weaken when academic achievement and undergraduate institution are considered. This suggests mediation rather than direct class effects.",
+    "question": "What do the findings show about socioeconomic inequalities in access to elite postgraduate education?",
+    "answer": "Socioeconomically advantaged graduates are more likely to access elite postgraduate education, but these inequalities are largely mediated by prior achievement and undergraduate institution.",
+    "check_human": "true"
+  },
+  {
+    "title": "Strengthening health system to improve immunization for migrants in China",
+    "context": "The rising migrant population created challenges for immunization because authorities often did not know the actual number of children requiring vaccination, as migrant families frequently did not report their movements. :contentReference[oaicite:4]{index=4}",
+    "question": "Why did the growing migrant population create challenges for immunization programs?",
+    "answer": "Because migrant families often did not report their movements, authorities did not know the real number of children needing vaccination.",
+    "check_human": "true"
+  },
+  {
+    "title": "Informality Causes and Consequences for Development",
+    "context": "Informal firms are on average smaller, pay lower wages, are run by less educated individuals, hire less educated workers and earn lower profits than formal firms.",
+    "question": "How do informal firms typically differ from formal firms?",
+    "answer": "Informal firms are generally smaller, pay lower wages, employ less educated workers, are run by less educated owners, and generate lower profits than formal firms.",
+    "check_human": "true"
+  },
+  {
+    "title": "Infrastructuring digital sovereignty a research agenda for an infrastructure-based sociology of digital self-determination practices",
+    "context": "Internet governance studies examine relationships between states and digital networks. Some early scholars believed digital networks would weaken state authority. Later research showed states can influence digital networks through regulation and legislation. Governance frameworks shape digital sovereignty.",
+    "question": "How do states influence digital networks according to later research?",
+    "answer": "States influence digital networks through legislation, regulation, and governance frameworks.",
+    "check_human": "true"
+  },
+  {
+    "title": "Technical and vocational education and training (TVET) for young people in low- and middle-income countries a systematic review and meta-analysis",
+    "context": "Meta-analysis results showed that the overall effects of TVET on paid employment, formal employment, and earnings were small but positive and statistically significant. :contentReference[oaicite:3]{index=3}",
+    "question": "What were the overall effects of TVET interventions on employment outcomes?",
+    "answer": "TVET interventions produced small but positive and statistically significant effects on paid employment, formal employment, and earnings.",
+    "check_human": "true"
+  },
+  {
+    "title": "The World Health Organization Global Benchmarking Tool an Instrument to Strengthen Medical Products Regulation and Promote Universal Health Coverage",
+    "context": "The Global Benchmarking Tool allows regulatory authorities to identify strengths and weaknesses and develop institutional plans for regulatory system improvement.",
+    "question": "How does the Global Benchmarking Tool assist national regulatory authorities?",
+    "answer": "It helps them identify strengths and weaknesses and develop institutional plans for improving regulatory systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving health workforce recruitment and retention in rural and remote regions of Nigeria.",
+    "context": "Nigeria’s health system suffers from insufficient numbers of trained health professionals. The number of health staff in the country must increase significantly to meet healthcare needs. The numbers of all cadres of health staff in Nigeria need to be at least doubled.",
+    "question": "What increase in health workforce numbers is needed to meet Nigeria’s current health needs?",
+    "answer": "the numbers of all cadres of health staff in Nigeria need to be at least doubled",
+    "check_human": "true"
+  },
+  {
+    "title": "The Usability, Feasibility, Acceptability, and Efficacy of Digital Mental Health Services in the COVID-19 Pandemic Scoping Review, Systematic Review, and Meta-analysis",
+    "context": "The meta-analysis evaluated the effectiveness of digital mental health interventions. The results indicated reductions in depressive symptoms and anxiety symptoms. These findings suggest that digital interventions can help improve psychological well-being.",
+    "question": "What mental health outcomes improved according to the meta-analysis results?",
+    "answer": "Depressive symptoms and anxiety symptoms improved with digital mental health interventions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Treating rural paediatric obesity through telemedicine vs. telephone Outcomes from a cluster randomized controlled trial",
+    "context": "Researchers evaluated participant satisfaction and attendance in the intervention program. Parents and families reported positive experiences with the program. Participants were highly satisfied with the intervention delivered through both telemedicine and telephone methods.",
+    "question": "How did participants evaluate the telemedicine and telephone interventions?",
+    "answer": "Participants were highly satisfied with the intervention both via telemedicine and via telephone.",
+    "check_human": "true"
+  },
+  {
+    "title": "Maternal health care service seeking behaviors and associated factors among women in rural Haramaya District, Eastern Ethiopia a triangulated community-based cross-sectional study",
+    "context": "Antenatal care is defined as the care received from healthcare professionals during pregnancy at least once. :contentReference[oaicite:4]{index=4}",
+    "question": "How is antenatal care defined in the study?",
+    "answer": "Antenatal care is defined as the care received from healthcare professionals during pregnancy at least once.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital marketing and public relations A way to promote public relations value",
+    "context": "Corporate communication management is responsible for communicating with internal and external stakeholders of an organization. This function helps deliver clear messages about the organization’s vision, mission, and activities. Digital marketing tools support these communication processes by distributing information through modern digital channels. Effective communication management therefore strengthens relationships with stakeholders. :contentReference[oaicite:13]{index=13}",
+    "question": "What role does corporate communication management play in organizations?",
+    "answer": "Corporate communication management manages communication with stakeholders and delivers clear messages about the organization’s vision, mission, and activities.",
+    "check_human": "true"
+  },
+  {
+    "title": "Implementation of Organizational Agility Strategies to Meet The Challenges of Digital Transformation in Government Organizations",
+    "context": "Digital transformation has become essential for organizations due to rapid technological innovation. The study focuses on the role of organizational agility in supporting digital transformation in government organizations. It also examines the influence of innovation and Digital Transformational Leadership on organizational agility. Results show that organizational agility improves digital transformation.",
+    "question": "What role does organizational agility play in digital transformation according to the study?",
+    "answer": "Organizational agility improves and supports digital transformation in government organizations.",
+    "check_human": "true"
+  },
+  {
+    "title": "Undoing Equivalence Rethinking Carbon Accounting for Just Carbon Removal",
+    "context": "Carbon removal is becoming increasingly central in climate governance. This trend is especially visible in the adoption of net-zero targets by countries and corporations. As a result, large-scale carbon removal is becoming an implied part of mitigation policy. This development has raised concerns about feasibility, justice, and environmental risks.",
+    "question": "Why is carbon removal becoming more important in climate policy?",
+    "answer": "Because countries and corporations are increasingly adopting net-zero targets that imply large-scale carbon removal as part of mitigation policy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Inequality and Digitally Mediated Communication Divides, Contradictions and Consequences",
+    "context": "A third digital divide research tradition examines the outcomes of internet access and use. Researchers analyze how digital connectivity affects economic, social, cultural, and individual outcomes. These studies aim to understand the differences users experience in their lives as a result of internet use.",
+    "question": "What does the third digital divide research tradition focus on?",
+    "answer": "the third tradition focuses on the economic, social, cultural and individual outcomes of internet use",
+    "check_human": "true"
+  },
+  {
+    "title": "Financing Africa’s Infrastructure Deficit: From Development Banking to Long-Term Investing",
+    "context": "Investment in infrastructure involves risks that differ from other asset classes. Construction risks in large-scale projects can deter long-term investors. Additionally, many investors lack specialized expertise in infrastructure sectors. The lack of standardized infrastructure projects further complicates investment decisions.",
+    "question": "What are the main challenges long-term investors face when investing in infrastructure?",
+    "answer": "They face construction risks, lack of specialized infrastructure expertise, and difficulties due to the lack of standardized infrastructure projects.",
+    "check_human": "true"
+  },
+  {
+    "title": "Organization of the Saudi health system",
+    "context": "A health system includes all those activities whose primary purpose is to promote, restore or maintain health. The organization of a health system varies from country to country and also changes over time. Nations modify their health systems to accommodate new health priorities within social and economic constraints.",
+    "question": "What is the primary purpose of a health system according to the article?",
+    "answer": "The primary purpose of a health system is to promote, restore or maintain health.",
+    "check_human": "true"
+  },
+  {
+    "title": "Study on the impact of digital transformation on green competitive advantage: The role of green innovation and government regulation",
+    "context": "The study further confirms that green product and green process innovation mediate the relationship between digital transformation and green competitive advantage. Digital transformation enhances firms’ innovation capabilities, which in turn strengthen ecological competitiveness. This mediation explains how digital technologies are converted into environmental value. The findings clarify previously uncertain mechanisms.",
+    "question": "How does green innovation mediate the relationship between digital transformation and green competitive advantage?",
+    "answer": "Green product and process innovation transmit the positive effects of digital transformation to green competitive advantage.",
+    "check_human": "true"
+  },
+  {
+    "title": "Institutional Development, Financial Deepening and Economic Growth: Evidence from China",
+    "context": "China’s transition to a market economy occurred incrementally, with economic liberalization progressing gradually and privatization delayed for many years.",
+    "question": "How did China’s transition from a planned economy to a market economy occur?",
+    "answer": "China’s transition occurred gradually through incremental reforms, with progressive economic liberalization and delayed privatization.",
+    "check_human": "true"
+  },
+  {
+    "title": "Improving Community-Based Mental Health Care for Children Translating Knowledge into Action",
+    "context": "The purpose of this selective review is to present evidence of the areas needing improvement. It also summarizes what is known about the current status quo. In addition, it highlights existing empirically-supported strategies to address serious problems in the current mental health system.",
+    "question": "What is the purpose of the selective review in this article?",
+    "answer": "The purpose of this selective review is to present evidence of the areas needing improvement, summarize what is known about the current status quo, and highlight existing empirically-supported strategies to address serious problems in our current mental health system.",
+    "check_human": "true"
+  },
+  {
+    "title": "The Macroeconomics of Poverty Reduction",
+    "context": "Poverty remains a widespread phenomenon in the developing world despite progress in raising living standards in many countries.",
+    "question": "Is poverty still widespread in developing countries?",
+    "answer": "Yes, poverty remains a widespread phenomenon in the developing world despite improvements in living standards.",
+    "check_human": "true"
+  },
+  {
+    "title": "Telehealth and digital health innovations A mixed landscape of access",
+    "context": "Despite its benefits, telehealth may worsen inequalities if populations lack broadband connectivity, devices, or digital literacy.",
+    "question": "What factors can limit people’s ability to use telehealth services?",
+    "answer": "Limited broadband connectivity, lack of digital devices, and insufficient digital literacy can prevent people from using telehealth services. :contentReference[oaicite:4]{index=4}",
+    "check_human": "true"
+  },
+  {
+    "title": "Rural mental health workforce difficulties a management perspective.",
+    "context": "The study took a qualitative approach to investigate workforce difficulties in rural mental health services. Semi-structured in-person interviews were conducted with 24 managers of health and mental health services, along with senior administrators and clinicians. Thematic content analysis was used to identify the core difficulties experienced in recruitment, retention and training.",
+    "question": "How were data collected in the study on rural mental health workforce difficulties?",
+    "answer": "The study conducted semi-structured in-person interviews with 24 managers of health and mental-health services and senior administrators and clinicians.",
+    "check_human": "true"
+  },
+  {
+    "title": "How Treatment Partners Help Social Analysis of an African Adherence Support Intervention",
+    "context": "The study used a grounded theory approach to analyze qualitative interview data. Researchers coded interview content and grouped it into categories representing forms of assistance. Categories were refined through repeated analysis of the data. This process produced a narrative explanation of treatment partners’ social roles.",
+    "question": "What research method was used to analyze the interview data?",
+    "answer": "The study used a grounded theory approach to analyze qualitative interview data.",
+    "check_human": "true"
+  },
+  {
+    "title": "The co-production of what? Knowledge, values, and social relations in health care",
+    "context": "Processes of co-production in health care can take many forms. These forms include the co-design, co-evaluation, and co-implementation of services and service improvements by patients, clinicians, carers, and managers. Such processes may occur with or without a research component.",
+    "question": "What forms can co-production processes take in health care services?",
+    "answer": "Co-production processes can include the co-design, co-evaluation, and co-implementation of services and service improvements by patients, clinicians, carers, and managers.",
+    "check_human": "true"
+  },
+  {
+    "title": "Green Bonds as a Tool Against Climate Change",
+    "context": "The study examines whether green bond issuance is associated with improved environmental performance. It compares green bond issuers with similar conventional bond issuers. The findings show that green issuers reduce carbon intensity after issuing green bonds. This suggests environmental improvement.",
+    "question": "What environmental effect is associated with green bond issuance?",
+    "answer": "Green bond issuers show a reduction in carbon intensity after issuing green bonds.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of Safety Nets on Household Coping Mechanisms for COVID-19 Pandemic in Malawi",
+    "context": "Covid-19 pandemic induced various shocks to households in Malawi, many of which were failing to cope. In order to assist households to respond to the pandemic-induced shocks positively, the government of Malawi introduced Covid-19 Urban Cash Intervention (CUCI) and other safety nets. These programs complemented existing social protection programs during the pandemic.",
+    "question": "What program did the government of Malawi introduce to help households respond to pandemic-induced shocks?",
+    "answer": "The government of Malawi introduced Covid-19 Urban Cash Intervention (CUCI) and other safety nets.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Design and Adapting to Flood Risk The Role of Green Infrastructure",
+    "context": "Flood risk can originate from multiple sources in urban environments. These include fluvial, tidal, and coastal flooding as well as surface water from urban runoff and drainage failures. Climate change is expected to increase these risks through sea level rise and more frequent extreme precipitation events. Such processes can threaten infrastructure, property, and ecosystems. :contentReference[oaicite:2]{index=2}",
+    "question": "What factors contribute to increasing flood risk in urban areas?",
+    "answer": "Flood risk can arise from fluvial, tidal, coastal flooding, surface water runoff, drainage failure, and climate change impacts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Macroeconomic Stability and Its Impact on the Economic Growth of the Country",
+    "context": "The results of the analysis indicate a strong relationship between macroeconomic stability and economic growth. The obtained findings indicate the high level of compliance of the built model with the initial data. The assessment of the elasticity of macroeconomic stability is positive and statistically significant. :contentReference[oaicite:1]{index=1}",
+    "question": "What does the research find about the elasticity of macroeconomic stability?",
+    "answer": "The assessment of the elasticity of macroeconomic stability is positive and statistically significant.",
+    "check_human": "true"
+  },
+  {
+    "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics An Inductive Analysis of the Effects of Public Attention to Clinton's Health Care Reform Initiative",
+    "context": "This study examines the effects of public attention to Clinton’s health care reform initiative on institutional change. The analysis focuses on how attention to events can lead to new organizing principles in an organizational field. The authors explore how event attention contributes to the emergence and adoption of new institutional logics.",
+    "question": "What does the study examine regarding Clinton’s health care reform initiative?",
+    "answer": "the effects of public attention to Clinton’s health care reform initiative on institutional change",
+    "check_human": "true"
+  },
+  {
+    "title": "Maternal Health-Seeking Behavior The Role of Financing and Organization of Health Services in Ghana",
+    "context": "The delivery exemption policy was introduced to remove financial barriers to maternal health care. It allowed pregnant women to receive free antenatal, delivery, and postnatal services at health facilities. The policy aimed to improve access and encourage facility use. It was later supported by the National Health Insurance Scheme.",
+    "question": "What was the purpose of the delivery exemption policy?",
+    "answer": "To remove financial barriers and provide free maternal health services to pregnant women.",
+    "check_human": "true"
+  },
+  {
+    "title": "Unravelling Stakeholder Perceptions to Enable Adaptive Water Governance in Dryland Systems",
+    "context": "Institutions shape how stakeholders value and use water ecosystem services. Governance systems influence resource use and social interactions. Understanding these institutions helps direct governance improvements. This supports better ecosystem management. :contentReference[oaicite:8]{index=8}",
+    "question": "Why are institutions important in adaptive water governance?",
+    "answer": "Because they shape how stakeholders value and use water resources and influence governance outcomes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Event Attention, Environmental Sensemaking, and Change in Institutional Logics",
+    "context": "Institutional logics are defined as socially constructed organizing principles that shape institutionalized practices within social systems. They guide how organizations interact, compete, and coordinate within a particular field. :contentReference[oaicite:6]{index=6}",
+    "question": "What are institutional logics according to the study?",
+    "answer": "Institutional logics are socially constructed organizing principles that guide practices and relationships within a social system.",
+    "check_human": "true"
+  },
+  {
+    "title": "Satisfied or Frustrated A Qualitative Analysis of Need Satisfying and Need Frustrating Experiences of Engaging With Digital Health Technology in Chronic Care",
+    "context": "Digital health technologies such as self-monitoring devices and mobile applications are increasingly used to support individuals in managing chronic conditions. These technologies can help users monitor health parameters, plan treatment and track progress. Their effectiveness depends on whether users are motivated to engage with the technology.",
+    "question": "Why is user motivation important when using digital health technologies for chronic care?",
+    "answer": "The effectiveness of digital health technologies depends on whether users are motivated to engage with the technology.",
+    "check_human": "true"
+  },
+  {
+    "title": "Foreign Aid and the Quest for Poverty Reduction Is Aid to Agriculture Effective",
+    "context": "The results indicate that agricultural aid is effective in reducing poverty. The effect occurs both directly and indirectly. Indirectly, agricultural aid works through economic growth and pro-poor expenditure. These findings support the importance of sector-specific aid allocation.",
+    "question": "What does the study conclude about the effectiveness of agricultural aid?",
+    "answer": "The study concludes that agricultural aid reduces poverty both directly and indirectly through growth and pro-poor expenditure.",
+    "check_human": "true"
+  },
+  {
+    "title": "The worldwide trend to high participation higher education",
+    "context": "Mass higher education systems have expanded rapidly worldwide, moving many countries toward systems with high participation rates. :contentReference[oaicite:6]{index=6}",
+    "question": "What global trend characterizes higher education participation?",
+    "answer": "Higher education participation has expanded rapidly worldwide, moving many countries toward high participation systems.",
+    "check_human": "true"
+  },
+  {
+    "title": "Water resource management IWRM strategies for improved water management. A systematic review of case studies of East, West and Southern Africa",
+    "context": "Water resources are affected by population growth and increasing demand. Rapid development in many regions has intensified pressure on available water supplies. These pressures require effective water management policies.",
+    "question": "What factors have intensified pressure on water resources in many regions?",
+    "answer": "Population growth and increasing demand have intensified pressure on available water supplies.",
+    "check_human": ""
+  },
+  {
+    "title": "The Role of Knowledge in Disaster Risk Reduction",
+    "context": "The Sendai Framework for Disaster Risk Reduction emphasizes monitoring, assessing, and understanding disaster risk, and strengthening disaster risk governance and coordination across institutions and sectors.",
+    "question": "What does the Sendai Framework emphasize for reducing disaster risk?",
+    "answer": "The Sendai Framework emphasizes monitoring and understanding disaster risk and strengthening disaster risk governance and coordination.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital Transformation in MSMEs: Challenges and Opportunities in Technology Management",
+    "context": "The article highlights inadequate digital infrastructure as a critical obstacle, especially in developing and rural areas. Slow or unstable internet connectivity, limited access to modern hardware and software, and insufficient technical support restrict MSMEs’ ability to adopt digital solutions. These infrastructure gaps reduce competitiveness compared to larger firms. Reliable infrastructure is presented as a prerequisite for successful digital transformation.",
+    "question": "Why is inadequate digital infrastructure considered a significant barrier to digital transformation for MSMEs?",
+    "answer": "Inadequate infrastructure limits reliable internet access, hardware, software, and technical support, which prevents MSMEs from effectively adopting and operating digital technologies.",
+    "check_human": "true"
+  },
+  {
+    "title": "Disaster risk reduction infrastructure requirements for South-Western Bangladeshperspectives of local communities",
+    "context": "Infrastructure plays a crucial role in protecting communities during disasters. Disaster shelters, embankments, and transportation infrastructure help reduce vulnerability to extreme weather events. These facilities support evacuation and protect populations during emergencies.",
+    "question": "What types of infrastructure help reduce vulnerability to extreme weather events in disaster-prone areas?",
+    "answer": "Disaster shelters, embankments, and transportation infrastructure help reduce vulnerability to extreme weather events",
+    "check_human": "true"
+  },
+  {
+    "title": "Defining and Measuring Chronic Conditions Imperatives for Research, Policy, Program, and Practice",
+    "context": "Chronic conditions are generally characterized by their non–self-limited nature and their association with persistent or recurring health problems. Unlike acute illnesses that last days or weeks, chronic conditions usually persist for months or years and often require ongoing management. :contentReference[oaicite:1]{index=1}",
+    "question": "What characteristics commonly define a chronic condition?",
+    "answer": "Chronic conditions are typically long-lasting, non–self-limited illnesses associated with persistent or recurring health problems that require long-term management.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social innovation and sustainability; how to disentangle the buzzword and its application in the field of agriculture and rural development",
+    "context": "Social innovation can also refer to the need for society to change in order to address problems such as poverty, discrimination and pollution. In this perspective, social innovation involves changes in social relations, behaviour, norms and values.",
+    "question": "What societal changes are associated with social innovation?",
+    "answer": "Social innovation involves changes in social relations, behaviour, norms and values.",
+    "check_human": "true"
+  },
+  {
+    "title": "Workforce Agility: Development and Validation of a Multidimensional Measure",
+    "context": "Workforce agility is found to be positively related to multiple work outcomes. These include task performance, innovative performance, organizational citizenship behavior, job satisfaction, and well-being. The findings support theoretical claims linking agility to positive organizational and individual outcomes. Agility is therefore positioned as a valuable workforce capability.",
+    "question": "What work-related outcomes are positively associated with workforce agility in the study?",
+    "answer": "Workforce agility is positively associated with task performance, innovative performance, organizational citizenship behavior, job satisfaction, and well-being.",
+    "check_human": "true"
+  },
+  {
+    "title": "Implementation of Organizational Agility Strategies to Meet The Challenges of Digital Transformation in Government Organizations",
+    "context": "Innovation helps organizations remain flexible and responsive to change. Innovative organizations identify new opportunities and develop new products. Innovation strengthens the ability to respond to environmental changes. This supports the development of organizational agility.",
+    "question": "Why is innovation important for organizational agility?",
+    "answer": "Because it improves flexibility and responsiveness, helping organizations adapt to environmental changes.",
+    "check_human": "true"
+  },
+  {
+    "title": "Energy and Economic Development An Assessment of the State of Knowledge",
+    "context": "Energy development competes with other development priorities because countries must allocate scarce capital among many policy areas. Governments must decide how much investment should be directed toward energy systems versus other development needs.",
+    "question": "Why does energy development compete with other development priorities?",
+    "answer": "Because governments must allocate scarce capital among energy systems and other development needs.",
+    "check_human": "true"
+  },
+  {
+    "title": "Challenges and opportunities for improving energy efficiency in SMEs learnings from seven European projects",
+    "context": "Several European projects aim to improve awareness of energy efficiency among SMEs. These projects include SPEEDIER, SMEmPower Efficiency, E2Driver, Innoveas, Triple-A, DEESME and ICCEE. They collect data using surveys, interviews and stakeholder discussions. The results help identify drivers and barriers to energy efficiency improvements.",
+    "question": "Which research projects were analyzed to study energy efficiency in SMEs?",
+    "answer": "The projects analyzed include SPEEDIER, SMEmPower Efficiency, E2Driver, Innoveas, Triple-A, DEESME and ICCEE.",
+    "check_human": "true"
+  },
+  {
+    "title": "Review of urban traffic management and the impacts of new vehicle technologies",
+    "context": "Urban Traffic Management systems collect data from many sources. The data are processed and stored in a common database. Real-time information is then used to implement measures that manage traffic. These measures may include traffic control, traveller information, and other management tools. :contentReference[oaicite:11]{index=11}",
+    "question": "How do Urban Traffic Management systems support traffic control?",
+    "answer": "They collect and process traffic data from multiple sources and use real-time information to implement traffic management measures.",
+    "check_human": "true"
+  },
+  {
+    "title": "Economic policy for country’s digitalization a case study",
+    "context": "Digital economy development is defined as data-driven production and service delivery that enhances efficiency and productivity. The article emphasizes that digitalization affects not only technology sectors but also labor markets and public services. New professions emerge alongside declining traditional jobs. These changes reshape income distribution and employment structures.",
+    "question": "How does the article define the digital economy and its implications for labor markets?",
+    "answer": "It defines the digital economy as data-driven activity that transforms production and services while reshaping labor markets through new professions and employment patterns.",
+    "check_human": "true"
+  },
+  {
+    "title": "Reviewing the labyrinth of psychological resilience Establishing criteria for resilience-building programs.",
+    "context": "The article explains that adversity is a necessary condition for resilience because it triggers the resilience process. Adversity can differ in nature, intensity, duration, predictability, and frequency. It may involve a single event or multiple events. The review therefore argues that programs should specify the characteristics of the adversity involved. :contentReference[oaicite:13]{index=13}",
+    "question": "Why must resilience-building programs specify the characteristics of adversity?",
+    "answer": "Because adversity triggers the resilience process and can vary in nature, intensity, duration, predictability, and frequency.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Transport of Passengers in Large Urban Agglomerations and Sustainable Development Experience of Bucharest Municipality in Romania",
+    "context": "The Sustainable Urban Mobility Plan for Bucharest aims to develop an efficient, integrated, sustainable, and safe transport system that supports economic and social development.",
+    "question": "What is the main objective of the Sustainable Urban Mobility Plan for the Bucharest region?",
+    "answer": "The objective is to create an efficient, integrated, sustainable, and safe transport system that supports economic and social development.",
+    "check_human": "true"
+  },
+  {
+    "title": "Current Debates on Infrastructure Policy",
+    "context": "Infrastructure services are typically delivered through networks. Network expansion can produce nonlinear effects on economic output. Returns may increase as coverage expands and systems become more complete. This means infrastructure impact varies across stages of development.",
+    "question": "Why can infrastructure have nonlinear effects on growth?",
+    "answer": "Because infrastructure is delivered through networks, returns increase as coverage expands, causing its impact on growth to vary across development stages.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital higher education a divider or bridge builder Leadership perspectives on edtech in a COVID-19 reality",
+    "context": "Digital education can improve access by allowing students to retrieve information and participate in remote learning. However, access depends on structural inequalities such as income, location, and digital infrastructure. These inequalities contribute to the digital divide. Not all students benefit equally from digital education.",
+    "question": "What factors influence access to digital higher education?",
+    "answer": "Access is influenced by structural inequalities such as income, location, and digital infrastructure.",
+    "check_human": "true"
+  },
+  {
+    "title": "Nanoparticles, human health hazard and regulation",
+    "context": "Two toxic substances have caused many deaths in the history of peacetime technology. Quartz and asbestos are particularly notable examples. Inhaling fine particles of these materials has been recognized as harmful for many years.",
+    "question": "Which two toxic substances stand out in the history of peacetime technology for causing many deaths?",
+    "answer": "Two toxic substances stand out above all others in the history of peacetime technology in terms of deaths caused: quartz and asbestos.",
+    "check_human": "true"
+  },
+  {
+    "title": "Small And Medium Scale Enterprises (SMEs) And Nigeria’s Economic Development",
+    "context": "SMEs play an important role in national economic development. They contribute to GDP growth and generate taxes and other forms of revenue for the government. These contributions strengthen the national economy.",
+    "question": "What economic benefits do SMEs provide to the government?",
+    "answer": "SMEs can grow a country’s GDP and generate taxes and other revenue.",
+    "check_human": "true"
+  },
+  {
+    "title": "Enhancing Accountability and Transparency in the Public Sector A Comprehensive Review of Public Sector Accounting Practices",
+    "context": "Transparent financial reporting improves decision-making in the public sector. When financial data is clear and accessible, policymakers can make informed choices. This reduces the risk of mismanagement and inefficiency. Transparency therefore enhances institutional effectiveness.",
+    "question": "Why does transparent financial reporting improve decision-making?",
+    "answer": "Because clear and accessible financial data allows policymakers to make informed decisions and reduces mismanagement risks.",
+    "check_human": "true"
+  },
+  {
+    "title": "Resilient Health System As Conceptual Framework for Strengthening Public Health Disaster Risk Management",
+    "context": "A resilient health system can effectively prepare for, withstand, and respond to the public health consequences of disasters.",
+    "question": "What is the key characteristic of a resilient health system during disasters?",
+    "answer": "A resilient health system is able to prepare for, withstand and respond effectively to the public health consequences of disasters.",
+    "check_human": "true"
+  },
+  {
+    "title": "The State of Food Security and Nutrition in the World 2022",
+    "context": "Transforming food systems is necessary to improve food security and nutrition while ensuring environmental sustainability and economic inclusion.",
+    "question": "Why is transforming food systems considered necessary?",
+    "answer": "Transforming food systems is necessary to improve food security and nutrition while ensuring environmental sustainability and economic inclusion.",
+    "check_human": "true"
+  },
+  {
+    "title": "Steering transformations under climate change capacities for transformative climate governance and the case of Rotterdam, the Netherlands",
+    "context": "Rotterdam has developed several strategies to address climate change impacts such as flooding and sea level rise. These strategies include climate adaptation planning and water management initiatives. The city aims to increase resilience against climate-related risks.",
+    "question": "What is the purpose of Rotterdam’s climate adaptation strategies?",
+    "answer": "The city aims to increase resilience against climate-related risks such as flooding and sea level rise.",
+    "check_human": "true"
+  },
+  {
+    "title": "Operational definition of disaster risk-reduction literacy",
+    "context": "Disaster risk-reduction literacy improves decision-making during disasters. It helps individuals act appropriately to reduce risks. Higher literacy levels empower people to respond effectively. This contributes to safer outcomes during disaster situations.",
+    "question": "What is one key effect of higher disaster risk-reduction literacy?",
+    "answer": "One key effect is improved decision-making during disasters.",
+    "check_human": "true"
+  },
+  {
+    "title": "Performance-based financing in the context of the complex remuneration of health workers findings from a mixed-method study in rural Sierra Leone",
+    "context": "Performance-based bonuses provided additional income that could be used for emergencies or reinvested. Health workers reported that the bonuses played a role in their income utilization strategies. The incentives were seen as extra money rather than guaranteed earnings. This influenced how workers valued and used the bonuses.",
+    "question": "How did health workers typically use performance-based financing bonuses?",
+    "answer": "They used the bonuses as extra money for emergencies or reinvestment.",
+    "check_human": "true"
+  },
+  {
+    "title": "Problems and Prospects of SME Financing in Bangladesh",
+    "context": "Small and medium enterprises (SMEs) play a vital role in economic development by generating employment, contributing to GDP, and supporting industrial growth in Bangladesh.",
+    "question": "Why are small and medium enterprises important for Bangladesh’s economy?",
+    "answer": "Small and medium enterprises are important because they generate employment, contribute significantly to GDP, and support industrial and economic development in Bangladesh.",
+    "check_human": "true"
+  },
+  {
+    "title": "Research, part of a Special Feature on Resilience Through Multi-scalar Collaboration Governance for Resilience CALFED as a Complex Adaptive Network for Resource Management",
+    "context": "Traditional government systems often rely on bureaucratic procedures and lengthy legislative processes. Adaptive management of environmental resources requires more flexible governance approaches. The CALFED case illustrates governance strategies that can address complex environmental problems more effectively than conventional bureaucratic procedures. :contentReference[oaicite:12]{index=12}",
+    "question": "Why are traditional bureaucratic procedures insufficient for adaptive environmental management?",
+    "answer": "Adaptive management of environmental resources presents a challenge to traditional government with its reliance on bureaucratic procedures and lengthy legislative processes.",
+    "check_human": "true"
+  },
+  {
+    "title": "TRANSPARENCY AND ACCOUNTABILITY IN MANAGEMENT OF VILLAGE ADMINISTRATION REVENUE AND EXPENDITURE BUDGET (APBDES)",
+    "context": "Village finances should be managed based on transparency, accountability, and participatory principles and carried out in orderly and disciplined budgeting processes.",
+    "question": "What principles should guide village financial management according to the regulation?",
+    "answer": "Village financial management should follow transparency, accountability, and participatory principles with orderly and disciplined budgeting.",
+    "check_human": "true"
+  },
+  {
+    "title": "Gender and competition at a young age",
+    "context": "The study aimed to examine whether gender differences in competitiveness appear at a young age. The children were around 9 years old. This age group helps determine whether such differences arise early rather than only after adolescence. The findings showed gender differences in response to competition even at this young age.",
+    "question": "What does the study suggest about the age at which gender differences in competitiveness appear?",
+    "answer": "It suggests that gender differences in response to competition appear already at around 9 years of age.",
+    "check_human": "true"
+  },
+  {
+    "title": "Impact of globalization on competitiveness",
+    "context": "Globalization and technological diffusion have transformed competitiveness by increasing access to international markets and accelerating innovation.",
+    "question": "How has globalization influenced competitiveness?",
+    "answer": "Globalization has increased competitiveness by facilitating technological transfer, expanding market access, and encouraging innovation.",
+    "check_human": "true"
+  },
+  {
+    "title": "The multiple meanings of global health governance a call for conceptual clarity",
+    "context": "The paper reviews the scholarly literature on global health governance. Through this analysis it identifies three ontological variations in the scholarship. These variations concern the scope of institutional arrangements, the strengths and weaknesses of existing institutions, and the ideal form and function of global health governance. :contentReference[oaicite:6]{index=6}",
+    "question": "What three ontological variations in global health governance scholarship are identified in the paper?",
+    "answer": "The three variations concern the scope of institutional arrangements, the strengths and weaknesses of existing institutions, and the ideal form and function of global health governance.",
+    "check_human": "true"
+  },
+  {
+    "title": "Equity-Oriented Monitoring in the Context of Universal Health Coverage",
+    "context": "Both absolute and relative measures of inequality should be reported together along with disaggregated data and national averages.",
+    "question": "What types of measures should be reported when monitoring health inequality?",
+    "answer": "both absolute and relative measures of inequality",
+    "check_human": "true"
+  },
+  {
+    "title": "From Yokohama to Sendai Approaches to Participation in International Disaster Risk Reduction Frameworks",
+    "context": "The study analyzes three international disaster risk reduction frameworks the Yokohama Strategy the Hyogo Framework for Action and the Sendai Framework for Disaster Risk Reduction.",
+    "question": "Which three disaster risk reduction frameworks are analyzed in the study?",
+    "answer": "the Yokohama Strategy the Hyogo Framework for Action and the Sendai Framework for Disaster Risk Reduction",
+    "check_human": "true"
+  },
+  {
+    "title": "Outlining Traceability A Principle for Operationalizing Accountability in Computing Systems",
+    "context": "The paper states that traceability includes ensuring the existence and legibility of records related to technology choice, design procedure, development process, operation, data sources, and system documentation. These records help connect system behavior to the decisions and processes behind it. In this way, traceability supports governance and accountability goals.",
+    "question": "What kinds of records does traceability require according to the paper?",
+    "answer": "Traceability requires records about technology choice, design procedure, development process, operation, data sources, and system documentation.",
+    "check_human": "true"
+  },
+  {
+    "title": "The worldwide trend to high participation higher education",
+    "context": "Higher education often functions as a positional good in which relative advantage matters because the number of socially advantaged positions is limited. :contentReference[oaicite:5]{index=5}",
+    "question": "Why is higher education described as a positional good?",
+    "answer": "Higher education is described as a positional good because relative advantage matters when the number of socially advantaged positions is limited.",
+    "check_human": "true"
+  },
+  {
+    "title": "Performance-based financing in the context of the complex remuneration of health workers findings from a mixed-method study in rural Sierra Leone",
+    "context": "PBF is seen by health workers as a complement rather than a substitute for salary. It is associated with less sense of entitlement compared to official salary payments. PBF also provides extra money that can be used for emergencies or reinvested in income generating activities.",
+    "question": "How is PBF perceived by health workers compared to their official salary?",
+    "answer": "PBF is seen as a complement, with less sense of entitlement compared to the official salary.",
+    "check_human": "true"
+  },
+  {
+    "title": "Monitoring Intervention Coverage in the Context of Universal Health Coverage",
+    "context": "For UHC monitoring the paper proposes focusing on specific types of indicators. These indicators measure the most direct results of investments and strategies related to universal health coverage. They relate to the coverage of health interventions and financial protection.",
+    "question": "What indicators are proposed as the most direct measures of universal health coverage progress?",
+    "answer": "Indicators related to the coverage of interventions and financial protection are the most direct results of country UHC strategies and investments.",
+    "check_human": "true"
+  },
+  {
+    "title": "The inequity of the Swiss health care system financing from a federal state perspective",
+    "context": "Empirical evidence confirms that health-care financing in Switzerland has remained regressive since the major reform of 1996. The study also shows that variations in equity across cantons are significant. The difference between the most and the least regressive canton is comparable to the difference between extremely different financing systems like the United States and Sweden. :contentReference[oaicite:2]{index=2}",
+    "question": "What does the study conclude about the regressivity of Swiss health-care financing after the 1996 reform?",
+    "answer": "The empirical evidence confirms that health-care financing in Switzerland has remained regressive since the major reform of 1996.",
+    "check_human": "true"
+  },
+  {
+    "title": "Migration and health: a global public health research priority",
+    "context": "The paper highlights the complexity of migration and health research. Differences in migration types and definitions complicate data collection and analysis. A multi-level research agenda is required to address these challenges. Understanding migration dynamics is necessary for effective policy responses. :contentReference[oaicite:13]{index=13}",
+    "question": "Why is a multi-level research agenda needed for migration and health?",
+    "answer": "Because migration is complex and requires coordinated research to understand its health impacts.",
+    "check_human": "true"
+  },
+  {
+    "title": "Evaluating the health system financing of the Eastern Mediterranean Region (EMR) countries using Grey Relation Analysis and Shannon Entropy",
+    "context": "The findings showed that increasing total health expenditure alone does not necessarily improve a country's financing status compared to other countries.",
+    "question": "Why does increasing total health expenditure alone not improve financing status?",
+    "answer": "increasing total health expenditure alone does not necessarily improve a country's financing status compared to other countries",
+    "check_human": "true"
+  },
+  {
+    "title": "Civic initiatives in urban development self-governance versus self-organisation in planning practice",
+    "context": "Self-organisation and self-governance differ in several key characteristics. Self-organisation involves individual actions without central coordination and often produces unpredictable outcomes. Self-governance involves internal coordination and collective intentions. These differences influence how urban planning processes should respond to civic initiatives.",
+    "question": "What is a key difference between self-organisation and self-governance in urban development?",
+    "answer": "Self-organisation arises from uncoordinated individual actions, whereas self-governance involves coordinated actions guided by collective intentions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Urban Planning Goes Rural. Conceptualising the “New Village”",
+    "context": "Urban planning approaches in rural China were supported by legal reforms. In 2007, the Urban Planning Law was revised into the Urban and Rural Planning Law. This revision extended planning principles to both urban and rural territories. As a result, rural areas became subject to formal planning requirements.",
+    "question": "What legal reform extended urban planning practices to rural areas in China?",
+    "answer": "The 2007 Urban and Rural Planning Law extended planning principles to both urban and rural areas. :contentReference[oaicite:6]{index=6}",
+    "check_human": "true"
+  },
+  {
+    "title": "Rounding the Corners of the Policy Trilemma Sources of Monetary Policy Autonomy",
+    "context": "The policy trilemma explains tradeoffs between key macroeconomic policies. The trilemma states that a country can maintain only two of three policies which are a fixed exchange rate open capital markets and domestic monetary autonomy. This framework highlights the constraints faced by policy makers.",
+    "question": "Which three policy options are included in the policy trilemma?",
+    "answer": "The trilemma states that a country can maintain only two of three policies which are a fixed exchange rate open capital markets and domestic monetary autonomy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Policy instruments for sustainable road transport",
+    "context": "Soft policies aim to influence behaviour by informing people about the consequences of their transport choices and encouraging changes such as car-sharing, teleworking, and eco-driving.",
+    "question": "What is the purpose of soft transport policies?",
+    "answer": "Soft transport policies aim to influence behaviour by informing and persuading people to adopt more sustainable transport choices.",
+    "check_human": "true"
+  },
+  {
+    "title": "Evaluation of the Reform Efficiency in Public Social Sector Management of the Republic of Kazakhstan",
+    "context": "The study analyzes reforms in public administration within the social sector of the Republic of Kazakhstan. It examines the retrospective development of administrative reforms, evaluates their outcomes, and identifies weaknesses in the control of social program implementation. The authors also propose directions for improving the social protection system under current socio-economic conditions. :contentReference[oaicite:0]{index=0}",
+    "question": "What is the main objective of the study on social sector reform in Kazakhstan?",
+    "answer": "The study aims to analyze public administration reforms in Kazakhstan’s social sector, evaluate their results, and propose improvements to the social protection system.",
+    "check_human": "true"
+  },
+  {
+    "title": "Information, Institutions and Governance: Advancing a Basic Social Science Research Program for Digital Government",
+    "context": "Digital government research integrates insights from political science, sociology, public policy, management, and information technology.",
+    "question": "Which academic disciplines contribute to digital government research?",
+    "answer": "political science, sociology, public policy, management, and information technology",
+    "check_human": "true"
+  },
+  {
+    "title": "The impact of globalization on regional development and competitiveness cases of selected regions",
+    "context": "Regions that successfully integrate into global markets tend to experience faster economic growth and improved competitiveness.",
+    "question": "What advantage do regions gain when they successfully integrate into global markets?",
+    "answer": "Regions that successfully integrate into global markets tend to experience faster economic growth and improved competitiveness.",
+    "check_human": "true"
+  },
+  {
+    "title": "Obligations of low income countries in ensuring equity in global health financing",
+    "context": "The article argues that low income country governments should allocate a minimum percentage of domestic budget resources to health. This obligation would help ensure adequate financing of health systems. External resources would then supplement domestic funding.",
+    "question": "What financial obligation is proposed for low income country governments in health financing?",
+    "answer": "Low income country governments should allocate a certain minimum percentage of their domestic budget resources to health.",
+    "check_human": "true"
+  },
+  {
+    "title": "Migration Policy, African Population Growth and Global Inequality",
+    "context": "Migration affects population size directly by moving people across borders. It also affects demographic behavior indirectly through interactions with household decisions. These include fertility and human capital investment choices. Both direct and indirect effects influence population structure.",
+    "question": "What are the two main ways migration affects population structure?",
+    "answer": "Migration affects population directly through movement of people and indirectly through its influence on fertility and human capital decisions.",
+    "check_human": "true"
+  },
+  {
+    "title": "Social safety and behavioral aspects of populations financial inclusion A multicountry analysis",
+    "context": "The research examined 26 countries with different levels of economic development. Data were collected from international databases including World Bank sources. Researchers analyzed several indicators describing financial inclusion and social safety. Statistical methods such as principal component analysis were used in the study.",
+    "question": "How many countries were included in the multicountry financial inclusion study?",
+    "answer": "The study analyzed data from 26 countries.",
+    "check_human": "true"
+  },
+  {
+    "title": "Preparing Public Administration Scholars for Qualitative Inquiry A Status Report",
+    "context": "Some scholars argue that public administration research often fails to address important societal problems. These large and meaningful issues are referred to as “big questions” that have significant implications for governance and society.",
+    "question": "What are “big questions” in public administration research?",
+    "answer": "They are important problems with significant implications for governance and society that researchers aim to address.",
+    "check_human": "true"
+  },
+  {
+    "title": "Governance in the era of Blockchain technology in Qatar: a roadmap and a manual for Trade Finance",
+    "context": "Qatar has adopted a cautious regulatory approach to blockchain technology. While digital currencies are restricted, blockchain is included in the national FinTech strategy. Policymakers aim to balance innovation with risk management. Trade finance is identified as a promising use case.",
+    "question": "How does Qatar approach blockchain regulation?",
+    "answer": "Qatar adopts a cautious approach while supporting blockchain through its FinTech strategy.",
+    "check_human": "true"
+  },
+  {
+    "title": "Digital higher education a divider or bridge builder Leadership perspectives on edtech in a COVID-19 reality",
+    "context": "The concept of the digital divide refers to inequalities in access to digital learning resources. These inequalities can arise from differences in income, geographic location, age, race, or gender. Individuals without access to basic infrastructure such as computers or internet connections may face barriers to participating in digital education. As a result, digital technologies can both expand and limit access to learning opportunities. :contentReference[oaicite:2]{index=2}",
+    "question": "What factors can contribute to the digital divide in education?",
+    "answer": "Factors such as income, geographic location, age, race, gender, and lack of access to computers or internet infrastructure can contribute to the digital divide.",
+    "check_human": "true"
+  },
+  {
+    "title": "Financial Development and Poverty Reduction Nexus: A Cointegration and Causality Analysis in Bangladesh",
+    "context": "Empirical results indicate a long-run cointegrating relationship between financial development, economic growth, and poverty reduction. Financial development is found to reduce poverty directly and indirectly through growth. The results remain robust after accounting for structural breaks. This supports the role of finance in development policy.",
+    "question": "What does the study find about the long-run relationship between financial development and poverty reduction?",
+    "answer": "It finds a stable long-run relationship in which financial development contributes to poverty reduction directly and through economic growth.",
+    "check_human": "true"
+  },
+  {
+    "title": "Workforce Agility Development and Validation of a Multidimensional Measure",
+    "context": "Workforce agility is positively related to task performance, innovative performance, organizational citizenship behavior, job satisfaction, and well-being.",
+    "question": "What work outcomes are positively related to workforce agility?",
+    "answer": "Workforce agility is positively related to task performance, innovative performance, organizational citizenship behavior, job satisfaction, and well-being.",
+    "check_human": "true"
+  }
+]

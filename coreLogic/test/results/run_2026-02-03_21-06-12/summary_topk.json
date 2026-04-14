@@ -1,0 +1,12 @@
+{
+  "total_samples": 12518,
+  "evaluated_samples": 12518,
+  "total_time_sec": 65766.6047,
+  "avg_time_per_query_ms": 5253.76,
+  "accuracy": {
+    "top_1": 0.7319,
+    "top_3": 0.8112,
+    "top_5": 0.8351,
+    "top_10": 0.8609
+  }
+}

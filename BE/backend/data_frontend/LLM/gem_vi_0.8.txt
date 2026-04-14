@@ -1,0 +1,43 @@
+🚀 Running test on 2023 samples
+
+[test] Loading context model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+[2023/2023 | 100.0%] avg_latency=7001.2ms
+
+✅ Test completed in 14679.69 seconds
+  → Saved TRUE samples to: test\results\run_2026-02-23_22-06-41\testtrue.json (n=1951)
+  → Saved FAIL samples to: test\results\run_2026-02-23_22-06-41\testfail.json (n=72)
+
+===== RETRIEVAL EVALUATION (Title + Context) =====
+Total items in dataset : 2023
+Evaluated queries      : 2023
+Skipped (missing fields): 0
+
+Top-1:
+  accuracy_title   : 0.8437
+  accuracy_context : 0.8431
+  accuracy_total   : 0.8434
+
+Top-3:
+  accuracy_title   : 0.9192
+  accuracy_context : 0.8941
+  accuracy_total   : 0.9067
+
+Top-5:
+  accuracy_title   : 0.9369
+  accuracy_context : 0.9064
+  accuracy_total   : 0.9216
+
+Top-10:
+  accuracy_title   : 0.9621
+  accuracy_context : 0.9201
+  accuracy_total   : 0.9411
+
+Latency (ms):
+  Avg  : 7001.23
+  P50  : 7385.39
+  P90  : 8682.34
+  P95  : 9745.83
+
+Total wall time: 14679.69 s
+Avg per-query  : 7256.39 ms/query
+Throughput     : 0.14 queries/s

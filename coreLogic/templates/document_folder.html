@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Document Folder</title>
+
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <!-- HEADER (giữ style đồng nhất với index.html) -->
+  <header class="container-fluid py-3 app-header">
+    <div class="d-flex align-items-center justify-content-between gap-3">
+      <div class="logo-left">
+        <img src="{{ url_for('static', filename='images/logo_truong.png') }}" alt="Logo Trường">
+      </div>
+
+      <div class="text-center hero">
+        <h3>DOCUMENT FOLDER</h3>
+        <div class="muted">Xem / Tải tài liệu theo ngôn ngữ</div>
+        <div class="mt-2">
+            <a class="header-corner-link header-corner-absolute" href="/">⬅ Trang chủ</a>
+        </div>
+      </div>
+
+      <div class="logo-right">
+        <img src="{{ url_for('static', filename='images/logo_khoa.png') }}" alt="Logo Khoa">
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="card-panel">
+      <div class="doc-toolbar">
+        <div class="doc-tabs">
+          <button id="tab-en" class="doc-tab active" type="button">📁 English</button>
+          <button id="tab-vi" class="doc-tab" type="button">📁 Vietnamese</button>
+        </div>
+
+        <input id="doc-search" class="form-control doc-search" placeholder="Tìm theo tên file..." />
+      </div>
+
+      <div id="doc-meta" class="muted mt-2"></div>
+      <div id="doc-grid" class="doc-grid mt-3"></div>
+    </div>
+  </main>
+
+  <footer class="app-footer">
+    © 2025 – Khóa luận tốt nghiệp – Khoa Công nghệ Thông tin
+  </footer>
+
+  <!-- Modal preview -->
+  <div id="preview-modal" class="preview-modal" style="display:none;">
+    <div class="preview-box">
+      <div class="preview-head">
+        <div id="preview-title" class="preview-title">Preview</div>
+        <button id="preview-close" class="btn btn-sm btn-outline-light" type="button">Đóng</button>
+      </div>
+      <iframe id="preview-frame" class="preview-frame" src=""></iframe>
+    </div>
+  </div>
+
+  <script>
+    const grid = document.getElementById("doc-grid");
+    const meta = document.getElementById("doc-meta");
+    const tabEn = document.getElementById("tab-en");
+    const tabVi = document.getElementById("tab-vi");
+    const searchBox = document.getElementById("doc-search");
+
+    const modal = document.getElementById("preview-modal");
+    const frame = document.getElementById("preview-frame");
+    const previewTitle = document.getElementById("preview-title");
+    const btnClose = document.getElementById("preview-close");
+
+    let currentLang = "en";
+    let allFiles = [];
+
+    function escapeHtml(str){
+      if(!str) return "";
+      return str
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function fmtSize(bytes){
+      if(bytes === null || bytes === undefined) return "";
+      const u = ["B","KB","MB","GB"];
+      let i = 0, v = bytes;
+      while(v >= 1024 && i < u.length-1){ v/=1024; i++; }
+      return `${v.toFixed(i===0?0:1)} ${u[i]}`;
+    }
+
+    function openPreview(name){
+      previewTitle.textContent = name;
+      frame.src = `/view?file=${encodeURIComponent(name)}`;
+      modal.style.display = "block";
+    }
+
+    function closePreview(){
+      frame.src = "";
+      modal.style.display = "none";
+    }
+
+    btnClose.onclick = closePreview;
+    modal.onclick = (e) => { if(e.target === modal) closePreview(); };
+
+    function render(list){
+      grid.innerHTML = "";
+      if(!list || list.length === 0){
+        grid.innerHTML = "<div class='muted'>Không có file trong thư mục này.</div>";
+        return;
+      }
+
+      list.forEach(f => {
+        const name = f.name || "";
+        const ext = (f.ext || "").toLowerCase();
+        const size = fmtSize(f.size);
+        const mtime = f.mtime ? f.mtime.replace("T"," ") : "";
+
+        const canPreview = (ext === ".pdf"); // browser preview tốt nhất cho PDF
+
+        grid.innerHTML += `
+          <div class="doc-card">
+            <div class="doc-icon">📄</div>
+            <div class="doc-name" title="${escapeHtml(name)}">${escapeHtml(name)}</div>
+            <div class="doc-sub muted">${escapeHtml(size)} ${mtime ? "• " + escapeHtml(mtime) : ""}</div>
+            <div class="doc-actions">
+              ${canPreview
+                ? `<button class="btn btn-sm btn-outline-light" type="button" onclick="openPreview('${escapeHtml(name).replaceAll("&#039;","\\'")}')">👁 Xem</button>`
+                : `<button class="btn btn-sm btn-outline-secondary" type="button" disabled>👁 Xem</button>`
+              }
+              <a class="btn btn-sm btn-primary" href="/download?file=${encodeURIComponent(name)}">⬇ Tải</a>
+            </div>
+          </div>
+        `;
+      });
+    }
+
+    window.openPreview = openPreview;
+
+    async function load(lang){
+      currentLang = lang;
+      const res = await fetch(`/api/documents?lang=${encodeURIComponent(lang)}`);
+      const data = await res.json();
+      allFiles = data.files || [];
+      meta.textContent = `Ngôn ngữ: ${data.lang} • Tổng file: ${data.count}`;
+      applyFilter();
+    }
+
+    function applyFilter(){
+      const q = (searchBox.value || "").trim().toLowerCase();
+      const filtered = !q ? allFiles : allFiles.filter(x => (x.name||"").toLowerCase().includes(q));
+      render(filtered);
+    }
+
+    tabEn.onclick = () => {
+      tabEn.classList.add("active");
+      tabVi.classList.remove("active");
+      load("en");
+    };
+
+    tabVi.onclick = () => {
+      tabVi.classList.add("active");
+      tabEn.classList.remove("active");
+      load("vi");
+    };
+
+    searchBox.oninput = applyFilter;
+
+    // init
+    load("en");
+  </script>
+</body>
+</html>
